@@ -1,0 +1,16 @@
+{
+  "slug": "canada-building-permits-monthly",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-building-permits-monthly",
+  "table_id": "34-10-0292-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-building-permits-monthly",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-building-permits-monthly/cover.png",
+  "published": true,
+  "http": 404,
+  "usability": 0.8823529411764706,
+  "facts": [
+    "Seasonally adjusted permit values for Canada, all buildings, were 13.57 million (see scalar_factor, usually thousands of dollars) in 2026-08.",
+    "In the latest month, residential permits were 8.47 million and non-residential permits were 5.10 million on the same basis.",
+    "The source table includes census metropolitan areas and many detailed building types. Those rows were left out so this file stays focused on Canada and the provinces and territories."
+  ],
+  "publish_msg": "ready"
+}
