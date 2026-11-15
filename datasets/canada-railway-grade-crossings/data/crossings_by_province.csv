@@ -1,0 +1,12 @@
+province,province_name,n_crossings,n_with_coordinates,accidents_sum,fatalities_sum,injuries_sum,n_public,n_private,n_federal,n_provincial,n_urban,n_not_urban
+QC,Quebec,6837,6294,83,11,27,2014,4798,5593,1240,689,6068
+SK,Saskatchewan,4744,4487,95,8,41,4614,129,3377,1365,392,4344
+ON,Ontario,4582,4450,124,22,52,3453,1129,3520,1038,624,3957
+AB,Alberta,2898,2860,129,13,53,2513,372,2715,173,540,2350
+BC,British Columbia,2264,2205,79,8,26,1098,1155,1954,306,335,1878
+MB,Manitoba,2159,2068,72,13,23,2013,145,1883,274,336,1821
+NB,New Brunswick,926,924,9,0,1,313,613,770,156,136,784
+NS,Nova Scotia,401,401,8,0,4,201,200,176,225,81,320
+NL,Newfoundland and Labrador,20,20,0,0,0,8,12,12,8,0,20
+NT,Northwest Territories,18,18,1,0,0,10,8,18,0,6,12
+YT,Yukon,3,3,0,0,0,2,1,3,0,0,2

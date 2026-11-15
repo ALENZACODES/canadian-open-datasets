@@ -1,0 +1,50 @@
+file,column,type,description
+grade_crossings.csv,risk_rank,integer,Official GradeX relative risk rank in this inventory (column Rank). 1 is the highest ranked crossing in this list. The official preamble explains the factors used and their limits.
+grade_crossings.csv,tc_number,string,Official Transport Canada crossing identifier (column TC Number).
+grade_crossings.csv,railway_company,string,Responsible railway company as published (column Railway Company).
+grade_crossings.csv,region,string,Official Transport Canada region code as published (column Region).
+grade_crossings.csv,province,string,Official province or territory code as published (column Province).
+grade_crossings.csv,province_name,string,English province or territory name corresponding to the official code. Added in this extract for readability.
+grade_crossings.csv,access,string,"Public or Private as published, or blank when the official file has a hyphen."
+grade_crossings.csv,jurisdiction,string,"F for federal or P for provincial, as published, or blank when the official file has a hyphen."
+grade_crossings.csv,mile,numeric,"Railway mileage on the subdivision, in miles, as published."
+grade_crossings.csv,subdivision,string,Subdivision name as published.
+grade_crossings.csv,spur_mile_point,numeric,"Mileage on the spur, in miles, when the crossing is on a spur. Blank when the official file has a hyphen."
+grade_crossings.csv,spur_name,string,"Spur name as published, or blank when the official file has a hyphen."
+grade_crossings.csv,location,string,"Location or road name as published, or blank when the official file has a hyphen."
+grade_crossings.csv,latitude,numeric,Latitude as published. Blank when the official file has a hyphen.
+grade_crossings.csv,longitude,numeric,Longitude as published. Blank when the official file has a hyphen.
+grade_crossings.csv,road_authority,string,"Road authority as published (official CSV header is Road  Authority, with two spaces)."
+grade_crossings.csv,protection,string,"Warning system as published: Passive, Active - FLB, Active - FLBG, Other, or blank when the official file has a hyphen."
+grade_crossings.csv,accidents,integer,"Number of accidents at this crossing over the last 5 years, as published, from Transportation Safety Board data according to the official dictionary."
+grade_crossings.csv,fatalities,integer,"Number of fatalities at this crossing over the last 5 years, as published, from Transportation Safety Board data according to the official dictionary. Official CSV header: Fatality."
+grade_crossings.csv,injuries,integer,"Number of persons seriously injured at this crossing over the last 5 years, as published, from Transportation Safety Board data according to the official dictionary. Official CSV header: Injury."
+grade_crossings.csv,trains_daily,numeric,"Estimated daily train movements as published, or blank when the official file has a hyphen."
+grade_crossings.csv,vehicles_daily,numeric,"Estimated daily road vehicles as published, or blank when the official file has a hyphen."
+grade_crossings.csv,train_max_speed_mph,numeric,"Estimated maximum train speed in miles per hour as published, or blank when the official file has a hyphen."
+grade_crossings.csv,road_speed_kmh,numeric,Estimated road speed in kilometres per hour as published (official CSV header: Road Speed (km/h); official dictionary header: Road Max Speed (km/h)). Blank when the official file has a hyphen.
+grade_crossings.csv,lanes,integer,"Number of road lanes as published, or blank when the official file has a hyphen."
+grade_crossings.csv,tracks,integer,"Number of railway tracks as published, or blank when the official file has a hyphen."
+grade_crossings.csv,is_urban,string,"Y or N as published, or blank when the official file has a hyphen. Official CSV header: IsUrban."
+crossings_by_province.csv,province,string,Official province or territory code as published (column Province).
+crossings_by_province.csv,province_name,string,English province or territory name corresponding to the official code. Added in this extract for readability.
+crossings_by_province.csv,n_crossings,integer,Count of official inventory rows in that province or territory.
+crossings_by_province.csv,n_with_coordinates,integer,Count of official rows in that province or territory that have both latitude and longitude.
+crossings_by_province.csv,accidents_sum,integer,Sum of official 5-year accident counts in that province or territory.
+crossings_by_province.csv,fatalities_sum,integer,Sum of official 5-year fatality counts in that province or territory.
+crossings_by_province.csv,injuries_sum,integer,Sum of official 5-year serious injury counts in that province or territory.
+crossings_by_province.csv,n_public,integer,Count of official rows with Access equal to Public.
+crossings_by_province.csv,n_private,integer,Count of official rows with Access equal to Private.
+crossings_by_province.csv,n_federal,integer,Count of official rows with Jurisdiction equal to F.
+crossings_by_province.csv,n_provincial,integer,Count of official rows with Jurisdiction equal to P.
+crossings_by_province.csv,n_urban,integer,Count of official rows with IsUrban equal to Y.
+crossings_by_province.csv,n_not_urban,integer,Count of official rows with IsUrban equal to N.
+official_column_dictionary.csv,tidy_column,string,Column name used in grade_crossings.csv.
+official_column_dictionary.csv,official_csv_header,string,Header in the official English inventory CSV.
+official_column_dictionary.csv,dictionary_header_english,string,English header printed in the official data dictionary workbook.
+official_column_dictionary.csv,dictionary_header_french,string,French header printed in the official data dictionary workbook.
+official_column_dictionary.csv,definition_english,string,English definition from the official data dictionary workbook.
+official_column_dictionary.csv,definition_french,string,French definition from the official data dictionary workbook.
+official_column_dictionary.csv,data_element,string,Official data element number from the dictionary workbook.
+official_column_dictionary.csv,data_type,string,Official data type text from the dictionary workbook.
+official_column_dictionary.csv,header_note,string,Note when the official inventory CSV header and the official dictionary header are not identical.
