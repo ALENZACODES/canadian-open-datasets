@@ -1,0 +1,23 @@
+column,file,type,description
+ref_date,housing_pipeline_long.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,housing_pipeline_long.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,housing_pipeline_long.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+housing_estimate,housing_pipeline_long.csv,string,"Whether the row is housing starts, housing under construction, or housing completions."
+type_of_unit,housing_pipeline_long.csv,string,"Dwelling type, such as total units, single-detached, semi-detached, row, multiples, or apartment and other."
+seasonal_adjustment,housing_pipeline_long.csv,string,"Unadjusted, or seasonally adjusted at annual rates, as published by CMHC through Statistics Canada."
+unit_of_measure,housing_pipeline_long.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,housing_pipeline_long.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,housing_pipeline_long.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,housing_pipeline_long.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,housing_pipeline_long.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,housing_pipeline_long.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,housing_pipeline_long.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,housing_pipeline_long.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,housing_pipeline_long.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,housing_pipeline_long.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,housing_pipeline_long.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_date,housing_pipeline_canada_total_units.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+seasonal_adjustment,housing_pipeline_canada_total_units.csv,string,"Unadjusted, or seasonally adjusted at annual rates, as published by CMHC through Statistics Canada."
+housing_completions,housing_pipeline_canada_total_units.csv,numeric,"Housing completions for Canada, total units."
+housing_starts,housing_pipeline_canada_total_units.csv,numeric,"Housing starts for Canada, total units."
+housing_under_construction,housing_pipeline_canada_total_units.csv,numeric,"Housing units under construction for Canada, total units."
