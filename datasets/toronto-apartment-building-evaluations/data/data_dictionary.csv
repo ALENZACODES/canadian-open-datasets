@@ -1,0 +1,163 @@
+column,file,type,description
+row_id,apartment_evaluations.csv,integer,Source row identifier from the City of Toronto extract.
+rsn,apartment_evaluations.csv,integer,"RentSafeTO site number, used to link evaluations to the registration file."
+year_registered,apartment_evaluations.csv,string,year registered as published in the City of Toronto RentSafeTO extract.
+year_evaluated,apartment_evaluations.csv,string,year evaluated as published in the City of Toronto RentSafeTO extract.
+year_built,apartment_evaluations.csv,integer,"Year the building was built, as registered or evaluated."
+property_type,apartment_evaluations.csv,string,Property type as published by the City.
+ward,apartment_evaluations.csv,string,Toronto city ward as published.
+wardname,apartment_evaluations.csv,string,wardname as published in the City of Toronto RentSafeTO extract.
+site_address,apartment_evaluations.csv,string,Street address of the apartment building.
+confirmed_storeys,apartment_evaluations.csv,integer,Number of storeys confirmed for the building.
+confirmed_units,apartment_evaluations.csv,integer,Number of units confirmed for the building.
+evaluation_completed_on,apartment_evaluations.csv,datetime,"Date the evaluation was completed, as published by the City."
+score,apartment_evaluations.csv,numeric,"Building evaluation score from the pre-2023 extract, as published."
+results_of_score,apartment_evaluations.csv,string,results of score as published in the City of Toronto RentSafeTO extract.
+no_of_areas_evaluated,apartment_evaluations.csv,string,no of areas evaluated as published in the City of Toronto RentSafeTO extract.
+entrance_lobby,apartment_evaluations.csv,string,entrance lobby as published in the City of Toronto RentSafeTO extract.
+entrance_doors_windows,apartment_evaluations.csv,string,entrance doors windows as published in the City of Toronto RentSafeTO extract.
+security,apartment_evaluations.csv,string,security as published in the City of Toronto RentSafeTO extract.
+stairwells,apartment_evaluations.csv,string,stairwells as published in the City of Toronto RentSafeTO extract.
+laundry_rooms,apartment_evaluations.csv,string,laundry rooms as published in the City of Toronto RentSafeTO extract.
+internal_guards_handrails,apartment_evaluations.csv,string,internal guards handrails as published in the City of Toronto RentSafeTO extract.
+garbage_chute_rooms,apartment_evaluations.csv,string,garbage chute rooms as published in the City of Toronto RentSafeTO extract.
+garbage_bin_storage_area,apartment_evaluations.csv,string,garbage bin storage area as published in the City of Toronto RentSafeTO extract.
+elevators,apartment_evaluations.csv,string,elevators as published in the City of Toronto RentSafeTO extract.
+storage_areas_lockers,apartment_evaluations.csv,string,storage areas lockers as published in the City of Toronto RentSafeTO extract.
+interior_wall_ceiling_floor,apartment_evaluations.csv,string,interior wall ceiling floor as published in the City of Toronto RentSafeTO extract.
+interior_lighting_levels,apartment_evaluations.csv,string,interior lighting levels as published in the City of Toronto RentSafeTO extract.
+graffiti,apartment_evaluations.csv,string,graffiti as published in the City of Toronto RentSafeTO extract.
+exterior_cladding,apartment_evaluations.csv,string,exterior cladding as published in the City of Toronto RentSafeTO extract.
+exterior_grounds,apartment_evaluations.csv,string,exterior grounds as published in the City of Toronto RentSafeTO extract.
+exterior_walkways,apartment_evaluations.csv,string,exterior walkways as published in the City of Toronto RentSafeTO extract.
+balcony_guards,apartment_evaluations.csv,string,balcony guards as published in the City of Toronto RentSafeTO extract.
+water_pen_ext_bldg_elements,apartment_evaluations.csv,string,water pen ext bldg elements as published in the City of Toronto RentSafeTO extract.
+parking_area,apartment_evaluations.csv,string,parking area as published in the City of Toronto RentSafeTO extract.
+other_facilities,apartment_evaluations.csv,string,other facilities as published in the City of Toronto RentSafeTO extract.
+grid,apartment_evaluations.csv,string,grid as published in the City of Toronto RentSafeTO extract.
+latitude,apartment_evaluations.csv,string,latitude as published in the City of Toronto RentSafeTO extract.
+longitude,apartment_evaluations.csv,string,longitude as published in the City of Toronto RentSafeTO extract.
+x,apartment_evaluations.csv,string,x as published in the City of Toronto RentSafeTO extract.
+y,apartment_evaluations.csv,string,y as published in the City of Toronto RentSafeTO extract.
+evaluation_period,apartment_evaluations.csv,string,"Which official extract the row came from: pre_2023, or 2023_current."
+current_building_eval_score,apartment_evaluations.csv,numeric,"Current building evaluation score from the 2023-to-current extract, as published."
+proactive_building_score,apartment_evaluations.csv,string,proactive building score as published in the City of Toronto RentSafeTO extract.
+current_reactive_score,apartment_evaluations.csv,string,current reactive score as published in the City of Toronto RentSafeTO extract.
+numbering_of_property,apartment_evaluations.csv,string,numbering of property as published in the City of Toronto RentSafeTO extract.
+fencing,apartment_evaluations.csv,string,fencing as published in the City of Toronto RentSafeTO extract.
+retaining_walls,apartment_evaluations.csv,string,retaining walls as published in the City of Toronto RentSafeTO extract.
+catch_basins_storm_drainage,apartment_evaluations.csv,string,catch basins storm drainage as published in the City of Toronto RentSafeTO extract.
+building_exterior,apartment_evaluations.csv,string,building exterior as published in the City of Toronto RentSafeTO extract.
+windows,apartment_evaluations.csv,string,windows as published in the City of Toronto RentSafeTO extract.
+ext_receptacle_storage_area,apartment_evaluations.csv,string,ext receptacle storage area as published in the City of Toronto RentSafeTO extract.
+clothing_drop_boxes,apartment_evaluations.csv,string,clothing drop boxes as published in the City of Toronto RentSafeTO extract.
+accessory_buildings,apartment_evaluations.csv,string,accessory buildings as published in the City of Toronto RentSafeTO extract.
+intercom,apartment_evaluations.csv,string,intercom as published in the City of Toronto RentSafeTO extract.
+emergency_contact_sign,apartment_evaluations.csv,string,emergency contact sign as published in the City of Toronto RentSafeTO extract.
+lobby_walls_and_ceiling,apartment_evaluations.csv,string,lobby walls and ceiling as published in the City of Toronto RentSafeTO extract.
+lobby_floors,apartment_evaluations.csv,string,lobby floors as published in the City of Toronto RentSafeTO extract.
+laundry_room,apartment_evaluations.csv,string,laundry room as published in the City of Toronto RentSafeTO extract.
+int_receptacle_storage_area,apartment_evaluations.csv,string,int receptacle storage area as published in the City of Toronto RentSafeTO extract.
+mail_receptacles,apartment_evaluations.csv,string,mail receptacles as published in the City of Toronto RentSafeTO extract.
+exterior_doors,apartment_evaluations.csv,string,exterior doors as published in the City of Toronto RentSafeTO extract.
+storage_areas_lockers_maint,apartment_evaluations.csv,string,storage areas lockers maint as published in the City of Toronto RentSafeTO extract.
+pools,apartment_evaluations.csv,string,pools as published in the City of Toronto RentSafeTO extract.
+other_amenities,apartment_evaluations.csv,string,other amenities as published in the City of Toronto RentSafeTO extract.
+parking_areas,apartment_evaluations.csv,string,parking areas as published in the City of Toronto RentSafeTO extract.
+abandoned_equip_derelict_veh,apartment_evaluations.csv,string,abandoned equip derelict veh as published in the City of Toronto RentSafeTO extract.
+garbage_compactor_room,apartment_evaluations.csv,string,garbage compactor room as published in the City of Toronto RentSafeTO extract.
+elevator_maintenance,apartment_evaluations.csv,string,elevator maintenance as published in the City of Toronto RentSafeTO extract.
+elevator_cosmetics,apartment_evaluations.csv,string,elevator cosmetics as published in the City of Toronto RentSafeTO extract.
+int_hallway_walls_ceiling,apartment_evaluations.csv,string,int hallway walls ceiling as published in the City of Toronto RentSafeTO extract.
+interior_hallway_floors,apartment_evaluations.csv,string,interior hallway floors as published in the City of Toronto RentSafeTO extract.
+int_lobby_hallway_lighting,apartment_evaluations.csv,string,int lobby hallway lighting as published in the City of Toronto RentSafeTO extract.
+common_area_ventilation,apartment_evaluations.csv,string,common area ventilation as published in the City of Toronto RentSafeTO extract.
+electrical_services_outlets,apartment_evaluations.csv,string,electrical services outlets as published in the City of Toronto RentSafeTO extract.
+chute_rooms_maintenance,apartment_evaluations.csv,string,chute rooms maintenance as published in the City of Toronto RentSafeTO extract.
+stairwell_walls_and_ceiling,apartment_evaluations.csv,string,stairwell walls and ceiling as published in the City of Toronto RentSafeTO extract.
+stairwell_landing_and_steps,apartment_evaluations.csv,string,stairwell landing and steps as published in the City of Toronto RentSafeTO extract.
+stairwell_lighting,apartment_evaluations.csv,string,stairwell lighting as published in the City of Toronto RentSafeTO extract.
+int_handrail_guard_safety,apartment_evaluations.csv,string,int handrail guard safety as published in the City of Toronto RentSafeTO extract.
+int_handrail_guard_maint,apartment_evaluations.csv,string,int handrail guard maint as published in the City of Toronto RentSafeTO extract.
+building_cleanliness,apartment_evaluations.csv,string,building cleanliness as published in the City of Toronto RentSafeTO extract.
+common_area_pests,apartment_evaluations.csv,string,common area pests as published in the City of Toronto RentSafeTO extract.
+tenant_notification_board,apartment_evaluations.csv,string,tenant notification board as published in the City of Toronto RentSafeTO extract.
+pest_control_log,apartment_evaluations.csv,string,pest control log as published in the City of Toronto RentSafeTO extract.
+maintenance_log,apartment_evaluations.csv,string,maintenance log as published in the City of Toronto RentSafeTO extract.
+cleaning_log,apartment_evaluations.csv,string,cleaning log as published in the City of Toronto RentSafeTO extract.
+vital_service_plan,apartment_evaluations.csv,string,vital service plan as published in the City of Toronto RentSafeTO extract.
+electrical_safety_plan,apartment_evaluations.csv,string,electrical safety plan as published in the City of Toronto RentSafeTO extract.
+state_of_good_repair_plan,apartment_evaluations.csv,string,state of good repair plan as published in the City of Toronto RentSafeTO extract.
+tenant_service_request_log,apartment_evaluations.csv,string,tenant service request log as published in the City of Toronto RentSafeTO extract.
+evaluation_year,apartment_evaluations.csv,integer,"Calendar year of the evaluation, taken from evaluation_completed_on when present, otherwise from a cleaned year_evaluated value. Year values stored as YYYYMM in the source were converted to calendar years."
+combined_score,apartment_evaluations.csv,numeric,"Single score column: score from the pre-2023 extract, or current_building_eval_score from the 2023-to-current extract."
+row_id,apartment_registration.csv,integer,Source row identifier from the City of Toronto extract.
+air_conditioning_type,apartment_registration.csv,string,air conditioning type as published in the City of Toronto RentSafeTO extract.
+amenities_available,apartment_registration.csv,string,amenities available as published in the City of Toronto RentSafeTO extract.
+annual_fire_alarm_test_records,apartment_registration.csv,string,annual fire alarm test records as published in the City of Toronto RentSafeTO extract.
+annual_fire_pump_flow_test_records,apartment_registration.csv,string,annual fire pump flow test records as published in the City of Toronto RentSafeTO extract.
+approved_fire_safety_plan,apartment_registration.csv,string,approved fire safety plan as published in the City of Toronto RentSafeTO extract.
+balconies,apartment_registration.csv,string,balconies as published in the City of Toronto RentSafeTO extract.
+barrier_free_accessibilty_entr,apartment_registration.csv,string,barrier free accessibilty entr as published in the City of Toronto RentSafeTO extract.
+bike_parking,apartment_registration.csv,string,bike parking as published in the City of Toronto RentSafeTO extract.
+confirmed_storeys,apartment_registration.csv,integer,Number of storeys confirmed for the building.
+confirmed_units,apartment_registration.csv,integer,Number of units confirmed for the building.
+date_of_last_inspection_by_tssa,apartment_registration.csv,string,date of last inspection by tssa as published in the City of Toronto RentSafeTO extract.
+description_of_child_play_area,apartment_registration.csv,string,description of child play area as published in the City of Toronto RentSafeTO extract.
+description_of_indoor_exercise_room,apartment_registration.csv,string,description of indoor exercise room as published in the City of Toronto RentSafeTO extract.
+description_of_outdoor_rec_facilities,apartment_registration.csv,string,description of outdoor rec facilities as published in the City of Toronto RentSafeTO extract.
+elevator_parts_replaced,apartment_registration.csv,string,elevator parts replaced as published in the City of Toronto RentSafeTO extract.
+elevator_status,apartment_registration.csv,string,elevator status as published in the City of Toronto RentSafeTO extract.
+emerg_power_supply_test_records,apartment_registration.csv,string,emerg power supply test records as published in the City of Toronto RentSafeTO extract.
+exterior_fire_escape,apartment_registration.csv,string,exterior fire escape as published in the City of Toronto RentSafeTO extract.
+facilities_available,apartment_registration.csv,string,facilities available as published in the City of Toronto RentSafeTO extract.
+fire_alarm,apartment_registration.csv,string,fire alarm as published in the City of Toronto RentSafeTO extract.
+garbage_chutes,apartment_registration.csv,string,garbage chutes as published in the City of Toronto RentSafeTO extract.
+green_bin_location,apartment_registration.csv,string,green bin location as published in the City of Toronto RentSafeTO extract.
+heating_equipment_status,apartment_registration.csv,string,heating equipment status as published in the City of Toronto RentSafeTO extract.
+heating_equipment_year_installed,apartment_registration.csv,string,heating equipment year installed as published in the City of Toronto RentSafeTO extract.
+heating_type,apartment_registration.csv,string,heating type as published in the City of Toronto RentSafeTO extract.
+indoor_garbage_storage_area,apartment_registration.csv,string,indoor garbage storage area as published in the City of Toronto RentSafeTO extract.
+intercom,apartment_registration.csv,string,intercom as published in the City of Toronto RentSafeTO extract.
+is_there_a_cooling_room,apartment_registration.csv,string,is there a cooling room as published in the City of Toronto RentSafeTO extract.
+is_there_emergency_power,apartment_registration.csv,string,is there emergency power as published in the City of Toronto RentSafeTO extract.
+laundry_room,apartment_registration.csv,string,laundry room as published in the City of Toronto RentSafeTO extract.
+laundry_room_hours_of_operation,apartment_registration.csv,string,laundry room hours of operation as published in the City of Toronto RentSafeTO extract.
+laundry_room_location,apartment_registration.csv,string,laundry room location as published in the City of Toronto RentSafeTO extract.
+locker_or_storage_room,apartment_registration.csv,string,locker or storage room as published in the City of Toronto RentSafeTO extract.
+no_barrier_free_accessble_units,apartment_registration.csv,string,no barrier free accessble units as published in the City of Toronto RentSafeTO extract.
+no_of_accessible_parking_spaces,apartment_registration.csv,string,no of accessible parking spaces as published in the City of Toronto RentSafeTO extract.
+no_of_elevators,apartment_registration.csv,string,no of elevators as published in the City of Toronto RentSafeTO extract.
+no_of_laundry_room_machines,apartment_registration.csv,string,no of laundry room machines as published in the City of Toronto RentSafeTO extract.
+non_smoking_building,apartment_registration.csv,string,non smoking building as published in the City of Toronto RentSafeTO extract.
+outdoor_garbage_storage_area,apartment_registration.csv,string,outdoor garbage storage area as published in the City of Toronto RentSafeTO extract.
+parking_type,apartment_registration.csv,string,parking type as published in the City of Toronto RentSafeTO extract.
+pcode,apartment_registration.csv,string,pcode as published in the City of Toronto RentSafeTO extract.
+pet_restrictions,apartment_registration.csv,string,pet restrictions as published in the City of Toronto RentSafeTO extract.
+pets_allowed,apartment_registration.csv,string,pets allowed as published in the City of Toronto RentSafeTO extract.
+prop_management_company_name,apartment_registration.csv,string,prop management company name as published in the City of Toronto RentSafeTO extract.
+property_type,apartment_registration.csv,string,Property type as published by the City.
+recycling_bins_location,apartment_registration.csv,string,recycling bins location as published in the City of Toronto RentSafeTO extract.
+rsn,apartment_registration.csv,integer,"RentSafeTO site number, used to link evaluations to the registration file."
+separate_gas_meters_each_unit,apartment_registration.csv,string,separate gas meters each unit as published in the City of Toronto RentSafeTO extract.
+separate_hydro_meter_each_unit,apartment_registration.csv,string,separate hydro meter each unit as published in the City of Toronto RentSafeTO extract.
+separate_water_meters_ea_unit,apartment_registration.csv,string,separate water meters ea unit as published in the City of Toronto RentSafeTO extract.
+site_address,apartment_registration.csv,string,Street address of the apartment building.
+sprinkler_system,apartment_registration.csv,string,sprinkler system as published in the City of Toronto RentSafeTO extract.
+sprinkler_system_test_record,apartment_registration.csv,string,sprinkler system test record as published in the City of Toronto RentSafeTO extract.
+sprinkler_system_year_installed,apartment_registration.csv,string,sprinkler system year installed as published in the City of Toronto RentSafeTO extract.
+tssa_test_records,apartment_registration.csv,string,tssa test records as published in the City of Toronto RentSafeTO extract.
+visitor_parking,apartment_registration.csv,string,visitor parking as published in the City of Toronto RentSafeTO extract.
+ward,apartment_registration.csv,string,Toronto city ward as published.
+window_type,apartment_registration.csv,string,window type as published in the City of Toronto RentSafeTO extract.
+year_built,apartment_registration.csv,integer,"Year the building was built, as registered or evaluated."
+year_of_replacement,apartment_registration.csv,string,year of replacement as published in the City of Toronto RentSafeTO extract.
+year_registered,apartment_registration.csv,string,year registered as published in the City of Toronto RentSafeTO extract.
+no_of_storeys,apartment_registration.csv,string,no of storeys as published in the City of Toronto RentSafeTO extract.
+is_there_emergency_power,apartment_registration.csv,string,is there emergency power as published in the City of Toronto RentSafeTO extract.
+non_smoking_building,apartment_registration.csv,string,non smoking building as published in the City of Toronto RentSafeTO extract.
+no_of_units,apartment_registration.csv,string,no of units as published in the City of Toronto RentSafeTO extract.
+no_of_accessibleparking_spaces,apartment_registration.csv,string,no of accessibleparking spaces as published in the City of Toronto RentSafeTO extract.
+facilities_available,apartment_registration.csv,string,facilities available as published in the City of Toronto RentSafeTO extract.
+is_there_a_cooling_room,apartment_registration.csv,string,is there a cooling room as published in the City of Toronto RentSafeTO extract.
+no_barrierfree_accessble_units,apartment_registration.csv,string,no barrierfree accessble units as published in the City of Toronto RentSafeTO extract.
