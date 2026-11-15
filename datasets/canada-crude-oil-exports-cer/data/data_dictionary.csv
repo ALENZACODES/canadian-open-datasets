@@ -1,0 +1,9 @@
+column,file,type,description
+ref_date,crude_oil_exports_by_destination_monthly.csv,datetime,First day of the month for the export period.
+year,crude_oil_exports_by_destination_monthly.csv,integer,Calendar year.
+month,crude_oil_exports_by_destination_monthly.csv,string,Month name as published.
+padd,crude_oil_exports_by_destination_monthly.csv,string,"U.S. Petroleum Administration for Defense District (PADD) destination, or other destination label as published."
+volume_m3_per_day,crude_oil_exports_by_destination_monthly.csv,numeric,Export volume in cubic metres per day. Empty when the source cell is confidential or missing.
+volume_bbl_per_day,crude_oil_exports_by_destination_monthly.csv,numeric,Export volume in barrels per day. Empty when the source cell is confidential or missing.
+ref_date,crude_oil_exports_total_monthly.csv,datetime,First day of the month for the export period.
+volume_bbl_per_day,crude_oil_exports_total_monthly.csv,numeric,Export volume in barrels per day. Empty when the source cell is confidential or missing.
