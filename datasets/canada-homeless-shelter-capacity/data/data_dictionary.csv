@@ -1,0 +1,49 @@
+column,file,type,description
+ref_date,shelter_capacity.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,shelter_capacity.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,shelter_capacity.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+type_of_shelter,shelter_capacity.csv,string,"Emergency shelter, transitional housing or domestic violence shelter, as published. These types are not added together in this package."
+target_population,shelter_capacity.csv,string,"Target population as published, including a total and nested groups. Nested groups should not be added to the total."
+statistic,shelter_capacity.csv,string,"Number of shelters or number of beds. Both are capacity counts, not occupancy."
+unit_of_measure,shelter_capacity.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,shelter_capacity.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,shelter_capacity.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,shelter_capacity.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,shelter_capacity.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,shelter_capacity.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,shelter_capacity.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,shelter_capacity.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,shelter_capacity.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,shelter_capacity.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,shelter_capacity.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,shelter_capacity.csv,string,Reference period as published.
+year,shelter_capacity.csv,integer,Calendar year of the reference period.
+iso3166_2,shelter_capacity.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,shelter_capacity.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+classification_break,shelter_capacity.csv,boolean,"True for General - women and Family rows. Official note 1 of the table says that, until 2021, shelters serving women with or without children were included in General - women, and that from 2021 those shelters are included in Family."
+classification_break_year,shelter_capacity.csv,integer,2021 on rows affected by that official classification change. Empty on other target populations.
+ref_date,shelter_capacity_provincial_beds.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,shelter_capacity_provincial_beds.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,shelter_capacity_provincial_beds.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+type_of_shelter,shelter_capacity_provincial_beds.csv,string,"Emergency shelter, transitional housing or domestic violence shelter, as published. These types are not added together in this package."
+target_population,shelter_capacity_provincial_beds.csv,string,"Target population as published, including a total and nested groups. Nested groups should not be added to the total."
+statistic,shelter_capacity_provincial_beds.csv,string,"Number of shelters or number of beds. Both are capacity counts, not occupancy."
+unit_of_measure,shelter_capacity_provincial_beds.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,shelter_capacity_provincial_beds.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,shelter_capacity_provincial_beds.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,shelter_capacity_provincial_beds.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,shelter_capacity_provincial_beds.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,shelter_capacity_provincial_beds.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,shelter_capacity_provincial_beds.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,shelter_capacity_provincial_beds.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,shelter_capacity_provincial_beds.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,shelter_capacity_provincial_beds.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,shelter_capacity_provincial_beds.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,shelter_capacity_provincial_beds.csv,string,Reference period as published.
+year,shelter_capacity_provincial_beds.csv,integer,Calendar year of the reference period.
+iso3166_2,shelter_capacity_provincial_beds.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,shelter_capacity_provincial_beds.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+classification_break,shelter_capacity_provincial_beds.csv,boolean,"True for General - women and Family rows. Official note 1 of the table says that, until 2021, shelters serving women with or without children were included in General - women, and that from 2021 those shelters are included in Family."
+classification_break_year,shelter_capacity_provincial_beds.csv,integer,2021 on rows affected by that official classification change. Empty on other target populations.
+population,shelter_capacity_provincial_beds.csv,numeric,July 1 population from table 17-10-0009 for the same year and geography. Filled only on the provincial beds file.
+beds_per_10000,shelter_capacity_provincial_beds.csv,numeric,"Official number of beds times 10,000, divided by July 1 population of the same year. This is an adapted figure, not an official Statistics Canada or Housing, Infrastructure and Communities Canada rate."
