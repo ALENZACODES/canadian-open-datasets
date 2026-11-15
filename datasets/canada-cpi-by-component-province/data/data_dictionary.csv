@@ -1,0 +1,62 @@
+file,column,type,description
+cpi_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+cpi_long.csv,geo,string,Geography name as published by Statistics Canada.
+cpi_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+cpi_long.csv,product,string,"CPI product or product group, from All-items down to detailed items."
+cpi_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+cpi_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+cpi_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+cpi_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+cpi_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+cpi_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+cpi_long.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+cpi_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+cpi_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+cpi_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+cpi_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+cpi_all_items_by_geo.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+cpi_all_items_by_geo.csv,alberta,numeric,Published value for alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,british_columbia,numeric,Published value for british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,calgary_alberta,numeric,Published value for calgary alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,canada,numeric,Published value for canada. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,charlottetown_and_summerside_prince_edward_island,numeric,Published value for charlottetown and summerside prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,edmonton_alberta,numeric,Published value for edmonton alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,halifax_nova_scotia,numeric,Published value for halifax nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,iqaluit_nunavut,numeric,Published value for iqaluit nunavut. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,manitoba,numeric,Published value for manitoba. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,montr_al_quebec,numeric,Published value for montr al quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,new_brunswick,numeric,Published value for new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,newfoundland_and_labrador,numeric,Published value for newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,nova_scotia,numeric,Published value for nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,ontario,numeric,Published value for ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,ottawa_gatineau_ontario_part_ontario_quebec,numeric,Published value for ottawa gatineau ontario part ontario quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,prince_edward_island,numeric,Published value for prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,quebec,numeric,Published value for quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,qu_bec_quebec,numeric,Published value for qu bec quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,regina_saskatchewan,numeric,Published value for regina saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,saint_john_new_brunswick,numeric,Published value for saint john new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,saskatchewan,numeric,Published value for saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,saskatoon_saskatchewan,numeric,Published value for saskatoon saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,st_john_s_newfoundland_and_labrador,numeric,Published value for st john s newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,thunder_bay_ontario,numeric,Published value for thunder bay ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,toronto_ontario,numeric,Published value for toronto ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,vancouver_british_columbia,numeric,Published value for vancouver british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,victoria_british_columbia,numeric,Published value for victoria british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,whitehorse_yukon,numeric,Published value for whitehorse yukon. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,winnipeg_manitoba,numeric,Published value for winnipeg manitoba. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_all_items_by_geo.csv,yellowknife_northwest_territories,numeric,Published value for yellowknife northwest territories. See unit_of_measure and scalar_factor in the long file for the unit.
+cpi_canada_major_components.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+cpi_canada_major_components.csv,alcoholic_beverages_tobacco_products_and_recreational_cannabis,numeric,Index value (2002 = 100 unless the product name says otherwise) for alcoholic_beverages_tobacco_products_and_recreational_cannabis in Canada.
+cpi_canada_major_components.csv,all_items,numeric,Index value (2002 = 100 unless the product name says otherwise) for all_items in Canada.
+cpi_canada_major_components.csv,all_items_excluding_food_and_energy,numeric,Index value (2002 = 100 unless the product name says otherwise) for all_items_excluding_food_and_energy in Canada.
+cpi_canada_major_components.csv,clothing_and_footwear,numeric,Index value (2002 = 100 unless the product name says otherwise) for clothing_and_footwear in Canada.
+cpi_canada_major_components.csv,energy,numeric,Index value (2002 = 100 unless the product name says otherwise) for energy in Canada.
+cpi_canada_major_components.csv,food,numeric,Index value (2002 = 100 unless the product name says otherwise) for food in Canada.
+cpi_canada_major_components.csv,gasoline,numeric,Index value (2002 = 100 unless the product name says otherwise) for gasoline in Canada.
+cpi_canada_major_components.csv,health_and_personal_care,numeric,Index value (2002 = 100 unless the product name says otherwise) for health_and_personal_care in Canada.
+cpi_canada_major_components.csv,homeowners_replacement_cost,numeric,Index value (2002 = 100 unless the product name says otherwise) for homeowners_replacement_cost in Canada.
+cpi_canada_major_components.csv,household_operations_furnishings_and_equipment,numeric,Index value (2002 = 100 unless the product name says otherwise) for household_operations_furnishings_and_equipment in Canada.
+cpi_canada_major_components.csv,recreation_education_and_reading,numeric,Index value (2002 = 100 unless the product name says otherwise) for recreation_education_and_reading in Canada.
+cpi_canada_major_components.csv,rent,numeric,Index value (2002 = 100 unless the product name says otherwise) for rent in Canada.
+cpi_canada_major_components.csv,shelter,numeric,Index value (2002 = 100 unless the product name says otherwise) for shelter in Canada.
+cpi_canada_major_components.csv,transportation,numeric,Index value (2002 = 100 unless the product name says otherwise) for transportation in Canada.

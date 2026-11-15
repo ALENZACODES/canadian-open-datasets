@@ -1,0 +1,15 @@
+{
+  "slug": "canada-cpi-by-component-province",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-cpi-by-component-province",
+  "table_id": "18-10-0004-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-cpi-by-component-province",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-cpi-by-component-province/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.6470588235294118,
+  "facts": [
+    "For Canada, the All-items CPI was 170.0 (2002 = 100) in 2026-09.",
+    "The Food index for Canada was 201.8 in the latest month."
+  ],
+  "publish_msg": "ready"
+}
