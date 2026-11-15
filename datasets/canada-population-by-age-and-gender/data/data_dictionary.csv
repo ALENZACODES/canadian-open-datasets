@@ -1,0 +1,18 @@
+column,file,type,description
+ref_date,canada_population_by_age_gender_annual.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,canada_population_by_age_gender_annual.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,canada_population_by_age_gender_annual.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+gender,canada_population_by_age_gender_annual.csv,string,"Total, Men+ or Women+, as published."
+age_group,canada_population_by_age_gender_annual.csv,string,"Age group, or Median age or Average age."
+unit_of_measure,canada_population_by_age_gender_annual.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,canada_population_by_age_gender_annual.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,canada_population_by_age_gender_annual.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,canada_population_by_age_gender_annual.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,canada_population_by_age_gender_annual.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,canada_population_by_age_gender_annual.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,canada_population_by_age_gender_annual.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,canada_population_by_age_gender_annual.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,canada_population_by_age_gender_annual.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,canada_population_by_age_gender_annual.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,canada_population_by_age_gender_annual.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,canada_population_by_age_gender_annual.csv,string,Statistics Canada table identifier this row was taken from.
