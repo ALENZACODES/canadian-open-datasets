@@ -1,0 +1,69 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Employment insurance beneficiaries (regular benefits) by province and territory, monthly, seasonally adjusted","14100011","276-0022","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410001101",2;3;4;5,"CURRENT - a cube available to the public and that is current","Monthly","1997-01-01","2026-08-01","4",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Beneficiary detail",,""
+"3","Sex",,""
+"4","Age group",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"1","Newfoundland and Labrador","[10]","2","1","",,
+"1","Prince Edward Island","[11]","3","1","",,
+"1","Nova Scotia","[12]","4","1","",,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",,
+"1","Saskatchewan","[47]","9","1","",,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Yukon","[60]","12","1","",,
+"1","Northwest Territories including Nunavut","","15","1","",,
+"1","Northwest Territories","[61]","13","1","",,
+"1","Nunavut","[62]","14","1","",,
+"1","Unclassified","","16","1","",,
+"2","Regular benefits","","2","","",1,
+"2","Regular benefits without declared earnings","","16","2","",1,
+"3","Both sexes","","1","","",,
+"3","Males","","2","1","",,
+"3","Females","","3","1","",,
+"4","15 years and over","","1","","",,
+"4","15 to 24 years","","2","1","",,
+"4","25 to 54 years","","5","1","",,
+"4","55 years and over","","12","1","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"2604","Employment Insurance Statistics - Monthly"
+
+"Subject Code","Subject Name"
+"14","Labour"
+
+"Note ID",Note
+1,"Includes people who receive regular income benefits whether or not they participate in one of three employment benefit programs, namely Skills Development Program, Job Creation Partnerships Program and Self-employment Program."
+2,"Estimates for the current and previous month are subject to revision."
+3,"The number of beneficiaries represents a count of persons who qualified for employment insurance benefits during the Labour Force Survey reference week, usually containing the 15th day of the month."
+4,"Due to the COVID-19 situation, many Canadians who were not employed and seeking income assistance between March 15 and September 26, 2020, were accessing Government of Canada benefit programs other than Employment Insurance, such as the Canada Emergency Response Benefit (CERB). As a result, the Employment Insurance Statistics program was suspended between the March and September 2020 reference months. Seasonally adjusted estimates for that period should be used with caution due to the unusually low number of EI beneficiaries. Data users are advised to use the unadjusted series, in addition to the seasonally adjusted series, for the period of March to September 2020."
+5,"Data in this table for the March to September reference months should be used with caution due to program implications over the COVID-19 period. For more information, please refer to the October 2020 reference month release of Employment Insurance Statistics."
+
+"Correction ID","Correction Date","Correction Note"
+"3484","2022-07-25","On July 25, 2022, the January 2022 data was corrected from the preliminary estimates to the historically revised estimates.",
+
