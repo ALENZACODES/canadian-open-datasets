@@ -1,0 +1,18 @@
+column,file,type,description
+ref_date,provincial_gdp_by_industry_annual.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,provincial_gdp_by_industry_annual.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,provincial_gdp_by_industry_annual.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+prices,provincial_gdp_by_industry_annual.csv,string,Chained (2017) dollars for real GDP or Current dollars for nominal GDP.
+naics,provincial_gdp_by_industry_annual.csv,string,Industry sector or special aggregate with its NAICS or table code in brackets.
+unit_of_measure,provincial_gdp_by_industry_annual.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,provincial_gdp_by_industry_annual.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,provincial_gdp_by_industry_annual.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,provincial_gdp_by_industry_annual.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,provincial_gdp_by_industry_annual.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,provincial_gdp_by_industry_annual.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,provincial_gdp_by_industry_annual.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,provincial_gdp_by_industry_annual.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,provincial_gdp_by_industry_annual.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,provincial_gdp_by_industry_annual.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,provincial_gdp_by_industry_annual.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,provincial_gdp_by_industry_annual.csv,string,Statistics Canada table identifier this row was taken from.
