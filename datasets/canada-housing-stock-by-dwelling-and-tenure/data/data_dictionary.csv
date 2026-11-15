@@ -1,0 +1,22 @@
+column,file,type,description
+ref_date,housing_stock_units_quarterly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,housing_stock_units_quarterly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,housing_stock_units_quarterly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+institutional_sector,housing_stock_units_quarterly.csv,string,Institutional sector as published.
+housing_type,housing_stock_units_quarterly.csv,string,Housing type as published.
+dwelling_occupation,housing_stock_units_quarterly.csv,string,Dwelling occupation as published.
+dwelling_type,housing_stock_units_quarterly.csv,string,Dwelling type as published.
+tenure_type,housing_stock_units_quarterly.csv,string,Tenure type as published.
+estimate,housing_stock_units_quarterly.csv,string,Estimate as published.
+unit_of_measure,housing_stock_units_quarterly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,housing_stock_units_quarterly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,housing_stock_units_quarterly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,housing_stock_units_quarterly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,housing_stock_units_quarterly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,housing_stock_units_quarterly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,housing_stock_units_quarterly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,housing_stock_units_quarterly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,housing_stock_units_quarterly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,housing_stock_units_quarterly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,housing_stock_units_quarterly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,housing_stock_units_quarterly.csv,string,Statistics Canada table identifier this row was taken from.

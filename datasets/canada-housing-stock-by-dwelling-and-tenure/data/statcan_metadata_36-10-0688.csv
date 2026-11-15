@@ -1,0 +1,87 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Housing stock in units included in the gross domestic product by income and expenditure","36100688",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610068801",9;12,"CURRENT - a cube available to the public and that is current","Quarterly","2016-04-01","2026-04-01","7",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Institutional sector",,""
+"3","Housing Type",3;9;11,""
+"4","Dwelling Occupation",4,""
+"5","Dwelling type",5,""
+"6","Tenure type",,""
+"7","Estimate",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"1","Newfoundland and Labrador","[10]","2","1","",,
+"1","Prince Edward Island","[11]","3","1","",,
+"1","Nova Scotia","[12]","4","1","",,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",,
+"1","Saskatchewan","[47]","9","1","",,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Yukon","[60]","12","1","",,
+"1","Northwest Territories","[61]","13","1","",,
+"1","Nunavut","[62]","14","1","",,
+"2","Total economy","","1","","",,
+"2","Non-financial corporations","","2","1","",,
+"2","Financial corporations","","3","1","",,
+"2","General government","","4","1","",,
+"2","Households","","5","1","",,
+"2","Non-profit institutions serving households","","6","1","",,
+"3","Total housing type","","1","","",,
+"3","Private housing","","2","1","",,
+"3","Social housing","","3","1","",,
+"4","Total private dwellings","","1","","",,
+"4","Private dwellings occupied","","5","1","",,
+"4","Private dwellings occupied by non-usual residents","","2","5","",,
+"4","Private dwellings occupied by usual residents","","3","5","",,
+"4","Private dwellings unoccupied","","4","1","",10,
+"5","Total dwelling type","","1","","",,
+"5","Single house","","2","1","",,
+"5","Double house","","3","1","",,
+"5","Row house","","4","1","",,
+"5","Apartment building","","5","1","",,
+"5","Mobile house","","6","1","",,
+"6","Total tenure type","","1","","",,
+"6","Band","","2","1","",,
+"6","Owner","","3","1","",,
+"6","Renter","","4","1","",,
+"7","Unit of housing","","1","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"1901","National Gross Domestic Product by Income and by Expenditure Accounts"
+
+"Subject Code","Subject Name"
+"36","Economic accounts"
+
+"Note ID",Note
+3,"Social housing is defined as residential dwelling that is owned by different levels of government and by non-profit organizations serving households."
+4,"A dwelling occupied solely by foreign and/or temporarily present persons is a dwelling in which the person or group of persons resident on reference day all have a usual place of residence elsewhere in Canada or abroad. <a href="https://www23.statcan.gc.ca/imdb/p3Var.pl?Function=Unit&Id=100236" rel="external noopener noreferrer" target="_blank"> Dwelling (opens new window)</a>."
+5,"Dwelling type definition follows the census definition of dwelling: <a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/98-500/001/98-500-x2021001-eng.cfm" rel="external noopener noreferrer" target="_blank"> Type of Dwelling Reference Guide Census of Population 2021 (opens new window)</a>."
+9,"Estimates of the housing stock in units have been updated from the second quarter of 2016 to the fourth quarter of 2023. These updates reflect the improved estimation methodology for housing stock in units implemented for all quarters of 2024 in November 2024 with the GDP by income and expenditure release. To align with the revision policy of GDP by income and expenditure, the updated housing stock in units estimates for periods prior to 2024 will be incorporated into the calculation of GDP at a later date."
+10,"The estimation of unoccupied housing units is designed explicitly for the measurement of rental income and expenditures within the gross domestic product by income and expenditure programs."
+11,"The improved estimation methodology includes the data source from the Canada Mortgage and Housing Corporation (CMHC ) for Social and Affordable Housing Survey. In 2022, survey coverage in Quebec excludes administrative data for structures managed by the Government of Quebec via the Société d'habitation du Québec (SHQ)."
+12,"<a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=households-menage024" rel="external noopener noreferrer" target="_blank">Definition of tenure type (opens new window)</a>. Band is a special category "dwelling provided by the local government First Nation or Indian band" which has been created for census purposes. Dwelling occupation definition is aligned with census definition: <a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=dwelling-logements010" rel="external noopener noreferrer" target="_blank">Private dwelling occupied by foreign residents and/or by temporarily present persons (opens new window)</a>. <a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=dwelling-logements006" rel="external noopener noreferrer" target="_blank">Private dwelling occupied by usual residents (opens new window)</a>. <a href="https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=dwelling-logements015" rel="external noopener noreferrer" target="_blank">Private dwelling unoccupied (opens new window)</a>.
+"
+
+"Correction ID","Correction Date","Correction Note"
