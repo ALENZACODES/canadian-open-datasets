@@ -1,0 +1,287 @@
+{
+  "id": "johnnykhan1/canada-defence-expenditure-ccofog",
+  "title": "Canada defence expenditure (CCOFOG)",
+  "subtitle": "Government defence spending by function, 2008 to 2024",
+  "description": "## What this is\n\nGovernment expenditure by function from the Canadian Classification of Functions of Government (CCOFOG), tidied from Statistics Canada Table 10-10-0024. The table identifies the federal government separately from provincial and territorial governments, municipalities, school boards, and other public sector components. A second file keeps only the defence functions so they are easy to chart against the rest of the budget.\n\nSource table: [10-10-0024-01](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010002401).\n\n## Coverage\n\nAnnual figures from 2008 to 2024 for Canada and the provinces and territories, by public sector component and CCOFOG function.\n\n## Updates\n\nThis upload is a snapshot from November 12, 2026 and is not refreshed on a schedule. Statistics Canada updates the table annually. Download the table again for a later year.\n\n## A few numbers from this snapshot\n\n* Federal defence expenditure in Canada was 28,106 dollars (scale: millions) in 2024, function Defence [702].\n* Military defence [7021] on the same basis was 25,792.\n* The status flag on the latest Defence [702] figure is blank (a regular published value).\n* The full CCOFOG file has 18,260 rows from 2008 to 2024, across 14 geographies and 8 public sector components. The defence extract has 1,558 rows.\n\n## Example uses\n\n* Follow federal defence spending and its military, civil and residual components.\n* Compare defence with health, education or public order in the full CCOFOG file.\n* Put provincial public-order spending next to federal defence where that comparison is useful.\n\n## Caveats\n\nValues are already expressed at the published scalar factor, usually millions of dollars. Check the scalar_factor column before you sum or compare. The latest year can be marked preliminary (status p) and is subject to revision. CCOFOG defence is a government-finance classification. It is not a Canadian Armed Forces headcount or a list of operations. Provincial and territorial rows have little or no military defence; most defence spending sits in the federal government component.\n\n## Files\n\n* `ccofog_expenditure.csv`: All functions and public sector components.\n* `defence_expenditure.csv`: Defence functions only.\n* `data_dictionary.csv`: Column dictionary.\n* `statcan_table_metadata.csv`: Official Statistics Canada notes.\n* `cover.png`: Cover chart of federal defence expenditure.\n\n## Licence\n\nThis dataset is shared under the [Statistics Canada Open Licence](https://www.statcan.gc.ca/en/terms-conditions/open-licence). Source: Statistics Canada, Table 10-10-0024-01. The published values were not changed. Columns were renamed, the file layout was tidied, and some dimensions were filtered as described above. This is not an official Statistics Canada product and Statistics Canada does not endorse it.\n\nAuthor: John Khan, Toronto, Ontario.",
+  "keywords": [
+    "canada",
+    "economics",
+    "finance",
+    "government",
+    "business"
+  ],
+  "licenses": [
+    {
+      "name": "other"
+    }
+  ],
+  "expectedUpdateFrequency": "annually",
+  "userSpecifiedSources": "Statistics Canada Table 10-10-0024-01 (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010002401, https://www150.statcan.gc.ca/n1/tbl/csv/10100024-eng.zip). Full table CSV downloaded on November 12, 2026. Prepared by John Khan in Toronto, Ontario. Shared under the Statistics Canada Open Licence, https://www.statcan.gc.ca/en/terms-conditions/open-licence.",
+  "collectionMethodology": "Downloaded from the official open data release and reshaped into tidy CSV files by John Khan, November 2026.",
+  "image": "dataset-cover-image.png",
+  "resources": [
+    {
+      "path": "data_dictionary.csv",
+      "description": "Column dictionary for every CSV in this dataset.",
+      "schema": {
+        "fields": [
+          {
+            "name": "column",
+            "type": "string",
+            "description": "Column name."
+          },
+          {
+            "name": "file",
+            "type": "string",
+            "description": "CSV file the column belongs to."
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "Field type."
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "description": "What the column contains."
+          }
+        ]
+      }
+    },
+    {
+      "path": "ccofog_expenditure.csv",
+      "description": "All Canadian Classification of Functions of Government spending by public sector component and geography, from Table 10-10-0024.",
+      "schema": {
+        "fields": [
+          {
+            "name": "ref_date",
+            "type": "datetime",
+            "description": "Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+          },
+          {
+            "name": "geo",
+            "type": "string",
+            "description": "Geography name as published by Statistics Canada, with extra whitespace removed."
+          },
+          {
+            "name": "dguid",
+            "type": "string",
+            "description": "Statistics Canada Dissemination Geography Unique Identifier for the geography."
+          },
+          {
+            "name": "public_sector_component",
+            "type": "string",
+            "description": "Which part of the public sector the spending belongs to, for example the federal government or provincial and territorial governments."
+          },
+          {
+            "name": "ccofog",
+            "type": "string",
+            "description": "Function of government from the Canadian Classification of Functions of Government, including the published code."
+          },
+          {
+            "name": "unit_of_measure",
+            "type": "string",
+            "description": "Unit of measure for value, as published."
+          },
+          {
+            "name": "unit_of_measure_id",
+            "type": "numeric",
+            "description": "Statistics Canada numeric code for the unit of measure."
+          },
+          {
+            "name": "scalar_factor",
+            "type": "string",
+            "description": "Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+          },
+          {
+            "name": "scalar_id",
+            "type": "numeric",
+            "description": "Statistics Canada numeric code for the scalar factor."
+          },
+          {
+            "name": "vector",
+            "type": "string",
+            "description": "Statistics Canada vector identifier for the series. Useful if you want to pull the same series again."
+          },
+          {
+            "name": "coordinate",
+            "type": "string",
+            "description": "Statistics Canada coordinate string that locates the series inside the table."
+          },
+          {
+            "name": "value",
+            "type": "numeric",
+            "description": "The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol)."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file."
+          },
+          {
+            "name": "symbol",
+            "type": "string",
+            "description": "Additional Statistics Canada symbol when present, otherwise empty."
+          },
+          {
+            "name": "terminated",
+            "type": "string",
+            "description": "t if Statistics Canada has terminated this series, otherwise empty."
+          },
+          {
+            "name": "decimals",
+            "type": "numeric",
+            "description": "Number of decimal places Statistics Canada uses when displaying the value."
+          }
+        ]
+      }
+    },
+    {
+      "path": "defence_expenditure.csv",
+      "description": "Rows whose CCOFOG function is defence, including military defence, civil defence, foreign military aid and residual defence categories.",
+      "schema": {
+        "fields": [
+          {
+            "name": "ref_date",
+            "type": "datetime",
+            "description": "Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+          },
+          {
+            "name": "geo",
+            "type": "string",
+            "description": "Geography name as published by Statistics Canada, with extra whitespace removed."
+          },
+          {
+            "name": "dguid",
+            "type": "string",
+            "description": "Statistics Canada Dissemination Geography Unique Identifier for the geography."
+          },
+          {
+            "name": "public_sector_component",
+            "type": "string",
+            "description": "Which part of the public sector the spending belongs to, for example the federal government or provincial and territorial governments."
+          },
+          {
+            "name": "ccofog",
+            "type": "string",
+            "description": "Function of government from the Canadian Classification of Functions of Government, including the published code."
+          },
+          {
+            "name": "unit_of_measure",
+            "type": "string",
+            "description": "Unit of measure for value, as published."
+          },
+          {
+            "name": "unit_of_measure_id",
+            "type": "numeric",
+            "description": "Statistics Canada numeric code for the unit of measure."
+          },
+          {
+            "name": "scalar_factor",
+            "type": "string",
+            "description": "Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+          },
+          {
+            "name": "scalar_id",
+            "type": "numeric",
+            "description": "Statistics Canada numeric code for the scalar factor."
+          },
+          {
+            "name": "vector",
+            "type": "string",
+            "description": "Statistics Canada vector identifier for the series. Useful if you want to pull the same series again."
+          },
+          {
+            "name": "coordinate",
+            "type": "string",
+            "description": "Statistics Canada coordinate string that locates the series inside the table."
+          },
+          {
+            "name": "value",
+            "type": "numeric",
+            "description": "The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol)."
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "description": "Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file."
+          },
+          {
+            "name": "symbol",
+            "type": "string",
+            "description": "Additional Statistics Canada symbol when present, otherwise empty."
+          },
+          {
+            "name": "terminated",
+            "type": "string",
+            "description": "t if Statistics Canada has terminated this series, otherwise empty."
+          },
+          {
+            "name": "decimals",
+            "type": "numeric",
+            "description": "Number of decimal places Statistics Canada uses when displaying the value."
+          }
+        ]
+      }
+    },
+    {
+      "path": "statcan_table_metadata.csv",
+      "description": "Official Statistics Canada cube metadata shipped with Table 10-10-0024-01, including notes and the symbol legend. Layout is as published, not tidied.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Cube Title",
+            "type": "string",
+            "description": "Column Cube Title from the official source metadata file, as published."
+          },
+          {
+            "name": "Product Id",
+            "type": "string",
+            "description": "Column Product Id from the official source metadata file, as published."
+          },
+          {
+            "name": "CANSIM Id",
+            "type": "string",
+            "description": "Column CANSIM Id from the official source metadata file, as published."
+          },
+          {
+            "name": "URL",
+            "type": "string",
+            "description": "Column URL from the official source metadata file, as published."
+          },
+          {
+            "name": "Cube Notes",
+            "type": "string",
+            "description": "Column Cube Notes from the official source metadata file, as published."
+          },
+          {
+            "name": "Archive Status",
+            "type": "string",
+            "description": "Column Archive Status from the official source metadata file, as published."
+          },
+          {
+            "name": "Frequency",
+            "type": "string",
+            "description": "Column Frequency from the official source metadata file, as published."
+          },
+          {
+            "name": "Start Reference Period",
+            "type": "string",
+            "description": "Column Start Reference Period from the official source metadata file, as published."
+          },
+          {
+            "name": "End Reference Period",
+            "type": "numeric",
+            "description": "Column End Reference Period from the official source metadata file, as published."
+          },
+          {
+            "name": "Total number of dimensions",
+            "type": "numeric",
+            "description": "Column Total number of dimensions from the official source metadata file, as published."
+          }
+        ]
+      }
+    }
+  ],
+  "isPrivate": false
+}

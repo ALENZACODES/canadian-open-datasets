@@ -1,0 +1,33 @@
+column,file,type,description
+ref_date,ccofog_expenditure.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,ccofog_expenditure.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,ccofog_expenditure.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+public_sector_component,ccofog_expenditure.csv,string,"Which part of the public sector the spending belongs to, for example the federal government or provincial and territorial governments."
+ccofog,ccofog_expenditure.csv,string,"Function of government from the Canadian Classification of Functions of Government, including the published code."
+unit_of_measure,ccofog_expenditure.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,ccofog_expenditure.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,ccofog_expenditure.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,ccofog_expenditure.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,ccofog_expenditure.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,ccofog_expenditure.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,ccofog_expenditure.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,ccofog_expenditure.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,ccofog_expenditure.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,ccofog_expenditure.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,ccofog_expenditure.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_date,defence_expenditure.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,defence_expenditure.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,defence_expenditure.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+public_sector_component,defence_expenditure.csv,string,"Which part of the public sector the spending belongs to, for example the federal government or provincial and territorial governments."
+ccofog,defence_expenditure.csv,string,"Function of government from the Canadian Classification of Functions of Government, including the published code."
+unit_of_measure,defence_expenditure.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,defence_expenditure.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,defence_expenditure.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,defence_expenditure.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,defence_expenditure.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,defence_expenditure.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,defence_expenditure.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,defence_expenditure.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,defence_expenditure.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,defence_expenditure.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,defence_expenditure.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.

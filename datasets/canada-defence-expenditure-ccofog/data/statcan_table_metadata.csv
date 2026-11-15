@@ -1,0 +1,130 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Canadian classification of functions of government, by general government component","10100024","385-0040","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010002401",1;2;3;7,"CURRENT - a cube available to the public and that is current","Annual","2008-01-01","2024-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",4;7,""
+"2","Public sector components",5,""
+"3","Canadian Classification of Functions of Government (CCOFOG)",2,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Newfoundland and Labrador","[10]","2","1","",,
+"1","Prince Edward Island","[11]","3","1","",,
+"1","Nova Scotia","[12]","4","1","",,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",,
+"1","Saskatchewan","[47]","9","1","",,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Yukon","[60]","12","1","",,
+"1","Northwest Territories","[61]","13","1","",,
+"1","Nunavut","[62]","14","1","",,
+"1","Canada","[11124]","1","","",,
+"2","Federal government","","1","","",,
+"2","Provincial and territorial governments","","2","","",,
+"2","Universities and colleges","","3","","",,
+"2","Health and social service institutions","","4","","",,
+"2","Municipalities and other local public administrations","","5","","",,
+"2","School boards","","6","","",,
+"2","Canada pension plan (CPP)","","7","","",,
+"2","Régie des rentes du Québec (RRQ)","","8","","",,
+"3","Executive and legislative organs, financial and fiscal affairs and external affairs","[7011]","29","1","",,
+"3","Foreign economic aid","[7012]","30","1","",,
+"3","General services","[7013]","31","1","",,
+"3","Basic Research","[7014]","32","1","",,
+"3","Public debt transactions","[7017]","33","1","",,
+"3","General public services not elsewhere classified","[7015, 7016, 7018]","34","1","",8,
+"3","Military defence","[7021]","35","2","",,
+"3","Civil defence","[7022]","36","2","",,
+"3","Foreign military aid","[7023]","37","2","",,
+"3","Defence not elsewhere classified","[7024, 7025]","38","2","",8,
+"3","Police services","[7031]","11","3","",,
+"3","Fire protection services","[7032]","12","3","",,
+"3","Law courts","[7033]","13","3","",,
+"3","Prisons","[7034]","14","3","",,
+"3","Public order and safety not elsewhere classified","[7035, 7036]","15","3","",8,
+"3","General economic, commercial, and labor affairs","[7041]","39","4","",,
+"3","Agriculture, forestry, fishing, and hunting","[7042]","40","4","",,
+"3","Fuel and energy","[7043]","41","4","",,
+"3","Mining, manufacturing, and construction","[7044]","42","4","",,
+"3","Transport","[7045]","43","4","",,
+"3","Economic affairs not elsewhere classified","[7046, 7047, 7048, 7049]","44","4","",8,
+"3","Waste management","[7051]","16","5","",,
+"3","Waste water management","[7052]","17","5","",,
+"3","Pollution abatement","[7053]","18","5","",,
+"3","Protection of biodiversity and landscape","[7054]","19","5","",,
+"3","Environmental protection not elsewhere classified","[7055, 7056]","20","5","",8,
+"3","Housing and community development","[7061, 7062]","45","6","",9,
+"3","Water supply","[7063]","46","6","",9,
+"3","Street lighting","[7064]","47","6","",,
+"3","Housing and community amenities not elsewhere classified","[7065, 7066]","48","6","",8;9,
+"3","Medical products, appliances, and equipment","[7071]","49","7","",,
+"3","Outpatient services","[7072]","50","7","",,
+"3","Hospital services","[7073]","51","7","",,
+"3","Public health services","[7074]","52","7","",,
+"3","Health not elsewhere classified","[7075, 7076]","53","7","",,
+"3","Recreational and sporting services","[7081]","21","8","",,
+"3","Cultural services","[7082]","22","8","",,
+"3","Broadcasting and publishing services","[7083]","23","8","",,
+"3","Recreation, culture, and religion not elsewhere classified","[7084, 7085, 7086]","24","8","",8,
+"3","Primary and secondary education","[7092]","25","9","",10,
+"3","College education","[7093]","26","9","",10,
+"3","University education","[7094]","27","9","",10,
+"3","Education not elsewhere classified","[7095, 7096, 7097, 7098]","28","9","",8;10,
+"3","Sickness and disability","[7101, 7103]","54","10","",,
+"3","Old age","[7102]","55","10","",,
+"3","Family and children","[7104]","56","10","",,
+"3","Unemployment","[7105]","57","10","",,
+"3","Housing","[7106]","58","10","",,
+"3","Social exclusion","[7107]","59","10","",,
+"3","Social protection not elsewhere classified","[7108, 7109]","60","10","",8,
+"3","General public services","[701]","1","","",6,
+"3","Defence","[702]","2","","",,
+"3","Public order and safety","[703]","3","","",,
+"3","Economic affairs","[704]","4","","",,
+"3","Environmental protection","[705]","5","","",,
+"3","Housing and community amenities","[706]","6","","",,
+"3","Health","[707]","7","","",,
+"3","Recreation, culture and religion","[708]","8","","",,
+"3","Education","[709]","9","","",,
+"3","Social protection","[710]","10","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5218","Canadian Government Finance Statistics"
+
+"Subject Code","Subject Name"
+"10","Government"
+
+"Note ID",Note
+1,"End of fiscal year closest to December 31st."
+2,"The Canadian Classification of Functions of Government (CCOFOG) presented excludes the acquisitions of non-financial assets and consumption of fixed capital expense. At this time, the nonfinancial estimates are not available as the integration work with the Canadian System of Macroeconomic Accounts (CSMA) is in progress."
+3,"The data provided in this table are not consolidated by eliminating transactions occurring between public sector components and between provinces and territories. For example, grants from a provincial and territorial government to its health and social service institutions are not eliminated and are assigned a functional classification. For this reason, public sector components subtotals are not provided and are strongly advised against, especially to attempt comparison between provinces and territories. Such subtotals would double count all transactions occurring between the public sector components. For the same reason, Canada total for specific public sector components are not provided and are not recommended. Canadian Classification of Functions of Government (CCOFOG) by consolidated government component is available in table 10-10-0005-01."
+4,"Comparison between provinces and territories for a given public sector component are not recommended since the differences observed may be the result of differences in the administrative structure and organisation of the delivery of government services and functions. Canadian Classification of Functions of Government (CCOFOG) by consolidated government component is available in table 10-10-0005-01."
+5,"The Canadian Classification of Functions of Government (CCOFOG) is a detailed classification of the functions, or socioeconomic objectives, that general government units aim to achieve through various kinds of outlays. Therefore, by definition, Government Business Enterprises (GBE's) are excluded from this table."
+6,"General Public services includes all interest payments for government loans (public debt) regardless of the function associated to the incurrence of the debt."
+7,"Due to different delineations of responsibilities between levels of government across jurisdictions, some functions of government may appear in some provinces and not in others."
+8,"In cases where expenses could not be specifically identified by function at the lowest level of detail in the source data, they have been included in the not elsewhere classified sub-categories."
+9,"In 2023, the Federal Government updated Indigenous programs that are now classified under Housing and Community Amenities not elsewhere classified (n.e.c)."
+10,"In 2023, the Federal Government updated Indigenous programs that are now classified under Primary and Secondary Education, College Education, and University Education."
+
+"Correction ID","Correction Date","Correction Note"
+"1125","2019-02-14","<p>On February 14, 2019, the data from 2008 to 2017 have been corrected for the Canadian Classification of Functions of Government (CCOFOG) category “Defence not elsewhere classified [7024, 7025]”.<br><br></p>",
+
