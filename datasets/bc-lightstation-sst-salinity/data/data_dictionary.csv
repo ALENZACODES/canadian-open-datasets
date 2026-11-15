@@ -1,0 +1,30 @@
+file,column,type,description
+sites.csv,site_name,string,Lightstation or sample site name as published by Fisheries and Oceans Canada.
+sites.csv,status,string,"Data collection status from the sites list: ACTIVE, IN-ACTIVE or ARCHIVED."
+sites.csv,temporal_extent,string,Published year range for the site (for example 1934 - PRESENT).
+sites.csv,latitude,numeric,Approximate site latitude in decimal degrees.
+sites.csv,longitude,numeric,Approximate site longitude in decimal degrees.
+sites.csv,comments,string,Free text monitoring note from the sites list.
+daily_sst_salinity.csv,site_folder,string,Folder name used in the active sites download zip (underscore form).
+daily_sst_salinity.csv,site_name,string,Lightstation or sample site name as published by Fisheries and Oceans Canada.
+daily_sst_salinity.csv,observation_date,datetime,Calendar date of the daily bucket sample (YYYY-MM-DD).
+daily_sst_salinity.csv,salinity_pss,numeric,Sea surface practical salinity (PSS). DFO missing sentinels at or above 900 were set to blank.
+daily_sst_salinity.csv,temperature_c,numeric,Sea surface temperature in degrees Celsius. DFO missing sentinels at or above 900 were set to blank.
+daily_sst_salinity.csv,latitude,numeric,Approximate site latitude in decimal degrees.
+daily_sst_salinity.csv,longitude,numeric,Approximate site longitude in decimal degrees.
+monthly_sst_salinity_long.csv,site_folder,string,Folder name used in the active sites download zip (underscore form).
+monthly_sst_salinity_long.csv,site_name,string,Lightstation or sample site name as published by Fisheries and Oceans Canada.
+monthly_sst_salinity_long.csv,year,integer,Calendar year.
+monthly_sst_salinity_long.csv,month,integer,Calendar month number from 1 to 12.
+monthly_sst_salinity_long.csv,month_name,string,Three letter English month name.
+monthly_sst_salinity_long.csv,variable,string,Which monthly series the value comes from: temperature_c or salinity_pss.
+monthly_sst_salinity_long.csv,value,numeric,Monthly average value for the named variable. Missing months are blank.
+annual_site_means.csv,site_folder,string,Folder name used in the active sites download zip (underscore form).
+annual_site_means.csv,site_name,string,Lightstation or sample site name as published by Fisheries and Oceans Canada.
+annual_site_means.csv,year,integer,Calendar year.
+annual_site_means.csv,n_temperature,integer,Count of daily temperature readings used in the annual mean.
+annual_site_means.csv,mean_temperature_c,numeric,Mean of valid daily sea surface temperatures for the site and year.
+annual_site_means.csv,n_salinity,integer,Count of daily salinity readings used in the annual mean.
+annual_site_means.csv,mean_salinity_pss,numeric,Mean of valid daily sea surface salinities for the site and year.
+annual_site_means.csv,latitude,numeric,Approximate site latitude in decimal degrees.
+annual_site_means.csv,longitude,numeric,Approximate site longitude in decimal degrees.
