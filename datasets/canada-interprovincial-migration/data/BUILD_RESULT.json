@@ -1,0 +1,16 @@
+{
+  "slug": "canada-interprovincial-migration",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-interprovincial-migration",
+  "table_id": "17-10-0020-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-interprovincial-migration",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-interprovincial-migration/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.6470588235294118,
+  "facts": [
+    "Ontario's net interprovincial migration was -7,063 in the quarter starting 2026-04-01.",
+    "Alberta's net interprovincial migration was 5,893 in the quarter starting 2026-04-01.",
+    "Net migrants equals in-migrants minus out-migrants for the same geography and quarter. That difference is calculated in this dataset and is not a separate Statistics Canada column."
+  ],
+  "publish_msg": "ready"
+}
