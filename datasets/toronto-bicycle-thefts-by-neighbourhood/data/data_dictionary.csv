@@ -1,0 +1,34 @@
+column,file,type,description
+occurrence_year,bicycle_thefts_monthly_by_neighbourhood.csv,integer,Year of the occurrence.
+month_num,bicycle_thefts_monthly_by_neighbourhood.csv,integer,Month number from 1 to 12.
+month,bicycle_thefts_monthly_by_neighbourhood.csv,string,Month name.
+neighbourhood_id,bicycle_thefts_monthly_by_neighbourhood.csv,string,158-neighbourhood model number assigned by point-in-polygon. NSA if the official offset point could not be mapped.
+neighbourhood_name,bicycle_thefts_monthly_by_neighbourhood.csv,string,"Neighbourhood name, or NSA."
+premises_type,bicycle_thefts_monthly_by_neighbourhood.csv,string,"Premises type as published (for example House, Apartment, Commercial, Outside)."
+bike_type,bicycle_thefts_monthly_by_neighbourhood.csv,string,Bicycle type code as published by the Toronto Police Service.
+status,bicycle_thefts_monthly_by_neighbourhood.csv,string,Occurrence status as published (for example Stolen or Recovered).
+thefts,bicycle_thefts_monthly_by_neighbourhood.csv,integer,Number of bicycle theft records in that group.
+occurrence_year,bicycle_thefts_yearly_by_neighbourhood.csv,integer,Year of the occurrence.
+neighbourhood_id,bicycle_thefts_yearly_by_neighbourhood.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,bicycle_thefts_yearly_by_neighbourhood.csv,string,"Neighbourhood name, or NSA."
+thefts,bicycle_thefts_yearly_by_neighbourhood.csv,integer,Number of bicycle theft records.
+recovered,bicycle_thefts_yearly_by_neighbourhood.csv,integer,Records whose status is Recovered.
+occurrence_year,bicycle_thefts_citywide_by_year.csv,integer,Year of the occurrence.
+thefts,bicycle_thefts_citywide_by_year.csv,integer,"Citywide record count, including unmapped locations."
+occurrence_year,bicycle_thefts_by_year_and_premises.csv,integer,Year of the occurrence.
+premises_type,bicycle_thefts_by_year_and_premises.csv,string,Premises type as published.
+thefts,bicycle_thefts_by_year_and_premises.csv,integer,Citywide record count for that premises type.
+occurrence_year,bicycle_thefts_by_year_and_bike_type.csv,integer,Year of the occurrence.
+bike_type,bicycle_thefts_by_year_and_bike_type.csv,string,Bicycle type code as published.
+thefts,bicycle_thefts_by_year_and_bike_type.csv,integer,Citywide record count for that type code.
+neighbourhood_id,neighbourhoods.csv,string,"Neighbourhood number, zero padded."
+neighbourhood_name,neighbourhoods.csv,string,Neighbourhood name.
+neighbourhood_label,neighbourhoods.csv,string,Name with the number in parentheses.
+classification,neighbourhoods.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+classification_code,neighbourhoods.csv,string,Short classification code.
+centroid_longitude,neighbourhoods.csv,number,"Longitude of the polygon centroid, WGS84."
+centroid_latitude,neighbourhoods.csv,number,"Latitude of the polygon centroid, WGS84."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, or string."
+description,data_dictionary.csv,string,What the column holds.
