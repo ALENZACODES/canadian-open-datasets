@@ -1,0 +1,53 @@
+column,file,type,description
+year,shooting_events.csv,integer,Calendar year of the occurrence.
+occurrence_date,shooting_events.csv,datetime,Occurrence date (YYYY-MM-DD).
+month,shooting_events.csv,string,Month name as published.
+month_num,shooting_events.csv,integer,Month number from 1 to 12.
+day_of_week,shooting_events.csv,string,Day of week of the occurrence.
+hour,shooting_events.csv,integer,"Hour of the occurrence, 0 to 23."
+time_range,shooting_events.csv,string,"Time of day group as published (for example Night, Evening)."
+division,shooting_events.csv,string,Toronto Police Service division code at the time of the file.
+event_type,shooting_events.csv,string,"Shooting or Firearm Discharge, as classified in the source."
+deaths,shooting_events.csv,integer,Number of deaths recorded for the event. Zero when none were recorded.
+injuries,shooting_events.csv,integer,Number of injuries recorded for the event. Zero when none were recorded.
+neighbourhood_id,shooting_events.csv,string,"Neighbourhood number in the current 158-neighbourhood model, zero padded. NSA means the location was not mapped to a neighbourhood."
+neighbourhood_name,shooting_events.csv,string,Neighbourhood name in the 158-neighbourhood model.
+neighbourhood_id_140,shooting_events.csv,string,"Neighbourhood number in the older 140-neighbourhood model, kept for historical joins."
+neighbourhood_name_140,shooting_events.csv,string,Neighbourhood name in the older 140-neighbourhood model.
+year,shootings_monthly_by_neighbourhood.csv,integer,Calendar year.
+month_num,shootings_monthly_by_neighbourhood.csv,integer,Month number from 1 to 12.
+month,shootings_monthly_by_neighbourhood.csv,string,Month name.
+neighbourhood_id,shootings_monthly_by_neighbourhood.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,shootings_monthly_by_neighbourhood.csv,string,Neighbourhood name.
+event_type,shootings_monthly_by_neighbourhood.csv,string,Shooting or Firearm Discharge.
+events,shootings_monthly_by_neighbourhood.csv,integer,"Number of events in that neighbourhood, month and type."
+deaths,shootings_monthly_by_neighbourhood.csv,integer,Sum of deaths recorded in those events.
+injuries,shootings_monthly_by_neighbourhood.csv,integer,Sum of injuries recorded in those events.
+year,shootings_yearly_by_neighbourhood.csv,integer,Calendar year.
+neighbourhood_id,shootings_yearly_by_neighbourhood.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,shootings_yearly_by_neighbourhood.csv,string,Neighbourhood name.
+events,shootings_yearly_by_neighbourhood.csv,integer,Total events in the neighbourhood and year.
+deaths,shootings_yearly_by_neighbourhood.csv,integer,Sum of deaths recorded.
+injuries,shootings_yearly_by_neighbourhood.csv,integer,Sum of injuries recorded.
+shootings,shootings_yearly_by_neighbourhood.csv,integer,Events classified as Shooting.
+firearm_discharges,shootings_yearly_by_neighbourhood.csv,integer,Events classified as Firearm Discharge.
+year,shootings_citywide_by_year.csv,integer,Calendar year.
+events,shootings_citywide_by_year.csv,integer,"Citywide event count, including NSA locations."
+deaths,shootings_citywide_by_year.csv,integer,Citywide deaths recorded.
+injuries,shootings_citywide_by_year.csv,integer,Citywide injuries recorded.
+year,shootings_citywide_by_year_and_type.csv,integer,Calendar year.
+event_type,shootings_citywide_by_year_and_type.csv,string,Shooting or Firearm Discharge.
+events,shootings_citywide_by_year_and_type.csv,integer,Citywide count of that type.
+deaths,shootings_citywide_by_year_and_type.csv,integer,Deaths recorded for that type.
+injuries,shootings_citywide_by_year_and_type.csv,integer,Injuries recorded for that type.
+neighbourhood_id,neighbourhoods.csv,string,"Neighbourhood number, zero padded."
+neighbourhood_name,neighbourhoods.csv,string,Neighbourhood name.
+neighbourhood_label,neighbourhoods.csv,string,Name with the number in parentheses.
+classification,neighbourhoods.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+classification_code,neighbourhoods.csv,string,Short classification code.
+centroid_longitude,neighbourhoods.csv,number,"Longitude of the polygon centroid, WGS84."
+centroid_latitude,neighbourhoods.csv,number,"Latitude of the polygon centroid, WGS84."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, datetime, or string."
+description,data_dictionary.csv,string,What the column holds.
