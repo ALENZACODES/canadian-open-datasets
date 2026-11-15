@@ -1,0 +1,31 @@
+file,column,series_id,label,description
+bcpi_weekly_1972_2026.csv,total,W.BCPI,Weekly BCPI Total - v52673503,Weekly Bank of Canada commodity price index - Total
+bcpi_weekly_1972_2026.csv,ex_energy,W.BCNE,Weekly BCPI Excluding Energy - v52673504,Weekly Bank of Canada commodity price index - Excluding Energy
+bcpi_weekly_1972_2026.csv,energy,W.ENER,Weekly BCPI Energy - v52673505,Weekly Bank of Canada commodity price index - Energy
+bcpi_weekly_1972_2026.csv,metals_minerals,W.MTLS,Weekly BCPI Metals and Minerals - v52673506,Weekly Bank of Canada commodity price index - Metals and Minerals
+bcpi_weekly_1972_2026.csv,forestry,W.FOPR,Weekly BCPI Forestry - v52673509,Weekly Bank of Canada commodity price index - Forestry
+bcpi_weekly_1972_2026.csv,agriculture,W.AGRI,Weekly BCPI Agriculture - v52673507,Weekly Bank of Canada commodity price index - Agriculture
+bcpi_weekly_1972_2026.csv,fish,W.FISH,Weekly BCPI Fish - v52673508,Weekly Bank of Canada commodity price index - Fish
+bcpi_monthly_1972_2026.csv,total,M.BCPI,Monthly BCPI Total - v52673496,Monthly Bank of Canada commodity price index - Total
+bcpi_monthly_1972_2026.csv,ex_energy,M.BCNE,Monthly BCPI Excluding Energy - v52673497,Monthly Bank of Canada commodity price index - Excluding Energy
+bcpi_monthly_1972_2026.csv,energy,M.ENER,Monthly BCPI Energy - v52673498,Monthly Bank of Canada commodity price index - Energy
+bcpi_monthly_1972_2026.csv,metals_minerals,M.MTLS,Monthly BCPI Metals and Minerals - v52673499,Monthly Bank of Canada commodity price index - Metals and Minerals
+bcpi_monthly_1972_2026.csv,forestry,M.FOPR,Monthly BCPI Forestry - v52673502,Monthly Bank of Canada commodity price index - Forestry
+bcpi_monthly_1972_2026.csv,agriculture,M.AGRI,Monthly BCPI Agriculture - v52673500,Monthly Bank of Canada commodity price index - Agriculture
+bcpi_monthly_1972_2026.csv,fish,M.FISH,Monthly BCPI Fish - v52673501,Monthly Bank of Canada commodity price index - Fish
+bcpi_annual_1972_2025.csv,total,A.BCPI,Annual BCPI Total,Annual Bank of Canada commodity price index - Total
+bcpi_annual_1972_2025.csv,ex_energy,A.BCNE,Annual BCPI Excluding Energy,Annual Bank of Canada commodity price index - Excluding Energy
+bcpi_annual_1972_2025.csv,energy,A.ENER,Annual BCPI Energy,Annual Bank of Canada commodity price index - Energy
+bcpi_annual_1972_2025.csv,metals_minerals,A.MTLS,Annual BCPI Metals and Minerals,Annual Bank of Canada commodity price index - Metals and Minerals
+bcpi_annual_1972_2025.csv,forestry,A.FOPR,Annual BCPI Forestry,Annual Bank of Canada commodity price index - Forestry
+bcpi_annual_1972_2025.csv,agriculture,A.AGRI,Annual BCPI Agriculture,Annual Bank of Canada commodity price index - Agriculture
+bcpi_annual_1972_2025.csv,fish,A.FISH,Annual BCPI Fish,Annual Bank of Canada commodity price index - Fish
+bcpi_weights_1972_2026.csv,wti_crude,WGTS.WTI,BCPI Weights West Texas Intermediate,"BCPI Weights West Texas Intermediate - (US$/barrel) West Texas Intermediate front month futures, New York mercantile Exchange (NYMEX)"
+bcpi_weights_1972_2026.csv,western_canadian_select,WGTS.WCC,BCPI Weights Western Canada Select,"BCPI Weights Western Canada Select - (US$/barrel) front month futures of Net Energy Canadian Heavy Crude Oil index, Chicago Mercantile Exchange (CME)"
+bcpi_weights_1972_2026.csv,brent_crude,WGTS.BRENT,BCPI Weights Brent,"BCPI Weights Brent - (US$/barrel) Brent front month futures, Intercontinental Exchange (ICE)"
+bcpi_weights_1972_2026.csv,natural_gas,WGTS.NATURALGAS,BCPI Weights Natural Gas,"BCPI Weights Natural Gas - (US$/MMBtu) Henry Hub natural gas front month futures, New York Mercantile Exchange (NYMEX)"
+bcpi_weights_1972_2026.csv,coal,WGTS.COAL,BCPI Weights Coal,BCPI Weights Coal - (US$/tonne) long-term contract price for Canadian exports of metallurgical coal
+bcpi_weights_1972_2026.csv,agriculture,WGTS.AGRI,BCPI Weights Agriculture,"BCPI Weights Agriculture - Potatoes: U.S. Bureau of Labor Statistics - Producer Price Index; Cattle: (US$/100 lb.) Steer feeder, Oklahoma city; Hogs: (US$/100 lb.) Iowa – South Minnesota average; Wheat: (US$/bushel) U.S. #1 spring wheat, 14% protein; Barley: (US$/bushel) Saskatchewan aggregate spot price; Canola: (US$/bushel) #1 Canada in store Vancouver; Corn: (US$/bushel) U.S. corn #2, Central"
+bcpi_weights_1972_2026.csv,metals_minerals,WGTS.MTLS,BCPI Weights Metals and Minerals,"BCPI Weights Metals and Minerals - Gold: (US$/oz.) Handy and Harman base price, N.Y.; Silver: (US$/oz.) Handy and Harman base price, N.Y.; Nickel: (US$/lb.) LME cash settlement; Copper: (US$/lb.) LME cash settlement; Aluminium: (US$/lb.) LME cash settlement; Zinc: (US$/lb.) LME cash settlement; Potash: (US$/tonne) standard potassium chloride, spot price, f.o.b. Vancouver; Lead: U.S. Bureau of Labor Statistics - Producer Price Index; Iron: U.S. Bureau of Labor Statistics - Producer Price Index"
+bcpi_weights_1972_2026.csv,forestry,WGTS.FOPR,BCPI Weights Forestry,"BCPI Weights Forestry - Pulp: (US$/tonne) northern bleached softwood Kraft pulp; Lumber: (US$/thousand board feet) spruce-pine-fir, 2""x4"", f.o.b. at Prince George; Newsprint: (US$/ tonne) 30 pound newsprint price"
+bcpi_weights_1972_2026.csv,fish,WGTS.FISH,BCPI Weights Fisheries,BCPI Weights Fisheries - Finfish: Prices obtained from U.S. Bureau of Labor Statistics/Haver Analytics; Shellfish: Prices obtained from U.S. Bureau of Labor Statistics/Haver Analytics.
