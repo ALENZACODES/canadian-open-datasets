@@ -1,0 +1,18 @@
+column,file,type,description
+ref_date,payroll_employment_weekly_earnings_by_province_monthly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,payroll_employment_weekly_earnings_by_province_monthly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,payroll_employment_weekly_earnings_by_province_monthly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+estimate,payroll_employment_weekly_earnings_by_province_monthly.csv,string,"Employment for all employees, or average weekly earnings including overtime."
+naics,payroll_employment_weekly_earnings_by_province_monthly.csv,string,Industry group with its NAICS code in brackets.
+unit_of_measure,payroll_employment_weekly_earnings_by_province_monthly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,payroll_employment_weekly_earnings_by_province_monthly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,payroll_employment_weekly_earnings_by_province_monthly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,payroll_employment_weekly_earnings_by_province_monthly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,payroll_employment_weekly_earnings_by_province_monthly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,payroll_employment_weekly_earnings_by_province_monthly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,payroll_employment_weekly_earnings_by_province_monthly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,payroll_employment_weekly_earnings_by_province_monthly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,payroll_employment_weekly_earnings_by_province_monthly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,payroll_employment_weekly_earnings_by_province_monthly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,payroll_employment_weekly_earnings_by_province_monthly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,payroll_employment_weekly_earnings_by_province_monthly.csv,string,Statistics Canada table identifier this row was taken from.
