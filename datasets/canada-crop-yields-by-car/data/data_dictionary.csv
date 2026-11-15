@@ -1,0 +1,19 @@
+file,column,type,description
+regions.csv,car_uid,string,Census agricultural region identifier as published (CAR_UID).
+regions.csv,province,string,English province name.
+regions.csv,region_name,string,English census agricultural region or crop reporting unit name as published. Blank when the source left the name empty.
+yields_long.csv,car_uid,string,Census agricultural region identifier as published (CAR_UID).
+yields_long.csv,province,string,English province name.
+yields_long.csv,region_name,string,English census agricultural region or crop reporting unit name as published. Blank when the source left the name empty.
+yields_long.csv,crop,string,Crop name as published (for example Spring Wheat or Canola).
+yields_long.csv,year,integer,Crop year from the source YearYYYY columns.
+yields_long.csv,yield_value,numeric,"Reported yield for that crop, region and year. Blank when the source cell was empty."
+yields_long.csv,yield_unit,string,"Unit from the AAFC product specification: bu/ac (bushels per acre) for barley, canola, corn, peas, durum wheat, flax, oats, soybeans, spring wheat and winter wheat; lbs/ac (pounds per acre) for lentils. Left blank for canary seed, fall rye and mustard because those crops are not given a unit in the specification."
+crop_year_region_summary.csv,crop,string,Crop name as published (for example Spring Wheat or Canola).
+crop_year_region_summary.csv,year,integer,Crop year from the source YearYYYY columns.
+crop_year_region_summary.csv,yield_unit,string,"Unit from the AAFC product specification: bu/ac (bushels per acre) for barley, canola, corn, peas, durum wheat, flax, oats, soybeans, spring wheat and winter wheat; lbs/ac (pounds per acre) for lentils. Left blank for canary seed, fall rye and mustard because those crops are not given a unit in the specification."
+crop_year_region_summary.csv,n_regions,integer,Count of regions with a published yield for that crop and year.
+crop_year_region_summary.csv,median_yield,numeric,"Median of published regional yields for that crop and year. This is an unweighted median of region values, not an official provincial or national yield."
+crop_year_region_summary.csv,mean_yield,numeric,Unweighted mean of published regional yields for that crop and year. Not an official provincial or national yield.
+crop_year_region_summary.csv,min_yield,numeric,Lowest published regional yield for that crop and year.
+crop_year_region_summary.csv,max_yield,numeric,Highest published regional yield for that crop and year.
