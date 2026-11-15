@@ -1,0 +1,76 @@
+file,column,type,description
+stations.csv,station_id,string,"MEDS station identifier, for example C46184."
+stations.csv,station_name,string,"Official station name used in this extract, taken from the latest inventory entry for the identifier."
+stations.csv,region,string,"Grouping used in this extract (Pacific, Atlantic or Great Lakes), based on the station's published location."
+stations.csv,inventory_first_start,datetime,Earliest official inventory start date for this identifier.
+stations.csv,inventory_last_end,datetime,Latest official inventory end date for this identifier.
+stations.csv,inventory_total_days,integer,Sum of official inventory total-day values across deployments for this identifier.
+stations.csv,inventory_n_deployments,integer,Number of official inventory deployment rows for this identifier.
+stations.csv,inventory_latest_latitude,numeric,"Latitude in decimal degrees from the latest inventory deployment, as published (north positive)."
+stations.csv,inventory_latest_longitude,numeric,"Longitude in decimal degrees from the latest inventory deployment, as published (east positive, so west is negative)."
+stations.csv,inventory_latest_depth_m,numeric,"Water depth in metres from the latest inventory deployment, as published."
+stations.csv,observed_first_datetime_utc,datetime,"Earliest observation timestamp in the official hourly CSV, in UTC."
+stations.csv,observed_last_datetime_utc,datetime,"Latest observation timestamp in the official hourly CSV, in UTC."
+stations.csv,n_observations,integer,Number of official hourly (or other official sampling) rows in the official CSV for this station.
+stations.csv,official_csv_url,string,Official All CSV Data zip URL on the MEDS archive.
+stations.csv,official_station_page,string,Official MEDS download page for this station identifier.
+daily_wave_stats.csv,station_id,string,"MEDS station identifier, for example C46184."
+daily_wave_stats.csv,date,datetime,UTC calendar date of the daily summary.
+daily_wave_stats.csv,n_obs,integer,"Number of official rows in the period, including rows whose wave values were later excluded from the means and maxima."
+daily_wave_stats.csv,n_q_flag_1,integer,Number of official rows with quality flag 1 (good).
+daily_wave_stats.csv,n_q_flag_7,integer,Number of official rows with quality flag 7 (off position).
+daily_wave_stats.csv,n_q_flag_0,integer,Number of official rows with quality flag 0 (no quality control performed).
+daily_wave_stats.csv,n_q_flag_4,integer,Number of official rows with quality flag 4 (erroneous). Those wave height and period values are excluded from the means and maxima.
+daily_wave_stats.csv,n_vcar_used,integer,"Number of official VCAR values used in the mean and maximum (flag not 4, height between 0 and 30 metres inclusive, and not more than 5 metres away from VWH$ when both are present)."
+daily_wave_stats.csv,n_vcar_excluded,integer,"Number of official non-null VCAR values excluded as flag 4, as a height outside 0 to 30 metres, or as more than 5 metres away from a present VWH$ value. Official files often use 10000 as a fill value."
+daily_wave_stats.csv,mean_vcar_m,numeric,"Mean of usable VCAR values (characteristic significant wave height, metres)."
+daily_wave_stats.csv,max_vcar_m,numeric,Maximum of usable VCAR values (metres).
+daily_wave_stats.csv,mean_vwh_m,numeric,"Mean of usable VWH$ values (buoy-reported significant wave height, metres), after dropping flag 4 and heights outside 0 to 30 metres."
+daily_wave_stats.csv,max_vwh_m,numeric,Maximum of usable VWH$ values (metres).
+daily_wave_stats.csv,max_vcmx_m,numeric,"Maximum of usable VCMX values (maximum zero crossing wave height, metres), after dropping flag 4 and heights outside 0 to 30 metres."
+daily_wave_stats.csv,mean_vtpk_s,numeric,"Mean of VTPK (peak period, seconds) on rows that are not flag 4 and have a period between 0 and 60 seconds, exclusive of 0."
+daily_wave_stats.csv,mean_wind_speed_1_ms,numeric,"Mean of the first WSPD column (horizontal wind speed, metres per second), over official rows with a value. The wave-height exclusion rule is not applied here."
+daily_wave_stats.csv,max_gust_speed_1_ms,numeric,"Maximum of the first GSPD column (gust wind speed, metres per second)."
+daily_wave_stats.csv,mean_pressure_1_mbar,numeric,"Mean of the first ATMS column (atmospheric pressure at sea level, millibars)."
+daily_wave_stats.csv,mean_air_temp_c,numeric,"Mean of DRYT (dry bulb temperature, degrees Celsius)."
+daily_wave_stats.csv,mean_sst_c,numeric,"Mean of SSTP (sea surface temperature, degrees Celsius)."
+daily_wave_stats.csv,mean_latitude,numeric,"Mean of published latitudes in the period, in decimal degrees (north positive)."
+daily_wave_stats.csv,mean_longitude,numeric,"Mean longitude in the period, converted from the official west-positive values to standard decimal degrees (east positive)."
+daily_wave_stats.csv,station_name,string,"Official station name used in this extract, taken from the latest inventory entry for the identifier."
+daily_wave_stats.csv,region,string,"Grouping used in this extract (Pacific, Atlantic or Great Lakes), based on the station's published location."
+monthly_wave_stats.csv,station_id,string,"MEDS station identifier, for example C46184."
+monthly_wave_stats.csv,year,integer,UTC year.
+monthly_wave_stats.csv,month,integer,"UTC month, 1 to 12."
+monthly_wave_stats.csv,n_obs,integer,"Number of official rows in the period, including rows whose wave values were later excluded from the means and maxima."
+monthly_wave_stats.csv,n_q_flag_1,integer,Number of official rows with quality flag 1 (good).
+monthly_wave_stats.csv,n_q_flag_7,integer,Number of official rows with quality flag 7 (off position).
+monthly_wave_stats.csv,n_q_flag_0,integer,Number of official rows with quality flag 0 (no quality control performed).
+monthly_wave_stats.csv,n_q_flag_4,integer,Number of official rows with quality flag 4 (erroneous). Those wave height and period values are excluded from the means and maxima.
+monthly_wave_stats.csv,n_vcar_used,integer,"Number of official VCAR values used in the mean and maximum (flag not 4, height between 0 and 30 metres inclusive, and not more than 5 metres away from VWH$ when both are present)."
+monthly_wave_stats.csv,n_vcar_excluded,integer,"Number of official non-null VCAR values excluded as flag 4, as a height outside 0 to 30 metres, or as more than 5 metres away from a present VWH$ value. Official files often use 10000 as a fill value."
+monthly_wave_stats.csv,mean_vcar_m,numeric,"Mean of usable VCAR values (characteristic significant wave height, metres)."
+monthly_wave_stats.csv,max_vcar_m,numeric,Maximum of usable VCAR values (metres).
+monthly_wave_stats.csv,mean_vwh_m,numeric,"Mean of usable VWH$ values (buoy-reported significant wave height, metres), after dropping flag 4 and heights outside 0 to 30 metres."
+monthly_wave_stats.csv,max_vwh_m,numeric,Maximum of usable VWH$ values (metres).
+monthly_wave_stats.csv,max_vcmx_m,numeric,"Maximum of usable VCMX values (maximum zero crossing wave height, metres), after dropping flag 4 and heights outside 0 to 30 metres."
+monthly_wave_stats.csv,mean_vtpk_s,numeric,"Mean of VTPK (peak period, seconds) on rows that are not flag 4 and have a period between 0 and 60 seconds, exclusive of 0."
+monthly_wave_stats.csv,mean_wind_speed_1_ms,numeric,"Mean of the first WSPD column (horizontal wind speed, metres per second), over official rows with a value. The wave-height exclusion rule is not applied here."
+monthly_wave_stats.csv,max_gust_speed_1_ms,numeric,"Maximum of the first GSPD column (gust wind speed, metres per second)."
+monthly_wave_stats.csv,mean_pressure_1_mbar,numeric,"Mean of the first ATMS column (atmospheric pressure at sea level, millibars)."
+monthly_wave_stats.csv,mean_air_temp_c,numeric,"Mean of DRYT (dry bulb temperature, degrees Celsius)."
+monthly_wave_stats.csv,mean_sst_c,numeric,"Mean of SSTP (sea surface temperature, degrees Celsius)."
+monthly_wave_stats.csv,mean_latitude,numeric,"Mean of published latitudes in the period, in decimal degrees (north positive)."
+monthly_wave_stats.csv,mean_longitude,numeric,"Mean longitude in the period, converted from the official west-positive values to standard decimal degrees (east positive)."
+monthly_wave_stats.csv,station_name,string,"Official station name used in this extract, taken from the latest inventory entry for the identifier."
+monthly_wave_stats.csv,region,string,"Grouping used in this extract (Pacific, Atlantic or Great Lakes), based on the station's published location."
+annual_wave_stats.csv,station_id,string,"MEDS station identifier, for example C46184."
+annual_wave_stats.csv,station_name,string,"Official station name used in this extract, taken from the latest inventory entry for the identifier."
+annual_wave_stats.csv,region,string,"Grouping used in this extract (Pacific, Atlantic or Great Lakes), based on the station's published location."
+annual_wave_stats.csv,year,integer,UTC year.
+annual_wave_stats.csv,n_days,integer,Number of distinct UTC dates in the year with at least one official row.
+annual_wave_stats.csv,n_obs,integer,"Number of official rows in the period, including rows whose wave values were later excluded from the means and maxima."
+annual_wave_stats.csv,n_vcar_used,integer,"Number of official VCAR values used in the mean and maximum (flag not 4, height between 0 and 30 metres inclusive, and not more than 5 metres away from VWH$ when both are present)."
+annual_wave_stats.csv,max_vcar_m,numeric,Maximum of usable VCAR values (metres).
+annual_wave_stats.csv,max_vcmx_m,numeric,"Maximum of usable VCMX values (maximum zero crossing wave height, metres), after dropping flag 4 and heights outside 0 to 30 metres."
+annual_wave_stats.csv,mean_vcar_m,numeric,"Mean of usable VCAR values (characteristic significant wave height, metres)."
+annual_wave_stats.csv,mean_sst_c,numeric,"Mean of SSTP (sea surface temperature, degrees Celsius)."
