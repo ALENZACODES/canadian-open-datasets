@@ -1,0 +1,104 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Statement of government operations and balance sheet, government finance statistics, quarterly","10100015","385-0032","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010001501",,"CURRENT - a cube available to the public and that is current","Quarterly","1990-01-01","2026-04-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Government sectors",,""
+"3","Statement of government operations and balance sheet",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Consolidated government","","1","","",,
+"2","Federal government","","2","1","",,
+"2","Provincial and territorial government","","3","1","",,
+"2","Local government","","4","1","",1,
+"2","Canada Pension Plan (CPP) and Quebec Pension Plan (QPP)","","5","1","",,
+"3","Revenue","","1","","",,
+"3","Taxes","","2","1","",,
+"3","Taxes on income, profits, and capital gains","","3","2","",,
+"3","Taxes on payroll and workforce","","4","2","",,
+"3","Taxes on property","","5","2","",,
+"3","Taxes on goods and services","","6","2","",,
+"3","Taxes on international trade and transactions","","7","2","",,
+"3","Other taxes","","8","2","",,
+"3","Social contributions","","9","1","",,
+"3","Grants, revenue","","10","1","",,
+"3","Other revenue","","11","1","",,
+"3","Expense","","12","","",,
+"3","Compensation of employees","","13","12","",,
+"3","Use of goods and services","","14","12","",,
+"3","Consumption of fixed capital","","15","12","",,
+"3","Interest","","16","12","",,
+"3","Subsidies","","17","12","",,
+"3","Grants, expense","","18","12","",,
+"3","Social benefits","","19","12","",,
+"3","Other expense","","20","12","",,
+"3","Gross operating balance","","21","","",,
+"3","Net operating balance","","22","","",,
+"3","Net acquisition of non-financial assets","","23","","",,
+"3","Net lending or borrowing","","24","","",,
+"3","Net acquisition of financial assets","","25","","",,
+"3","Monetary gold and special drawing rights (SDRs), net acquisition of financial assets","","58","25","",,
+"3","Currency and deposits, net acquisition of financial assets","","26","25","",,
+"3","Debt securities, net acquisition of financial assets","","27","25","",,
+"3","Loans, net acquisition of financial assets","","28","25","",,
+"3","Equity and investment fund shares, net acquisition of financial assets","","29","25","",,
+"3","Insurance and pension schemes, net acquisition of financial assets","","30","25","",,
+"3","Other accounts receivable, net acquisition of financial assets","","31","25","",,
+"3","Net incurrence of liabilities","","32","","",,
+"3","Special drawing rights (SDRs), net incurrence of liabilities","","59","32","",,
+"3","Currency and deposits, net incurrence of liabilities","","33","32","",,
+"3","Debt securities, net incurrence of liabilities","","34","32","",,
+"3","Loans, net incurrence of liabilities","","35","32","",,
+"3","Equity and investment fund shares, net incurrence of liabilities","","36","32","",,
+"3","Insurance and pension schemes, net incurrence of liabilities","","37","32","",,
+"3","Other accounts payable, net incurrence of liabilities","","38","32","",,
+"3","Statistical discrepancy","","39","","",,
+"3","Total expenditure","","40","","",,
+"3","Net worth","","41","","",,
+"3","Non-financial assets","","42","","",,
+"3","Financial assets","","43","","",,
+"3","Monetary gold and special drawing rights (SDRs), financial assets","","60","43","",,
+"3","Currency and deposits, financial assets","","44","43","",,
+"3","Debt securities, financial assets","","45","43","",,
+"3","Loans, financial assets","","46","43","",,
+"3","Equity and investment fund shares, financial assets","","47","43","",,
+"3","Insurance and pension schemes, financial assets","","48","43","",,
+"3","Other accounts receivable, financial assets","","49","43","",,
+"3","Liabilities","","50","","",,
+"3","Special drawing rights (SDRs), liabilities","","61","50","",,
+"3","Currency and deposits, liabilities","","51","50","",,
+"3","Debt securities, liabilities","","52","50","",,
+"3","Loans, liabilities","","53","50","",,
+"3","Equity and investment fund shares, liabilities","","54","50","",,
+"3","Insurance and pension schemes, liabilities","","55","50","",,
+"3","Other accounts payable, liabilities","","56","50","",,
+"3","Net financial worth","","57","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5174","Government Finance Statistics"
+
+"Subject Code","Subject Name"
+"10","Government"
+
+"Note ID",Note
+1,"Includes indigenous governments."
+
+"Correction ID","Correction Date","Correction Note"
