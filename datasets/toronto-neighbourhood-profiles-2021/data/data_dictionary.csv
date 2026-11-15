@@ -1,0 +1,40 @@
+column,file,type,description
+neighbourhood_id,census_profile_2021_long.csv,string,"Neighbourhood number in the 158-neighbourhood model, zero padded."
+neighbourhood_name,census_profile_2021_long.csv,string,Neighbourhood name.
+classification,census_profile_2021_long.csv,string,"Toronto Strong Neighbourhoods Strategy 2020 designation, as published."
+characteristic_id,census_profile_2021_long.csv,integer,"Identifier for the census characteristic row, in the order of the official sheet."
+characteristic,census_profile_2021_long.csv,string,"Census characteristic label, with extra spaces collapsed. Indentation is kept in indent_level."
+indent_level,census_profile_2021_long.csv,integer,"How far the official label was indented, as a rough hierarchy (0 is a heading)."
+value_raw,census_profile_2021_long.csv,string,"Value as published, which may be a number, a percent, or a blank."
+value_numeric,census_profile_2021_long.csv,number,"Numeric conversion of value_raw, with commas and percent signs removed. Empty when the value is not numeric."
+characteristic_id,characteristic_list.csv,integer,Identifier used in the long file.
+characteristic,characteristic_list.csv,string,Census characteristic label.
+indent_level,characteristic_list.csv,integer,Indent level from the official sheet.
+neighbourhood_id,selected_indicators_by_neighbourhood.csv,string,Selected 2021 Census indicator: neighbourhood_id. See the long file for the official characteristic label.
+neighbourhood_name,selected_indicators_by_neighbourhood.csv,string,Selected 2021 Census indicator: neighbourhood_name. See the long file for the official characteristic label.
+classification,selected_indicators_by_neighbourhood.csv,string,Selected 2021 Census indicator: classification. See the long file for the official characteristic label.
+population_0_to_14,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: population_0_to_14. See the long file for the official characteristic label.
+unemployment_rate,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: unemployment_rate. See the long file for the official characteristic label.
+low_income_lim_at_pct,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: low_income_lim_at_pct. See the long file for the official characteristic label.
+population_15_to_64,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: population_15_to_64. See the long file for the official characteristic label.
+immigrants,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: immigrants. See the long file for the official characteristic label.
+population_65_and_over,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: population_65_and_over. See the long file for the official characteristic label.
+non_immigrants,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: non_immigrants. See the long file for the official characteristic label.
+median_household_income_2020,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: median_household_income_2020. See the long file for the official characteristic label.
+population_25pct_sample,selected_indicators_by_neighbourhood.csv,number,Selected 2021 Census indicator: population_25pct_sample. See the long file for the official characteristic label.
+neighbourhood_full_census_profile_name,neighbourhood_profile_metadata.csv,string,Official neighbourhood metadata column neighbourhood_full_census_profile_name.
+hdnum,neighbourhood_profile_metadata.csv,string,Official neighbourhood metadata column hdnum.
+hdname,neighbourhood_profile_metadata.csv,string,Official neighbourhood metadata column hdname.
+tsns_designation,neighbourhood_profile_metadata.csv,string,Official neighbourhood metadata column tsns_designation.
+neighbourhood_id,neighbourhood_profile_metadata.csv,string,Official neighbourhood metadata column neighbourhood_id.
+neighbourhood_id,neighbourhoods.csv,string,"Neighbourhood number, zero padded."
+neighbourhood_name,neighbourhoods.csv,string,Neighbourhood name.
+neighbourhood_label,neighbourhoods.csv,string,Name with the number in parentheses.
+classification,neighbourhoods.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+classification_code,neighbourhoods.csv,string,Short classification code.
+centroid_longitude,neighbourhoods.csv,number,"Longitude of the polygon centroid, WGS84."
+centroid_latitude,neighbourhoods.csv,number,"Latitude of the polygon centroid, WGS84."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, or string."
+description,data_dictionary.csv,string,What the column holds.
