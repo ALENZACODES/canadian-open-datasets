@@ -1,0 +1,115 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Gross domestic product, expenditure-based, provincial and territorial, annual","36100222","384-0038","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610022201",,"CURRENT - a cube available to the public and that is current","Annual","1981-01-01","2025-01-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Prices",,""
+"3","Estimates",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",1,
+"1","Newfoundland and Labrador","[10]","2","1","",,
+"1","Prince Edward Island","[11]","3","1","",,
+"1","Nova Scotia","[12]","4","1","",,
+"1","New Brunswick","[13]","5","1","",,
+"1","Quebec","[24]","6","1","",,
+"1","Ontario","[35]","7","1","",,
+"1","Manitoba","[46]","8","1","",,
+"1","Saskatchewan","[47]","9","1","",,
+"1","Alberta","[48]","10","1","",,
+"1","British Columbia","[59]","11","1","",,
+"1","Yukon","[60]","12","1","",,
+"1","Northwest Territories including Nunavut","","16","1","",2,
+"1","Northwest Territories","[61]","13","1","",3,
+"1","Nunavut","[62]","14","1","",3,
+"1","Outside Canada","","15","1","",,
+"2","Chained (2017) dollars","","1","","",,
+"2","Current prices","","2","","",,
+"2","Contributions to percent change","","3","","",,
+"2","2017 constant prices","","4","","",,
+"2","Chained (2012) dollars","","5","","t",,
+"2","2012 constant prices","","6","","t",,
+"3","Final consumption expenditure","","1","","",,
+"3","Household final consumption expenditure","","2","1","",,
+"3","Goods","","3","2","",,
+"3","Durable goods","","4","3","",,
+"3","Semi-durable goods","","5","3","",,
+"3","Non-durable goods","","6","3","",,
+"3","Goods, adjusting entry","","40","3","",,
+"3","Services","","7","2","",,
+"3","Household final consumption expenditure, adjusting entry","","41","2","",,
+"3","Non-profit institutions serving households' final consumption expenditure","","8","1","",,
+"3","General governments final consumption expenditure","","9","1","",,
+"3","Final consumption expenditure, adjusting entry","","42","1","",,
+"3","Gross fixed capital formation","","10","","",,
+"3","Business gross fixed capital formation","","11","10","",,
+"3","Residential structures","","12","11","",,
+"3","Non-residential structures, machinery and equipment","","13","11","",,
+"3","Non-residential structures","","14","13","",,
+"3","Machinery and equipment","","15","13","",,
+"3","Non-residential structures, machinery and equipment, adjusting entry","","43","13","",,
+"3","Intellectual property products","","16","11","",,
+"3","Business gross fixed capital formation, adjusting entry","","44","11","",,
+"3","Non-profit institutions serving households' gross fixed capital formation","","17","10","",,
+"3","General governments gross fixed capital formation","","18","10","",,
+"3","Gross fixed capital formation, adjusting entry","","45","10","",,
+"3","Investment in inventories","","19","","",,
+"3","Of which: business investment in inventories","","20","19","",,
+"3","Non-farm","","21","20","",,
+"3","Farm","","22","20","",,
+"3","Business investment in inventories, adjusting entry","","46","20","",,
+"3","Exports of goods and services","","23","","",,
+"3","Exports to other countries","","24","23","",,
+"3","Exports of goods to other countries","","25","24","",,
+"3","Exports of services to other countries","","26","24","",,
+"3","Exports to other countries, adjusting entry","","47","24","",,
+"3","Exports to other provinces","","27","23","",,
+"3","Exports of goods to other provinces","","28","27","",,
+"3","Exports of services to other provinces","","29","27","",,
+"3","Exports to other provinces, adjusting entry","","48","27","",,
+"3","Exports of goods and services, adjusting entry","","49","23","",,
+"3","Less: imports of goods and services","","30","","",,
+"3","Imports from other countries","","31","30","",,
+"3","Imports of goods from other countries","","32","31","",,
+"3","Imports of services from other countries","","33","31","",,
+"3","Imports from other countries, adjusting entry","","50","31","",,
+"3","Imports from other provinces","","34","30","",,
+"3","Imports of goods from other provinces","","35","34","",,
+"3","Imports of services from other provinces","","36","34","",,
+"3","Imports from other provinces, adjusting entry","","51","34","",,
+"3","Imports of goods and services, adjusting entry","","52","30","",,
+"3","Statistical discrepancy","","37","","",,
+"3","Gross domestic product at market prices","","38","","",,
+"3","Gross domestic product at market prices, adjusting entry","","53","","",,
+"3","Final domestic demand","","39","","",,
+"3","Final domestic demand, adjusting entry","","54","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"1902","Provincial and Territorial Gross Domestic Product by Income and by Expenditure Accounts"
+
+"Subject Code","Subject Name"
+"36","Economic accounts"
+
+"Note ID",Note
+1,"Canada totals in the provincial and territorial gross domestic product by income and by expenditure accounts (PTEA) do not correspond to the national gross domestic product by income and by expenditure accounts (IEA) estimates at certain times of the year. The two accounts are brought back in line when annual revisions are incorporated."
+2,"Terminated with the 1998 data."
+3,"Prior to 1999, see Northwest Territories including Nunavut."
+
+"Correction ID","Correction Date","Correction Note"
