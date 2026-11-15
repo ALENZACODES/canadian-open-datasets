@@ -1,0 +1,16 @@
+{
+  "slug": "canada-asking-and-paid-rent",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-asking-and-paid-rent",
+  "table_id": "46-10-0092-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-asking-and-paid-rent",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-asking-and-paid-rent/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.5294117647058824,
+  "facts": [
+    "Average asking rent for a 1-bedroom apartment across all census metropolitan areas was 1,730 dollars in the quarter starting 2026-04-01.",
+    "In Toronto the latest average asking rent for the same unit type was 2,090 dollars.",
+    "In Vancouver it was 2,280 dollars."
+  ],
+  "publish_msg": "ready"
+}

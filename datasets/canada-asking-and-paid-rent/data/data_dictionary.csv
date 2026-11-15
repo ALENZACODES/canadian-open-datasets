@@ -1,0 +1,61 @@
+file,column,type,description
+asking_and_paid_rent_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+asking_and_paid_rent_long.csv,geo,string,Geography name as published by Statistics Canada.
+asking_and_paid_rent_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+asking_and_paid_rent_long.csv,rental_unit_type,string,"Rental unit type and bedroom count, as published in the experimental rent table."
+asking_and_paid_rent_long.csv,estimate_type,string,Average asking rent or average paid rent.
+asking_and_paid_rent_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+asking_and_paid_rent_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+asking_and_paid_rent_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+asking_and_paid_rent_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+asking_and_paid_rent_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+asking_and_paid_rent_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+asking_and_paid_rent_long.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+asking_and_paid_rent_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+asking_and_paid_rent_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+asking_and_paid_rent_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+asking_and_paid_rent_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+asking_rent_apartment_1_bedroom_by_cma.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+asking_rent_apartment_1_bedroom_by_cma.csv,abbotsford_mission_census_metropolitan_area_cma,numeric,Published value for abbotsford mission census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,all_census_metropolitan_areas,numeric,Published value for all census metropolitan areas. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,barrie_census_metropolitan_area_cma,numeric,Published value for barrie census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,belleville_quinte_west_census_metropolitan_area_cma,numeric,Published value for belleville quinte west census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,brantford_census_metropolitan_area_cma,numeric,Published value for brantford census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,calgary_census_metropolitan_area_cma,numeric,Published value for calgary census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,chilliwack_census_metropolitan_area_cma,numeric,Published value for chilliwack census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,drummondville_census_metropolitan_area_cma,numeric,Published value for drummondville census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,edmonton_census_metropolitan_area_cma,numeric,Published value for edmonton census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,fredericton_census_metropolitan_area_cma,numeric,Published value for fredericton census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,greater_sudbury_census_metropolitan_area_cma,numeric,Published value for greater sudbury census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,guelph_census_metropolitan_area_cma,numeric,Published value for guelph census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,halifax_census_metropolitan_area_cma,numeric,Published value for halifax census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,hamilton_census_metropolitan_area_cma,numeric,Published value for hamilton census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,kamloops_census_metropolitan_area_cma,numeric,Published value for kamloops census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,kelowna_census_metropolitan_area_cma,numeric,Published value for kelowna census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,kingston_census_metropolitan_area_cma,numeric,Published value for kingston census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,kitchener_cambridge_waterloo_census_metropolitan_area_cma,numeric,Published value for kitchener cambridge waterloo census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,lethbridge_census_metropolitan_area_cma,numeric,Published value for lethbridge census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,london_census_metropolitan_area_cma,numeric,Published value for london census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,moncton_census_metropolitan_area_cma,numeric,Published value for moncton census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,montr_al_census_metropolitan_area_cma,numeric,Published value for montr al census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,nanaimo_census_metropolitan_area_cma,numeric,Published value for nanaimo census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,oshawa_census_metropolitan_area_cma,numeric,Published value for oshawa census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,ottawa_gatineau_ontario_part_census_metropolitan_area_cma,numeric,Published value for ottawa gatineau ontario part census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,ottawa_gatineau_quebec_part_census_metropolitan_area_cma,numeric,Published value for ottawa gatineau quebec part census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,peterborough_census_metropolitan_area_cma,numeric,Published value for peterborough census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,qu_bec_census_metropolitan_area_cma,numeric,Published value for qu bec census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,red_deer_census_metropolitan_area_cma,numeric,Published value for red deer census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,regina_census_metropolitan_area_cma,numeric,Published value for regina census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,saguenay_census_metropolitan_area_cma,numeric,Published value for saguenay census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,saint_john_census_metropolitan_area_cma,numeric,Published value for saint john census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,saskatoon_census_metropolitan_area_cma,numeric,Published value for saskatoon census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,sherbrooke_census_metropolitan_area_cma,numeric,Published value for sherbrooke census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,st_catharines_niagara_census_metropolitan_area_cma,numeric,Published value for st catharines niagara census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,st_john_s_census_metropolitan_area_cma,numeric,Published value for st john s census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,thunder_bay_census_metropolitan_area_cma,numeric,Published value for thunder bay census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,toronto_census_metropolitan_area_cma,numeric,Published value for toronto census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,trois_rivi_res_census_metropolitan_area_cma,numeric,Published value for trois rivi res census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,vancouver_census_metropolitan_area_cma,numeric,Published value for vancouver census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,victoria_census_metropolitan_area_cma,numeric,Published value for victoria census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,windsor_census_metropolitan_area_cma,numeric,Published value for windsor census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
+asking_rent_apartment_1_bedroom_by_cma.csv,winnipeg_census_metropolitan_area_cma,numeric,Published value for winnipeg census metropolitan area cma. See unit_of_measure and scalar_factor in the long file for the unit.
