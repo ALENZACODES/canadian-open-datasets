@@ -1,0 +1,61 @@
+file,column,type,description
+stations.csv,naps_id,string,"NAPS station identifier, zero padded to six digits."
+stations.csv,station_name,string,Station name from the NAPS station list.
+stations.csv,status_code,string,Status code as published in the NAPS station list.
+stations.csv,location_address,string,Station address from the NAPS station list.
+stations.csv,city,string,City name as published in the means file or station list.
+stations.csv,province_or_territory,string,English province or territory name.
+stations.csv,postal_code,string,Postal code when published.
+stations.csv,timezone_utc_offset,numeric,Timezone offset from UTC as published.
+stations.csv,latitude,numeric,Station latitude in decimal degrees.
+stations.csv,longitude,numeric,Station longitude in decimal degrees.
+stations.csv,elevation_m,numeric,Station elevation in metres.
+stations.csv,start_date,datetime,Station start date from the NAPS station list (YYYY-MM-DD).
+stations.csv,end_date,datetime,Station end date when published. Blank for stations with no end date in the list.
+stations.csv,network,string,Monitoring network code as published.
+stations.csv,site_type,string,Site type code as published.
+stations.csv,urbanization,string,Urbanization class as published.
+stations.csv,neighbourhood,string,Neighbourhood class as published.
+stations.csv,land_use,string,Land use class as published.
+stations.csv,scale,string,Spatial scale code as published.
+stations.csv,cma_or_ca,string,Census metropolitan area or agglomeration as published.
+stations.csv,aqms_airzone,string,Air Quality Management System air zone as published.
+station_year_pollutant_means.csv,year,integer,Calendar year of the NAPS annual means file.
+station_year_pollutant_means.csv,naps_id,string,"NAPS station identifier, zero padded to six digits."
+station_year_pollutant_means.csv,city,string,City name as published in the means file or station list.
+station_year_pollutant_means.csv,location,string,Street or site location as published in the means file.
+station_year_pollutant_means.csv,latitude,numeric,Station latitude in decimal degrees.
+station_year_pollutant_means.csv,longitude,numeric,Station longitude in decimal degrees.
+station_year_pollutant_means.csv,elevation_m,numeric,Station elevation in metres.
+station_year_pollutant_means.csv,pollutant,string,"Pollutant code: CO, NO, NO2, NOX, O3, PM2.5, PM10 or SO2."
+station_year_pollutant_means.csv,unit,string,"Concentration unit: ppb for SO2, NO2, O3, NO and NOx; ppm for CO; ug/m3 for PM2.5 and PM10."
+station_year_pollutant_means.csv,January,numeric,Mean January concentration when reporting criteria are met.
+station_year_pollutant_means.csv,February,numeric,Mean February concentration when reporting criteria are met.
+station_year_pollutant_means.csv,March,numeric,Mean March concentration when reporting criteria are met.
+station_year_pollutant_means.csv,April,numeric,Mean April concentration when reporting criteria are met.
+station_year_pollutant_means.csv,May,numeric,Mean May concentration when reporting criteria are met.
+station_year_pollutant_means.csv,June,numeric,Mean June concentration when reporting criteria are met.
+station_year_pollutant_means.csv,July,numeric,Mean July concentration when reporting criteria are met.
+station_year_pollutant_means.csv,August,numeric,Mean August concentration when reporting criteria are met.
+station_year_pollutant_means.csv,September,numeric,Mean September concentration when reporting criteria are met.
+station_year_pollutant_means.csv,October,numeric,Mean October concentration when reporting criteria are met.
+station_year_pollutant_means.csv,November,numeric,Mean November concentration when reporting criteria are met.
+station_year_pollutant_means.csv,December,numeric,Mean December concentration when reporting criteria are met.
+station_year_pollutant_means.csv,annual_mean,numeric,Annual mean concentration when reporting criteria are met. Blank when not reported.
+station_year_pollutant_means.csv,annual_std,numeric,Standard deviation of the annual hourly values when reported.
+station_year_pollutant_means.csv,percent_complete,numeric,"Percent of hours in the year with valid measurements, as published."
+monthly_means_long.csv,year,integer,Calendar year of the NAPS annual means file.
+monthly_means_long.csv,naps_id,string,"NAPS station identifier, zero padded to six digits."
+monthly_means_long.csv,city,string,City name as published in the means file or station list.
+monthly_means_long.csv,location,string,Street or site location as published in the means file.
+monthly_means_long.csv,latitude,numeric,Station latitude in decimal degrees.
+monthly_means_long.csv,longitude,numeric,Station longitude in decimal degrees.
+monthly_means_long.csv,elevation_m,numeric,Station elevation in metres.
+monthly_means_long.csv,pollutant,string,"Pollutant code: CO, NO, NO2, NOX, O3, PM2.5, PM10 or SO2."
+monthly_means_long.csv,unit,string,"Concentration unit: ppb for SO2, NO2, O3, NO and NOx; ppm for CO; ug/m3 for PM2.5 and PM10."
+monthly_means_long.csv,annual_mean,numeric,Annual mean concentration when reporting criteria are met. Blank when not reported.
+monthly_means_long.csv,annual_std,numeric,Standard deviation of the annual hourly values when reported.
+monthly_means_long.csv,percent_complete,numeric,"Percent of hours in the year with valid measurements, as published."
+monthly_means_long.csv,month,string,Month name for the monthly mean.
+monthly_means_long.csv,monthly_mean,numeric,Monthly mean concentration when at least 50 percent of hours in the month are valid. Blank when not reported.
+monthly_means_long.csv,month_num,integer,Month number from 1 (January) to 12 (December).
