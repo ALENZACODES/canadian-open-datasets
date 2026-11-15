@@ -1,0 +1,67 @@
+column,file,type,description
+year,ghg_inventory_totals.csv,integer,Inventory year.
+region_published,ghg_inventory_totals.csv,string,Region name exactly as published. One Agriculture series is labelled canada in lowercase and is left as published.
+category_id,ghg_inventory_totals.csv,integer,Official category identifier. Inventory totals use 0.
+source,ghg_inventory_totals.csv,string,Top level IPCC source as published.
+category,ghg_inventory_totals.csv,string,IPCC category as published. Empty on source totals and the inventory total.
+sub_category,ghg_inventory_totals.csv,string,IPCC sub-category as published.
+sub_sub_category,ghg_inventory_totals.csv,string,IPCC sub-sub-category as published.
+total_flag,ghg_inventory_totals.csv,string,Official Total column. y marks a published total at that level of the inventory tree.
+co2_kt,ghg_inventory_totals.csv,numeric,"Carbon dioxide, kilotonnes. Empty when the source used a non numeric flag such as x."
+ch4_kt,ghg_inventory_totals.csv,numeric,"Methane, kilotonnes."
+ch4_co2eq_kt,ghg_inventory_totals.csv,numeric,"Methane as carbon dioxide equivalent, kilotonnes."
+n2o_kt,ghg_inventory_totals.csv,numeric,"Nitrous oxide, kilotonnes."
+n2o_co2eq_kt,ghg_inventory_totals.csv,numeric,"Nitrous oxide as carbon dioxide equivalent, kilotonnes."
+hfcs_co2eq_kt,ghg_inventory_totals.csv,numeric,"Hydrofluorocarbons as carbon dioxide equivalent, kilotonnes."
+pfcs_co2eq_kt,ghg_inventory_totals.csv,numeric,"Perfluorocarbons as carbon dioxide equivalent, kilotonnes."
+sf6_co2eq_kt,ghg_inventory_totals.csv,numeric,"Sulphur hexafluoride as carbon dioxide equivalent, kilotonnes."
+nf3_co2eq_kt,ghg_inventory_totals.csv,numeric,"Nitrogen trifluoride as carbon dioxide equivalent, kilotonnes."
+co2eq_kt,ghg_inventory_totals.csv,numeric,"Official total carbon dioxide equivalent, kilotonnes. This is the raw official series and is kept beside the index."
+unit,ghg_inventory_totals.csv,string,Unit as published. Figures in this file are in kilotonnes.
+region,ghg_inventory_totals.csv,string,Region used for joins. The lowercase canada label is mapped to Canada. Other names match the published label.
+gwp_set,ghg_inventory_totals.csv,string,"Global warming potential set used for carbon dioxide equivalent figures: IPCC Fifth Assessment Report, 100-year values, as required for UNFCCC inventory reporting."
+sector_level,ghg_inventory_totals.csv,integer,"0 official inventory total, 1 source total, 2 category, 3 sub-category, 4 sub-sub-category, taken from the official tree."
+is_subtotal,ghg_inventory_totals.csv,boolean,"True when the official Total flag is y, or when the row is the official inventory total. Leaf rows are False."
+lulucf_treatment,ghg_inventory_totals.csv,string,"The official inventory total excludes land use, land use change and forestry. LULUCF rows are kept separately and are labelled as not in that total."
+pre_1999_nwt_nunavut,ghg_inventory_totals.csv,boolean,True for the official combined Northwest Territories and Nunavut series used before Nunavut was created in 1999.
+co2eq_kt_1990,ghg_inventory_totals.csv,numeric,Official carbon dioxide equivalent in 1990 for the same region and category identifier.
+canada_co2eq_kt,ghg_inventory_totals.csv,numeric,"Official Canada carbon dioxide equivalent in the same year and category identifier, using the published Canada label."
+index_1990,ghg_inventory_totals.csv,numeric,"co2eq_kt divided by the 1990 official value for the same region and category identifier, multiplied by 100. The base year is 1990, which equals 100. This is an adapted index."
+share_of_canada,ghg_inventory_totals.csv,numeric,"This official value divided by the Canada value for the same year and category identifier. Adapted share, not an official inventory share table."
+index_base_year,ghg_inventory_totals.csv,integer,Base year for index_1990. Always 1990.
+iso3166_2,ghg_inventory_totals.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,ghg_inventory_totals.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+population,ghg_inventory_totals.csv,numeric,"July 1 population from table 17-10-0009, joined on the same year and a matched geography name. The combined territories series is joined to Northwest Territories including Nunavut. Filled on the totals file."
+t_co2eq_per_person,ghg_inventory_totals.csv,numeric,"Official kilotonnes times 1,000, divided by matched July 1 population, in tonnes per person. Adapted, and only on inventory total rows with a matched official population figure."
+year,ghg_inventory_detail.csv,integer,Inventory year.
+region_published,ghg_inventory_detail.csv,string,Region name exactly as published. One Agriculture series is labelled canada in lowercase and is left as published.
+category_id,ghg_inventory_detail.csv,integer,Official category identifier. Inventory totals use 0.
+source,ghg_inventory_detail.csv,string,Top level IPCC source as published.
+category,ghg_inventory_detail.csv,string,IPCC category as published. Empty on source totals and the inventory total.
+sub_category,ghg_inventory_detail.csv,string,IPCC sub-category as published.
+sub_sub_category,ghg_inventory_detail.csv,string,IPCC sub-sub-category as published.
+total_flag,ghg_inventory_detail.csv,string,Official Total column. y marks a published total at that level of the inventory tree.
+co2_kt,ghg_inventory_detail.csv,numeric,"Carbon dioxide, kilotonnes. Empty when the source used a non numeric flag such as x."
+ch4_kt,ghg_inventory_detail.csv,numeric,"Methane, kilotonnes."
+ch4_co2eq_kt,ghg_inventory_detail.csv,numeric,"Methane as carbon dioxide equivalent, kilotonnes."
+n2o_kt,ghg_inventory_detail.csv,numeric,"Nitrous oxide, kilotonnes."
+n2o_co2eq_kt,ghg_inventory_detail.csv,numeric,"Nitrous oxide as carbon dioxide equivalent, kilotonnes."
+hfcs_co2eq_kt,ghg_inventory_detail.csv,numeric,"Hydrofluorocarbons as carbon dioxide equivalent, kilotonnes."
+pfcs_co2eq_kt,ghg_inventory_detail.csv,numeric,"Perfluorocarbons as carbon dioxide equivalent, kilotonnes."
+sf6_co2eq_kt,ghg_inventory_detail.csv,numeric,"Sulphur hexafluoride as carbon dioxide equivalent, kilotonnes."
+nf3_co2eq_kt,ghg_inventory_detail.csv,numeric,"Nitrogen trifluoride as carbon dioxide equivalent, kilotonnes."
+co2eq_kt,ghg_inventory_detail.csv,numeric,"Official total carbon dioxide equivalent, kilotonnes. This is the raw official series and is kept beside the index."
+unit,ghg_inventory_detail.csv,string,Unit as published. Figures in this file are in kilotonnes.
+region,ghg_inventory_detail.csv,string,Region used for joins. The lowercase canada label is mapped to Canada. Other names match the published label.
+gwp_set,ghg_inventory_detail.csv,string,"Global warming potential set used for carbon dioxide equivalent figures: IPCC Fifth Assessment Report, 100-year values, as required for UNFCCC inventory reporting."
+sector_level,ghg_inventory_detail.csv,integer,"0 official inventory total, 1 source total, 2 category, 3 sub-category, 4 sub-sub-category, taken from the official tree."
+is_subtotal,ghg_inventory_detail.csv,boolean,"True when the official Total flag is y, or when the row is the official inventory total. Leaf rows are False."
+lulucf_treatment,ghg_inventory_detail.csv,string,"The official inventory total excludes land use, land use change and forestry. LULUCF rows are kept separately and are labelled as not in that total."
+pre_1999_nwt_nunavut,ghg_inventory_detail.csv,boolean,True for the official combined Northwest Territories and Nunavut series used before Nunavut was created in 1999.
+co2eq_kt_1990,ghg_inventory_detail.csv,numeric,Official carbon dioxide equivalent in 1990 for the same region and category identifier.
+canada_co2eq_kt,ghg_inventory_detail.csv,numeric,"Official Canada carbon dioxide equivalent in the same year and category identifier, using the published Canada label."
+index_1990,ghg_inventory_detail.csv,numeric,"co2eq_kt divided by the 1990 official value for the same region and category identifier, multiplied by 100. The base year is 1990, which equals 100. This is an adapted index."
+share_of_canada,ghg_inventory_detail.csv,numeric,"This official value divided by the Canada value for the same year and category identifier. Adapted share, not an official inventory share table."
+index_base_year,ghg_inventory_detail.csv,integer,Base year for index_1990. Always 1990.
+iso3166_2,ghg_inventory_detail.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,ghg_inventory_detail.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
