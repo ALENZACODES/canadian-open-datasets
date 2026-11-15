@@ -1,0 +1,66 @@
+file,column,boc_series_id,label,frequency,unit
+boc_policy_rate_daily.csv,policy_rate_target,V39079,Target for the overnight rate,business daily,%
+boc_policy_rate_daily.csv,corra,AVG.INTWO,Canadian Overnight Repo Rate Average (CORRA),business daily,%
+goc_benchmark_bond_yields_daily.csv,goc_2y_yield,BD.CDN.2YR.DQ.YLD,"Government of Canada benchmark bond yield, 2y",business daily,%
+goc_benchmark_bond_yields_daily.csv,goc_5y_yield,BD.CDN.5YR.DQ.YLD,"Government of Canada benchmark bond yield, 5y",business daily,%
+goc_benchmark_bond_yields_daily.csv,goc_10y_yield,BD.CDN.10YR.DQ.YLD,"Government of Canada benchmark bond yield, 10y",business daily,%
+chartered_bank_posted_rates_weekly.csv,prime_rate,V80691311,Prime rate,weekly,%
+chartered_bank_posted_rates_weekly.csv,posted_1y_conventional_mortgage,V80691333,"Conventional mortgage, 1-year",weekly,%
+chartered_bank_posted_rates_weekly.csv,posted_3y_conventional_mortgage,V80691334,"Conventional mortgage, 3-year",weekly,%
+chartered_bank_posted_rates_weekly.csv,posted_5y_conventional_mortgage,V80691335,"Conventional mortgage, 5-year (posted / benchmark)",weekly,%
+mortgage_lending_rates_monthly.csv,rate_new_insured_total,V122667775,"Residential mortgages, insured, Total - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_insured_variable,V122667776,"Residential mortgages, insured, Variable rate - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_insured_fixed_lt1y,V122667777,"Residential mortgages, insured, Fixed rate, <1 year - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_insured_fixed_1to3y,V122667778,"Residential mortgages, insured, Fixed rate, 1 to <3 years - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_insured_fixed_3to5y,V122667779,"Residential mortgages, insured, Fixed rate, 3 to <5 years - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_insured_fixed_5yplus,V122667780,"Residential mortgages, insured, Fixed rate, 5 years and over - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_uninsured_total,V122667781,"Residential mortgages, uninsured, Total - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_uninsured_variable,V122667782,"Residential mortgages, uninsured, Variable rate - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_uninsured_fixed_lt1y,V122667783,"Residential mortgages, uninsured, Fixed rate, <1 year - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_uninsured_fixed_1to3y,V122667784,"Residential mortgages, uninsured, Fixed rate, 1 to <3 years - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_uninsured_fixed_3to5y,V122667785,"Residential mortgages, uninsured, Fixed rate, 3 to <5 years - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_new_uninsured_fixed_5yplus,V122667786,"Residential mortgages, uninsured, Fixed rate, 5 years and over - Funds advanced",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_insured_total,V122667787,"Residential mortgages, insured, Total - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_insured_variable,V122667788,"Residential mortgages, insured, Variable rate - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_insured_fixed_lt1y,V122667789,"Residential mortgages, insured, Fixed rate, <1 year - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_insured_fixed_1to3y,V122667790,"Residential mortgages, insured, Fixed rate, 1 to <3 years - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_insured_fixed_3to5y,V122667791,"Residential mortgages, insured, Fixed rate, 3 to <5 years - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_insured_fixed_5yplus,V122667792,"Residential mortgages, insured, Fixed rate, 5 years and over - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_uninsured_total,V122667793,"Residential mortgages, uninsured, Total - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_uninsured_variable,V122667794,"Residential mortgages, uninsured, Variable rate - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_uninsured_fixed_lt1y,V122667795,"Residential mortgages, uninsured, Fixed rate, <1 year - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_uninsured_fixed_1to3y,V122667796,"Residential mortgages, uninsured, Fixed rate, 1 to <3 years - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_uninsured_fixed_3to5y,V122667797,"Residential mortgages, uninsured, Fixed rate, 3 to <5 years - Outstanding balances",monthly (month-end),%
+mortgage_lending_rates_monthly.csv,rate_outstanding_uninsured_fixed_5yplus,V122667798,"Residential mortgages, uninsured, Fixed rate, 5 years and over - Outstanding balances",monthly (month-end),%
+mortgage_lending_volumes_monthly.csv,cad_mn_new_insured_total,V122667724,"Residential mortgages, insured, Total - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_insured_variable,V122667725,"Residential mortgages, insured, Variable rate - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_insured_fixed_lt1y,V122667726,"Residential mortgages, insured, Fixed rate, <1 year - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_insured_fixed_1to3y,V122667727,"Residential mortgages, insured, Fixed rate, 1 to <3 years - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_insured_fixed_3to5y,V122667728,"Residential mortgages, insured, Fixed rate, 3 to <5 years - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_insured_fixed_5yplus,V122667729,"Residential mortgages, insured, Fixed rate, 5 years and over - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_uninsured_total,V122667730,"Residential mortgages, uninsured, Total - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_uninsured_variable,V122667731,"Residential mortgages, uninsured, Variable rate - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_uninsured_fixed_lt1y,V122667732,"Residential mortgages, uninsured, Fixed rate, <1 year - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_uninsured_fixed_1to3y,V122667733,"Residential mortgages, uninsured, Fixed rate, 1 to <3 years - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_uninsured_fixed_3to5y,V122667734,"Residential mortgages, uninsured, Fixed rate, 3 to <5 years - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_new_uninsured_fixed_5yplus,V122667735,"Residential mortgages, uninsured, Fixed rate, 5 years and over - Funds advanced",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_insured_total,V122667736,"Residential mortgages, insured, Total - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_insured_variable,V122667737,"Residential mortgages, insured, Variable rate - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_insured_fixed_lt1y,V122667738,"Residential mortgages, insured, Fixed rate, <1 year - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_insured_fixed_1to3y,V122667739,"Residential mortgages, insured, Fixed rate, 1 to <3 years - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_insured_fixed_3to5y,V122667740,"Residential mortgages, insured, Fixed rate, 3 to <5 years - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_insured_fixed_5yplus,V122667741,"Residential mortgages, insured, Fixed rate, 5 years and over - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_uninsured_total,V122667742,"Residential mortgages, uninsured, Total - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_uninsured_variable,V122667743,"Residential mortgages, uninsured, Variable rate - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_uninsured_fixed_lt1y,V122667744,"Residential mortgages, uninsured, Fixed rate, <1 year - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_uninsured_fixed_1to3y,V122667745,"Residential mortgages, uninsured, Fixed rate, 1 to <3 years - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_uninsured_fixed_3to5y,V122667746,"Residential mortgages, uninsured, Fixed rate, 3 to <5 years - Outstanding balances",monthly (month-end),CAD millions
+mortgage_lending_volumes_monthly.csv,cad_mn_outstanding_uninsured_fixed_5yplus,V122667747,"Residential mortgages, uninsured, Fixed rate, 5 years and over - Outstanding balances",monthly (month-end),CAD millions
+residential_mortgage_credit_monthly_1969_2020.csv,res_mortgage_credit_total_nsa,V122736,res mortgage credit total nsa,monthly,CAD millions
+residential_mortgage_credit_monthly_1969_2020.csv,res_mortgage_credit_total_sa,V122746,res mortgage credit total sa,monthly,CAD millions
+residential_mortgage_credit_monthly_1969_2020.csv,res_mortgage_credit_banks_nsa,V122738,res mortgage credit banks nsa,monthly,CAD millions
+residential_mortgage_credit_monthly_1969_2020.csv,res_mortgage_credit_banks_sa,V122748,res mortgage credit banks sa,monthly,CAD millions
+residential_mortgage_credit_monthly_1969_2020.csv,household_credit_total_nsa,V36408,household credit total nsa,monthly,CAD millions
+slos_mortgage_lending_quarterly.csv,slos_mortgage_price_conditions,SLOS_ML_LEND_PC,"Mortgage price lending conditions, balance of opinion",quarterly,balance of opinion
+slos_mortgage_lending_quarterly.csv,slos_mortgage_nonprice_conditions,SLOS_ML_LEND_NP,"Mortgage non-price lending conditions, balance of opinion",quarterly,balance of opinion
+cpi_total_monthly.csv,cpi_total,V41690973,"Total CPI (Statistics Canada vector, served by Bank of Canada)",monthly,index 2002=100
