@@ -1,0 +1,26 @@
+column,file,type,description
+ref_date,food_insecurity_cis.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,food_insecurity_cis.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,food_insecurity_cis.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+economic_family_type,food_insecurity_cis.csv,string,Economic family type as published.
+food_security_status,food_insecurity_cis.csv,string,"Food security status as published, including food secure and marginal, moderate or severe food insecurity."
+statistic,food_insecurity_cis.csv,string,"Number of persons or percentage of persons, as published. This table does not include confidence intervals."
+unit_of_measure,food_insecurity_cis.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,food_insecurity_cis.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,food_insecurity_cis.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,food_insecurity_cis.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,food_insecurity_cis.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,food_insecurity_cis.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,food_insecurity_cis.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,food_insecurity_cis.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,food_insecurity_cis.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,food_insecurity_cis.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,food_insecurity_cis.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,food_insecurity_cis.csv,string,"Reference period as published, usually a calendar year."
+year,food_insecurity_cis.csv,integer,Calendar year of the reference period.
+iso3166_2,food_insecurity_cis.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,food_insecurity_cis.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+estimate_quality,food_insecurity_cis.csv,string,"Official Statistics Canada quality symbol from the STATUS column: A excellent, B very good, C good, D acceptable, E use with caution, F too unreliable to be published, plus other official symbols when present."
+estimate_quality_label,food_insecurity_cis.csv,string,Plain language label for the official quality symbol.
+canada_value,food_insecurity_cis.csv,numeric,"Canada figure for the same year, economic family type, food security status and statistic, so categories are matched."
+gap_vs_canada,food_insecurity_cis.csv,numeric,"This percentage minus the matched Canada percentage, in percentage points. Empty on count rows. This is an adapted comparison, not an official test."

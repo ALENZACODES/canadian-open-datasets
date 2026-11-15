@@ -1,0 +1,2 @@
+source_id,title,url,licence,release_date,retrieval_date,file_name,checksum_sha256,notes
+13-10-0834-01,Food insecurity by economic family type (Canadian Income Survey),https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310083401,Statistics Canada Open Licence,2026-04-29,2026-11-15,sc_13100834.zip,4cca22a4bfe9b02cb40c5710a0e376df140d054d34b6ae90efdd1c8aa4acfd82,"Full official cube. Survey number 5200, Canadian Income Survey. Row count in the package matches the source."
