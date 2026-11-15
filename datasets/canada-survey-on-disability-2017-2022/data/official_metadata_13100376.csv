@@ -1,0 +1,104 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Type of disability for persons with disabilities aged 15 years and over, by age group and gender","13100376",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310037601",1;2;3;5;6;7;13,"CURRENT - a cube available to the public and that is current","Every 5 years","2017-01-01","2022-01-01","5",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Age group",4,""
+"3","Gender",8;9,""
+"4","Disability type",,""
+"5","Estimates",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Atlantic provinces","[1]","2","1","",,
+"1","Quebec","[24]","7","1","",,
+"1","Ontario","[35]","8","1","",,
+"1","Prairie provinces","[4]","9","1","",,
+"1","British Columbia","[59]","13","1","",,
+"1","Territories","[6]","14","1","",,
+"1","Newfoundland and Labrador","[10]","3","2","",,
+"1","Prince Edward Island","[11]","4","2","",,
+"1","Nova Scotia","[12]","5","2","",,
+"1","New Brunswick","[13]","6","2","",,
+"1","Manitoba","[46]","10","9","",,
+"1","Saskatchewan","[47]","11","9","",,
+"1","Alberta","[48]","12","9","",,
+"1","Yukon","[60]","15","14","",,
+"1","Northwest Territories","[61]","16","14","",,
+"1","Nunavut","[62]","17","14","",,
+"1","Canada","[11124]","1","","",,
+"2","15 to 24 years","","2","1","",,
+"2","25 to 44 years","","3","1","",,
+"2","45 to 64 years","","4","1","",,
+"2","65 years and over","","5","1","",,
+"2","Total, 15 years and over","","1","","",2,
+"3","Men+","","2","1","",10,
+"3","Women+","","3","1","",11,
+"3","Total, gender","","1","","",,
+"4","Pain-related","","2","1","",14,
+"4","Flexibility","","3","1","",15,
+"4","Mobility","","4","1","",16,
+"4","Mental health-related","","5","1","",17,
+"4","Seeing","","6","1","",18,
+"4","Hearing","","7","1","",19,
+"4","Dexterity","","8","1","",20,
+"4","Learning","","9","1","",21,
+"4","Memory","","10","1","",22,
+"4","Developmental","","11","1","",23,
+"4","Unknown disability type","","12","1","",24,
+"4","Total population with disabilities","","1","","",3,
+"5","Number of persons","","1","","",,
+"5","Percentage of persons","","2","","",,
+"5","Low 95% confidence interval, number of persons","","3","","",,
+"5","High 95% confidence interval, number of persons","","4","","",,
+"5","Low 95% confidence interval, percentage of persons","","5","","",,
+"5","High 95% confidence interval, percentage of persons","","6","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3251","Canadian Survey on Disability"
+
+"Subject Code","Subject Name"
+"13","Health"
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Survey on Disability, 2017 and 2022."
+2,"The survey population comprised Canadians aged 15 years and over living in private dwellings. It excluded those living in institutions and other collective dwellings, on Canadian Armed Force bases, and on First Nations reserves."
+3,"The Canadian Survey on Disability identifies persons with disabilities using the Disability Screening Questions (DSQ), which are based on the social model of disability. The DSQ first measure the degree to which difficulties are experienced across 10 domains of functioning, then ask how often daily activities are limited by these difficulties. Only persons who report a limitation in their day-to-day activities are identified as having a disability. For more detailed information on the DSQ, please see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/89-654-x2023004-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide (opens new window)</a>."
+4,"Age is calculated as of Census day in the previous year."
+5,"The sum of the values for each category may differ from the total due to rounding."
+6,"The confidence interval illustrates the degree of variability associated with an estimate. A wider confidence interval indicates higher variability, meaning that the estimate should be interpreted with due caution. The 95% confidence interval of an estimate means that if the survey were repeated over and over, the confidence interval would cover the true population value 95% of the time (or 19 times out of 20). Bootstrapping techniques were used to produce the 95% confidence intervals."
+7,"Estimates flagged with the letter E should be used with caution. In these cases, data users should use the 95% confidence interval to assess whether the quality of the estimate is sufficient. The letter F indicates estimates that are too unreliable to be published."
+8,"Gender was not collected in the 2017 Canadian Survey on Disability (CSD). Therefore, the sex variable from 2017 and the two-category gender variable from 2022 are combined in this analysis. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations. For additional information on changes of concepts over time, please consult the Age, Sex at Birth and Gender Reference Guide."
+9,"Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary most of the time to protect the confidentiality of responses. In these cases, individuals in the category "non-binary persons" are distributed into the other two gender categories and are denoted by the "+" symbol."
+10,"Prior to the 2022 Canadian Survey on Disability (CSD), this category was called "males". As of the 2022 CSD, it was renamed "men+" and includes men, as well as some non-binary persons."
+11,"Prior to the 2022 Canadian Survey on Disability (CSD), this category was called "females". As of the 2022 CSD, it was renamed "women+" and includes women, as well as some non-binary persons."
+13,"Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 population."
+14,"Persons with a pain-related disability are identified as persons whose daily activities are limited because of pain that is always present or periods of pain that reoccur from time to time (even when using medication or therapy, where applicable). For more detailed information on the identification of persons with pain-related disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+15,"Persons with a flexibility disability are identified as persons whose daily activities are limited because of difficulties bending down or reaching. For more detailed information on persons with flexibility disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+16,"Persons with a mobility disability are identified as persons whose daily activities are limited because of difficulties with their ability to move around, including walking or using stairs (even with the use of an aid providing minimal support, such as a cane, where applicable). For more detailed information on persons with mobility disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+17,"Persons with a mental health-related disability are identified as persons whose daily activities are limited because of difficulties with an emotional, psychological or mental health condition (even when using medication or therapy, where applicable). For more detailed information on persons with mental health-related disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+18,"Persons with a seeing disability are identified as persons whose daily activities are limited because of difficulties with their ability to see (even with their glasses or contact lenses on, where applicable). For more detailed information on persons with seeing disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+19,"Persons with a hearing disability are identified as persons whose daily activities are limited because of difficulties with their ability to hear (even with their hearing aid or cochlear implant, where applicable). For more detailed information on persons with hearing disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+20,"Persons with a dexterity disability are identified as persons whose daily activities are limited because of difficulties using their fingers to grasp small objects. For more detailed information on persons with dexterity disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+21,"Persons with a learning disability are identified as persons whose daily activities are limited because of a self-identified learning difficulty or a learning disability diagnosed by a health care professional. For more detailed information on persons with learning disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+22,"Persons with a memory disability are identified as persons whose daily activities are limited because of difficulties with ongoing memory problems or periods of confusion (even when using medication or therapy, where applicable). For more detailed information on persons with memory disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+23,"Persons with a developmental disability are identified as persons who have been diagnosed with this condition, regardless of the level of difficulty or the frequency of the activity limitations reported. For more detailed information on persons with developmental disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+24,"Persons with an unknown disability are identified as persons whose daily activities are limited because of any long-term health problem or condition other than the 10 specific types of disabilities identified by the survey (seeing, hearing, mobility, flexibility, dexterity, pain, learning, developmental, mental health and memory disabilities). For more detailed information on persons with unknown disabilities, see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/2023004/app-ann-b-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide, Appendix B (opens new window)</a>."
+
+"Correction ID","Correction Date","Correction Note"

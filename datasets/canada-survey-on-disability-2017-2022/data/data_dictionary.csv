@@ -1,0 +1,122 @@
+file,column,type,description
+disability_prevalence.csv,ref_date,datetime,"Reference year of the Canadian Survey on Disability, stored as January 1 of that year (2017-01-01 or 2022-01-01). Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 Census population. Age is calculated as of Census day in the previous year."
+disability_prevalence.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the ten provinces, the three territories, and official regional groupings (Atlantic provinces, Prairie provinces, Territories)."
+disability_prevalence.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+disability_prevalence.csv,age_group,string,Age group as published in this official table. Age is calculated as of Census day in the previous year.
+disability_prevalence.csv,gender,string,"Gender grouping as published: Total, gender; Men+; or Women+. The official notes say gender was not collected in 2017, so the 2017 sex variable is combined with the 2022 two-category gender variable. Men+ includes men and some non-binary persons. Women+ includes women and some non-binary persons."
+disability_prevalence.csv,disability,string,"Disability status as published, including persons with disabilities, persons without disabilities, and (where the table has it) severity classes or the total population."
+disability_prevalence.csv,estimate_type,string,"The kind of official figure: number of persons, percentage of persons, or the low or high 95% confidence interval for either of those."
+disability_prevalence.csv,unit_of_measure,string,"Unit of measure for value, as published (Number or Percent)."
+disability_prevalence.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+disability_prevalence.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so a number of persons is already in persons and a percentage is already in percent."
+disability_prevalence.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+disability_prevalence.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+disability_prevalence.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+disability_prevalence.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered.
+disability_prevalence.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. E means use with caution. F means too unreliable to be published. .. means not available for a specific reference period. See the symbol legend in the official metadata files.
+disability_prevalence.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+disability_prevalence.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+disability_prevalence.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+disability_severity.csv,ref_date,datetime,"Reference year of the Canadian Survey on Disability, stored as January 1 of that year (2017-01-01 or 2022-01-01). Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 Census population. Age is calculated as of Census day in the previous year."
+disability_severity.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the ten provinces, the three territories, and official regional groupings (Atlantic provinces, Prairie provinces, Territories)."
+disability_severity.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+disability_severity.csv,age_group,string,Age group as published in this official table. Age is calculated as of Census day in the previous year.
+disability_severity.csv,gender,string,"Gender grouping as published: Total, gender; Men+; or Women+. The official notes say gender was not collected in 2017, so the 2017 sex variable is combined with the 2022 two-category gender variable. Men+ includes men and some non-binary persons. Women+ includes women and some non-binary persons."
+disability_severity.csv,severity_of_disability,string,"Official global severity class as published: persons with disabilities, all severity levels; Mild; Moderate; Severe; or Very severe. The official notes say the class names are a grouping of the global severity score, not a judgement about a person."
+disability_severity.csv,estimate_type,string,"The kind of official figure: number of persons, percentage of persons, or the low or high 95% confidence interval for either of those."
+disability_severity.csv,unit_of_measure,string,"Unit of measure for value, as published (Number or Percent)."
+disability_severity.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+disability_severity.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so a number of persons is already in persons and a percentage is already in percent."
+disability_severity.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+disability_severity.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+disability_severity.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+disability_severity.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered.
+disability_severity.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. E means use with caution. F means too unreliable to be published. .. means not available for a specific reference period. See the symbol legend in the official metadata files.
+disability_severity.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+disability_severity.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+disability_severity.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+disability_type.csv,ref_date,datetime,"Reference year of the Canadian Survey on Disability, stored as January 1 of that year (2017-01-01 or 2022-01-01). Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 Census population. Age is calculated as of Census day in the previous year."
+disability_type.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the ten provinces, the three territories, and official regional groupings (Atlantic provinces, Prairie provinces, Territories)."
+disability_type.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+disability_type.csv,age_group,string,Age group as published in this official table. Age is calculated as of Census day in the previous year.
+disability_type.csv,gender,string,"Gender grouping as published: Total, gender; Men+; or Women+. The official notes say gender was not collected in 2017, so the 2017 sex variable is combined with the 2022 two-category gender variable. Men+ includes men and some non-binary persons. Women+ includes women and some non-binary persons."
+disability_type.csv,disability_type,string,"Official disability type as published, or the total population with disabilities. A person may have more than one type."
+disability_type.csv,estimate_type,string,"The kind of official figure: number of persons, percentage of persons, or the low or high 95% confidence interval for either of those."
+disability_type.csv,unit_of_measure,string,"Unit of measure for value, as published (Number or Percent)."
+disability_type.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+disability_type.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so a number of persons is already in persons and a percentage is already in percent."
+disability_type.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+disability_type.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+disability_type.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+disability_type.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered.
+disability_type.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. E means use with caution. F means too unreliable to be published. .. means not available for a specific reference period. See the symbol legend in the official metadata files.
+disability_type.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+disability_type.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+disability_type.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+labour_force_status.csv,ref_date,datetime,"Reference year of the Canadian Survey on Disability, stored as January 1 of that year (2017-01-01 or 2022-01-01). Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 Census population. Age is calculated as of Census day in the previous year."
+labour_force_status.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the ten provinces, the three territories, and official regional groupings (Atlantic provinces, Prairie provinces, Territories)."
+labour_force_status.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+labour_force_status.csv,age_group,string,Age group as published in this official table. Age is calculated as of Census day in the previous year.
+labour_force_status.csv,gender,string,"Gender grouping as published: Total, gender; Men+; or Women+. The official notes say gender was not collected in 2017, so the 2017 sex variable is combined with the 2022 two-category gender variable. Men+ includes men and some non-binary persons. Women+ includes women and some non-binary persons."
+labour_force_status.csv,disability,string,"Disability status as published, including persons with disabilities, persons without disabilities, and (where the table has it) severity classes or the total population."
+labour_force_status.csv,labour_force_status,string,"Labour force status as published: total, in the labour force, employed, unemployed, not in labour force, or not specified. The official notes say these figures come from the 2016 and 2021 Census reference weeks, not from a CSD labour question, and that the unemployed percentage is not an unemployment rate."
+labour_force_status.csv,estimate_type,string,"The kind of official figure: number of persons, percentage of persons, or the low or high 95% confidence interval for either of those."
+labour_force_status.csv,unit_of_measure,string,"Unit of measure for value, as published (Number or Percent)."
+labour_force_status.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+labour_force_status.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so a number of persons is already in persons and a percentage is already in percent."
+labour_force_status.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+labour_force_status.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+labour_force_status.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+labour_force_status.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered.
+labour_force_status.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. E means use with caution. F means too unreliable to be published. .. means not available for a specific reference period. See the symbol legend in the official metadata files.
+labour_force_status.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+labour_force_status.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+labour_force_status.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+educational_attainment.csv,ref_date,datetime,"Reference year of the Canadian Survey on Disability, stored as January 1 of that year (2017-01-01 or 2022-01-01). Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 Census population. Age is calculated as of Census day in the previous year."
+educational_attainment.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the ten provinces, the three territories, and official regional groupings (Atlantic provinces, Prairie provinces, Territories)."
+educational_attainment.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+educational_attainment.csv,age_group,string,Age group as published in this official table. Age is calculated as of Census day in the previous year.
+educational_attainment.csv,gender,string,"Gender grouping as published: Total, gender; Men+; or Women+. The official notes say gender was not collected in 2017, so the 2017 sex variable is combined with the 2022 two-category gender variable. Men+ includes men and some non-binary persons. Women+ includes women and some non-binary persons."
+educational_attainment.csv,disability,string,"Disability status as published, including persons with disabilities, persons without disabilities, and (where the table has it) severity classes or the total population."
+educational_attainment.csv,highest_certificate,string,"Highest certificate, diploma or degree as published, including the official total and a not specified category."
+educational_attainment.csv,estimate_type,string,"The kind of official figure: number of persons, percentage of persons, or the low or high 95% confidence interval for either of those."
+educational_attainment.csv,unit_of_measure,string,"Unit of measure for value, as published (Number or Percent)."
+educational_attainment.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+educational_attainment.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so a number of persons is already in persons and a percentage is already in percent."
+educational_attainment.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+educational_attainment.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+educational_attainment.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+educational_attainment.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered.
+educational_attainment.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. E means use with caution. F means too unreliable to be published. .. means not available for a specific reference period. See the symbol legend in the official metadata files.
+educational_attainment.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+educational_attainment.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+educational_attainment.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+after_tax_income_groups.csv,ref_date,datetime,"Reference year of the Canadian Survey on Disability, stored as January 1 of that year (2017-01-01 or 2022-01-01). Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 Census population. Age is calculated as of Census day in the previous year."
+after_tax_income_groups.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the ten provinces, the three territories, and official regional groupings (Atlantic provinces, Prairie provinces, Territories)."
+after_tax_income_groups.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+after_tax_income_groups.csv,age_group,string,Age group as published in this official table. Age is calculated as of Census day in the previous year.
+after_tax_income_groups.csv,gender,string,"Gender grouping as published: Total, gender; Men+; or Women+. The official notes say gender was not collected in 2017, so the 2017 sex variable is combined with the 2022 two-category gender variable. Men+ includes men and some non-binary persons. Women+ includes women and some non-binary persons."
+after_tax_income_groups.csv,disability,string,"Disability status as published, including persons with disabilities, persons without disabilities, and (where the table has it) severity classes or the total population."
+after_tax_income_groups.csv,after_tax_income_group,string,"After-tax income group as published. For the 2022 CSD the official notes say the income year is 2020, linked from the 2021 Census. For the 2017 CSD the income year is 2015, linked from the 2016 Census."
+after_tax_income_groups.csv,estimate_type,string,"The kind of official figure: number of persons, percentage of persons, or the low or high 95% confidence interval for either of those."
+after_tax_income_groups.csv,unit_of_measure,string,"Unit of measure for value, as published (Number or Percent)."
+after_tax_income_groups.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+after_tax_income_groups.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so a number of persons is already in persons and a percentage is already in percent."
+after_tax_income_groups.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+after_tax_income_groups.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+after_tax_income_groups.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+after_tax_income_groups.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered.
+after_tax_income_groups.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. E means use with caution. F means too unreliable to be published. .. means not available for a specific reference period. See the symbol legend in the official metadata files.
+after_tax_income_groups.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+after_tax_income_groups.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+after_tax_income_groups.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+prevalence_by_province.csv,ref_date,datetime,"Reference year of the Canadian Survey on Disability, stored as January 1 of that year (2017-01-01 or 2022-01-01). Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 Census population. Age is calculated as of Census day in the previous year."
+prevalence_by_province.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the ten provinces, the three territories, and official regional groupings (Atlantic provinces, Prairie provinces, Territories)."
+prevalence_by_province.csv,age_group,string,Age group as published in this official table. Age is calculated as of Census day in the previous year.
+prevalence_by_province.csv,gender,string,"Gender grouping as published: Total, gender; Men+; or Women+. The official notes say gender was not collected in 2017, so the 2017 sex variable is combined with the 2022 two-category gender variable. Men+ includes men and some non-binary persons. Women+ includes women and some non-binary persons."
+prevalence_by_province.csv,n_persons_with_disabilities,numeric,"Official number of persons with disabilities in this geography, year, age group and gender (estimate type Number of persons). Taken from disability_prevalence.csv, not a separate official table."
+prevalence_by_province.csv,n_total_population,numeric,"Official number of persons in the total population with and without disabilities in this geography, year, age group and gender. Taken from disability_prevalence.csv, not a separate official table."
+prevalence_by_province.csv,percent,numeric,"Official percentage of persons with disabilities in this geography, year, age group and gender. Taken from disability_prevalence.csv, not a separate official table."
+prevalence_by_province.csv,percent_ci_low,numeric,Official low 95% confidence interval for the percentage of persons with disabilities.
+prevalence_by_province.csv,percent_ci_high,numeric,Official high 95% confidence interval for the percentage of persons with disabilities.
+prevalence_by_province.csv,status_percent,string,Official status symbol on the percentage of persons with disabilities. Empty means a regular published value.

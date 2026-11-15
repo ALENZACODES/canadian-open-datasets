@@ -1,0 +1,100 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Labour force status of persons with and without disabilities aged 15 years and over, by age group and gender","13100377",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310037701",1;2;3;5;6;7;12;13,"CURRENT - a cube available to the public and that is current","Every 5 years","2017-01-01","2022-01-01","6",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Age group",4,""
+"3","Gender",8;9,""
+"5","Labour force status",12,""
+"4","Disability",,""
+"6","Estimates",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Atlantic provinces","[1]","2","1","",,
+"1","Quebec","[24]","7","1","",,
+"1","Ontario","[35]","8","1","",,
+"1","Prairie provinces","[4]","9","1","",,
+"1","British Columbia","[59]","13","1","",,
+"1","Territories","[6]","14","1","",,
+"1","Newfoundland and Labrador","[10]","3","2","",,
+"1","Prince Edward Island","[11]","4","2","",,
+"1","Nova Scotia","[12]","5","2","",,
+"1","New Brunswick","[13]","6","2","",,
+"1","Manitoba","[46]","10","9","",,
+"1","Saskatchewan","[47]","11","9","",,
+"1","Alberta","[48]","12","9","",,
+"1","Yukon","[60]","15","14","",,
+"1","Northwest Territories","[61]","16","14","",,
+"1","Nunavut","[62]","17","14","",,
+"1","Canada","[11124]","1","","",,
+"2","25 to 44 years","","2","1","",,
+"2","45 to 64 years","","3","1","",,
+"2","25 to 64 years","","1","4","",,
+"2","15 to 24 years","","5","4","",,
+"2","65 years and older","","6","4","",,
+"2","Total, 15 years and over","","4","","",2,
+"3","Men+","","2","1","",10,
+"3","Women+","","3","1","",11,
+"3","Total, gender","","1","","",,
+"5","In the labour force","","2","1","",16,
+"5","Not in labour force","","5","1","",20,
+"5","Not specified","","6","1","",,
+"5","Employed","","3","2","",17,
+"5","Unemployed","","4","2","",18;19,
+"5","Total, by labour force status","","1","","",14;15,
+"4","Persons with disabilities","","2","1","",,
+"4","Persons without disabilities","","3","1","",,
+"4","Total population, with and without disabilities","","1","","",3,
+"6","Number of persons","","1","","",,
+"6","Percentage of persons","","2","","",,
+"6","Low 95% confidence interval, number of persons","","3","","",,
+"6","High 95% confidence interval, number of persons","","4","","",,
+"6","Low 95% confidence interval, percentage of persons","","5","","",,
+"6","High 95% confidence interval, percentage of persons","","6","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3251","Canadian Survey on Disability"
+
+"Subject Code","Subject Name"
+"13","Health"
+
+"Note ID",Note
+1,"Source: Statistics Canada, Canadian Survey on Disability, 2017 and 2022."
+2,"The survey population comprised Canadians aged 15 years and over living in private dwellings. It excluded those living in institutions and other collective dwellings, on Canadian Armed Force bases, and on First Nations reserves."
+3,"The Canadian Survey on Disability identifies persons with disabilities using the Disability Screening Questions (DSQ), which are based on the social model of disability. The DSQ first measure the degree to which difficulties are experienced across 10 domains of functioning, then ask how often daily activities are limited by these difficulties. Only persons who report a limitation in their day-to-day activities are identified as having a disability. For more detailed information on the DSQ, please see the <a href="https://www150.statcan.gc.ca/n1/pub/89-654-x/89-654-x2023004-eng.htm" rel="external noopener noreferrer" target="_blank">Canadian Survey on Disability, 2022: Concepts and Methods Guide (opens new window)</a>."
+4,"Age is calculated as of Census day in the previous year."
+5,"The sum of the values for each category may differ from the total due to rounding."
+6,"The confidence interval illustrates the degree of variability associated with an estimate. A wider confidence interval indicates higher variability, meaning that the estimate should be interpreted with due caution. The 95% confidence interval of an estimate means that if the survey were repeated over and over, the confidence interval would cover the true population value 95% of the time (or 19 times out of 20). Bootstrapping techniques were used to produce the 95% confidence intervals."
+7,"Estimates flagged with the letter E should be used with caution. In these cases, data users should use the 95% confidence interval to assess whether the quality of the estimate is sufficient. The letter F indicates estimates that are too unreliable to be published."
+8,"Gender was not collected in the 2017 Canadian Survey on Disability (CSD). Therefore, the sex variable from 2017 and the two-category gender variable from 2022 are combined in this analysis. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations. For additional information on changes of concepts over time, please consult the Age, Sex at Birth and Gender Reference Guide."
+9,"Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary most of the time to protect the confidentiality of responses. In these cases, individuals in the category "non-binary persons" are distributed into the other two gender categories and are denoted by the "+" symbol."
+10,"Prior to the 2022 Canadian Survey on Disability (CSD), this category was called "males". As of the 2022 CSD, it was renamed "men+" and includes men, as well as some non-binary persons."
+11,"Prior to the 2022 Canadian Survey on Disability (CSD), this category was called "females". As of the 2022 CSD, it was renamed "women+" and includes women, as well as some non-binary persons."
+12,"It is important to note that while the Canadian Survey on Disability (CSD) data were collected in 2017 and 2022, the information regarding labour force status presented here comes from the 2016 and 2021 Census of Population. The data reflects the reference weeks for the censuses, May 1 to May 7, 2016, and May 2 to May 8, 2021."
+13,"Collection took place in 2017 and 2022 for a sample selected from the 2016 and 2021 population."
+14,"The total includes the category "Not specified"."
+15,"Refers to whether a person was employed, unemployed or not in the labour force during the reference week."
+16,"Refers to persons who, during the reference week, were either employed or unemployed."
+17,"Employed refers to persons who, during the reference period, did any work for pay or profit. This includes those who had a job but were absent from work for reasons such as own illness or disability, personal or family responsibilities, vacation, or labour dispute. It also includes unpaid family work, which is defined as unpaid work contributing directly to the operation of a farm, business or professional practice owned and operated by a related member of the same household."
+18,"Unemployed refers to persons who were available for work during the reference week and who had looked for a job in the previous four weeks; were on temporary layoff during the reference period; or had a new job to start within four weeks from the reference week."
+19,"A note of caution: The percentages displayed in this table for the unemployed do not represent unemployment rates — they are simply the percentage of the total population who are unemployed. The unemployment rate for a particular group (by age, sex or geographic area) is the unemployed in that group, expressed as a percentage of the labour force in that group. To calculate unemployment rates, divide the number of unemployed persons by the number of persons in the labour force (employed persons plus unemployed persons) for the group of interest."
+20,"Not in the labour force refers to persons unwilling or unable to work; that is, they were neither employed nor unemployed."
+
+"Correction ID","Correction Date","Correction Note"
