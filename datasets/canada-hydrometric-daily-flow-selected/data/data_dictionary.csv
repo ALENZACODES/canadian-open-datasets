@@ -1,0 +1,24 @@
+file,column,type,description
+stations.csv,station_number,string,Water Survey of Canada station number.
+stations.csv,station_name,string,Station name as published by HYDAT / GeoMet.
+stations.csv,province,string,Province or territory code.
+stations.csv,n_days,integer,Count of days with discharge in the summary period.
+stations.csv,date_start,datetime,First date with data in this snapshot.
+stations.csv,date_end,datetime,Last date with data in this snapshot.
+stations.csv,mean_discharge_m3s,numeric,Mean daily discharge in cubic metres per second.
+stations.csv,max_discharge_m3s,numeric,Maximum daily discharge in cubic metres per second.
+daily_mean_flow.csv,station_number,string,Water Survey of Canada station number.
+daily_mean_flow.csv,station_name,string,Station name as published by HYDAT / GeoMet.
+daily_mean_flow.csv,province,string,Province or territory code.
+daily_mean_flow.csv,date,datetime,Calendar date of the daily mean (YYYY-MM-DD).
+daily_mean_flow.csv,discharge_m3s,numeric,Daily mean discharge in cubic metres per second.
+daily_mean_flow.csv,discharge_symbol,string,English discharge quality symbol when published.
+daily_mean_flow.csv,level_m,numeric,Daily mean water level in metres when published.
+annual_flow_summary.csv,station_number,string,Water Survey of Canada station number.
+annual_flow_summary.csv,station_name,string,Station name as published by HYDAT / GeoMet.
+annual_flow_summary.csv,province,string,Province or territory code.
+annual_flow_summary.csv,year,integer,Calendar year.
+annual_flow_summary.csv,n_days,integer,Count of days with discharge in the summary period.
+annual_flow_summary.csv,mean_discharge_m3s,numeric,Mean daily discharge in cubic metres per second.
+annual_flow_summary.csv,max_discharge_m3s,numeric,Maximum daily discharge in cubic metres per second.
+annual_flow_summary.csv,min_discharge_m3s,numeric,Minimum daily discharge in cubic metres per second.
