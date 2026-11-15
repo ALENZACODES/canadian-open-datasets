@@ -1,0 +1,76 @@
+column,file,type,description
+ref_date,cancer_incidence_counts.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,cancer_incidence_counts.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,cancer_incidence_counts.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+sex,cancer_incidence_counts.csv,string,"Sex as published: Both sexes, Males or Females."
+primary_types_of_cancer_icd_o_3,cancer_incidence_counts.csv,string,"Official primary cancer type, based on ICD-O-3 / SEER groups, as published."
+2021_census_population_structure,cancer_incidence_counts.csv,string,Official cube member naming the 2021 Census population structure used for age-standardization.
+characteristics,cancer_incidence_counts.csv,string,Official measure name as published in the cube.
+unit_of_measure,cancer_incidence_counts.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,cancer_incidence_counts.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,cancer_incidence_counts.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,cancer_incidence_counts.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,cancer_incidence_counts.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,cancer_incidence_counts.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,cancer_incidence_counts.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,cancer_incidence_counts.csv,string,"Official status symbol: blank, x (suppressed) or .. (not available). These official suppression and availability codes are kept."
+symbol,cancer_incidence_counts.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,cancer_incidence_counts.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,cancer_incidence_counts.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,cancer_incidence_counts.csv,string,Reference period as published.
+year,cancer_incidence_counts.csv,integer,Diagnosis year.
+iso3166_2,cancer_incidence_counts.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,cancer_incidence_counts.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+standard_population,cancer_incidence_counts.csv,string,"final 2021 Canadian postcensal population structure, as stated in official table note 13. Filled only on rate rows."
+standardization_method,cancer_incidence_counts.csv,string,"direct method, as stated in official table note 13. Filled only on rate rows."
+measure,cancer_incidence_counts.csv,string,"Same as characteristics. Counts, age-standardized rates and average age are separate official measures."
+ref_date,cancer_incidence_rates.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,cancer_incidence_rates.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,cancer_incidence_rates.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+sex,cancer_incidence_rates.csv,string,"Sex as published: Both sexes, Males or Females."
+primary_types_of_cancer_icd_o_3,cancer_incidence_rates.csv,string,"Official primary cancer type, based on ICD-O-3 / SEER groups, as published."
+2021_census_population_structure,cancer_incidence_rates.csv,string,Official cube member naming the 2021 Census population structure used for age-standardization.
+characteristics,cancer_incidence_rates.csv,string,Official measure name as published in the cube.
+unit_of_measure,cancer_incidence_rates.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,cancer_incidence_rates.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,cancer_incidence_rates.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,cancer_incidence_rates.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,cancer_incidence_rates.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,cancer_incidence_rates.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,cancer_incidence_rates.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,cancer_incidence_rates.csv,string,"Official status symbol: blank, x (suppressed) or .. (not available). These official suppression and availability codes are kept."
+symbol,cancer_incidence_rates.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,cancer_incidence_rates.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,cancer_incidence_rates.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,cancer_incidence_rates.csv,string,Reference period as published.
+year,cancer_incidence_rates.csv,integer,Diagnosis year.
+iso3166_2,cancer_incidence_rates.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,cancer_incidence_rates.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+standard_population,cancer_incidence_rates.csv,string,"final 2021 Canadian postcensal population structure, as stated in official table note 13. Filled only on rate rows."
+standardization_method,cancer_incidence_rates.csv,string,"direct method, as stated in official table note 13. Filled only on rate rows."
+measure,cancer_incidence_rates.csv,string,"Same as characteristics. Counts, age-standardized rates and average age are separate official measures."
+ref_date,cancer_average_age_at_diagnosis.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,cancer_average_age_at_diagnosis.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,cancer_average_age_at_diagnosis.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+sex,cancer_average_age_at_diagnosis.csv,string,"Sex as published: Both sexes, Males or Females."
+primary_types_of_cancer_icd_o_3,cancer_average_age_at_diagnosis.csv,string,"Official primary cancer type, based on ICD-O-3 / SEER groups, as published."
+2021_census_population_structure,cancer_average_age_at_diagnosis.csv,string,Official cube member naming the 2021 Census population structure used for age-standardization.
+characteristics,cancer_average_age_at_diagnosis.csv,string,Official measure name as published in the cube.
+unit_of_measure,cancer_average_age_at_diagnosis.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,cancer_average_age_at_diagnosis.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,cancer_average_age_at_diagnosis.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,cancer_average_age_at_diagnosis.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,cancer_average_age_at_diagnosis.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,cancer_average_age_at_diagnosis.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,cancer_average_age_at_diagnosis.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,cancer_average_age_at_diagnosis.csv,string,"Official status symbol: blank, x (suppressed) or .. (not available). These official suppression and availability codes are kept."
+symbol,cancer_average_age_at_diagnosis.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,cancer_average_age_at_diagnosis.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,cancer_average_age_at_diagnosis.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,cancer_average_age_at_diagnosis.csv,string,Reference period as published.
+year,cancer_average_age_at_diagnosis.csv,integer,Diagnosis year.
+iso3166_2,cancer_average_age_at_diagnosis.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,cancer_average_age_at_diagnosis.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+standard_population,cancer_average_age_at_diagnosis.csv,string,"final 2021 Canadian postcensal population structure, as stated in official table note 13. Filled only on rate rows."
+standardization_method,cancer_average_age_at_diagnosis.csv,string,"direct method, as stated in official table note 13. Filled only on rate rows."
+measure,cancer_average_age_at_diagnosis.csv,string,"Same as characteristics. Counts, age-standardized rates and average age are separate official measures."

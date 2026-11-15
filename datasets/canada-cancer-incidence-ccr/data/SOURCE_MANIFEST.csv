@@ -1,0 +1,2 @@
+source_id,title,url,licence,release_date,retrieval_date,file_name,checksum_sha256,notes
+13-10-0747-01,"Number of new cases and age-standardized rates of primary cancer, by cancer type and sex",https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310074701,Statistics Canada Open Licence,2026-02-27,2026-11-15,13100747-eng.zip,44be55831ee833f8a30d369e480ed4f1a18fe0196240d9a29097bba7905fe931,"Stream-filtered to Canada, the provinces and the territories. Official age-standardized rates use the direct method and the final 2021 Canadian postcensal population structure."

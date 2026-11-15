@@ -1,0 +1,13 @@
+John Khan. 2026. Canada cancer incidence rates and counts [Data set]. Kaggle. https://www.kaggle.com/datasets/johnnykhan1/canada-cancer-incidence-ccr. DOI pending.
+
+A Kaggle DOI has not been minted for this version. The line above can be updated once a DOI is assigned in the dataset metadata tab.
+
+BibTeX:
+@misc{canada_cancer_incidence_ccr_2026,
+  author = {John Khan},
+  title = {{Canada cancer incidence rates and counts}},
+  year = {2026},
+  howpublished = {Kaggle},
+  note = {Data set. DOI pending},
+  url = {https://www.kaggle.com/datasets/johnnykhan1/canada-cancer-incidence-ccr}
+}
