@@ -1,0 +1,21 @@
+field_code,field_name,description
+4020,total_revenue,Total revenue
+4050,total_expenditures,Total expenditures
+4100,cash_bank_accounts_and_short_term_investments,"Cash, bank accounts and short-term investments"
+4110,amounts_receivable_from_non_arm_s_length_parties,Amounts receivable from non-arm's length parties
+4120,amounts_receivable_from_all_others,Amounts receivable from all others
+4130,investments_in_non_arm_s_length_parties,Investments in non-arm's length parties
+4140,long_term_investments,Long-term investments
+4150,inventories,Inventories
+4155,land_and_buildings_in_canada,Land and buildings in Canada
+4160,other_capital_assets_in_canada,Other capital assets in Canada
+4165,capital_assets_outside_canada,Capital assets outside Canada
+4166,accumulated_amortization_of_capital_assets,Accumulated amortization of capital assets
+4170,other_assets,Other assets
+4180,total_assets,Total assets
+4200,accounts_payable_and_accrued_liabilities,Accounts payable and accrued liabilities
+4250,deferred_revenue,Deferred revenue
+4300,amounts_owing_to_non_arm_s_length_parties,Amounts owing to non-arm's length parties
+4310,other_liabilities,Other liabilities
+4350,total_liabilities,Total liabilities
+4400,total_net_assets_or_fund_balances,Total net assets or fund balances

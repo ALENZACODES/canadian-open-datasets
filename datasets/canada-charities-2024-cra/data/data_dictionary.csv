@@ -1,0 +1,195 @@
+column,file,type,description
+bn,charities_identification.csv,string,Business Number of the charity.
+category,charities_identification.csv,string,Charity category as published by CRA.
+sub_category,charities_identification.csv,string,Charity sub-category as published by CRA.
+designation,charities_identification.csv,string,"Designation such as charitable organization, public foundation or private foundation."
+legal_name,charities_identification.csv,string,Legal name of the charity.
+account_name,charities_identification.csv,string,Account name as published.
+address_line_1,charities_identification.csv,string,Address line 1.
+address_line_2,charities_identification.csv,string,Address line 2.
+city,charities_identification.csv,string,City.
+province,charities_identification.csv,string,Province or territory.
+postal_code,charities_identification.csv,string,Postal code.
+country,charities_identification.csv,string,Country.
+bn,charities_financial_summary.csv,string,Business Number of the charity.
+fpe,charities_financial_summary.csv,string,Fiscal period end date for the T3010 return.
+form_id,charities_financial_summary.csv,string,Form identifier for the return.
+section_used,charities_financial_summary.csv,string,Which financial section of the return was used.
+total_revenue,charities_financial_summary.csv,numeric,T3010 financial field: total revenue.
+total_expenditures,charities_financial_summary.csv,numeric,T3010 financial field: total expenditures.
+cash_bank_accounts_and_short_term_investments,charities_financial_summary.csv,numeric,T3010 financial field: cash bank accounts and short term investments.
+amounts_receivable_from_non_arm_s_length_parties,charities_financial_summary.csv,numeric,T3010 financial field: amounts receivable from non arm s length parties.
+amounts_receivable_from_all_others,charities_financial_summary.csv,numeric,T3010 financial field: amounts receivable from all others.
+investments_in_non_arm_s_length_parties,charities_financial_summary.csv,numeric,T3010 financial field: investments in non arm s length parties.
+long_term_investments,charities_financial_summary.csv,numeric,T3010 financial field: long term investments.
+inventories,charities_financial_summary.csv,numeric,T3010 financial field: inventories.
+land_and_buildings_in_canada,charities_financial_summary.csv,numeric,T3010 financial field: land and buildings in canada.
+other_capital_assets_in_canada,charities_financial_summary.csv,numeric,T3010 financial field: other capital assets in canada.
+capital_assets_outside_canada,charities_financial_summary.csv,numeric,T3010 financial field: capital assets outside canada.
+accumulated_amortization_of_capital_assets,charities_financial_summary.csv,numeric,T3010 financial field: accumulated amortization of capital assets.
+other_assets,charities_financial_summary.csv,numeric,T3010 financial field: other assets.
+total_assets,charities_financial_summary.csv,numeric,T3010 financial field: total assets.
+accounts_payable_and_accrued_liabilities,charities_financial_summary.csv,numeric,T3010 financial field: accounts payable and accrued liabilities.
+deferred_revenue,charities_financial_summary.csv,numeric,T3010 financial field: deferred revenue.
+amounts_owing_to_non_arm_s_length_parties,charities_financial_summary.csv,numeric,T3010 financial field: amounts owing to non arm s length parties.
+other_liabilities,charities_financial_summary.csv,numeric,T3010 financial field: other liabilities.
+total_liabilities,charities_financial_summary.csv,numeric,T3010 financial field: total liabilities.
+total_net_assets_or_fund_balances,charities_financial_summary.csv,numeric,T3010 financial field: total net assets or fund balances.
+bn,charities_financial_all_codes.csv,string,Business Number of the charity.
+fpe,charities_financial_all_codes.csv,string,Fiscal period end date for the T3010 return.
+form_id,charities_financial_all_codes.csv,string,Form identifier for the return.
+section_used,charities_financial_all_codes.csv,string,Which financial section of the return was used.
+4020,charities_financial_all_codes.csv,numeric,CRA financial field code 4020. See financial_field_codes.csv for common codes.
+4050,charities_financial_all_codes.csv,numeric,CRA financial field code 4050. See financial_field_codes.csv for common codes.
+4100,charities_financial_all_codes.csv,numeric,CRA financial field code 4100. See financial_field_codes.csv for common codes.
+4110,charities_financial_all_codes.csv,numeric,CRA financial field code 4110. See financial_field_codes.csv for common codes.
+4120,charities_financial_all_codes.csv,numeric,CRA financial field code 4120. See financial_field_codes.csv for common codes.
+4130,charities_financial_all_codes.csv,numeric,CRA financial field code 4130. See financial_field_codes.csv for common codes.
+4140,charities_financial_all_codes.csv,numeric,CRA financial field code 4140. See financial_field_codes.csv for common codes.
+4150,charities_financial_all_codes.csv,numeric,CRA financial field code 4150. See financial_field_codes.csv for common codes.
+4155,charities_financial_all_codes.csv,numeric,CRA financial field code 4155. See financial_field_codes.csv for common codes.
+4160,charities_financial_all_codes.csv,numeric,CRA financial field code 4160. See financial_field_codes.csv for common codes.
+4165,charities_financial_all_codes.csv,numeric,CRA financial field code 4165. See financial_field_codes.csv for common codes.
+4166,charities_financial_all_codes.csv,numeric,CRA financial field code 4166. See financial_field_codes.csv for common codes.
+4170,charities_financial_all_codes.csv,numeric,CRA financial field code 4170. See financial_field_codes.csv for common codes.
+4180,charities_financial_all_codes.csv,numeric,CRA financial field code 4180. See financial_field_codes.csv for common codes.
+4200,charities_financial_all_codes.csv,numeric,CRA financial field code 4200. See financial_field_codes.csv for common codes.
+4250,charities_financial_all_codes.csv,numeric,CRA financial field code 4250. See financial_field_codes.csv for common codes.
+4300,charities_financial_all_codes.csv,numeric,CRA financial field code 4300. See financial_field_codes.csv for common codes.
+4310,charities_financial_all_codes.csv,numeric,CRA financial field code 4310. See financial_field_codes.csv for common codes.
+4320,charities_financial_all_codes.csv,numeric,CRA financial field code 4320. See financial_field_codes.csv for common codes.
+4330,charities_financial_all_codes.csv,numeric,CRA financial field code 4330. See financial_field_codes.csv for common codes.
+4350,charities_financial_all_codes.csv,numeric,CRA financial field code 4350. See financial_field_codes.csv for common codes.
+4400,charities_financial_all_codes.csv,numeric,CRA financial field code 4400. See financial_field_codes.csv for common codes.
+4490,charities_financial_all_codes.csv,numeric,CRA financial field code 4490. See financial_field_codes.csv for common codes.
+4500,charities_financial_all_codes.csv,numeric,CRA financial field code 4500. See financial_field_codes.csv for common codes.
+5610,charities_financial_all_codes.csv,numeric,CRA financial field code 5610. See financial_field_codes.csv for common codes.
+4505,charities_financial_all_codes.csv,numeric,CRA financial field code 4505. See financial_field_codes.csv for common codes.
+4510,charities_financial_all_codes.csv,numeric,CRA financial field code 4510. See financial_field_codes.csv for common codes.
+4530,charities_financial_all_codes.csv,numeric,CRA financial field code 4530. See financial_field_codes.csv for common codes.
+4540,charities_financial_all_codes.csv,numeric,CRA financial field code 4540. See financial_field_codes.csv for common codes.
+4550,charities_financial_all_codes.csv,numeric,CRA financial field code 4550. See financial_field_codes.csv for common codes.
+4560,charities_financial_all_codes.csv,numeric,CRA financial field code 4560. See financial_field_codes.csv for common codes.
+4565,charities_financial_all_codes.csv,numeric,CRA financial field code 4565. See financial_field_codes.csv for common codes.
+4570,charities_financial_all_codes.csv,numeric,CRA financial field code 4570. See financial_field_codes.csv for common codes.
+4571,charities_financial_all_codes.csv,numeric,CRA financial field code 4571. See financial_field_codes.csv for common codes.
+4575,charities_financial_all_codes.csv,numeric,CRA financial field code 4575. See financial_field_codes.csv for common codes.
+4580,charities_financial_all_codes.csv,numeric,CRA financial field code 4580. See financial_field_codes.csv for common codes.
+4590,charities_financial_all_codes.csv,numeric,CRA financial field code 4590. See financial_field_codes.csv for common codes.
+4600,charities_financial_all_codes.csv,numeric,CRA financial field code 4600. See financial_field_codes.csv for common codes.
+4610,charities_financial_all_codes.csv,numeric,CRA financial field code 4610. See financial_field_codes.csv for common codes.
+4620,charities_financial_all_codes.csv,numeric,CRA financial field code 4620. See financial_field_codes.csv for common codes.
+4630,charities_financial_all_codes.csv,numeric,CRA financial field code 4630. See financial_field_codes.csv for common codes.
+4640,charities_financial_all_codes.csv,numeric,CRA financial field code 4640. See financial_field_codes.csv for common codes.
+4650,charities_financial_all_codes.csv,numeric,CRA financial field code 4650. See financial_field_codes.csv for common codes.
+4655,charities_financial_all_codes.csv,numeric,CRA financial field code 4655. See financial_field_codes.csv for common codes.
+4700,charities_financial_all_codes.csv,numeric,CRA financial field code 4700. See financial_field_codes.csv for common codes.
+4800,charities_financial_all_codes.csv,numeric,CRA financial field code 4800. See financial_field_codes.csv for common codes.
+4810,charities_financial_all_codes.csv,numeric,CRA financial field code 4810. See financial_field_codes.csv for common codes.
+4820,charities_financial_all_codes.csv,numeric,CRA financial field code 4820. See financial_field_codes.csv for common codes.
+4830,charities_financial_all_codes.csv,numeric,CRA financial field code 4830. See financial_field_codes.csv for common codes.
+4840,charities_financial_all_codes.csv,numeric,CRA financial field code 4840. See financial_field_codes.csv for common codes.
+4850,charities_financial_all_codes.csv,numeric,CRA financial field code 4850. See financial_field_codes.csv for common codes.
+4860,charities_financial_all_codes.csv,numeric,CRA financial field code 4860. See financial_field_codes.csv for common codes.
+4870,charities_financial_all_codes.csv,numeric,CRA financial field code 4870. See financial_field_codes.csv for common codes.
+4880,charities_financial_all_codes.csv,numeric,CRA financial field code 4880. See financial_field_codes.csv for common codes.
+4890,charities_financial_all_codes.csv,numeric,CRA financial field code 4890. See financial_field_codes.csv for common codes.
+4891,charities_financial_all_codes.csv,numeric,CRA financial field code 4891. See financial_field_codes.csv for common codes.
+4900,charities_financial_all_codes.csv,numeric,CRA financial field code 4900. See financial_field_codes.csv for common codes.
+4910,charities_financial_all_codes.csv,numeric,CRA financial field code 4910. See financial_field_codes.csv for common codes.
+4920,charities_financial_all_codes.csv,numeric,CRA financial field code 4920. See financial_field_codes.csv for common codes.
+4930,charities_financial_all_codes.csv,numeric,CRA financial field code 4930. See financial_field_codes.csv for common codes.
+4950,charities_financial_all_codes.csv,numeric,CRA financial field code 4950. See financial_field_codes.csv for common codes.
+5000,charities_financial_all_codes.csv,numeric,CRA financial field code 5000. See financial_field_codes.csv for common codes.
+5010,charities_financial_all_codes.csv,numeric,CRA financial field code 5010. See financial_field_codes.csv for common codes.
+5020,charities_financial_all_codes.csv,numeric,CRA financial field code 5020. See financial_field_codes.csv for common codes.
+5030,charities_financial_all_codes.csv,numeric,CRA financial field code 5030. See financial_field_codes.csv for common codes.
+5040,charities_financial_all_codes.csv,numeric,CRA financial field code 5040. See financial_field_codes.csv for common codes.
+5050,charities_financial_all_codes.csv,numeric,CRA financial field code 5050. See financial_field_codes.csv for common codes.
+5100,charities_financial_all_codes.csv,numeric,CRA financial field code 5100. See financial_field_codes.csv for common codes.
+5500,charities_financial_all_codes.csv,numeric,CRA financial field code 5500. See financial_field_codes.csv for common codes.
+5510,charities_financial_all_codes.csv,numeric,CRA financial field code 5510. See financial_field_codes.csv for common codes.
+5750,charities_financial_all_codes.csv,numeric,CRA financial field code 5750. See financial_field_codes.csv for common codes.
+5900,charities_financial_all_codes.csv,numeric,CRA financial field code 5900. See financial_field_codes.csv for common codes.
+5910,charities_financial_all_codes.csv,numeric,CRA financial field code 5910. See financial_field_codes.csv for common codes.
+5045,charities_financial_all_codes.csv,numeric,CRA financial field code 5045. See financial_field_codes.csv for common codes.
+4101,charities_financial_all_codes.csv,numeric,CRA financial field code 4101. See financial_field_codes.csv for common codes.
+4102,charities_financial_all_codes.csv,numeric,CRA financial field code 4102. See financial_field_codes.csv for common codes.
+4157,charities_financial_all_codes.csv,numeric,CRA financial field code 4157. See financial_field_codes.csv for common codes.
+4158,charities_financial_all_codes.csv,numeric,CRA financial field code 4158. See financial_field_codes.csv for common codes.
+4190,charities_financial_all_codes.csv,numeric,CRA financial field code 4190. See financial_field_codes.csv for common codes.
+4576,charities_financial_all_codes.csv,numeric,CRA financial field code 4576. See financial_field_codes.csv for common codes.
+4577,charities_financial_all_codes.csv,numeric,CRA financial field code 4577. See financial_field_codes.csv for common codes.
+bn,charities_general_information.csv,string,Business Number of the charity.
+fpe,charities_general_information.csv,string,Fiscal period end date for the T3010 return.
+form_id,charities_general_information.csv,string,Form identifier for the return.
+program_num1_code,charities_general_information.csv,string,program num1 code from the CRA general information file.
+program_num1_pct,charities_general_information.csv,string,program num1 pct from the CRA general information file.
+program_num1_desc,charities_general_information.csv,string,program num1 desc from the CRA general information file.
+program_num2_code,charities_general_information.csv,string,program num2 code from the CRA general information file.
+program_num2_pct,charities_general_information.csv,string,program num2 pct from the CRA general information file.
+program_num2_desc,charities_general_information.csv,string,program num2 desc from the CRA general information file.
+program_num3_code,charities_general_information.csv,string,program num3 code from the CRA general information file.
+program_num3_pct,charities_general_information.csv,string,program num3 pct from the CRA general information file.
+program_num3_desc,charities_general_information.csv,string,program num3 desc from the CRA general information file.
+n_1510,charities_general_information.csv,string,n 1510 from the CRA general information file.
+n_1510_bn,charities_general_information.csv,string,n 1510 bn from the CRA general information file.
+n_1510_name,charities_general_information.csv,string,n 1510 name from the CRA general information file.
+n_1570,charities_general_information.csv,string,n 1570 from the CRA general information file.
+n_1600,charities_general_information.csv,string,n 1600 from the CRA general information file.
+n_1800,charities_general_information.csv,string,n 1800 from the CRA general information file.
+n_2000,charities_general_information.csv,string,n 2000 from the CRA general information file.
+n_2100,charities_general_information.csv,string,n 2100 from the CRA general information file.
+n_2400,charities_general_information.csv,string,n 2400 from the CRA general information file.
+n_5030,charities_general_information.csv,string,n 5030 from the CRA general information file.
+n_5031,charities_general_information.csv,string,n 5031 from the CRA general information file.
+n_5032,charities_general_information.csv,string,n 5032 from the CRA general information file.
+n_2500,charities_general_information.csv,string,n 2500 from the CRA general information file.
+n_2510,charities_general_information.csv,string,n 2510 from the CRA general information file.
+n_2530,charities_general_information.csv,string,n 2530 from the CRA general information file.
+n_2540,charities_general_information.csv,string,n 2540 from the CRA general information file.
+n_2550,charities_general_information.csv,string,n 2550 from the CRA general information file.
+n_2560,charities_general_information.csv,string,n 2560 from the CRA general information file.
+n_2570,charities_general_information.csv,string,n 2570 from the CRA general information file.
+n_2575,charities_general_information.csv,string,n 2575 from the CRA general information file.
+n_2580,charities_general_information.csv,string,n 2580 from the CRA general information file.
+n_2590,charities_general_information.csv,string,n 2590 from the CRA general information file.
+n_2600,charities_general_information.csv,string,n 2600 from the CRA general information file.
+n_2610,charities_general_information.csv,string,n 2610 from the CRA general information file.
+n_2620,charities_general_information.csv,string,n 2620 from the CRA general information file.
+n_2630,charities_general_information.csv,string,n 2630 from the CRA general information file.
+n_2640,charities_general_information.csv,string,n 2640 from the CRA general information file.
+n_2650,charities_general_information.csv,string,n 2650 from the CRA general information file.
+n_2660,charities_general_information.csv,string,n 2660 from the CRA general information file.
+n_2700,charities_general_information.csv,string,n 2700 from the CRA general information file.
+n_5450,charities_general_information.csv,string,n 5450 from the CRA general information file.
+n_5460,charities_general_information.csv,string,n 5460 from the CRA general information file.
+n_2730,charities_general_information.csv,string,n 2730 from the CRA general information file.
+n_2740,charities_general_information.csv,string,n 2740 from the CRA general information file.
+n_2750,charities_general_information.csv,string,n 2750 from the CRA general information file.
+n_2760,charities_general_information.csv,string,n 2760 from the CRA general information file.
+n_2770,charities_general_information.csv,string,n 2770 from the CRA general information file.
+n_2780,charities_general_information.csv,string,n 2780 from the CRA general information file.
+n_2790,charities_general_information.csv,string,n 2790 from the CRA general information file.
+n_2800,charities_general_information.csv,string,n 2800 from the CRA general information file.
+n_3200,charities_general_information.csv,string,n 3200 from the CRA general information file.
+n_3400,charities_general_information.csv,string,n 3400 from the CRA general information file.
+n_3900,charities_general_information.csv,string,n 3900 from the CRA general information file.
+n_4000,charities_general_information.csv,string,n 4000 from the CRA general information file.
+n_5800,charities_general_information.csv,string,n 5800 from the CRA general information file.
+n_5810,charities_general_information.csv,string,n 5810 from the CRA general information file.
+n_5820,charities_general_information.csv,string,n 5820 from the CRA general information file.
+n_5830,charities_general_information.csv,string,n 5830 from the CRA general information file.
+n_5840,charities_general_information.csv,string,n 5840 from the CRA general information file.
+n_5841,charities_general_information.csv,string,n 5841 from the CRA general information file.
+n_5842,charities_general_information.csv,string,n 5842 from the CRA general information file.
+n_5843,charities_general_information.csv,string,n 5843 from the CRA general information file.
+n_5850,charities_general_information.csv,string,n 5850 from the CRA general information file.
+n_5860,charities_general_information.csv,string,n 5860 from the CRA general information file.
+n_5861,charities_general_information.csv,string,n 5861 from the CRA general information file.
+n_5862,charities_general_information.csv,string,n 5862 from the CRA general information file.
+n_5863,charities_general_information.csv,string,n 5863 from the CRA general information file.
+n_5864,charities_general_information.csv,string,n 5864 from the CRA general information file.
+field_code,financial_field_codes.csv,string,Numeric field code from the CRA charities open data financial file.
+field_name,financial_field_codes.csv,string,Plain snake_case name used in charities_financial_summary.csv.
+description,financial_field_codes.csv,string,Plain-language description of the financial field.
