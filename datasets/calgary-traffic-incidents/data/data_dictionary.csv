@@ -1,0 +1,14 @@
+column,file,type,description
+incident_info,calgary_traffic_incidents.csv,string,Short location or incident info text.
+description,calgary_traffic_incidents.csv,string,Incident description.
+start_dt_utc,calgary_traffic_incidents.csv,datetime,Incident start timestamp in UTC.
+modified_dt_utc,calgary_traffic_incidents.csv,datetime,Last modified timestamp in UTC.
+quadrant,calgary_traffic_incidents.csv,string,"Calgary quadrant (NW, NE, SW, SE)."
+longitude,calgary_traffic_incidents.csv,numeric,Longitude.
+latitude,calgary_traffic_incidents.csv,numeric,Latitude.
+count,calgary_traffic_incidents.csv,numeric,Count field as published by the City of Calgary.
+id,calgary_traffic_incidents.csv,string,Record id as published.
+point,calgary_traffic_incidents.csv,string,Point geography as published (WKT).
+start_date,calgary_traffic_incidents.csv,datetime,Calendar date of start_dt_utc.
+ref_date,monthly_incident_counts.csv,datetime,Month start for aggregated counts.
+incidents,monthly_incident_counts.csv,integer,Number of incident rows in that month.
