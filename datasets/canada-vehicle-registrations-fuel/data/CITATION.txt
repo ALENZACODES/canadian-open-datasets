@@ -1,0 +1,13 @@
+John Khan. 2026. Canada new vehicle registrations by fuel [Data set]. Kaggle. https://www.kaggle.com/datasets/johnnykhan1/canada-vehicle-registrations-fuel. DOI pending.
+
+A Kaggle DOI has not been minted for this version. The line above can be updated once a DOI is assigned in the dataset metadata tab.
+
+BibTeX:
+@misc{canada_vehicle_registrations_fuel_2026,
+  author = {John Khan},
+  title = {{Canada new vehicle registrations by fuel}},
+  year = {2026},
+  howpublished = {Kaggle},
+  note = {Data set. DOI pending},
+  url = {https://www.kaggle.com/datasets/johnnykhan1/canada-vehicle-registrations-fuel}
+}

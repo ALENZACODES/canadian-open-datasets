@@ -1,0 +1,9 @@
+official_fuel_type,fuel_group,notes
+All fuel types,official_total,Official total for all fuel types. This is the denominator for share calculations.
+Gasoline,gasoline,Official gasoline category.
+Diesel,diesel,Official diesel category.
+All zero-emission vehicles,official_zev_subtotal,"Official zero-emission subtotal published by Statistics Canada. Because of Random Tabular Adjustment, this may not equal battery electric plus plug-in hybrid electric."
+Battery electric,battery_electric,Official battery electric category.
+Plug-in hybrid electric,plugin_hybrid_electric,Official plug-in hybrid electric category.
+Hybrid electric,hybrid_electric,"Official hybrid electric category, not included in the official zero-emission subtotal."
+Other fuel types,other_fuel_types,"Official other fuel types, including liquid propane, natural gas and hydrogen (table note 4)."

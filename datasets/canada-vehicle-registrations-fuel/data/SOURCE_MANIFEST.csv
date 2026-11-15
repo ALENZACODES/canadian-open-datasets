@@ -1,0 +1,2 @@
+source_id,title,url,licence,release_date,retrieval_date,file_name,checksum_sha256,notes
+20-10-0025-01,"New motor vehicle registrations, quarterly, by geographic level",https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010002501,Statistics Canada Open Licence,2026-09-08,2026-11-15,sc_20100025.zip,210be64f18b3abd43109bd765a426876e17c69cec9d2e2890557254a7fcdf23e,"Official quarterly new registrations (flow, not stock). Extract kept to Canada, provinces, territories and CMAs. Random Tabular Adjustment applies to all official values."

@@ -1,0 +1,63 @@
+column,file,type,description
+ref_date,new_vehicle_registrations_quarterly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,new_vehicle_registrations_quarterly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,new_vehicle_registrations_quarterly.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+fuel_type,new_vehicle_registrations_quarterly.csv,string,Official Statistics Canada fuel type.
+vehicle_type,new_vehicle_registrations_quarterly.csv,string,Official vehicle type as published.
+statistic,new_vehicle_registrations_quarterly.csv,string,"Official statistic name: Number of vehicles, meaning the number of new motor vehicle registrations in the quarter."
+unit_of_measure,new_vehicle_registrations_quarterly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,new_vehicle_registrations_quarterly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,new_vehicle_registrations_quarterly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,new_vehicle_registrations_quarterly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,new_vehicle_registrations_quarterly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,new_vehicle_registrations_quarterly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,new_vehicle_registrations_quarterly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,new_vehicle_registrations_quarterly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,new_vehicle_registrations_quarterly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,new_vehicle_registrations_quarterly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,new_vehicle_registrations_quarterly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,new_vehicle_registrations_quarterly.csv,string,Reference period as published.
+year,new_vehicle_registrations_quarterly.csv,integer,Calendar year of the official quarter or of the adapted annual sum.
+quarter,new_vehicle_registrations_quarterly.csv,integer,"Official quarter, 1 to 4."
+geo_level,new_vehicle_registrations_quarterly.csv,string,"Canada, province, territory or CMA. Census agglomerations and census subdivisions were dropped."
+registration_concept,new_vehicle_registrations_quarterly.csv,string,"These figures are new motor vehicle registrations, a flow from the New Motor Vehicle Registration Survey. They are not a stock of vehicles in use."
+fuel_group,new_vehicle_registrations_quarterly.csv,string,Documented group from fuel_type_crosswalk.csv. It is not an official Statistics Canada label.
+rta_adjusted,new_vehicle_registrations_quarterly.csv,boolean,"True for every row. Table note 3 states that Random Tabular Adjustment was applied to the official estimates, including totals and subtotals."
+geography_vintage,new_vehicle_registrations_quarterly.csv,string,"2021 Standard Geographic Classification for Canada, provinces and territories. 2016 CMA delineation for CMA rows, as published in the cube DGUID."
+iso3166_2,new_vehicle_registrations_quarterly.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,new_vehicle_registrations_quarterly.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+geo,new_vehicle_fuel_shares_quarterly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,new_vehicle_fuel_shares_quarterly.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+geo_level,new_vehicle_fuel_shares_quarterly.csv,string,"Canada, province, territory or CMA. Census agglomerations and census subdivisions were dropped."
+year,new_vehicle_fuel_shares_quarterly.csv,integer,Calendar year of the official quarter or of the adapted annual sum.
+quarter,new_vehicle_fuel_shares_quarterly.csv,integer,"Official quarter, 1 to 4."
+ref_date,new_vehicle_fuel_shares_quarterly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+vehicle_type,new_vehicle_fuel_shares_quarterly.csv,string,Official vehicle type as published.
+official_all_fuel_types,new_vehicle_fuel_shares_quarterly.csv,numeric,"Official number of new registrations, All fuel types. This is the denominator for share calculations."
+official_battery_electric,new_vehicle_fuel_shares_quarterly.csv,numeric,Official number of new battery electric registrations.
+official_plugin_hybrid,new_vehicle_fuel_shares_quarterly.csv,numeric,Official number of new plug-in hybrid electric registrations.
+official_all_zero_emission,new_vehicle_fuel_shares_quarterly.csv,numeric,"Official All zero-emission vehicles subtotal, as published."
+denominator,new_vehicle_fuel_shares_quarterly.csv,string,"Stated denominator for the share columns: official All fuel types new registrations, same geography, quarter and vehicle type."
+bev_phev_sum,new_vehicle_fuel_shares_quarterly.csv,numeric,"Sum of official battery electric and official plug-in hybrid electric new registrations. Because of Random Tabular Adjustment, this may not equal the official zero-emission subtotal."
+bev_phev_share_pct,new_vehicle_fuel_shares_quarterly.csv,numeric,"100 times (official battery electric plus official plug-in hybrid electric) divided by official All fuel types new registrations in the same geography, quarter and vehicle type. This share is adapted."
+official_zev_share_pct,new_vehicle_fuel_shares_quarterly.csv,numeric,"100 times the official All zero-emission vehicles subtotal divided by official All fuel types new registrations in the same geography, quarter and vehicle type. The numerator and denominator are official; the share is adapted."
+rta_adjusted,new_vehicle_fuel_shares_quarterly.csv,boolean,"True for every row. Table note 3 states that Random Tabular Adjustment was applied to the official estimates, including totals and subtotals."
+registration_concept,new_vehicle_fuel_shares_quarterly.csv,string,"These figures are new motor vehicle registrations, a flow from the New Motor Vehicle Registration Survey. They are not a stock of vehicles in use."
+iso3166_2,new_vehicle_fuel_shares_quarterly.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,new_vehicle_fuel_shares_quarterly.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+geo,new_vehicle_registrations_annual_adapted.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,new_vehicle_registrations_annual_adapted.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+geo_level,new_vehicle_registrations_annual_adapted.csv,string,"Canada, province, territory or CMA. Census agglomerations and census subdivisions were dropped."
+year,new_vehicle_registrations_annual_adapted.csv,integer,Calendar year of the official quarter or of the adapted annual sum.
+n_quarters,new_vehicle_registrations_annual_adapted.csv,integer,Number of official quarters included in the adapted annual sum.
+official_quarterly_values_summed,new_vehicle_registrations_annual_adapted.csv,numeric,Adapted sum of official quarterly new registrations. Not an official annual total.
+n_available_values,new_vehicle_registrations_annual_adapted.csv,integer,Number of official quarterly values that were not missing.
+is_partial_year,new_vehicle_registrations_annual_adapted.csv,boolean,"True when fewer than four official quarters are available. In this snapshot, 2026 has only the first two quarters."
+registration_concept,new_vehicle_registrations_annual_adapted.csv,string,"These figures are new motor vehicle registrations, a flow from the New Motor Vehicle Registration Survey. They are not a stock of vehicles in use."
+rta_adjusted,new_vehicle_registrations_annual_adapted.csv,boolean,"True for every row. Table note 3 states that Random Tabular Adjustment was applied to the official estimates, including totals and subtotals."
+notes,new_vehicle_registrations_annual_adapted.csv,string,Methods note for a documented fuel group or for the adapted annual sum.
+iso3166_2,new_vehicle_registrations_annual_adapted.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,new_vehicle_registrations_annual_adapted.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+official_fuel_type,fuel_type_crosswalk.csv,string,Official Statistics Canada fuel type name.
+fuel_group,fuel_type_crosswalk.csv,string,Documented group from fuel_type_crosswalk.csv. It is not an official Statistics Canada label.
+notes,fuel_type_crosswalk.csv,string,Methods note for a documented fuel group or for the adapted annual sum.
