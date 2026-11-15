@@ -1,0 +1,13 @@
+John Khan. 2026. Canada IRCC permits and asylum claims [Data set]. Kaggle. https://www.kaggle.com/datasets/johnnykhan1/canada-ircc-permits-asylum-claims. DOI pending.
+
+A Kaggle DOI has not been minted for this version. The line above can be updated once a DOI is assigned in the dataset metadata tab.
+
+BibTeX:
+@misc{canada_ircc_permits_asylum_claims_2026,
+  author = {John Khan},
+  title = {{Canada IRCC permits and asylum claims}},
+  year = {2026},
+  howpublished = {Kaggle},
+  note = {Data set. DOI pending},
+  url = {https://www.kaggle.com/datasets/johnnykhan1/canada-ircc-permits-asylum-claims}
+}

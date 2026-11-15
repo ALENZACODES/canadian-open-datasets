@@ -1,0 +1,48 @@
+column,file,type,description
+program,ircc_permits_asylum_claims.csv,string,"IRCC program family as documented in the code book: Study permit, Temporary Foreign Worker Program, International Mobility Program, or Asylum."
+measure_code,ircc_permits_asylum_claims.csv,string,Stable code for the official measure. See measure_codebook.csv.
+measure,ircc_permits_asylum_claims.csv,string,"Official measure description. Permit-effective counts, year-end holders and asylum claims are different measures and must not be added together."
+geo,ircc_permits_asylum_claims.csv,string,geo as published or derived in ircc_permits_asylum_claims.csv.
+iso3166_2,ircc_permits_asylum_claims.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,ircc_permits_asylum_claims.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+category,ircc_permits_asylum_claims.csv,string,"Official study level, work-permit program, asylum office type, or official total label."
+program_path,ircc_permits_asylum_claims.csv,string,"Official label path as it appears in the workbook, including any published program hierarchy."
+period,ircc_permits_asylum_claims.csv,string,"Reference period as YYYY, YYYY-Qn or YYYY-MM."
+period_type,ircc_permits_asylum_claims.csv,string,"year, quarter or month, taken from the official workbook headers."
+year,ircc_permits_asylum_claims.csv,integer,Calendar year of the official period.
+month,ircc_permits_asylum_claims.csv,integer,Month number when period_type is month.
+quarter,ircc_permits_asylum_claims.csv,integer,Quarter number when period_type is quarter.
+is_partial_period,ircc_permits_asylum_claims.csv,boolean,"True for official 2026 year totals and for 2026 Q3, because the workbooks cover January to August 2026."
+is_official_geography_total,ircc_permits_asylum_claims.csv,boolean,True when the row is a published geography or office-type total in the workbook.
+is_official_period_total,ircc_permits_asylum_claims.csv,boolean,True when the column is a published quarter total or year total in the workbook.
+is_official_total,ircc_permits_asylum_claims.csv,boolean,"True when the row is an official geography total or an official period total. These are published IRCC totals, not totals computed for this dataset."
+value,ircc_permits_asylum_claims.csv,numeric,"Official published count. Values between 0 and 5 are suppressed as --. Other published values are rounded by IRCC to the closest multiple of 5. Because of rounding, official categories may not sum to official totals."
+unit,ircc_permits_asylum_claims.csv,string,"Persons, as published by IRCC, after official rounding and suppression."
+suppression_flag,ircc_permits_asylum_claims.csv,boolean,"True when the official cell is --, meaning a value between 0 and 5 was suppressed."
+source_value,ircc_permits_asylum_claims.csv,string,"The official cell as published, including -- and thousands separators."
+rounding_applied,ircc_permits_asylum_claims.csv,boolean,True when a non-zero numeric value is present. IRCC rounds those values to the closest multiple of 5. Zero is published as 0.
+source_file,ircc_permits_asylum_claims.csv,string,Workbook file name.
+source_sheet,ircc_permits_asylum_claims.csv,string,Workbook sheet name.
+source_row,ircc_permits_asylum_claims.csv,integer,"Row number in the official sheet, starting at 1."
+measure_code,measure_codebook.csv,string,Stable code for the official measure. See measure_codebook.csv.
+measure,measure_codebook.csv,string,"Official measure description. Permit-effective counts, year-end holders and asylum claims are different measures and must not be added together."
+program,measure_codebook.csv,string,"IRCC program family as documented in the code book: Study permit, Temporary Foreign Worker Program, International Mobility Program, or Asylum."
+unit,measure_codebook.csv,string,"Persons, as published by IRCC, after official rounding and suppression."
+definition,measure_codebook.csv,string,Definition of the official measure.
+source_file,measure_codebook.csv,string,Workbook file name.
+portal,measure_codebook.csv,string,Open Government Portal dataset page.
+url,measure_codebook.csv,string,Direct workbook URL.
+do_not_sum_across_measures,measure_codebook.csv,boolean,Always true. The five measures are separately defined and must not be added together.
+source_id,workbook_sheet_provenance.csv,string,Short identifier for the workbook in this package.
+workbook_file,workbook_sheet_provenance.csv,string,Official workbook file name.
+sheet,workbook_sheet_provenance.csv,string,Official sheet name.
+title,workbook_sheet_provenance.csv,string,Official title from row 1 of the sheet.
+source_line,workbook_sheet_provenance.csv,string,Official source line printed at the bottom of the sheet.
+url,workbook_sheet_provenance.csv,string,Direct workbook URL.
+portal,workbook_sheet_provenance.csv,string,Open Government Portal dataset page.
+licence,workbook_sheet_provenance.csv,string,Open Government Licence - Canada.
+retrieval_date,workbook_sheet_provenance.csv,string,"Date the workbook was downloaded, as YYYY-MM-DD."
+checksum_sha256,workbook_sheet_provenance.csv,string,SHA256 checksum of the downloaded workbook.
+rows_extracted,workbook_sheet_provenance.csv,integer,Number of tidy rows extracted from the sheet.
+measure_code,workbook_sheet_provenance.csv,string,Stable code for the official measure. See measure_codebook.csv.
+program,workbook_sheet_provenance.csv,string,"IRCC program family as documented in the code book: Study permit, Temporary Foreign Worker Program, International Mobility Program, or Asylum."
