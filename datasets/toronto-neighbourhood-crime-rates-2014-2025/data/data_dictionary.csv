@@ -1,0 +1,52 @@
+column,file,type,description
+neighbourhood_id,crime_rates_long.csv,string,"City of Toronto social planning neighbourhood number (158-neighbourhood model), zero padded to three digits."
+neighbourhood_name,crime_rates_long.csv,string,Neighbourhood name in the 158-neighbourhood model.
+classification,crime_rates_long.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither, from the City neighbourhoods file."
+year,crime_rates_long.csv,integer,Calendar year of the count and rate.
+offence,crime_rates_long.csv,string,"Short offence code: assault, autotheft, biketheft, breakenter, homicide, robbery, shooting, theftfrommv, theftover."
+offence_label,crime_rates_long.csv,string,Readable offence name.
+count,crime_rates_long.csv,integer,Number of reported occurrences in that neighbourhood and year.
+rate_per_100000,crime_rates_long.csv,number,"Rate per 100,000 population as published by the Toronto Police Service."
+population_2025,crime_rates_long.csv,integer,2025 population estimate published on the source table (same value on every year of that neighbourhood).
+implied_population,crime_rates_long.csv,integer,"Population implied by count and the published rate (count divided by rate, times 100,000), rounded to the nearest person. Empty when the rate is zero or missing."
+neighbourhood_id,crime_rates_by_neighbourhood_year.csv,string,"City of Toronto social planning neighbourhood number (158-neighbourhood model), zero padded to three digits."
+neighbourhood_name,crime_rates_by_neighbourhood_year.csv,string,Neighbourhood name in the 158-neighbourhood model.
+classification,crime_rates_by_neighbourhood_year.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither, from the City neighbourhoods file."
+year,crime_rates_by_neighbourhood_year.csv,integer,Calendar year.
+population_2025,crime_rates_by_neighbourhood_year.csv,integer,2025 population estimate published on the source table.
+assault_count,crime_rates_by_neighbourhood_year.csv,integer,Count of assault occurrences in this neighbourhood and year.
+assault_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Assault rate per 100,000 population as published."
+autotheft_count,crime_rates_by_neighbourhood_year.csv,integer,Count of auto theft occurrences in this neighbourhood and year.
+autotheft_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Auto theft rate per 100,000 population as published."
+biketheft_count,crime_rates_by_neighbourhood_year.csv,integer,Count of bike theft occurrences in this neighbourhood and year.
+biketheft_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Bike theft rate per 100,000 population as published."
+breakenter_count,crime_rates_by_neighbourhood_year.csv,integer,Count of break and enter occurrences in this neighbourhood and year.
+breakenter_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Break and enter rate per 100,000 population as published."
+homicide_count,crime_rates_by_neighbourhood_year.csv,integer,Count of homicide occurrences in this neighbourhood and year.
+homicide_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Homicide rate per 100,000 population as published."
+robbery_count,crime_rates_by_neighbourhood_year.csv,integer,Count of robbery occurrences in this neighbourhood and year.
+robbery_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Robbery rate per 100,000 population as published."
+shooting_count,crime_rates_by_neighbourhood_year.csv,integer,Count of shooting and firearm discharges occurrences in this neighbourhood and year.
+shooting_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Shooting and firearm discharges rate per 100,000 population as published."
+theftfrommv_count,crime_rates_by_neighbourhood_year.csv,integer,Count of theft from motor vehicle occurrences in this neighbourhood and year.
+theftfrommv_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Theft from motor vehicle rate per 100,000 population as published."
+theftover_count,crime_rates_by_neighbourhood_year.csv,integer,"Count of theft over $5,000 occurrences in this neighbourhood and year."
+theftover_rate_per_100000,crime_rates_by_neighbourhood_year.csv,number,"Theft over $5,000 rate per 100,000 population as published."
+year,crime_rates_citywide_by_year.csv,integer,Calendar year.
+offence,crime_rates_citywide_by_year.csv,string,Short offence code.
+offence_label,crime_rates_citywide_by_year.csv,string,Readable offence name.
+count,crime_rates_citywide_by_year.csv,integer,Sum of neighbourhood counts (citywide total).
+neighbourhoods,crime_rates_citywide_by_year.csv,integer,Number of neighbourhoods included in the sum.
+implied_city_population,crime_rates_citywide_by_year.csv,integer,Sum of implied neighbourhood populations for that year.
+rate_per_100000,crime_rates_citywide_by_year.csv,number,"Citywide rate computed as the citywide count divided by implied city population, times 100,000. This may differ slightly from a published city rate."
+neighbourhood_id,implied_population_by_neighbourhood_year.csv,string,"Neighbourhood number in the 158-neighbourhood model, zero padded."
+neighbourhood_name,implied_population_by_neighbourhood_year.csv,string,Neighbourhood name.
+year,implied_population_by_neighbourhood_year.csv,integer,Calendar year.
+implied_population,implied_population_by_neighbourhood_year.csv,integer,Median implied population across offences that have both a count and a non-zero rate that year.
+neighbourhood_id,neighbourhoods.csv,string,"Neighbourhood number in the 158-neighbourhood model, zero padded."
+neighbourhood_name,neighbourhoods.csv,string,Neighbourhood name.
+neighbourhood_label,neighbourhoods.csv,string,"Name with the neighbourhood number in parentheses, as the City publishes it."
+classification,neighbourhoods.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+classification_code,neighbourhoods.csv,string,Short classification code from the City neighbourhoods file.
+centroid_longitude,neighbourhoods.csv,number,"Longitude of the neighbourhood polygon centroid, WGS84."
+centroid_latitude,neighbourhoods.csv,number,"Latitude of the neighbourhood polygon centroid, WGS84."

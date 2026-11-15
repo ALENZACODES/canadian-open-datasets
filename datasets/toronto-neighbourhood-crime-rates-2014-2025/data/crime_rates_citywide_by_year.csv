@@ -1,0 +1,109 @@
+year,offence,offence_label,count,neighbourhoods,implied_city_population,rate_per_100000
+2014,assault,Assault,16515,158,2749687,600.6138
+2014,autotheft,Auto theft,3649,158,2749687,132.706
+2014,biketheft,Bike theft,3021,158,2749687,109.8671
+2014,breakenter,Break and enter,7184,158,2749687,261.2661
+2014,homicide,Homicide,58,158,2749687,2.1093
+2014,robbery,Robbery,3665,158,2749687,133.2879
+2014,shooting,Shooting and firearm discharges,177,158,2749687,6.4371
+2014,theftfrommv,Theft from motor vehicle,9600,158,2749687,349.1306
+2014,theftover,"Theft over $5,000",993,158,2749687,36.1132
+2015,assault,Assault,17858,158,2761715,646.6272
+2015,autotheft,Auto theft,3426,158,2761715,124.0534
+2015,biketheft,Bike theft,3292,158,2761715,119.2013
+2015,breakenter,Break and enter,6911,158,2761715,250.2431
+2015,homicide,Homicide,59,158,2761715,2.1364
+2015,robbery,Robbery,3467,158,2761715,125.5379
+2015,shooting,Shooting and firearm discharges,288,158,2761715,10.4283
+2015,theftfrommv,Theft from motor vehicle,8639,158,2761715,312.8129
+2015,theftover,"Theft over $5,000",1034,158,2761715,37.4405
+2016,assault,Assault,18608,158,2823026,659.1509
+2016,autotheft,Auto theft,3437,158,2823026,121.7488
+2016,biketheft,Bike theft,3797,158,2823026,134.5011
+2016,breakenter,Break and enter,6402,158,2823026,226.7779
+2016,homicide,Homicide,75,158,2823026,2.6567
+2016,robbery,Robbery,3648,158,2823026,129.223
+2016,shooting,Shooting and firearm discharges,407,158,2823026,14.4172
+2016,theftfrommv,Theft from motor vehicle,7676,158,2823026,271.9068
+2016,theftover,"Theft over $5,000",1029,158,2823026,36.4502
+2017,assault,Assault,18906,158,2859156,661.2441
+2017,autotheft,Auto theft,3696,158,2859156,129.2689
+2017,biketheft,Bike theft,3853,158,2859156,134.76
+2017,breakenter,Break and enter,6883,158,2859156,240.7354
+2017,homicide,Homicide,65,158,2859156,2.2734
+2017,robbery,Robbery,4004,158,2859156,140.0413
+2017,shooting,Shooting and firearm discharges,392,158,2859156,13.7103
+2017,theftfrommv,Theft from motor vehicle,8264,158,2859156,289.0363
+2017,theftover,"Theft over $5,000",1165,158,2859156,40.7463
+2018,assault,Assault,19566,158,2902249,674.1668
+2018,autotheft,Auto theft,4850,158,2902249,167.1118
+2018,biketheft,Bike theft,3967,158,2902249,136.6871
+2018,breakenter,Break and enter,7565,158,2902249,260.6599
+2018,homicide,Homicide,98,158,2902249,3.3767
+2018,robbery,Robbery,3620,158,2902249,124.7309
+2018,shooting,Shooting and firearm discharges,427,158,2902249,14.7127
+2018,theftfrommv,Theft from motor vehicle,8996,158,2902249,309.9665
+2018,theftover,"Theft over $5,000",1230,158,2902249,42.3809
+2019,assault,Assault,20581,158,2933545,701.5744
+2019,autotheft,Auto theft,5299,158,2933545,180.6347
+2019,biketheft,Bike theft,3702,158,2933545,126.1954
+2019,breakenter,Break and enter,8438,158,2933545,287.6383
+2019,homicide,Homicide,79,158,2933545,2.693
+2019,robbery,Robbery,3506,158,2933545,119.5141
+2019,shooting,Shooting and firearm discharges,492,158,2933545,16.7715
+2019,theftfrommv,Theft from motor vehicle,9792,158,2933545,333.7941
+2019,theftover,"Theft over $5,000",1368,158,2933545,46.633
+2020,assault,Assault,17961,158,2941433,610.6207
+2020,autotheft,Auto theft,5833,158,2941433,198.3047
+2020,biketheft,Bike theft,3915,158,2941433,133.0984
+2020,breakenter,Break and enter,6914,158,2941433,235.0555
+2020,homicide,Homicide,71,158,2941433,2.4138
+2020,robbery,Robbery,2769,158,2941433,94.1378
+2020,shooting,Shooting and firearm discharges,461,158,2941433,15.6726
+2020,theftfrommv,Theft from motor vehicle,10191,158,2941433,346.4638
+2020,theftover,"Theft over $5,000",1209,158,2941433,41.1024
+2021,assault,Assault,19000,158,2937349,646.8418
+2021,autotheft,Auto theft,6657,158,2937349,226.6329
+2021,biketheft,Bike theft,3156,158,2937349,107.4438
+2021,breakenter,Break and enter,5670,158,2937349,193.0312
+2021,homicide,Homicide,84,158,2937349,2.8597
+2021,robbery,Robbery,2236,158,2937349,76.1231
+2021,shooting,Shooting and firearm discharges,408,158,2937349,13.8901
+2021,theftfrommv,Theft from motor vehicle,8114,158,2937349,276.2355
+2021,theftover,"Theft over $5,000",1052,158,2937349,35.8146
+2022,assault,Assault,21002,158,3002269,699.5376
+2022,autotheft,Auto theft,9819,158,3002269,327.0526
+2022,biketheft,Bike theft,2940,158,3002269,97.9259
+2022,breakenter,Break and enter,6043,158,3002269,201.2811
+2022,homicide,Homicide,71,158,3002269,2.3649
+2022,robbery,Robbery,2803,158,3002269,93.3627
+2022,shooting,Shooting and firearm discharges,380,158,3002269,12.6571
+2022,theftfrommv,Theft from motor vehicle,9308,158,3002269,310.0322
+2022,theftover,"Theft over $5,000",1444,158,3002269,48.097
+2023,assault,Assault,24271,158,3112380,779.8212
+2023,autotheft,Auto theft,12418,158,3112380,398.9873
+2023,biketheft,Bike theft,3014,158,3112380,96.8391
+2023,breakenter,Break and enter,7634,158,3112380,245.2785
+2023,homicide,Homicide,72,158,3112380,2.3133
+2023,robbery,Robbery,3109,158,3112380,99.8914
+2023,shooting,Shooting and firearm discharges,343,158,3112380,11.0205
+2023,theftfrommv,Theft from motor vehicle,8676,158,3112380,278.7577
+2023,theftover,"Theft over $5,000",1719,158,3112380,55.231
+2024,assault,Assault,25431,158,3199635,794.8094
+2024,autotheft,Auto theft,9551,158,3199635,298.5028
+2024,biketheft,Bike theft,2712,158,3199635,84.7597
+2024,breakenter,Break and enter,6824,158,3199635,213.2743
+2024,homicide,Homicide,85,158,3199635,2.6566
+2024,robbery,Robbery,3149,158,3199635,98.4175
+2024,shooting,Shooting and firearm discharges,461,158,3199635,14.4079
+2024,theftfrommv,Theft from motor vehicle,7617,158,3199635,238.0584
+2024,theftover,"Theft over $5,000",1844,158,3199635,57.6316
+2025,assault,Assault,24686,158,3214722,767.9047
+2025,autotheft,Auto theft,7240,158,3214722,225.2139
+2025,biketheft,Bike theft,2121,158,3214722,65.9777
+2025,breakenter,Break and enter,6092,158,3214722,189.5032
+2025,homicide,Homicide,45,158,3214722,1.3998
+2025,robbery,Robbery,2522,158,3214722,78.4516
+2025,shooting,Shooting and firearm discharges,262,158,3214722,8.15
+2025,theftfrommv,Theft from motor vehicle,6801,158,3214722,211.558
+2025,theftover,"Theft over $5,000",1951,158,3214722,60.6895
