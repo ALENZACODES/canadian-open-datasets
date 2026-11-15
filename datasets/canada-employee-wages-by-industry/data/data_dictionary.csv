@@ -1,0 +1,32 @@
+file,column,type,description
+employee_wages_by_industry_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+employee_wages_by_industry_long.csv,geo,string,Geography name as published by Statistics Canada.
+employee_wages_by_industry_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+employee_wages_by_industry_long.csv,wage_measure,string,"Wage concept: number of employees, average hourly or weekly wage, or median hourly or weekly wage."
+employee_wages_by_industry_long.csv,type_of_work,string,Type of work covered by the permit (this file keeps the total).
+employee_wages_by_industry_long.csv,naics,string,"Industry group based on the North American Industry Classification System, including sector totals."
+employee_wages_by_industry_long.csv,gender,string,"Gender grouping published by the Labour Force Survey (Total - Gender, Men+ or Women+)."
+employee_wages_by_industry_long.csv,age_group,string,Age group published by the Labour Force Survey.
+employee_wages_by_industry_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+employee_wages_by_industry_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+employee_wages_by_industry_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+employee_wages_by_industry_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+employee_wages_by_industry_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+employee_wages_by_industry_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+employee_wages_by_industry_long.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+employee_wages_by_industry_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+employee_wages_by_industry_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+employee_wages_by_industry_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+employee_wages_by_industry_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+average_weekly_wage_all_industries_by_province.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+average_weekly_wage_all_industries_by_province.csv,alberta,numeric,Published value for alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,british_columbia,numeric,Published value for british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,canada,numeric,Published value for canada. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,manitoba,numeric,Published value for manitoba. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,new_brunswick,numeric,Published value for new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,newfoundland_and_labrador,numeric,Published value for newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,nova_scotia,numeric,Published value for nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,ontario,numeric,Published value for ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,prince_edward_island,numeric,Published value for prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,quebec,numeric,Published value for quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+average_weekly_wage_all_industries_by_province.csv,saskatchewan,numeric,Published value for saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
