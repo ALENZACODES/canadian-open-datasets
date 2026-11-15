@@ -1,0 +1,35 @@
+column,file,type,description
+drug_code,drug_products.csv,integer,"Health Canada drug code linking product, ingredient, form, route and status tables."
+class_name,drug_products.csv,string,"Product class such as Human, Veterinary or Disinfectant."
+drug_identification_number,drug_products.csv,string,Drug Identification Number (DIN) when assigned.
+brand_name,drug_products.csv,string,Brand name of the drug product.
+descriptor,drug_products.csv,string,Optional descriptor text from the database.
+number_of_ais,drug_products.csv,string,Number of active ingredients reported for the product.
+ai_group_no,drug_products.csv,string,Active ingredient group number.
+company_name,drug_products.csv,string,Company name associated with the product.
+last_update_date,drug_products.csv,string,Last update date in the Drug Product Database extract.
+status,drug_products.csv,string,Latest market status for the product (from status history).
+history_date,drug_products.csv,string,Date attached to the status record.
+original_market_date,drug_products.csv,string,Original market date when provided.
+expiration_date,drug_products.csv,string,Expiration date when provided.
+dosage_unit,active_ingredients.csv,string,Dosage unit for the active ingredient strength.
+dosage_value,active_ingredients.csv,string,Dosage value for the active ingredient.
+drug_code,active_ingredients.csv,integer,"Health Canada drug code linking product, ingredient, form, route and status tables."
+ingredient_name,active_ingredients.csv,string,Active ingredient name.
+strength,active_ingredients.csv,string,Strength value.
+strength_unit,active_ingredients.csv,string,Strength unit.
+drug_code,pharmaceutical_forms.csv,integer,"Health Canada drug code linking product, ingredient, form, route and status tables."
+pharmaceutical_form_code,pharmaceutical_forms.csv,string,Code for the pharmaceutical form.
+pharmaceutical_form_name,pharmaceutical_forms.csv,string,Pharmaceutical form name such as tablet or cream.
+drug_code,routes_of_administration.csv,integer,"Health Canada drug code linking product, ingredient, form, route and status tables."
+route_of_administration_code,routes_of_administration.csv,string,Code for the route of administration.
+route_of_administration_name,routes_of_administration.csv,string,Route of administration name such as oral or topical.
+drug_code,schedules.csv,integer,"Health Canada drug code linking product, ingredient, form, route and status tables."
+schedule_name,schedules.csv,string,Schedule classification when present.
+drug_code,status_history.csv,integer,"Health Canada drug code linking product, ingredient, form, route and status tables."
+status,status_history.csv,string,Latest market status for the product (from status history).
+history_date,status_history.csv,string,Date attached to the status record.
+original_market_date,status_history.csv,string,Original market date when provided.
+external_status_code,status_history.csv,string,External status code from Health Canada.
+expiration_date,status_history.csv,string,Expiration date when provided.
+lot_number,status_history.csv,string,Lot number when present on a status record.
