@@ -1,0 +1,18 @@
+file,column,type,description
+sea_ice_area_long.csv,year,integer,Calendar year of the summer or September ice area value.
+sea_ice_area_long.csv,domain,string,"Grouping used in the CESI tables: Northern Canadian Waters, Canadian Arctic domain, or Northwest Passage."
+sea_ice_area_long.csv,region,string,"Region or route name as published, with the unit text removed from the column title."
+sea_ice_area_long.csv,season,string,"summer (25 June to 15 October for the Canadian Arctic domain, as described by CESI) or September."
+sea_ice_area_long.csv,ice_type,string,total sea ice or multi-year sea ice (ice that has survived at least one summer melt).
+sea_ice_area_long.csv,area,numeric,Sea ice area in the unit given in area_unit.
+sea_ice_area_long.csv,area_unit,string,"Unit as published: millions of square kilometres for the Northern Canadian Waters total series, and thousands of square kilometres for the sub-region, multi-year and Northwest Passage series."
+northern_canadian_waters_summer_total.csv,year,integer,Calendar year of the summer or September ice area value.
+northern_canadian_waters_summer_total.csv,sea_ice_area,numeric,"Average summer sea ice area in the Northern Canadian Waters, as published (millions of square kilometres)."
+northern_canadian_waters_summer_total.csv,area_unit,string,"Unit as published: millions of square kilometres for the Northern Canadian Waters total series, and thousands of square kilometres for the sub-region, multi-year and Northwest Passage series."
+northwest_passage_summer.csv,year,integer,Calendar year of the summer or September ice area value.
+northwest_passage_summer.csv,domain,string,"Grouping used in the CESI tables: Northern Canadian Waters, Canadian Arctic domain, or Northwest Passage."
+northwest_passage_summer.csv,region,string,"Region or route name as published, with the unit text removed from the column title."
+northwest_passage_summer.csv,season,string,"summer (25 June to 15 October for the Canadian Arctic domain, as described by CESI) or September."
+northwest_passage_summer.csv,ice_type,string,total sea ice or multi-year sea ice (ice that has survived at least one summer melt).
+northwest_passage_summer.csv,area,numeric,Sea ice area in the unit given in area_unit.
+northwest_passage_summer.csv,area_unit,string,"Unit as published: millions of square kilometres for the Northern Canadian Waters total series, and thousands of square kilometres for the sub-region, multi-year and Northwest Passage series."
