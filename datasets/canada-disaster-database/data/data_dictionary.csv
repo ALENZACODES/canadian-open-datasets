@@ -1,0 +1,26 @@
+column,file,type,description
+event_id,canadian_disasters.csv,numeric,Unique event identifier in the Canadian Disaster Database.
+event_category_name,canadian_disasters.csv,string,High-level event category.
+event_group_name,canadian_disasters.csv,string,Event group.
+event_subgroup_name,canadian_disasters.csv,string,Event subgroup.
+event_type,canadian_disasters.csv,string,Event type code or label.
+event_type_description,canadian_disasters.csv,string,Event type description.
+magnitude,canadian_disasters.csv,numeric,Magnitude when applicable (for example earthquake magnitude).
+event_start_date,canadian_disasters.csv,string,Event start date.
+event_end_date,canadian_disasters.csv,string,Event end date.
+injured,canadian_disasters.csv,numeric,Number of people injured when reported.
+dead,canadian_disasters.csv,numeric,Number of deaths when reported.
+evacuated,canadian_disasters.csv,numeric,Number of people evacuated when reported.
+place,canadian_disasters.csv,string,Place description as published.
+comment,canadian_disasters.csv,string,Event comments as published.
+total_cost,canadian_disasters.csv,numeric,Total estimated cost when reported.
+ogd_costs,canadian_disasters.csv,numeric,ogd costs as published in the CDD extract.
+municipal_costs,canadian_disasters.csv,numeric,municipal costs as published in the CDD extract.
+fed_dfaa_payments,canadian_disasters.csv,numeric,fed dfaa payments as published in the CDD extract.
+prov_dfaa_payments,canadian_disasters.csv,numeric,prov dfaa payments as published in the CDD extract.
+prov_dept_payments,canadian_disasters.csv,numeric,prov dept payments as published in the CDD extract.
+insurance_payments,canadian_disasters.csv,numeric,insurance payments as published in the CDD extract.
+ngo_payments,canadian_disasters.csv,numeric,ngo payments as published in the CDD extract.
+utility_people_affected,canadian_disasters.csv,numeric,utility people affected as published in the CDD extract.
+geog_obj,canadian_disasters.csv,string,geog obj as published in the CDD extract.
+provinces_affected_provinces_affect_es,canadian_disasters.csv,string,provinces affected provinces affect es as published in the CDD extract.
