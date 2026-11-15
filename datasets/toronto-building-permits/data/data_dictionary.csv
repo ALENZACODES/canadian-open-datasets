@@ -1,0 +1,70 @@
+column,file,type,description
+year,permits_citywide_monthly.csv,integer,"Year of the issued date, or of the application date when no issued date is present."
+month_num,permits_citywide_monthly.csv,integer,Month number from 1 to 12.
+month,permits_citywide_monthly.csv,string,Year and month (YYYY-MM) of that same date.
+permits,permits_citywide_monthly.csv,integer,Number of permit records in the group. Revisions are counted as they appear in the source.
+issued_permits,permits_citywide_monthly.csv,integer,Records with an issued date.
+completed_permits,permits_citywide_monthly.csv,integer,Records with a completed date.
+dwelling_units_created,permits_citywide_monthly.csv,number,"Sum of dwelling units created, when published."
+dwelling_units_lost,permits_citywide_monthly.csv,number,"Sum of dwelling units lost, when published."
+year,permits_monthly_by_source.csv,integer,"Year of the issued date, or of the application date when no issued date is present."
+month_num,permits_monthly_by_source.csv,integer,Month number from 1 to 12.
+month,permits_monthly_by_source.csv,string,Year and month (YYYY-MM) of that same date.
+source_file,permits_monthly_by_source.csv,string,"Which official extract the records came from: active, cleared_2017_on, or cleared_2000_2016."
+permits,permits_monthly_by_source.csv,integer,Number of permit records in the group. Revisions are counted as they appear in the source.
+issued_permits,permits_monthly_by_source.csv,integer,Records with an issued date.
+completed_permits,permits_monthly_by_source.csv,integer,Records with a completed date.
+dwelling_units_created,permits_monthly_by_source.csv,number,"Sum of dwelling units created, when published."
+dwelling_units_lost,permits_monthly_by_source.csv,number,"Sum of dwelling units lost, when published."
+year,permits_monthly_by_type.csv,integer,"Year of the issued date, or of the application date when no issued date is present."
+month,permits_monthly_by_type.csv,string,Year and month (YYYY-MM) of that same date.
+permit_type,permits_monthly_by_type.csv,string,Permit type as published.
+source_file,permits_monthly_by_type.csv,string,Official extract.
+permits,permits_monthly_by_type.csv,integer,Number of permit records in the group. Revisions are counted as they appear in the source.
+issued_permits,permits_monthly_by_type.csv,integer,Records with an issued date.
+completed_permits,permits_monthly_by_type.csv,integer,Records with a completed date.
+dwelling_units_created,permits_monthly_by_type.csv,number,"Sum of dwelling units created, when published."
+dwelling_units_lost,permits_monthly_by_type.csv,number,"Sum of dwelling units lost, when published."
+year,permits_monthly_by_structure.csv,integer,"Year of the issued date, or of the application date when no issued date is present."
+month,permits_monthly_by_structure.csv,string,Year and month (YYYY-MM) of that same date.
+structure_type,permits_monthly_by_structure.csv,string,Structure type as published.
+source_file,permits_monthly_by_structure.csv,string,Official extract.
+permits,permits_monthly_by_structure.csv,integer,Number of permit records in the group. Revisions are counted as they appear in the source.
+issued_permits,permits_monthly_by_structure.csv,integer,Records with an issued date.
+completed_permits,permits_monthly_by_structure.csv,integer,Records with a completed date.
+dwelling_units_created,permits_monthly_by_structure.csv,number,"Sum of dwelling units created, when published."
+dwelling_units_lost,permits_monthly_by_structure.csv,number,"Sum of dwelling units lost, when published."
+year,permits_monthly_by_fsa.csv,integer,"Year of the issued date, or of the application date when no issued date is present."
+month,permits_monthly_by_fsa.csv,string,Year and month (YYYY-MM) of that same date.
+fsa,permits_monthly_by_fsa.csv,string,"First three characters of the postal code, as published."
+source_file,permits_monthly_by_fsa.csv,string,Official extract.
+permits,permits_monthly_by_fsa.csv,integer,Number of permit records in the group. Revisions are counted as they appear in the source.
+issued_permits,permits_monthly_by_fsa.csv,integer,Records with an issued date.
+completed_permits,permits_monthly_by_fsa.csv,integer,Records with a completed date.
+dwelling_units_created,permits_monthly_by_fsa.csv,number,"Sum of dwelling units created, when published."
+dwelling_units_lost,permits_monthly_by_fsa.csv,number,"Sum of dwelling units lost, when published."
+year,permits_monthly_by_status.csv,integer,"Year of the issued date, or of the application date when no issued date is present."
+month,permits_monthly_by_status.csv,string,Year and month (YYYY-MM) of that same date.
+status,permits_monthly_by_status.csv,string,Permit status as published.
+source_file,permits_monthly_by_status.csv,string,Official extract.
+permits,permits_monthly_by_status.csv,integer,Number of permit records in the group. Revisions are counted as they appear in the source.
+issued_permits,permits_monthly_by_status.csv,integer,Records with an issued date.
+completed_permits,permits_monthly_by_status.csv,integer,Records with a completed date.
+dwelling_units_created,permits_monthly_by_status.csv,number,"Sum of dwelling units created, when published."
+dwelling_units_lost,permits_monthly_by_status.csv,number,"Sum of dwelling units lost, when published."
+year,permits_monthly_detail.csv,integer,"Year of the issued date, or of the application date when no issued date is present."
+month,permits_monthly_detail.csv,string,Year and month (YYYY-MM) of that same date.
+permit_type,permits_monthly_detail.csv,string,Permit type as published.
+structure_type,permits_monthly_detail.csv,string,Structure type as published.
+status,permits_monthly_detail.csv,string,Permit status as published.
+fsa,permits_monthly_detail.csv,string,First three characters of the postal code.
+source_file,permits_monthly_detail.csv,string,Official extract.
+permits,permits_monthly_detail.csv,integer,Number of permit records in the group. Revisions are counted as they appear in the source.
+issued_permits,permits_monthly_detail.csv,integer,Records with an issued date.
+completed_permits,permits_monthly_detail.csv,integer,Records with a completed date.
+dwelling_units_created,permits_monthly_detail.csv,number,"Sum of dwelling units created, when published."
+dwelling_units_lost,permits_monthly_detail.csv,number,"Sum of dwelling units lost, when published."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, or string."
+description,data_dictionary.csv,string,What the column holds.
