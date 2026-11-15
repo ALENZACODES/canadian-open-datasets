@@ -1,0 +1,17 @@
+column,file,type,description
+ref_date,canada_monetary_aggregates_monthly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,canada_monetary_aggregates_monthly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,canada_monetary_aggregates_monthly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+series,canada_monetary_aggregates_monthly.csv,string,"Monetary aggregate, deposit or loan series name as published in the source table."
+unit_of_measure,canada_monetary_aggregates_monthly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,canada_monetary_aggregates_monthly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,canada_monetary_aggregates_monthly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,canada_monetary_aggregates_monthly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,canada_monetary_aggregates_monthly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,canada_monetary_aggregates_monthly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,canada_monetary_aggregates_monthly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,canada_monetary_aggregates_monthly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,canada_monetary_aggregates_monthly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,canada_monetary_aggregates_monthly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,canada_monetary_aggregates_monthly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,canada_monetary_aggregates_monthly.csv,string,Statistics Canada table identifier this row was taken from.

@@ -1,0 +1,125 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Chartered bank assets and liabilities and monetary aggregates, month-end, seasonally adjusted, Bank of Canada","10100116","176-0025","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010011601",1;15;18;21,"CURRENT - a cube available to the public and that is current","Monthly","1953-01-01","2026-08-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Assets, liabilities and monetary aggregates",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Chartered bank deposits, personal (excluding personal, chequable, demand)","","1","","t",,
+"2","Chartered bank deposits, personal","","54","","",16,
+"2","Chartered bank deposits, personal, chequable","","65","","",,
+"2","Chartered bank deposits, demand (excluding private sector float)","","2","","t",2;3,
+"2","Currency outside banks and Canadian dollar chartered bank deposits, total","","3","","t",2;3,
+"2","Currency outside banks and chartered bank deposits, held by general public","","4","","t",2;4,
+"2","Currency outside banks","","5","","",,
+"2","Canadian dollar assets, total loans","","6","","t",5;16,
+"2","General loans (including grain dealers and installment finance companies)","","7","","t",16,
+"2","Business loans, at month-end","","8","","t",,
+"2","Unsecured personal loans, at month-end","","9","","t",,
+"2","Currency and demand deposits, M1","","10","","t",2;3,
+"2","Chartered bank deposits, non-personal, demand and notice","","11","","t",6,
+"2","Chartered bank deposits, non-personal","","55","","",,
+"2","Chartered bank deposits, non-personal, chequable","","66","","",,
+"2","Total, major assets","","12","","t",,
+"2","Active note circulation","","13","","t",,
+"2","General public plus "swapped" deposits","","14","","t",,
+"2","Non-personal term and notice plus "swapped" deposits","","15","","t",,
+"2","Canadian dollar assets, liquid assets","","16","","t",,
+"2","Canadian dollar assets, less liquid assets","","17","","t",5;16,
+"2","Canadian dollar major assets, total","","18","","t",6,
+"2","Currency and total chartered bank deposits held by general public, M3","","19","","t",2;4,
+"2","Non-personal fixed term plus foreign currency deposits of residents","","20","","t",,
+"2","Currency and all chequable deposits, M1B","","21","","t",2;4,
+"2","Currency and all chequable notice and personal term deposits, M2","","22","","t",2;4,
+"2","Total personal loans","","23","","t",7;16,
+"2","Business loans","","24","","t",8;16,
+"2","M1 + daily interest chequing accounts + non-personal chequable and non-chequable deposits, M1A","","25","","t",2;3,
+"2","Chartered bank Canadian dollar deposits, demand (excluding private sector float) and chartered bank demand deposits of Canadian residents","","26","","t",,
+"2","Currency outside banks and chartered bank deposits, held by general public (excluding private sector float)","","27","","t",,
+"2","Currency outside banks and chartered bank deposits, held by general public (including private sector float)","","56","","",,
+"2","Currency outside banks and chartered bank deposits, demand","","28","","t",,
+"2","M3 (net) (M2 (net), chartered bank non-personal term deposits, chartered bank foreign currency deposits of Canadian residents booked in Canada, adjustments to M3 (continuity adjustments and inter-bank term deposits))","","29","","t",,
+"2","M3 (gross) (M2 (gross), chartered bank non-personal term deposits, chartered bank foreign currency deposits of Canadian residents booked in Canada, adjustments to M3 (continuity adjustments and inter-bank term deposits))","","57","","",,
+"2","M1B (net) (currency outside banks, chartered bank chequable deposits, less inter-bank chequable deposits)","","30","","t",,
+"2","M1B (gross) (currency outside banks, chartered bank chequable deposits, less inter-bank chequable deposits)","","58","","",,
+"2","M2 (net) (currency outside banks, chartered bank demand and notice deposits, chartered bank personal term deposits, adjustments to M2 (net) (continuity adjustments and inter-bank demand and notice deposits))","","31","","t",,
+"2","M2 (gross) (currency outside banks, chartered bank demand and notice deposits, chartered bank personal term deposits, adjustments to M2 (gross) (continuity adjustments and inter-bank demand and notice deposits))","","59","","",,
+"2","Currency outside banks and chartered bank deposits (excluding private sector float)","","32","","t",,
+"2","Currency outside banks and chartered bank deposits (including private sector float)","","60","","",,
+"2","Residential mortgages","","33","","t",16,
+"2","M2+ (net)","","34","","t",2;4;9;11,
+"2","M2+ (gross)","","61","","",12,
+"2","Total, Canadian liquid assets, short term paper and chartered bank instruments","","35","","t",,
+"2","Canadian dollar assets, total","","36","","t",16,
+"2","Chartered bank deposits, personal, notice","","37","","t",,
+"2","Chartered bank deposits, personal, demand and notice","","62","","",16,
+"2","Chartered bank deposits, personal, term","","38","","",16,
+"2","Chartered bank deposits, non-personal, notice","","39","","t",,
+"2","Chartered bank deposits, non-personal, demand and notice","","63","","",16,
+"2","Non-banks","","67","","",19,
+"2","Total, deposits at trust and mortgage loan companies","","40","","t",10;20,
+"2","Total, deposits at credit unions and caisses populaires","","41","","t",20,
+"2","Bankers' acceptances","","42","","t",16,
+"2","Gross M1","","43","","t",2,
+"2","Gross demand deposits, personal chequing accounts","","44","","t",,
+"2","Gross demand deposits, current accounts","","45","","t",,
+"2","Gross demand deposits","","46","","t",,
+"2","Monetary base (notes and coin in circulation, chartered bank and other Payments Canada members' deposits with the Bank of Canada)","","47","","",17,
+"2","Monetary base (notes and coin in circulation, chartered bank and other Payments Canada members' deposits with the Bank of Canada) (excluding required reserves)","","48","","",17,
+"2","Canada Savings Bonds and other retail instruments","","49","","",,
+"2","Non-money market mutual funds","","50","","",,
+"2","M2++ (net) (M2+ (net), Canada Savings Bonds, non-money market mutual funds)","","51","","t",,
+"2","M2++ (gross) (M2+ (gross), Canada Savings Bonds, non-money market mutual funds)","","64","","",,
+"2","M1+ (gross)","","52","","",13,
+"2","M1++ (gross)","","53","","",14,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"7502","Bank of Canada"
+
+"Subject Code","Subject Name"
+"10","Government"
+
+"Note ID",Note
+1,"Data published in the Banking and Financial Statistics tables on the Bank of Canada website. All series have been adjusted by means of a ratio to moving average technique and are subject to revision."
+2,"Historical data adjusted for discontinuities mainly related to 1980 Bank Act revision. See the Bank of Canada Revue, March 1983."
+3,"Less Canadian dollar float, for example, cheques and other items in transit."
+4,"Excludes Government of Canada deposits."
+5,"Excludes day-to-day loans call loans and loans for the purchase of Canada Savings Bonds."
+6,"V37106 data from January 1982 unadjusted owing to unstable seasonality. V37113 terminated December 1988 owing to unstable seasonality."
+7,"Average of month-end data prior to November 1981."
+8,"Calculated as the difference between vectors v37154 and v37119."
+9,"Includes shares at caisses populaires and credit unions."
+10,"Beginning December 2004, includes cooperative retail associations."
+11,"Is the sum of M2+ (net) plus deposits at trust and mortgage loan companies, deposits at caisses populaires and credit unions (excluding deposits at these institutions), life insurance company individual annuities, personal deposits at government owned savings institutions and money market mutual funds."
+12,"Is the sum of M2 (gross) plus deposits at trust and mortgage loan companies, deposits at caisses populaires and credit unions (excluding deposits at these institutions), life insurance company individual annuities, personal deposits at government owned savings institutions and money market mutual funds."
+13,"Is the sum of currency outside banks plus chartered bank chequable deposits (less inter-bank chequable deposits), chequable deposits at trust and mortgage loan companies, chequable deposits at credit unions and caisses populaires (excluding deposits at these institutions) and continuity adjustments."
+14,"Is the sum of M1+, chartered bank non-chequable deposits (less inter-bank non-chequable deposits), non-chequable deposits at trust and mortgage loan companies, non-chequable deposits at credit unions and caisses populaires (excluding deposits of these institutions) and continuity adjustments."
+15,"Over the course of 2011 data in this table were affected by conversion to International Financial Reporting Standards (IFRS)."
+16,"The data shown are monthly averages of Wednesdays prior to January 1994, and monthly averages of days thereafter."
+17,"Payments Canada was formerly known as Canadian Payments Association."
+18,"Please be advised that some variables have been revised for the period June 2006 to May 2018 to take into account historical continuity adjustments for Equity Financial Trust becoming Haventree Bank effective June 11, 2018."
+19,"Non-banks include trust and mortgage loan companies, credit unions and caisses populaires, life insurance company individual annuities and personal deposits at government-owned savings institutions."
+20,"As of October 1, 2018 individual non-bank components (TMLs, Credit unions and caisses populaires, Non-depository credit intermediaries and other institutions, Life Insurance companies, Pension Funds) are no longer being published by the Bank of Canada. The total series of the non-bank components will continue to be updated."
+21,"Starting with the release of October 2020 data, calculations were changed to month-end, from monthly average, due to the termination of the Monthly Average Return of Assets and Liabilities (L4). 
+Note: Some series from this table have been terminated."
+
+"Correction ID","Correction Date","Correction Note"
