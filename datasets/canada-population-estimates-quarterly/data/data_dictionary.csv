@@ -1,0 +1,31 @@
+file,column,type,description
+population_estimates_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+population_estimates_long.csv,geo,string,Geography name as published by Statistics Canada.
+population_estimates_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+population_estimates_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+population_estimates_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+population_estimates_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+population_estimates_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+population_estimates_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+population_estimates_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+population_estimates_long.csv,value,number,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+population_estimates_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+population_estimates_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+population_estimates_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+population_estimates_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+population_estimates_by_geo.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+population_estimates_by_geo.csv,alberta,number,Published value for alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,british_columbia,number,Published value for british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,canada,number,Published value for canada. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,manitoba,number,Published value for manitoba. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,new_brunswick,number,Published value for new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,newfoundland_and_labrador,number,Published value for newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,northwest_territories,number,Published value for northwest territories. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,northwest_territories_including_nunavut,number,Published value for northwest territories including nunavut. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,nova_scotia,number,Published value for nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,nunavut,number,Published value for nunavut. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,ontario,number,Published value for ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,prince_edward_island,number,Published value for prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,quebec,number,Published value for quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,saskatchewan,number,Published value for saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+population_estimates_by_geo.csv,yukon,number,Published value for yukon. See unit_of_measure and scalar_factor in the long file for the unit.

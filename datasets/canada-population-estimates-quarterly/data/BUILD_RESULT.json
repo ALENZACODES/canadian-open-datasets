@@ -1,0 +1,16 @@
+{
+  "slug": "canada-population-estimates-quarterly",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-population-estimates-quarterly",
+  "table_id": "17-10-0009-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-population-estimates-quarterly",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-population-estimates-quarterly/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.5882352941176471,
+  "facts": [
+    "Canada's estimated population was 41.80 million on 2026-07-01.",
+    "That was 189,425 people, or 0.46%, higher than on 2025-07-01.",
+    "Nunavut and the Northwest Territories are shown separately from July 1, 1991. Before that date the combined series is in the file."
+  ],
+  "publish_msg": "ready"
+}
