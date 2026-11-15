@@ -1,0 +1,57 @@
+file,column,type,description
+nhpi_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+nhpi_long.csv,geo,string,Geography name as published by Statistics Canada.
+nhpi_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+nhpi_long.csv,index_type,string,"New Housing Price Index component: Total (house and land), House only, or Land only."
+nhpi_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+nhpi_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+nhpi_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+nhpi_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+nhpi_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+nhpi_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+nhpi_long.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+nhpi_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+nhpi_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+nhpi_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+nhpi_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+nhpi_total_house_and_land_by_geo.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+nhpi_total_house_and_land_by_geo.csv,alberta,numeric,Published value for alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,atlantic_region,numeric,Published value for atlantic region. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,british_columbia,numeric,Published value for british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,calgary_alberta,numeric,Published value for calgary alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,canada,numeric,Published value for canada. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,charlottetown_prince_edward_island,numeric,Published value for charlottetown prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,edmonton_alberta,numeric,Published value for edmonton alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,greater_sudbury_ontario,numeric,Published value for greater sudbury ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,guelph_ontario,numeric,Published value for guelph ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,halifax_nova_scotia,numeric,Published value for halifax nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,hamilton_ontario,numeric,Published value for hamilton ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,kelowna_british_columbia,numeric,Published value for kelowna british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,kitchener_cambridge_waterloo_ontario,numeric,Published value for kitchener cambridge waterloo ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,london_ontario,numeric,Published value for london ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,manitoba,numeric,Published value for manitoba. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,montr_al_quebec,numeric,Published value for montr al quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,new_brunswick,numeric,Published value for new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,newfoundland_and_labrador,numeric,Published value for newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,nova_scotia,numeric,Published value for nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,ontario,numeric,Published value for ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,oshawa_ontario,numeric,Published value for oshawa ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,ottawa_gatineau_ontario_part_ontario_quebec,numeric,Published value for ottawa gatineau ontario part ontario quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,ottawa_gatineau_quebec_part_ontario_quebec,numeric,Published value for ottawa gatineau quebec part ontario quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,prairie_region,numeric,Published value for prairie region. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,prince_edward_island,numeric,Published value for prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,quebec,numeric,Published value for quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,qu_bec_quebec,numeric,Published value for qu bec quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,regina_saskatchewan,numeric,Published value for regina saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,saint_john_fredericton_and_moncton_new_brunswick,numeric,Published value for saint john fredericton and moncton new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,saskatchewan,numeric,Published value for saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,saskatoon_saskatchewan,numeric,Published value for saskatoon saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,sherbrooke_quebec,numeric,Published value for sherbrooke quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,st_catharines_niagara_ontario,numeric,Published value for st catharines niagara ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,st_john_s_newfoundland_and_labrador,numeric,Published value for st john s newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,toronto_ontario,numeric,Published value for toronto ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,trois_rivi_res_quebec,numeric,Published value for trois rivi res quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,vancouver_british_columbia,numeric,Published value for vancouver british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,victoria_british_columbia,numeric,Published value for victoria british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,windsor_ontario,numeric,Published value for windsor ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+nhpi_total_house_and_land_by_geo.csv,winnipeg_manitoba,numeric,Published value for winnipeg manitoba. See unit_of_measure and scalar_factor in the long file for the unit.

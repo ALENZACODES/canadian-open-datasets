@@ -1,0 +1,16 @@
+{
+  "slug": "canada-new-housing-price-index",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-new-housing-price-index",
+  "table_id": "18-10-0205-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-new-housing-price-index",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-new-housing-price-index/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.5294117647058824,
+  "facts": [
+    "The Canada total (house and land) index was 120.2 in 2026-09.",
+    "That was -2.0% different from the same month a year earlier.",
+    "In the latest month the house-only index was 121.4 and the land-only index was 116.3."
+  ],
+  "publish_msg": "ready"
+}
