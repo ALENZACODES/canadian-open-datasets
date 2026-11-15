@@ -1,0 +1,7 @@
+waterbody_id,waterbody,kind,record_start_year,record_end_year,n_years,datum,unit,source_page,record_mean_m_igld1985
+superior,Lake Superior,lake,1918,2025,108,IGLD 1985,metre,https://www.tides.gc.ca/en/historical-monthly-mean-water-levels-coordinated-network-lake-superior,183.41101851851852
+michigan_huron,Lakes Michigan-Huron,lake,1918,2025,108,IGLD 1985,metre,https://www.tides.gc.ca/en/historical-monthly-mean-water-levels-coordinated-network-lake-michiganhuron,176.44916666666666
+st_clair,Lake St. Clair,lake,1918,2025,108,IGLD 1985,metre,https://www.tides.gc.ca/en/historical-monthly-mean-water-levels-coordinated-network-lake-st-clair,175.04592592592593
+erie,Lake Erie,lake,1918,2025,108,IGLD 1985,metre,https://www.tides.gc.ca/en/historical-monthly-mean-water-levels-coordinated-network-lake-erie,174.18111111111114
+ontario,Lake Ontario,lake,1918,2025,108,IGLD 1985,metre,https://www.tides.gc.ca/en/historical-monthly-mean-water-levels-coordinated-network-lake-ontario,74.76944444444445
+montreal_harbour,Montreal Harbour,harbour,1967,2025,59,IGLD 1985,metre,https://www.tides.gc.ca/en/historical-monthly-mean-water-levels-coordinated-network-montreal-harbour,6.643898305084746

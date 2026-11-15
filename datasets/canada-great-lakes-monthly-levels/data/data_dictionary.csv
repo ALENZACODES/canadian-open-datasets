@@ -1,0 +1,39 @@
+file,column,type,description
+monthly_levels_long.csv,waterbody_id,string,Short identifier for the lake or harbour.
+monthly_levels_long.csv,waterbody,string,"Published name (Lake Superior, Lakes Michigan-Huron, Lake St. Clair, Lake Erie, Lake Ontario, or Montreal Harbour)."
+monthly_levels_long.csv,year,integer,Calendar year of the monthly or annual mean.
+monthly_levels_long.csv,month,integer,"Month number, 1 to 12."
+monthly_levels_long.csv,month_name,string,Month name.
+monthly_levels_long.csv,water_level_m_igld1985,numeric,Monthly mean water level in metres referred to the International Great Lakes Datum 1985 (IGLD 1985).
+monthly_levels_long.csv,datum,string,Vertical datum of the published values. All series here are IGLD 1985.
+monthly_levels_long.csv,unit,string,Unit of the water level values (metre).
+annual_levels.csv,waterbody_id,string,Short identifier for the lake or harbour.
+annual_levels.csv,waterbody,string,"Published name (Lake Superior, Lakes Michigan-Huron, Lake St. Clair, Lake Erie, Lake Ontario, or Montreal Harbour)."
+annual_levels.csv,year,integer,Calendar year of the monthly or annual mean.
+annual_levels.csv,annual_mean_m_igld1985,numeric,"Annual mean water level in metres, IGLD 1985, as published in the CHS yearly table."
+annual_levels.csv,annual_min_m_igld1985,numeric,"Lowest monthly mean in that year, in metres, IGLD 1985, as published."
+annual_levels.csv,annual_max_m_igld1985,numeric,"Highest monthly mean in that year, in metres, IGLD 1985, as published."
+annual_levels.csv,annual_range_m,numeric,"Annual range in metres, as published where present, otherwise maximum minus minimum."
+annual_levels.csv,datum,string,Vertical datum of the published values. All series here are IGLD 1985.
+annual_levels.csv,unit,string,Unit of the water level values (metre).
+annual_levels.csv,record_mean_m_igld1985,numeric,"Mean of the published annual means over the full record for that waterbody, in metres, IGLD 1985."
+annual_levels.csv,anomaly_m,numeric,"Annual mean minus the record mean for that waterbody, in metres."
+monthly_climatology.csv,waterbody_id,string,Short identifier for the lake or harbour.
+monthly_climatology.csv,waterbody,string,"Published name (Lake Superior, Lakes Michigan-Huron, Lake St. Clair, Lake Erie, Lake Ontario, or Montreal Harbour)."
+monthly_climatology.csv,period,string,"Climatology window: all-time, or 2016-2025."
+monthly_climatology.csv,statistic,string,"average, minimum or maximum, as labelled on the CHS summary table."
+monthly_climatology.csv,month,integer,"Month number, 1 to 12."
+monthly_climatology.csv,month_name,string,Month name.
+monthly_climatology.csv,water_level_m_igld1985,numeric,Monthly mean water level in metres referred to the International Great Lakes Datum 1985 (IGLD 1985).
+monthly_climatology.csv,datum,string,Vertical datum of the published values. All series here are IGLD 1985.
+monthly_climatology.csv,unit,string,Unit of the water level values (metre).
+waterbodies.csv,waterbody_id,string,Short identifier for the lake or harbour.
+waterbodies.csv,waterbody,string,"Published name (Lake Superior, Lakes Michigan-Huron, Lake St. Clair, Lake Erie, Lake Ontario, or Montreal Harbour)."
+waterbodies.csv,kind,string,lake or harbour.
+waterbodies.csv,record_start_year,integer,First year in the published coordinated-network series.
+waterbodies.csv,record_end_year,integer,Last year in the published coordinated-network series.
+waterbodies.csv,n_years,integer,Number of years in the published series.
+waterbodies.csv,datum,string,Vertical datum of the published values. All series here are IGLD 1985.
+waterbodies.csv,unit,string,Unit of the water level values (metre).
+waterbodies.csv,source_page,string,CHS page the table was read from.
+waterbodies.csv,record_mean_m_igld1985,numeric,"Mean of the published annual means over the full record for that waterbody, in metres, IGLD 1985."

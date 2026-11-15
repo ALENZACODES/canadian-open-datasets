@@ -1,0 +1,289 @@
+waterbody_id,waterbody,period,statistic,month,month_name,water_level_m_igld1985,datum,unit
+superior,Lake Superior,all-time,average,1,January,183.34,IGLD 1985,metre
+superior,Lake Superior,all-time,average,2,February,183.28,IGLD 1985,metre
+superior,Lake Superior,all-time,average,3,March,183.24,IGLD 1985,metre
+superior,Lake Superior,all-time,average,4,April,183.27,IGLD 1985,metre
+superior,Lake Superior,all-time,average,5,May,183.37,IGLD 1985,metre
+superior,Lake Superior,all-time,average,6,June,183.46,IGLD 1985,metre
+superior,Lake Superior,all-time,average,7,July,183.52,IGLD 1985,metre
+superior,Lake Superior,all-time,average,8,August,183.54,IGLD 1985,metre
+superior,Lake Superior,all-time,average,9,September,183.54,IGLD 1985,metre
+superior,Lake Superior,all-time,average,10,October,183.52,IGLD 1985,metre
+superior,Lake Superior,all-time,average,11,November,183.47,IGLD 1985,metre
+superior,Lake Superior,all-time,average,12,December,183.41,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,1,January,182.83,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,2,February,182.76,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,3,March,182.74,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,4,April,182.72,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,5,May,182.76,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,6,June,182.85,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,7,July,182.96,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,8,August,183.01,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,9,September,183.02,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,10,October,183.1,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,11,November,183.01,IGLD 1985,metre
+superior,Lake Superior,all-time,minimum,12,December,182.92,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,1,January,183.71,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,2,February,183.64,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,3,March,183.61,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,4,April,183.68,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,5,May,183.77,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,6,June,183.84,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,7,July,183.86,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,8,August,183.86,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,9,September,183.86,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,10,October,183.91,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,11,November,183.89,IGLD 1985,metre
+superior,Lake Superior,all-time,maximum,12,December,183.81,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,1,January,183.48,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,2,February,183.42,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,3,March,183.38,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,4,April,183.42,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,5,May,183.52,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,6,June,183.59,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,7,July,183.65,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,8,August,183.66,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,9,September,183.66,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,10,October,183.63,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,11,November,183.58,IGLD 1985,metre
+superior,Lake Superior,2016-2025,average,12,December,183.51,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,1,January,176.32,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,2,February,176.31,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,3,March,176.32,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,4,April,176.41,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,5,May,176.51,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,6,June,176.57,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,7,July,176.6,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,8,August,176.58,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,9,September,176.53,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,10,October,176.46,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,11,November,176.4,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,average,12,December,176.36,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,1,January,175.57,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,2,February,175.59,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,3,March,175.58,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,4,April,175.61,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,5,May,175.74,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,6,June,175.76,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,7,July,175.78,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,8,August,175.77,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,9,September,175.76,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,10,October,175.7,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,11,November,175.65,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,minimum,12,December,175.61,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,1,January,177.26,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,2,February,177.25,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,3,March,177.22,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,4,April,177.3,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,5,May,177.38,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,6,June,177.45,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,7,July,177.46,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,8,August,177.42,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,9,September,177.38,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,10,October,177.5,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,11,November,177.38,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,all-time,maximum,12,December,177.26,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,1,January,176.66,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,2,February,176.63,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,3,March,176.64,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,4,April,176.74,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,5,May,176.84,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,6,June,176.9,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,7,July,176.94,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,8,August,176.92,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,9,September,176.85,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,10,October,176.78,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,11,November,176.71,IGLD 1985,metre
+michigan_huron,Lakes Michigan-Huron,2016-2025,average,12,December,176.64,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,1,January,174.88,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,2,February,174.82,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,3,March,174.94,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,4,April,175.08,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,5,May,175.16,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,6,June,175.21,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,7,July,175.23,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,8,August,175.19,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,9,September,175.12,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,10,October,175.03,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,11,November,174.94,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,average,12,December,174.94,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,1,January,173.88,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,2,February,173.89,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,3,March,174.05,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,4,April,174.32,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,5,May,174.42,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,6,June,174.45,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,7,July,174.5,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,8,August,174.41,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,9,September,174.34,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,10,October,174.27,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,11,November,174.18,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,minimum,12,December,174.24,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,1,January,175.8,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,2,February,175.8,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,3,March,175.83,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,4,April,175.91,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,5,May,175.98,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,6,June,176.02,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,7,July,176.04,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,8,August,175.97,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,9,September,175.88,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,10,October,175.96,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,11,November,175.82,IGLD 1985,metre
+st_clair,Lake St. Clair,all-time,maximum,12,December,175.8,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,1,January,175.32,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,2,February,175.25,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,3,March,175.38,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,4,April,175.5,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,5,May,175.58,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,6,June,175.63,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,7,July,175.66,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,8,August,175.62,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,9,September,175.53,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,10,October,175.42,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,11,November,175.32,IGLD 1985,metre
+st_clair,Lake St. Clair,2016-2025,average,12,December,175.27,IGLD 1985,metre
+erie,Lake Erie,all-time,average,1,January,174.03,IGLD 1985,metre
+erie,Lake Erie,all-time,average,2,February,174.03,IGLD 1985,metre
+erie,Lake Erie,all-time,average,3,March,174.11,IGLD 1985,metre
+erie,Lake Erie,all-time,average,4,April,174.26,IGLD 1985,metre
+erie,Lake Erie,all-time,average,5,May,174.34,IGLD 1985,metre
+erie,Lake Erie,all-time,average,6,June,174.37,IGLD 1985,metre
+erie,Lake Erie,all-time,average,7,July,174.36,IGLD 1985,metre
+erie,Lake Erie,all-time,average,8,August,174.29,IGLD 1985,metre
+erie,Lake Erie,all-time,average,9,September,174.2,IGLD 1985,metre
+erie,Lake Erie,all-time,average,10,October,174.1,IGLD 1985,metre
+erie,Lake Erie,all-time,average,11,November,174.03,IGLD 1985,metre
+erie,Lake Erie,all-time,average,12,December,174.02,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,1,January,173.21,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,2,February,173.18,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,3,March,173.2,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,4,April,173.38,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,5,May,173.44,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,6,June,173.45,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,7,July,173.45,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,8,August,173.43,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,9,September,173.38,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,10,October,173.3,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,11,November,173.2,IGLD 1985,metre
+erie,Lake Erie,all-time,minimum,12,December,173.19,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,1,January,174.86,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,2,February,174.9,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,3,March,174.95,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,4,April,175.05,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,5,May,175.08,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,6,June,175.14,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,7,July,175.13,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,8,August,175.02,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,9,September,174.87,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,10,October,174.94,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,11,November,174.85,IGLD 1985,metre
+erie,Lake Erie,all-time,maximum,12,December,174.89,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,1,January,174.43,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,2,February,174.45,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,3,March,174.54,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,4,April,174.67,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,5,May,174.76,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,6,June,174.77,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,7,July,174.75,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,8,August,174.67,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,9,September,174.57,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,10,October,174.47,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,11,November,174.4,IGLD 1985,metre
+erie,Lake Erie,2016-2025,average,12,December,174.36,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,1,January,74.58,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,2,February,74.62,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,3,March,74.69,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,4,April,74.89,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,5,May,75.03,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,6,June,75.06,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,7,July,75.01,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,8,August,74.9,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,9,September,74.75,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,10,October,74.62,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,11,November,74.54,IGLD 1985,metre
+ontario,Lake Ontario,all-time,average,12,December,74.53,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,1,January,73.81,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,2,February,73.78,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,3,March,73.94,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,4,April,74.03,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,5,May,74.11,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,6,June,74.19,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,7,July,74.14,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,8,August,74.0,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,9,September,73.91,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,10,October,73.82,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,11,November,73.75,IGLD 1985,metre
+ontario,Lake Ontario,all-time,minimum,12,December,73.74,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,1,January,75.16,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,2,February,75.27,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,3,March,75.37,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,4,April,75.65,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,5,May,75.8,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,6,June,75.91,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,7,July,75.8,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,8,August,75.58,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,9,September,75.41,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,10,October,75.22,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,11,November,75.18,IGLD 1985,metre
+ontario,Lake Ontario,all-time,maximum,12,December,75.2,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,1,January,74.72,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,2,February,74.8,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,3,March,74.87,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,4,April,75.05,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,5,May,75.24,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,6,June,75.24,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,7,July,75.16,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,8,August,75.02,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,9,September,74.83,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,10,October,74.68,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,11,November,74.63,IGLD 1985,metre
+ontario,Lake Ontario,2016-2025,average,12,December,74.62,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,1,January,6.67,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,2,February,6.86,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,3,March,6.93,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,4,April,7.43,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,5,May,7.21,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,6,June,6.67,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,7,July,6.44,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,8,August,6.31,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,9,September,6.18,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,10,October,6.22,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,11,November,6.36,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,average,12,December,6.47,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,1,January,5.56,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,2,February,5.58,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,3,March,5.65,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,4,April,6.11,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,5,May,5.4,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,6,June,5.34,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,7,July,5.29,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,8,August,5.21,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,9,September,5.23,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,10,October,5.23,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,11,November,5.37,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,minimum,12,December,5.47,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,1,January,8.96,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,2,February,9.04,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,3,March,8.36,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,4,April,8.82,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,5,May,8.93,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,6,June,8.12,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,7,July,7.59,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,8,August,7.27,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,9,September,7.08,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,10,October,7.16,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,11,November,7.31,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,all-time,maximum,12,December,7.24,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,1,January,6.63,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,2,February,6.82,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,3,March,7.05,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,4,April,7.53,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,5,May,7.53,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,6,June,6.84,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,7,July,6.59,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,8,August,6.37,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,9,September,6.15,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,10,October,6.08,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,11,November,6.26,IGLD 1985,metre
+montreal_harbour,Montreal Harbour,2016-2025,average,12,December,6.33,IGLD 1985,metre
