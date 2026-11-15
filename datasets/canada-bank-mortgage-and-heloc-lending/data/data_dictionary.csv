@@ -1,0 +1,35 @@
+column,file,type,description
+ref_date,chartered_bank_mortgage_loans_quarterly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,chartered_bank_mortgage_loans_quarterly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,chartered_bank_mortgage_loans_quarterly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+mortgages,chartered_bank_mortgage_loans_quarterly.csv,string,Mortgage aggregate as published.
+increases_and_decreases,chartered_bank_mortgage_loans_quarterly.csv,string,Stock or flow component as published.
+type_of_mortgage,chartered_bank_mortgage_loans_quarterly.csv,string,Type of mortgage as published.
+unit_of_measure,chartered_bank_mortgage_loans_quarterly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,chartered_bank_mortgage_loans_quarterly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,chartered_bank_mortgage_loans_quarterly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,chartered_bank_mortgage_loans_quarterly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,chartered_bank_mortgage_loans_quarterly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,chartered_bank_mortgage_loans_quarterly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,chartered_bank_mortgage_loans_quarterly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,chartered_bank_mortgage_loans_quarterly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,chartered_bank_mortgage_loans_quarterly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,chartered_bank_mortgage_loans_quarterly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,chartered_bank_mortgage_loans_quarterly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,chartered_bank_mortgage_loans_quarterly.csv,string,Statistics Canada table identifier this row was taken from.
+ref_date,chartered_bank_heloc_quarterly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,chartered_bank_heloc_quarterly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,chartered_bank_heloc_quarterly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+heloc_series,chartered_bank_heloc_quarterly.csv,string,HELOC or residential secured lending series name as published.
+unit_of_measure,chartered_bank_heloc_quarterly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,chartered_bank_heloc_quarterly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,chartered_bank_heloc_quarterly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,chartered_bank_heloc_quarterly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,chartered_bank_heloc_quarterly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,chartered_bank_heloc_quarterly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,chartered_bank_heloc_quarterly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,chartered_bank_heloc_quarterly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,chartered_bank_heloc_quarterly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,chartered_bank_heloc_quarterly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,chartered_bank_heloc_quarterly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,chartered_bank_heloc_quarterly.csv,string,Statistics Canada table identifier this row was taken from.

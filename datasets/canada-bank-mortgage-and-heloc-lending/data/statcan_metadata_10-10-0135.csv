@@ -1,0 +1,80 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Chartered bank aggregates, home equity lines of credit, quarter end, Bank of Canada","10100135",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010013501",,"CURRENT - a cube available to the public and that is current","Quarterly","2019-01-01","2026-04-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Home equity lines of credit (HELOCs)",4;5;6;7,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Total, loan-to-value ratio (LTV ratio), home equity lines of credit (HELOCs), outside of combined loan plans, authorized amounts","","1","","",,
+"2","Loan-to-value ratio (LTV ratio), greater than or equal to 0 percent to less than or equal to 50 percent, home equity lines of credit (HELOCs), outside of combined loan plans, authorized amounts","","2","1","",1,
+"2","Loan-to-value ratio (LTV ratio), greater than 50 percent to less than or equal to 65 percent, home equity lines of credit (HELOCs), outside of combined loan plans, authorized amounts","","3","1","",,
+"2","Loan-to-value ratio (LTV ratio), over 65 percent, home equity lines of credit (HELOCs), outside of combined loan plans, authorized amounts","","4","1","",,
+"2","Total, loan-to-value ratio (LTV ratio, home equity lines of credit (HELOCs), outside of combined loan plans, drawn amounts","","5","","",,
+"2","Loan-to-value ratio (LTV ratio), greater than or equal to 0 percent to less than or equal to 50 percent, home equity lines of credit (HELOCs), outside of combined loan plans, drawn amounts","","6","5","",1,
+"2","Loan-to-value ratio (LTV ratio), greater than 50 percent to less than or equal to 65 percent, home equity lines of credit (HELOCs), outside of combined loan plans, drawn amounts","","7","5","",,
+"2","Loan-to-value ratio (LTV ratio), over 65 percent, home equity lines of credit (HELOCs), outside of combined loan plans, drawn amounts","","8","5","",,
+"2","Total, loan-to-value ratio (LTV ratio), home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, authorized amounts","","9","","",,
+"2","Loan-to-value ratio (LTV ratio), greater than or equal to 0 percent to less than or equal to 50 percent, home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, authorized amounts","","10","9","",1,
+"2","Loan-to-value ratio (LTV ratio), greater than 50 percent to less than or equal to 65 percent, home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, authorized amounts","","11","9","",,
+"2","Loan-to-value ratio (LTV ratio), over 80 percent, home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, authorized amounts","","12","9","",,
+"2","Total, loan-to-value ratio (LTV ratio), home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, drawn amounts","","13","","",,
+"2","Loan-to-value ratio (LTV ratio), greater than or equal to 0 percent to less than or equal to 50 percent, home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, drawn amounts","","14","13","",1,
+"2","Loan-to-value ratio (LTV ratio), greater than 50 percent to less than or equal to 65 percent, home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, drawn amounts","","15","13","",,
+"2","Loan-to-value ratio (LTV ratio), over 65 percent, home equity lines of credit (HELOCs), combined mortgage-HELOC loan plans, drawn amounts","","16","13","",,
+"2","Total, utilization rate (outstanding / authorized), home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, authorized amounts","","17","","",,
+"2","Utilization rate (outstanding / authorized), greater than or equal to 0 percent to less than or equal to 20 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, authorized amounts","","18","17","",2,
+"2","Utilization rate (outstanding / authorized), greater than 20 percent to less than or equal to 40 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, authorized amounts","","19","17","",2,
+"2","Utilization rate (outstanding / authorized), greater than 40 percent to less than or equal to 60 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, authorized amounts","","20","17","",2,
+"2","Utilization rate (outstanding / authorized), greater than 60 percent to less than or equal to 80 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, authorized amounts","","21","17","",2,
+"2","Utilization rate (outstanding / authorized), greater than 80 percent to less than or equal to 100 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, authorized amounts","","22","17","",2,
+"2","Total, utilization rate (outstanding / authorized), home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, drawn amounts","","23","","",,
+"2","Utilization rate (outstanding / authorized), greater than or equal to 0 percent to less than or equal to 20 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, drawn amounts","","24","23","",2,
+"2","Utilization rate (outstanding / authorized), greater than 20 percent to less than or equal to 40 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, drawn amounts","","25","23","",2,
+"2","Utilization rate (outstanding / authorized), greater than 40 percent to less than or equal to 60 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, drawn amounts","","26","23","",2,
+"2","Utilization rate (outstanding / authorized), greater than 60 percent to less than or equal to 80 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, drawn amounts","","27","23","",2,
+"2","Utilization rate (outstanding / authorized), greater than 80 percent to less than or equal to 100 percent, home equity lines of credit (HELOCs), HELOCs and HELOC components of combined mortgage-HELOC loan plans, drawn amounts","","28","23","",2,
+"2","Total, real estate secured lending, home equity lines of credit (HELOCs), residential secured lending","","29","","",,
+"2","HELOC (stand alone), home equity lines of credit (HELOCs), residential secured lending","","30","29","",3,
+"2","Mortgage (stand alone), home equity lines of credit (HELOCs), residential secured lending","","31","29","",3,
+"2","Combined mortgage and HELOC plans, home equity lines of credit (HELOCs), residential secured lending","","32","29","",3,
+"2","Combined mortgage and HELOC plans, of which non-amortizing, home equity lines of credit (HELOCs), residential secured lending","","33","32","",3,
+"2","Combined mortgage and HELOC plans, of which amortizing, home equity lines of credit (HELOCs), residential secured lending","","34","32","",3,
+"2","Other lending secured by real-estate, home equity lines of credit (HELOCs), residential secured lending","","35","29","",3,
+"2","HELOC and non-amortizing part of combined plans, home equity lines of credit (HELOCs), residential secured lending","","36","","",3,
+"2","Mortgage and amortizing part of combined plans, home equity lines of credit (HELOCs), residential secured lending","","37","","",3,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"7502","Bank of Canada"
+
+"Subject Code","Subject Name"
+"10","Government"
+
+"Note ID",Note
+1,"This category includes loans without an available loan-to-value (LTV) ratio. The expectation is that this would only occur in unusual circumstances."
+2,"The utilization rate for a loan is defined as the drawn amount (outstanding balance) over the authorized amount."
+3,"Drawn amounts, net of allowance for expected credit losses and various balance sheet adjustments."
+4,"Quarter-end data on chartered bank Home Equity Lines of Credit (HELOCs) and related products for residential secured lending whose properties are located in Canada (excluding business loans). "
+5,"The data shown provides information on the Home Equity Lines of Credit (HELOCs) and related products secured by residential properties in Canada with the exception of business loans. Reporting coverage encompasses selected chartered banks with the largest total assets."
+6,"For supplemental information and general details on the source data, please visit the Home Equity Lines of Credit (HELOCs) (J2) instructions on <a href="https://www.osfi-bsif.gc.ca/Eng/fi-if/rtn-rlv/fr-rf/dti-id/Pages/heloc.aspx" rel="external noopener noreferrer" target="_blank"> the Office of the Superintendent of Financial Institutions (OSFI) website</a>. Please note that the re-advanceable part of a loan has undergone a definition change effective 2021 Q1."
+7,"The reporting practices for combined plans vary across financial institutions, and the mortgage component of combined plans may be reported as either a mortgage or a Home Equity Lines of Credit (HELOCs). "
+
+"Correction ID","Correction Date","Correction Note"
