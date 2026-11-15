@@ -1,0 +1,89 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Income of individuals by disability status, age group, gender and income source","11100088",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110008801",1;2;7;15,"CURRENT - a cube available to the public and that is current","Annual","2013-01-01","2024-01-01","6",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Disability status",4,""
+"3","Age group",,""
+"4","Gender",13;14,""
+"5","Income source",,""
+"6","Statistics",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",3,
+"2","Persons with disabilities","","1","","",,
+"2","Persons without disabilities","","2","","",,
+"3","Total, 15 years and over","","1","","",11,
+"3","15 to 24 years","","2","1","",12,
+"3","25 to 54 years","","3","1","",,
+"3","25 to 34 years","","4","3","",,
+"3","35 to 44 years","","5","3","",,
+"3","45 to 54 years","","6","3","",,
+"3","55 to 64 years","","7","1","",,
+"3","65 years and over","","8","1","",,
+"4","Total - Gender","","1","","",,
+"4","Men+","","2","1","",,
+"4","Women+","","3","1","",,
+"5","Total income","","1","","",,
+"5","Market income","","2","1","",,
+"5","Employment income","","3","2","",,
+"5","Wages, salaries and commissions","","4","3","",,
+"5","Self-employment income","","5","3","",,
+"5","Investment income","","6","2","",,
+"5","Retirement income","","7","2","",,
+"5","Other income","","8","2","",8,
+"5","Government transfers","","9","1","",,
+"5","Old Age Security (OAS) and Guaranteed Income Supplement (GIS)","","10","9","",5,
+"5","Canada Pension Plan (CPP) and Quebec Pension Plan (QPP) benefits","","11","9","",,
+"5","Child benefits","","12","9","",9,
+"5","Employment Insurance (EI) benefits","","13","9","",,
+"5","Social assistance","","14","9","",10,
+"5","COVID-19 benefits","","16","9","",6,
+"5","Other government transfers","","15","9","",,
+"6","Number of persons","","1","","",,
+"6","Number with income","","2","","",,
+"6","Aggregate income","","3","","",,
+"6","Average income (excluding zeros)","","4","","",,
+"6","Median income (excluding zeros)","","5","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5200","Canadian Income Survey"
+
+"Subject Code","Subject Name"
+"11","Income, pensions, spending and wealth"
+
+"Note ID",Note
+1,"Source: Centre for Housing and Income Statistics, Statistics Canada."
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (CV between 16% and 33.3%)."
+3,"Estimates for Canada do not include the territories."
+4,"The Canadian Income Survey (CIS) identifies persons with disabilities using the Disability Screening Questions (DSQ), which are based on the social model of disability, and were asked of one randomly selected household member aged 15 years and older (16 years and older for reference years prior to 2022). The DSQ first measure the degree to which difficulties are experienced across 10 domains of functioning, then ask how often daily activities are limited by these difficulties. Only persons who report a limitation in their day-to-day activities are identified as having a disability. Beginning in 2022, the DSQ module was included in a new Labour Force Survey supplement, the Labour Market and Socioeconomic Indicators, which doubles the sample size for a large subset of the CIS content. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+5,"Includes the Allowance or Allowance for the Survivor."
+6,"Government transfers include emergency response and recovery benefits in response to the COVID-19 pandemic. COVID-19 benefits include: federal emergency and recovery benefit programs (for example, Canada Emergency Response Benefit, Canada Emergency Student Benefit, Canada Recovery Benefit, Canada Recovery Caregiving Benefit and Canada Recovery Sickness Benefit) and programs administered by provincial governments as well as a special one-time payment to disabled Canadians. Enhancements to existing federal programs in 2020 are not included in COVID-19 benefits, but are included in these programs and in total government transfers."
+7,"In recent years, the Canadian Income Survey (CIS) has introduced improvements to the methods and sources used to produce income estimates. Beginning with the 2021 reference year, CIS income data were produced from the Administrative Personal Income Masterfile, a comprehensive source of personal income data generated not only from T1 tax returns, but also from associated tax slips. CIS estimates for previous years were produced using T1 tax returns only. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2021 Reference Year (opens new window)</a> for more information. More improvements were introduced with the 2022 reference year. Foremost among these improvements is a significant increase in the sample size for a large subset of the CIS content. The weighting methodology was also improved and the target population for income data was changed from persons aged 16 years and over to persons aged 15 years and over. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+8,"Beginning with reference year 2021, T4A slips (Statement of Pension, Retirement, Annuity, and Other Income) were used to complement information from T1 tax returns, which better capture a few sources of other income (e.g., scholarships, bursaries, and RESP payments)."
+9,"Beginning with reference year 2021, child benefit amounts were retrieved directly from Canada Child Benefit administrative files, while prior to 2021, child benefits were derived using a deterministic method. However, if no amount was found on tax files for families with children in the CIS, an amount was derived using a deterministic method. Conversely, if an amount was found for a person not in an economic family or in a family without children, the amount was set to zero."
+10,"Before the 2021 reference year, to complement information from T1 tax returns, a social assistance amount was imputed for persons who had reported receiving social assistance in the CIS. However, this question was often misunderstood, which led to a higher estimate for the number of social assistance recipients. Beginning with the 2021 reference year, T5007 slips were used to complement T1 information. In addition, provincial seniors’ supplements, which were previously included in “social assistance”, are now included in “other government transfers”."
+11,""Total, 16 years and over'' for years prior to 2022."
+12,""16 to 24 years" for years prior to 2022."
+13,"Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Some people may not identify with a specific gender and a person's gender may change over time. Gender includes the following concepts: gender identity, which refers to the gender that a person feels internally and individually; gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (for example, clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender. A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's license. Gender is the concept used in the CIS beginning with the 2021 reference year. Prior to 2021, only information on the sex of the person (male or female) as declared by the respondent or recorded by the interviewer was collected. The sex variable prior to 2021 and the two-category gender variable since 2021 are combined in this table. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations."
+14,"Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary to protect the confidentiality of responses provided. Individuals in the category "non-binary persons" are distributed into the other two gender categories and are denoted by the "+" symbol. The category "Men+" includes men, as well as some non-binary persons, while the category "Women+" includes women, as well as some non-binary persons."
+15,"The Canadian Income Survey (CIS) periodically revises its estimates to incorporate data from the most recent Census of Population to ensure the continued accuracy and quality of income statistics. With the release of the 2024 CIS data, Statistics Canada revised estimates from 2018 to 2023 based on population counts from the 2021 Census."
+
+"Correction ID","Correction Date","Correction Note"

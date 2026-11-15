@@ -1,0 +1,108 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Labour market indicators for persons with and without disabilities, annual","14100477",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410047701",1;21;22,"CURRENT - a cube available to the public and that is current","Annual","2022-01-01","2025-01-01","7",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",2,""
+"2","Labour market indicators",,""
+"3","Statistics",22,""
+"4","Gender",14;15,""
+"5","Disability",16,""
+"6","Age group",,""
+"7","Socio-demographic characteristics",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"1","Atlantic region","[1]","2","1","",3,
+"1","Newfoundland and Labrador","[10]","3","2","",11,
+"1","Prince Edward Island","[11]","4","2","",11,
+"1","Nova Scotia","[12]","5","2","",11,
+"1","New Brunswick","[13]","6","2","",11,
+"1","Quebec","[24]","7","1","",,
+"1","Ontario","[35]","8","1","",,
+"1","Manitoba and Saskatchewan","","9","1","",,
+"1","Manitoba","[46]","10","9","",11,
+"1","Saskatchewan","[47]","11","9","",11,
+"1","Alberta","[48]","12","1","",,
+"1","British Columbia","[59]","13","1","",,
+"2","Participation rate","","1","","",4,
+"2","Employment rate","","2","","",5,
+"2","Unemployment rate","","3","","",6,
+"2","Proportion employed full-time","","7","","",7,
+"2","Proportion of permanent employees","","8","","",8,
+"2","Union coverage rate (by a collective agreement)","","9","","",9,
+"2","Employees, average hourly wages","","4","","",10,
+"2","Employees, median hourly wage rate","","5","","",10,
+"2","Employees, average usual weekly hours","","6","","",12,
+"3","Estimate","","1","","",22,
+"3","Standard error of estimate","","2","","",13,
+"3","Lower bound of 95% confidence interval","","3","","",20,
+"3","Upper bound of 95% confidence interval","","4","","",20,
+"4","Total - Gender","","1","","",,
+"4","Men+","","2","1","",,
+"4","Women+","","3","1","",,
+"5","Persons with disabilities","","1","","",,
+"5","Persons without disabilities","","2","","",,
+"6","15 years and over","","1","","",,
+"6","15 to 24 years","","4","1","",,
+"6","25 to 54 years","","5","1","",,
+"6","55 years and over","","6","1","",,
+"6","55 to 64 years","","7","6","",,
+"6","65 years and over","","8","6","",,
+"6","15 to 64 years","","2","","",,
+"6","25 to 64 years","","3","","",,
+"7","Total, all persons","","1","","",,
+"7","High school diploma or less","","2","1","",17;18,
+"7","Post-secondary certificate or diploma below bachelor level","","3","1","",17,
+"7","Bachelor's degree or higher","","4","1","",17,
+"7","Landed immigrants","","6","1","",17;19,
+"7","Born in Canada","","7","1","",17,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"3701","Labour Force Survey"
+"5377","Labour Market and Socio-economic Indicators"
+
+"Subject Code","Subject Name"
+"14","Labour"
+
+"Note ID",Note
+1,"Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality. To ensure respondent confidentiality, estimates are suppressed when the sample size is below a certain threshold."
+2,"Excluding the territories."
+3,"Includes the provinces of Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick."
+4,"The participation rate is the number of labour force participants expressed as a percentage of the population aged 15 years and over. The participation rate for a particular group (age, gender, etc.) is the number of labour force participants in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+5,"The employment rate is the number of persons employed expressed as a percentage of the population aged 15 years and over. The employment rate for a particular group (age, gender, etc.) is the number employed in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth."
+6,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, gender, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth."
+7,"Persons employed in full-time jobs as a proportion of total employment. Full-time employment consists of persons who usually work 30 hours or more per week at their main or only job. The proportion employed full-time for a particular group (age, gender, etc.) is the number of persons employed full-time in that group expressed as a proportion of total employment for that group. Estimates are percentages, rounded to the nearest tenth."
+8,"Permanent employees as a percentage of all employees. The classification of permanent is based on the intentions of the employer, and characteristics of the job, rather than the intentions of the employee. A permanent job has no predetermined end date and is expected to last as long as the employee wants it, given that business conditions permit. The proportion for a particular group (age, gender or geography) is the number of permanent employees expressed as a proportion of all employees for that group. Estimates are percentages, rounded to the nearest tenth."
+9,"Employees who are members of a union and/or covered by a collective agreement as a percentage of all employees. The proportion for a particular group (age, gender or geography) is the number of employees who are members of a union and/or covered by a collective agreement in that group expressed as a proportion of all employees for that group. Estimates are percentages, rounded to the nearest tenth."
+10,"Information is collected on the usual wages or salary of employees at their main job. Respondents are asked to report their wage/salary before taxes and other deductions, and include tips, commissions and bonuses. Weekly and hourly wages/salaries are calculated in conjunction with usual paid work hours per week. This indicator only considers employees."
+11,"For this province, the labour market indicators available are the participation rate, employment rate and unemployment rate."
+12,"Calculated by dividing the total usual hours worked by employees during the reference week by the total number of employees."
+13,"The standard error (SE) of an estimate is an indicator of the variability associated with this estimate, as the estimate is based on a sample rather than the entire population. The SE can be used to construct confidence intervals and calculate coefficients of variation (CVs). The confidence interval can be built by adding the SE to an estimate in order to determine the upper limit of this interval, and by subtracting the same amount from the estimate to determine the lower limit. The CV can be calculated by dividing the SE by the estimate. See Section 7 of the <a href="https://www150.statcan.gc.ca/n1/en/catalogue/71-543-G#wb-auto-2" rel="external noopener noreferrer" target="_blank">Guide to the Labour Force Survey (opens new window)</a> for more information."
+14,"Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Some people may not identify with a specific gender and a person's gender may change over time. Gender includes the following concepts: gender identity, which refers to the gender that a person feels internally and individually; gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (for example, clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender. A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's license. The Labour Force Survey (LFS) started collecting gender of person in 2022."
+15,"Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary to protect the confidentiality of responses provided. Individuals in the category "non-binary persons" are distributed into the other two gender categories and are denoted by the "+" symbol. The category "Men+" includes men, as well as some non-binary persons, while the category "Women+" includes women, as well as some non-binary persons."
+16,"The Labour Market Socioeconomic Indicators supplement to the Labour Force Survey identifies persons with disabilities using the Disability Screening Questions (DSQ), which are based on the social model of disability. The DSQ first measure the degree to which difficulties are experienced across 10 domains of functioning, then ask how often daily activities are limited by these difficulties. Only persons who report a limitation in their day-to-day activities are identified as having a disability."
+17,"Estimates are only available for the population aged 15 years and over, 15 to 64 years and 25 to 64 years. Estimates for the other age groups are suppressed to meet data quality and confidentiality guidelines."
+18,"Includes individuals who received a high school diploma as well as those who attended primary or secondary school but did not receive a diploma."
+19,"Refers to people who are, or have been, landed immigrants in Canada. A landed immigrant is a person who has been granted the right to live in Canada permanently by immigration authorities. Canadian citizens by birth and non-permanent residents (persons from another country who live in Canada and have a work or study permit, or are claiming refugee status, as well as family members living here with them) are not landed immigrants."
+20,"The confidence interval illustrates the degree of variability associated with an estimate. A wider confidence interval indicates higher variability, meaning that the estimate should be interpreted with caution. The 95% confidence interval of an estimate means that if the survey were repeated over and over, the confidence interval would cover the true population value 95% of the time (or 19 times out of 20). The 95% confidence intervals in this table were produced using bootstrap variance techniques."
+21,"The Labour Market Socioeconomic Indicators supplement to the Labour Force Survey is a source of  labour market information for people with and without disabilities. The Canadian Survey on Disability (CSD), a national survey conducted every 5 years among Canadians aged 15 and over whose daily activities are limited due to a long-term health condition or a health problem, should be considered the official source of information on the prevalence of disability, as well as the number and characteristics of people with disabilities."
+22,"Estimates with a higher level of variability are identified with a superscript D. In these cases, data users should use the 95% confidence interval to assess whether the quality of the estimate is sufficient. Estimates for which the sample size is too small to calculate an accurate confidence interval are identified with a superscript E. These estimates should be used with a high degree of caution."
+
+"Correction ID","Correction Date","Correction Note"

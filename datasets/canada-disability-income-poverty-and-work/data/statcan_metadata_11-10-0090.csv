@@ -1,0 +1,76 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Poverty and low-income statistics by disability status","11100090",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110009001",1;2;10;19,"CURRENT - a cube available to the public and that is current","Annual","2013-01-01","2024-01-01","6",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Disability status",4,""
+"3","Age group and gender",16;17,""
+"4","Economic family type",,""
+"5","Low income lines",,""
+"6","Statistics",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",3,
+"2","Persons with disabilities","","1","","",,
+"2","Persons without disabilities","","2","","",,
+"3","Persons aged 15 years and over","","1","","",11;12,
+"3","Persons aged 15 to 64 years","","2","1","",13,
+"3","Persons aged 65 years and over","","3","1","",,
+"3","Men+ aged 15 years and over","","4","1","",12,
+"3","Women+ aged 15 years and over","","5","1","",12,
+"4","All persons","","1","","",,
+"4","Persons in economic families","","2","1","",5,
+"4","Persons not in an economic family","","3","1","",,
+"5","Low income measure after tax","","1","","",6,
+"5","Market basket measure, 2023 base","","4","","",8;18,
+"5","Market basket measure, 2018 base","","3","","",7,
+"5","Market basket measure, 2008 base","","2","","",7,
+"6","Number of persons in low income","","1","","",,
+"6","Percentage of persons in low income","","2","","",,
+"6","Average gap ratio","","3","","",9,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5200","Canadian Income Survey"
+
+"Subject Code","Subject Name"
+"11","Income, pensions, spending and wealth"
+
+"Note ID",Note
+1,"Source: Centre for Housing and Income Statistics, Statistics Canada."
+2,"Data quality indicators are based on the coefficient of variation (CV) and number of observations. Quality indicators indicate the following: A - Excellent (CV between 0% and 2%); B - Very good (CV between 2% and 4%); C - Good (CV between 4% and 8%); D - Acceptable (CV between 8% and 16%); E - Use with caution (CV between 16% and 33.3%)."
+3,"Estimates for Canada do not include the territories."
+4,"The Canadian Income Survey (CIS) identifies persons with disabilities using the Disability Screening Questions (DSQ), which are based on the social model of disability, and were asked of one randomly selected household member aged 15 years and older (16 years and older for reference years prior to 2022). The DSQ first measure the degree to which difficulties are experienced across 10 domains of functioning, then ask how often daily activities are limited by these difficulties. Only persons who report a limitation in their day-to-day activities are identified as having a disability. Beginning in 2022, the DSQ module was included in a new Labour Force Survey supplement, the Labour Market and Socioeconomic Indicators, which doubles the sample size for a large subset of the CIS content. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+5,"An economic family refers to a group of two or more persons who live in the same dwelling and are related to each other by blood, marriage, common-law, adoption or a foster relationship."
+6,"Low income measures (LIMs), are relative measures of low income, set at 50% of adjusted median household income. These measures are categorized according to the number of persons present in the household, reflecting the economies of scale inherent in household size."
+7,"The Market Basket Measure (MBM) is based on the cost of a specific basket of goods and services representing a modest, basic standard of living. It includes the costs of food, clothing, shelter, transportation and other items for a reference family. These costs are compared to the disposable income of families to determine whether or not they fall below the poverty line."
+8,"For more information on the 2023-base Market Basket Measure, please consult the document <a href="https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2025003-eng.htm" rel="external noopener noreferrer" target="_blank"> The proposed methodology for the 2023-base Market Basket Measure of poverty (opens new window)</a>."
+9,"The gap ratio is the difference between the low income threshold and the family (or household) income, expressed as a percentage of the low income threshold. For those with negative income, the gap ratio is set to 100. As a measure of depth of low income, the statistic takes the form of the average of the gap ratio calculated over the population of individuals below the income line."
+10,"In recent years, the Canadian Income Survey (CIS) has introduced improvements to the methods and sources used to produce income estimates. Beginning with the 2021 reference year, CIS income data were produced from the Administrative Personal Income Masterfile, a comprehensive source of personal income data generated not only from T1 tax returns, but also from associated tax slips. CIS estimates for previous years were produced using T1 tax returns only. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2023005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2021 Reference Year (opens new window)</a> for more information. More improvements were introduced with the 2022 reference year. Foremost among these improvements is a significant increase in the sample size for a large subset of the CIS content. The weighting methodology was also improved and the target population for income data was changed from persons aged 16 years and over to persons aged 15 years and over. Please consult the document <a href=https://www150.statcan.gc.ca/n1/pub/75f0002m/75f0002m2024005-eng.htm rel="external noopener noreferrer" target="_blank">Improvements to the Canadian Income Survey Methodology for the 2022 Reference Year (opens new window)</a> for more information."
+11,"The prevalence of disability increases with age. See table 13-10-0374-01 for more information."
+12,""Persons aged 16 years and over'' for years prior to 2022."
+13,""Persons aged 16 to 64 years'' for years prior to 2022."
+16,"Gender refers to an individual's personal and social identity as a man, woman or non-binary person (a person who is not exclusively a man or a woman). Some people may not identify with a specific gender and a person's gender may change over time. Gender includes the following concepts: gender identity, which refers to the gender that a person feels internally and individually; gender expression, which refers to the way a person presents their gender, regardless of their gender identity, through body language, aesthetic choices or accessories (for example, clothes, hairstyle and makeup), which may have traditionally been associated with a specific gender. A person's gender may differ from their sex at birth, and from what is indicated on their current identification or legal documents such as their birth certificate, passport or driver's license. Gender is the concept used in the CIS beginning with the 2021 reference year. Prior to 2021, only information on the sex of the person (male or female) as declared by the respondent or recorded by the interviewer was collected. The sex variable prior to 2021 and the two-category gender variable since 2021 are combined in this table. Although sex and gender refer to two different concepts, the introduction of gender is not expected to have a significant impact on data analysis and historical comparability, given the small size of the transgender and non-binary populations."
+17,"Given that the non-binary population is small, data aggregation to a two-category gender variable is necessary to protect the confidentiality of responses provided. Individuals in the category "non-binary persons" are distributed into the other two gender categories and are denoted by the "+" symbol. The category "Men+" includes men, as well as some non-binary persons, while the category "Women+" includes women, as well as some non-binary persons."
+18,"The Market Basket Measure (MBM) is based on the cost of a specific basket of goods and services representing a modest, basic standard of living. It includes the costs of food, clothing, shelter, transportation, communication services and other items for a reference family. These costs are compared to the disposable income of families to determine whether or not they fall below the poverty line."
+19,"The Canadian Income Survey (CIS) periodically revises its estimates to incorporate data from the most recent Census of Population to ensure the continued accuracy and quality of income statistics. With the release of the 2024 CIS data, Statistics Canada revised estimates from 2018 to 2023 based on population counts from the 2021 Census."
+
+"Correction ID","Correction Date","Correction Note"
+"3942","2025-05-07","On May 7, 2025, data based on the Market basket measure (2018 base) have been corrected for 2023.",
+

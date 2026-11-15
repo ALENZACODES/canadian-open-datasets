@@ -1,0 +1,62 @@
+column,file,type,description
+ref_date,income_by_disability_status_annual.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,income_by_disability_status_annual.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,income_by_disability_status_annual.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+disability_status,income_by_disability_status_annual.csv,string,Disability status as published.
+age_group,income_by_disability_status_annual.csv,string,Age group as published.
+gender,income_by_disability_status_annual.csv,string,Gender as published.
+income_source,income_by_disability_status_annual.csv,string,Income source as published.
+statistic,income_by_disability_status_annual.csv,string,Statistic as published.
+unit_of_measure,income_by_disability_status_annual.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,income_by_disability_status_annual.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,income_by_disability_status_annual.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,income_by_disability_status_annual.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,income_by_disability_status_annual.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,income_by_disability_status_annual.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,income_by_disability_status_annual.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,income_by_disability_status_annual.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,income_by_disability_status_annual.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,income_by_disability_status_annual.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,income_by_disability_status_annual.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,income_by_disability_status_annual.csv,string,Statistics Canada table identifier this row was taken from.
+ref_date,low_income_by_disability_status_annual.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,low_income_by_disability_status_annual.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,low_income_by_disability_status_annual.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+disability_status,low_income_by_disability_status_annual.csv,string,Disability status as published.
+age_group_and_gender,low_income_by_disability_status_annual.csv,string,Age group and gender as published.
+economic_family_type,low_income_by_disability_status_annual.csv,string,Economic family type as published.
+low_income_lines,low_income_by_disability_status_annual.csv,string,Low income lines as published.
+statistic,low_income_by_disability_status_annual.csv,string,Statistic as published.
+unit_of_measure,low_income_by_disability_status_annual.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,low_income_by_disability_status_annual.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,low_income_by_disability_status_annual.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,low_income_by_disability_status_annual.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,low_income_by_disability_status_annual.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,low_income_by_disability_status_annual.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,low_income_by_disability_status_annual.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,low_income_by_disability_status_annual.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,low_income_by_disability_status_annual.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,low_income_by_disability_status_annual.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,low_income_by_disability_status_annual.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,low_income_by_disability_status_annual.csv,string,Statistics Canada table identifier this row was taken from.
+ref_date,labour_market_by_disability_status_annual.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,labour_market_by_disability_status_annual.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,labour_market_by_disability_status_annual.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+labour_market_indicators,labour_market_by_disability_status_annual.csv,string,Labour market indicators as published.
+statistic,labour_market_by_disability_status_annual.csv,string,Statistic as published.
+gender,labour_market_by_disability_status_annual.csv,string,Gender as published.
+disability,labour_market_by_disability_status_annual.csv,string,Disability as published.
+age_group,labour_market_by_disability_status_annual.csv,string,Age group as published.
+socio_demographic_characteristics,labour_market_by_disability_status_annual.csv,string,Socio demographic characteristics as published.
+unit_of_measure,labour_market_by_disability_status_annual.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,labour_market_by_disability_status_annual.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,labour_market_by_disability_status_annual.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,labour_market_by_disability_status_annual.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,labour_market_by_disability_status_annual.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,labour_market_by_disability_status_annual.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,labour_market_by_disability_status_annual.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,labour_market_by_disability_status_annual.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,labour_market_by_disability_status_annual.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,labour_market_by_disability_status_annual.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,labour_market_by_disability_status_annual.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,labour_market_by_disability_status_annual.csv,string,Statistics Canada table identifier this row was taken from.
