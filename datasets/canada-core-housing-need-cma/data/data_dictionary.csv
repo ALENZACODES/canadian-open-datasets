@@ -1,0 +1,52 @@
+column,file,type,description
+ref_date,chs_core_housing_need.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,chs_core_housing_need.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,chs_core_housing_need.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+tenure_including_first_time_homebuyer_and_social_and_affordable_housing_status,chs_core_housing_need.csv,string,"Official Canadian Housing Survey tenure, including first-time homebuyer and social and affordable housing status."
+core_housing_need_statistics,chs_core_housing_need.csv,string,"Official survey statistic, including counts, percentages and 95% confidence intervals."
+unit_of_measure,chs_core_housing_need.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,chs_core_housing_need.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,chs_core_housing_need.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,chs_core_housing_need.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,chs_core_housing_need.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,chs_core_housing_need.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,chs_core_housing_need.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,chs_core_housing_need.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,chs_core_housing_need.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,chs_core_housing_need.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,chs_core_housing_need.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_period,chs_core_housing_need.csv,string,Reference period as published.
+year,chs_core_housing_need.csv,integer,Survey year or 2021 for the census extract.
+source,chs_core_housing_need.csv,string,Official source table for the row.
+series,chs_core_housing_need.csv,string,Canadian Housing Survey or 2021 Census. The two series are not equivalent and are not one continuous annual series.
+iso3166_2,chs_core_housing_need.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,chs_core_housing_need.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+canada_provinces_only_value,chs_core_housing_need.csv,numeric,"Official Canada (provinces only) value of the same survey statistic, year and tenure, used only for the percentage-point gap."
+gap_vs_canada_pp,chs_core_housing_need.csv,numeric,"Official survey percentage minus the official Canada (provinces only) percentage for the same year, tenure and statistic, in percentage points. This gap is adapted. It is not computed for counts or confidence intervals."
+ref_period,census_2021_core_need_counts.csv,string,Reference period as published.
+geo,census_2021_core_need_counts.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,census_2021_core_need_counts.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+core_housing_need,census_2021_core_need_counts.csv,string,Official 2021 Census core housing need category.
+households,census_2021_core_need_counts.csv,numeric,"Official number of private households from the 2021 Census. This is a count, not a rate."
+tenure,census_2021_core_need_counts.csv,string,"Census tenure as Total, Owner or Renter, taken from official tenure members."
+join_key,census_2021_core_need_counts.csv,string,"Documented join key based on the geography name, with the official (CMA) marker removed, for use with the crosswalk."
+year,census_2021_core_need_counts.csv,integer,Survey year or 2021 for the census extract.
+source,census_2021_core_need_counts.csv,string,Official source table for the row.
+series,census_2021_core_need_counts.csv,string,Canadian Housing Survey or 2021 Census. The two series are not equivalent and are not one continuous annual series.
+geography_vintage,census_2021_core_need_counts.csv,integer,"2021, the Standard Geographic Classification vintage used in both source cubes."
+iso3166_2,census_2021_core_need_counts.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,census_2021_core_need_counts.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+geo,cma_geography_crosswalk_2021.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,cma_geography_crosswalk_2021.csv,string,"Dissemination Geography Unique Identifier as published by Statistics Canada, when the source provides one."
+cma_uid,cma_geography_crosswalk_2021.csv,string,"Three-digit CMA code parsed from a 2021S0503 DGUID, where that official DGUID is present."
+geo_level,cma_geography_crosswalk_2021.csv,string,"Canada, province, territory, CMA, or population centre or rural area, as classified from the official name and DGUID."
+geography_vintage,cma_geography_crosswalk_2021.csv,integer,"2021, the Standard Geographic Classification vintage used in both source cubes."
+province_or_territory,cma_geography_crosswalk_2021.csv,string,"Province or territory implied by the official geography name, where that is unambiguous. Ottawa-Gatineau is left blank."
+iso3166_2,cma_geography_crosswalk_2021.csv,string,"ISO 3166-2:CA code for a province or territory, such as CA-ON. Empty for Canada and for geography groups that are not a single province or territory."
+sgc,cma_geography_crosswalk_2021.csv,string,Standard Geographic Classification code. 11124 is Canada. Two-digit codes are provinces or territories. Empty when a code is not available for this geography.
+in_chs,cma_geography_crosswalk_2021.csv,boolean,True when the geography appears in the Canadian Housing Survey file.
+in_census_2021,cma_geography_crosswalk_2021.csv,boolean,True when the geography appears in the 2021 Census counts file.
+chs_geo,cma_geography_crosswalk_2021.csv,string,"Official survey geography name, when the geography is in the survey file."
+census_geo,cma_geography_crosswalk_2021.csv,string,"Official 2021 Census geography name, when the geography is in the census file."
+join_key,cma_geography_crosswalk_2021.csv,string,"Documented join key based on the geography name, with the official (CMA) marker removed, for use with the crosswalk."
+notes,cma_geography_crosswalk_2021.csv,string,"Non-equivalence note for the survey and census series, including the difference between Canada (provinces only) and Census Canada."

@@ -1,0 +1,826 @@
+ref_period,geo,dguid,core_housing_need,households,tenure,join_key,year,source,series,geography_vintage,iso3166_2,sgc
+2021,Canada,2021A000011124,Total - Core housing need,14744570,Total,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Household examined for core housing need,14355555,Total,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,In core need,1451030,Total,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Not in core need,12904530,Total,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Not applicable,389015,Total,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Newfoundland and Labrador,2021A000210,Total - Core housing need,222275,Total,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Household examined for core housing need,219510,Total,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,In core need,17530,Total,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Not in core need,201980,Total,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Not applicable,2770,Total,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,"St. John's (CMA), N.L.",2021S0503001,Total - Core housing need,89950,Total,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Household examined for core housing need,88300,Total,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,In core need,8160,Total,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Not in core need,80140,Total,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Not applicable,1650,Total,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Prince Edward Island,2021A000211,Total - Core housing need,63715,Total,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Household examined for core housing need,62605,Total,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,In core need,4370,Total,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Not in core need,58235,Total,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Not applicable,1110,Total,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Nova Scotia,2021A000212,Total - Core housing need,422200,Total,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Household examined for core housing need,413315,Total,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,In core need,41470,Total,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Not in core need,371845,Total,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Not applicable,8890,Total,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,"Halifax (CMA), N.S.",2021S0503205,Total - Core housing need,199765,Total,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Household examined for core housing need,194020,Total,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,In core need,23090,Total,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Not in core need,170935,Total,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Not applicable,5745,Total,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,New Brunswick,2021A000213,Total - Core housing need,333295,Total,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Household examined for core housing need,328690,Total,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,In core need,20240,Total,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Not in core need,308445,Total,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Not applicable,4605,Total,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,"Fredericton (CMA), N.B.",2021S0503320,Total - Core housing need,45700,Total,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Household examined for core housing need,44905,Total,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,In core need,3235,Total,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Not in core need,41670,Total,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Not applicable,795,Total,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Total - Core housing need,67095,Total,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Household examined for core housing need,65840,Total,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,In core need,4910,Total,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Not in core need,60930,Total,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Not applicable,1255,Total,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Total - Core housing need,55820,Total,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Household examined for core housing need,55005,Total,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,In core need,3390,Total,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Not in core need,51615,Total,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Not applicable,815,Total,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Quebec,2021A000224,Total - Core housing need,3720980,Total,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Household examined for core housing need,3652980,Total,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,In core need,218270,Total,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Not in core need,3434710,Total,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Not applicable,67995,Total,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,"Drummondville (CMA), Que.",2021S0503447,Total - Core housing need,45425,Total,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Household examined for core housing need,44955,Total,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,In core need,1610,Total,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Not in core need,43350,Total,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Not applicable,460,Total,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Total - Core housing need,1834625,Total,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Household examined for core housing need,1788865,Total,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,In core need,141755,Total,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Not in core need,1647110,Total,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Not applicable,45760,Total,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Total - Core housing need,386475,Total,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Household examined for core housing need,381060,Total,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,In core need,17870,Total,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Not in core need,363190,Total,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Not applicable,5415,Total,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Total - Core housing need,74645,Total,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Household examined for core housing need,73810,Total,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,In core need,1875,Total,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Not in core need,71935,Total,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Not applicable,835,Total,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Total - Core housing need,104430,Total,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Household examined for core housing need,102945,Total,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,In core need,3965,Total,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Not in core need,98980,Total,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Not applicable,1485,Total,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Total - Core housing need,76265,Total,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Household examined for core housing need,75275,Total,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,In core need,2475,Total,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Not in core need,72800,Total,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Not applicable,990,Total,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Ontario,2021A000235,Total - Core housing need,5440255,Total,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Household examined for core housing need,5272360,Total,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,In core need,639805,Total,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Not in core need,4632550,Total,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Not applicable,167895,Total,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,"Barrie (CMA), Ont.",2021S0503568,Total - Core housing need,78305,Total,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Household examined for core housing need,76405,Total,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,In core need,8830,Total,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Not in core need,67575,Total,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Not applicable,1900,Total,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Total - Core housing need,45835,Total,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Household examined for core housing need,45270,Total,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,In core need,5035,Total,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Not in core need,40230,Total,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Not applicable,560,Total,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Total - Core housing need,55515,Total,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Household examined for core housing need,54565,Total,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,In core need,5185,Total,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Not in core need,49375,Total,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Not applicable,950,Total,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Total - Core housing need,73120,Total,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Household examined for core housing need,71970,Total,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,In core need,5920,Total,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Not in core need,66050,Total,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Not applicable,1150,Total,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Total - Core housing need,63965,Total,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Household examined for core housing need,62530,Total,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,In core need,6335,Total,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Not in core need,56195,Total,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Not applicable,1435,Total,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Total - Core housing need,306815,Total,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Household examined for core housing need,298900,Total,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,In core need,34555,Total,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Not in core need,264345,Total,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Not applicable,7915,Total,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Total - Core housing need,73165,Total,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Household examined for core housing need,71190,Total,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,In core need,6785,Total,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Not in core need,64405,Total,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Not applicable,1980,Total,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Total - Core housing need,218530,Total,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Household examined for core housing need,212950,Total,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,In core need,19265,Total,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Not in core need,193685,Total,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Not applicable,5575,Total,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Total - Core housing need,220900,Total,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Household examined for core housing need,214935,Total,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,In core need,22080,Total,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Not in core need,192855,Total,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Not applicable,5970,Total,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Total - Core housing need,148770,Total,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Household examined for core housing need,145745,Total,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,In core need,16175,Total,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Not in core need,129575,Total,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Not applicable,3025,Total,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Total - Core housing need,603350,Total,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Household examined for core housing need,589620,Total,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,In core need,55250,Total,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Not in core need,534370,Total,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Not applicable,13730,Total,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Total - Core housing need,52100,Total,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Household examined for core housing need,51120,Total,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,In core need,5930,Total,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Not in core need,45190,Total,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Not applicable,980,Total,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Total - Core housing need,178440,Total,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Household examined for core housing need,174690,Total,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,In core need,18550,Total,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Not in core need,156140,Total,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Not applicable,3755,Total,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Total - Core housing need,53745,Total,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Household examined for core housing need,52850,Total,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,In core need,4425,Total,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Not in core need,48425,Total,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Not applicable,895,Total,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Total - Core housing need,2261225,Total,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Household examined for core housing need,2159300,Total,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,In core need,348505,Total,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Not in core need,1810795,Total,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Not applicable,101920,Total,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Total - Core housing need,164730,Total,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Household examined for core housing need,161685,Total,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,In core need,12940,Total,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Not in core need,148745,Total,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Not applicable,3045,Total,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Manitoba,2021A000246,Total - Core housing need,494005,Total,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Household examined for core housing need,483350,Total,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,In core need,48815,Total,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Not in core need,434535,Total,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Not applicable,10655,Total,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,"Winnipeg (CMA), Man.",2021S0503602,Total - Core housing need,329645,Total,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Household examined for core housing need,321380,Total,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,In core need,35760,Total,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Not in core need,285620,Total,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Not applicable,8270,Total,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Saskatchewan,2021A000247,Total - Core housing need,416045,Total,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Household examined for core housing need,408300,Total,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,In core need,41890,Total,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Not in core need,366405,Total,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Not applicable,7745,Total,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,"Regina (CMA), Sask.",2021S0503705,Total - Core housing need,99820,Total,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Household examined for core housing need,97730,Total,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,In core need,9585,Total,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Not in core need,88145,Total,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Not applicable,2090,Total,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Total - Core housing need,124325,Total,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Household examined for core housing need,121505,Total,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,In core need,12075,Total,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Not in core need,109430,Total,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Not applicable,2815,Total,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Alberta,2021A000248,Total - Core housing need,1595565,Total,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Household examined for core housing need,1557725,Total,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,In core need,154235,Total,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Not in core need,1403495,Total,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Not applicable,37840,Total,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,"Calgary (CMA), Alta.",2021S0503825,Total - Core housing need,562780,Total,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Household examined for core housing need,547240,Total,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,In core need,53630,Total,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Not in core need,493610,Total,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Not applicable,15540,Total,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Total - Core housing need,545600,Total,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Household examined for core housing need,532725,Total,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,In core need,56290,Total,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Not in core need,476435,Total,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Not applicable,12875,Total,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Total - Core housing need,48155,Total,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Household examined for core housing need,47230,Total,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,In core need,4240,Total,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Not in core need,42995,Total,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Not applicable,925,Total,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Total - Core housing need,40500,Total,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Household examined for core housing need,39795,Total,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,In core need,3745,Total,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Not in core need,36050,Total,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Not applicable,705,Total,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,British Columbia,2021A000259,Total - Core housing need,1994665,Total,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Household examined for core housing need,1915755,Total,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,In core need,257090,Total,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Not in core need,1658665,Total,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Not applicable,78910,Total,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Total - Core housing need,66515,Total,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Household examined for core housing need,64995,Total,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,In core need,6360,Total,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Not in core need,58630,Total,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Not applicable,1520,Total,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Total - Core housing need,40865,Total,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Household examined for core housing need,40030,Total,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,In core need,3845,Total,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Not in core need,36190,Total,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Not applicable,835,Total,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Total - Core housing need,45105,Total,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Household examined for core housing need,44300,Total,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,In core need,4255,Total,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Not in core need,40045,Total,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Not applicable,810,Total,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Total - Core housing need,87620,Total,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Household examined for core housing need,84755,Total,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,In core need,7205,Total,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Not in core need,77555,Total,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Not applicable,2860,Total,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Total - Core housing need,48910,Total,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Household examined for core housing need,47705,Total,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,In core need,5350,Total,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Not in core need,42355,Total,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Not applicable,1205,Total,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Total - Core housing need,1037540,Total,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Household examined for core housing need,980815,Total,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,In core need,166095,Total,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Not in core need,814720,Total,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Not applicable,56715,Total,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Total - Core housing need,173895,Total,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Household examined for core housing need,168595,Total,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,In core need,21740,Total,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Not in core need,146855,Total,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Not applicable,5295,Total,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Yukon,2021A000260,Total - Core housing need,16535,Total,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Household examined for core housing need,16295,Total,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,In core need,2135,Total,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Not in core need,14160,Total,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Not applicable,240,Total,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Northwest Territories,2021A000261,Total - Core housing need,15110,Total,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Household examined for core housing need,14890,Total,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,In core need,1960,Total,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Not in core need,12925,Total,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Not applicable,225,Total,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Nunavut,2021A000262,Total - Core housing need,9925,Total,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Household examined for core housing need,9790,Total,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,In core need,3225,Total,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Not in core need,6565,Total,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Not applicable,135,Total,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Canada,2021A000011124,Total - Core housing need,9807720,Owner,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Household examined for core housing need,9630390,Owner,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,In core need,507855,Owner,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Not in core need,9122530,Owner,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Not applicable,177330,Owner,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Newfoundland and Labrador,2021A000210,Total - Core housing need,168660,Owner,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Household examined for core housing need,167380,Owner,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,In core need,6685,Owner,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Not in core need,160695,Owner,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Not applicable,1280,Owner,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,"St. John's (CMA), N.L.",2021S0503001,Total - Core housing need,62415,Owner,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Household examined for core housing need,61765,Owner,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,In core need,2280,Owner,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Not in core need,59480,Owner,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Not applicable,655,Owner,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Prince Edward Island,2021A000211,Total - Core housing need,43725,Owner,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Household examined for core housing need,43195,Owner,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,In core need,1625,Owner,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Not in core need,41570,Owner,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Not applicable,535,Owner,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Nova Scotia,2021A000212,Total - Core housing need,283280,Owner,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Household examined for core housing need,280055,Owner,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,In core need,13885,Owner,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Not in core need,266170,Owner,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Not applicable,3225,Owner,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,"Halifax (CMA), N.S.",2021S0503205,Total - Core housing need,117050,Owner,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Household examined for core housing need,115500,Owner,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,In core need,5675,Owner,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Not in core need,109820,Owner,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Not applicable,1550,Owner,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,New Brunswick,2021A000213,Total - Core housing need,245105,Owner,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Household examined for core housing need,242815,Owner,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,In core need,8270,Owner,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Not in core need,234545,Owner,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Not applicable,2290,Owner,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,"Fredericton (CMA), N.B.",2021S0503320,Total - Core housing need,32200,Owner,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Household examined for core housing need,31845,Owner,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,In core need,1070,Owner,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Not in core need,30775,Owner,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Not applicable,350,Owner,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Total - Core housing need,44810,Owner,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Household examined for core housing need,44310,Owner,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,In core need,1460,Owner,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Not in core need,42850,Owner,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Not applicable,495,Owner,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Total - Core housing need,38650,Owner,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Household examined for core housing need,38250,Owner,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,In core need,1070,Owner,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Not in core need,37180,Owner,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Not applicable,410,Owner,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Quebec,2021A000224,Total - Core housing need,2227470,Owner,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Household examined for core housing need,2204175,Owner,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,In core need,45275,Owner,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Not in core need,2158910,Owner,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Not applicable,23290,Owner,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,"Drummondville (CMA), Que.",2021S0503447,Total - Core housing need,26575,Owner,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Household examined for core housing need,26355,Owner,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,In core need,295,Owner,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Not in core need,26070,Owner,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Not applicable,210,Owner,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Total - Core housing need,997205,Owner,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Household examined for core housing need,983310,Owner,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,In core need,24065,Owner,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Not in core need,959245,Owner,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Not applicable,13895,Owner,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Total - Core housing need,225055,Owner,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Household examined for core housing need,223580,Owner,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,In core need,3035,Owner,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Not in core need,220545,Owner,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Not applicable,1470,Owner,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Total - Core housing need,47780,Owner,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Household examined for core housing need,47495,Owner,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,In core need,310,Owner,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Not in core need,47185,Owner,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Not applicable,280,Owner,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Total - Core housing need,57155,Owner,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Household examined for core housing need,56765,Owner,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,In core need,490,Owner,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Not in core need,56275,Owner,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Not applicable,390,Owner,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Total - Core housing need,43595,Owner,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Household examined for core housing need,43275,Owner,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,In core need,330,Owner,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Not in core need,42940,Owner,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Not applicable,320,Owner,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Ontario,2021A000235,Total - Core housing need,3718255,Owner,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Household examined for core housing need,3638725,Owner,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,In core need,232330,Owner,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Not in core need,3406395,Owner,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Not applicable,79535,Owner,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,"Barrie (CMA), Ont.",2021S0503568,Total - Core housing need,57415,Owner,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Household examined for core housing need,56390,Owner,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,In core need,3715,Owner,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Not in core need,52670,Owner,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Not applicable,1020,Owner,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Total - Core housing need,31715,Owner,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Household examined for core housing need,31375,Owner,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,In core need,1460,Owner,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Not in core need,29915,Owner,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Not applicable,340,Owner,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Total - Core housing need,39620,Owner,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Household examined for core housing need,39110,Owner,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,In core need,1525,Owner,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Not in core need,37585,Owner,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Not applicable,510,Owner,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Total - Core housing need,47485,Owner,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Household examined for core housing need,46955,Owner,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,In core need,1395,Owner,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Not in core need,45570,Owner,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Not applicable,525,Owner,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Total - Core housing need,43940,Owner,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Household examined for core housing need,43285,Owner,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,In core need,2140,Owner,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Not in core need,41150,Owner,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Not applicable,655,Owner,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Total - Core housing need,210275,Owner,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Household examined for core housing need,206935,Owner,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,In core need,10515,Owner,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Not in core need,196420,Owner,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Not applicable,3335,Owner,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Total - Core housing need,45830,Owner,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Household examined for core housing need,45285,Owner,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,In core need,1615,Owner,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Not in core need,43675,Owner,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Not applicable,535,Owner,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Total - Core housing need,141080,Owner,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Household examined for core housing need,139160,Owner,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,In core need,5240,Owner,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Not in core need,133915,Owner,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Not applicable,1925,Owner,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Total - Core housing need,137850,Owner,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Household examined for core housing need,135915,Owner,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,In core need,5205,Owner,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Not in core need,130710,Owner,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Not applicable,1940,Owner,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Total - Core housing need,111425,Owner,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Household examined for core housing need,109790,Owner,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,In core need,5875,Owner,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Not in core need,103915,Owner,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Not applicable,1635,Owner,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Total - Core housing need,394430,Owner,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Household examined for core housing need,389960,Owner,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,In core need,14740,Owner,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Not in core need,375220,Owner,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Not applicable,4475,Owner,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Total - Core housing need,36005,Owner,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Household examined for core housing need,35570,Owner,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,In core need,1610,Owner,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Not in core need,33965,Owner,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Not applicable,435,Owner,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Total - Core housing need,127285,Owner,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Household examined for core housing need,125385,Owner,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,In core need,6395,Owner,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Not in core need,118990,Owner,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Not applicable,1900,Owner,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Total - Core housing need,37785,Owner,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Household examined for core housing need,37390,Owner,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,In core need,1380,Owner,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Not in core need,36020,Owner,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Not applicable,385,Owner,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Total - Core housing need,1471800,Owner,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Household examined for core housing need,1422220,Owner,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,In core need,136835,Owner,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Not in core need,1285380,Owner,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Not applicable,49580,Owner,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Total - Core housing need,119125,Owner,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Household examined for core housing need,117875,Owner,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,In core need,4060,Owner,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Not in core need,113810,Owner,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Not applicable,1250,Owner,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Manitoba,2021A000246,Total - Core housing need,338920,Owner,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Household examined for core housing need,334805,Owner,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,In core need,16190,Owner,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Not in core need,318615,Owner,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Not applicable,4115,Owner,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,"Winnipeg (CMA), Man.",2021S0503602,Total - Core housing need,216345,Owner,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Household examined for core housing need,213545,Owner,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,In core need,9805,Owner,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Not in core need,203740,Owner,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Not applicable,2800,Owner,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Saskatchewan,2021A000247,Total - Core housing need,298500,Owner,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Household examined for core housing need,294770,Owner,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,In core need,16805,Owner,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Not in core need,277965,Owner,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Not applicable,3730,Owner,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,"Regina (CMA), Sask.",2021S0503705,Total - Core housing need,68305,Owner,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Household examined for core housing need,67595,Owner,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,In core need,2670,Owner,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Not in core need,64925,Owner,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Not applicable,710,Owner,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Total - Core housing need,84730,Owner,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Household examined for core housing need,83495,Owner,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,In core need,3480,Owner,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Not in core need,80015,Owner,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Not applicable,1240,Owner,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Alberta,2021A000248,Total - Core housing need,1131995,Owner,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Household examined for core housing need,1112555,Owner,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,In core need,62140,Owner,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Not in core need,1050415,Owner,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Not applicable,19440,Owner,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,"Calgary (CMA), Alta.",2021S0503825,Total - Core housing need,396765,Owner,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Household examined for core housing need,388960,Owner,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,In core need,21150,Owner,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Not in core need,367810,Owner,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Not applicable,7800,Owner,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Total - Core housing need,375110,Owner,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Household examined for core housing need,369285,Owner,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,In core need,18550,Owner,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Not in core need,350730,Owner,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Not applicable,5825,Owner,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Total - Core housing need,33820,Owner,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Household examined for core housing need,33340,Owner,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,In core need,1355,Owner,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Not in core need,31990,Owner,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Not applicable,480,Owner,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Total - Core housing need,26255,Owner,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Household examined for core housing need,25985,Owner,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,In core need,985,Owner,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Not in core need,25000,Owner,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Not applicable,270,Owner,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,British Columbia,2021A000259,Total - Core housing need,1330795,Owner,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Household examined for core housing need,1291130,Owner,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,In core need,102850,Owner,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Not in core need,1188285,Owner,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Not applicable,39660,Owner,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Total - Core housing need,46680,Owner,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Household examined for core housing need,45935,Owner,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,In core need,2395,Owner,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Not in core need,43545,Owner,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Not applicable,745,Owner,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Total - Core housing need,30205,Owner,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Household examined for core housing need,29695,Owner,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,In core need,1265,Owner,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Not in core need,28425,Owner,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Not applicable,505,Owner,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Total - Core housing need,32385,Owner,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Household examined for core housing need,32055,Owner,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,In core need,1460,Owner,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Not in core need,30600,Owner,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Not applicable,325,Owner,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Total - Core housing need,61135,Owner,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Household examined for core housing need,59810,Owner,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,In core need,2770,Owner,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Not in core need,57040,Owner,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Not applicable,1330,Owner,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Total - Core housing need,33640,Owner,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Household examined for core housing need,33015,Owner,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,In core need,1870,Owner,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Not in core need,31140,Owner,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Not applicable,625,Owner,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Total - Core housing need,644275,Owner,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Household examined for core housing need,616145,Owner,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,In core need,66935,Owner,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Not in core need,549210,Owner,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Not applicable,28130,Owner,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Total - Core housing need,107360,Owner,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Household examined for core housing need,105255,Owner,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,In core need,6340,Owner,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Not in core need,98920,Owner,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Not applicable,2105,Owner,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Yukon,2021A000260,Total - Core housing need,11005,Owner,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Household examined for core housing need,10880,Owner,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,In core need,870,Owner,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Not in core need,10010,Owner,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Not applicable,125,Owner,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Northwest Territories,2021A000261,Total - Core housing need,8100,Owner,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Household examined for core housing need,8020,Owner,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,In core need,665,Owner,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Not in core need,7360,Owner,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Not applicable,80,Owner,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Nunavut,2021A000262,Total - Core housing need,1905,Owner,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Household examined for core housing need,1885,Owner,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,In core need,280,Owner,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Not in core need,1605,Owner,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Not applicable,20,Owner,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Canada,2021A000011124,Total - Core housing need,4936850,Renter,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Household examined for core housing need,4725170,Renter,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,In core need,943170,Renter,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Not in core need,3781995,Renter,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Canada,2021A000011124,Not applicable,211685,Renter,Canada,2021,"2021 Census, table 98-10-0248",2021 Census,2021,,11124
+2021,Newfoundland and Labrador,2021A000210,Total - Core housing need,53615,Renter,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Household examined for core housing need,52125,Renter,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,In core need,10840,Renter,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Not in core need,41285,Renter,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,Newfoundland and Labrador,2021A000210,Not applicable,1490,Renter,Newfoundland and Labrador,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NL,10
+2021,"St. John's (CMA), N.L.",2021S0503001,Total - Core housing need,27530,Renter,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Household examined for core housing need,26535,Renter,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,In core need,5880,Renter,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Not in core need,20650,Renter,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. John's (CMA), N.L.",2021S0503001,Not applicable,995,Renter,"St. John's, N.L.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Prince Edward Island,2021A000211,Total - Core housing need,19980,Renter,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Household examined for core housing need,19410,Renter,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,In core need,2740,Renter,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Not in core need,16665,Renter,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Prince Edward Island,2021A000211,Not applicable,580,Renter,Prince Edward Island,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-PE,11
+2021,Nova Scotia,2021A000212,Total - Core housing need,138925,Renter,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Household examined for core housing need,133260,Renter,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,In core need,27585,Renter,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Not in core need,105675,Renter,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,Nova Scotia,2021A000212,Not applicable,5660,Renter,Nova Scotia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NS,12
+2021,"Halifax (CMA), N.S.",2021S0503205,Total - Core housing need,82720,Renter,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Household examined for core housing need,78525,Renter,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,In core need,17415,Renter,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Not in core need,61110,Renter,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Halifax (CMA), N.S.",2021S0503205,Not applicable,4190,Renter,"Halifax, N.S.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,New Brunswick,2021A000213,Total - Core housing need,88185,Renter,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Household examined for core housing need,85875,Renter,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,In core need,11975,Renter,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Not in core need,73905,Renter,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,New Brunswick,2021A000213,Not applicable,2315,Renter,New Brunswick,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NB,13
+2021,"Fredericton (CMA), N.B.",2021S0503320,Total - Core housing need,13500,Renter,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Household examined for core housing need,13060,Renter,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,In core need,2165,Renter,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Not in core need,10890,Renter,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Fredericton (CMA), N.B.",2021S0503320,Not applicable,440,Renter,"Fredericton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Total - Core housing need,22290,Renter,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Household examined for core housing need,21530,Renter,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,In core need,3455,Renter,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Not in core need,18080,Renter,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Moncton (CMA), N.B.",2021S0503305,Not applicable,760,Renter,"Moncton, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Total - Core housing need,17165,Renter,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Household examined for core housing need,16755,Renter,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,In core need,2320,Renter,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Not in core need,14435,Renter,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saint John (CMA), N.B.",2021S0503310,Not applicable,405,Renter,"Saint John, N.B.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Quebec,2021A000224,Total - Core housing need,1493510,Renter,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Household examined for core housing need,1448805,Renter,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,In core need,173000,Renter,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Not in core need,1275805,Renter,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,Quebec,2021A000224,Not applicable,44705,Renter,Quebec,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-QC,24
+2021,"Drummondville (CMA), Que.",2021S0503447,Total - Core housing need,18850,Renter,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Household examined for core housing need,18600,Renter,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,In core need,1320,Renter,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Not in core need,17280,Renter,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Drummondville (CMA), Que.",2021S0503447,Not applicable,250,Renter,"Drummondville, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Total - Core housing need,837420,Renter,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Household examined for core housing need,805555,Renter,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,In core need,117685,Renter,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Not in core need,687870,Renter,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Montréal (CMA), Que.",2021S0503462,Not applicable,31865,Renter,"Montréal, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Total - Core housing need,161425,Renter,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Household examined for core housing need,157480,Renter,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,In core need,14835,Renter,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Not in core need,142645,Renter,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Québec (CMA), Que.",2021S0503421,Not applicable,3945,Renter,"Québec, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Total - Core housing need,26865,Renter,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Household examined for core housing need,26315,Renter,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,In core need,1570,Renter,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Not in core need,24740,Renter,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saguenay (CMA), Que.",2021S0503408,Not applicable,555,Renter,"Saguenay, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Total - Core housing need,47275,Renter,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Household examined for core housing need,46185,Renter,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,In core need,3475,Renter,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Not in core need,42705,Renter,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Sherbrooke (CMA), Que.",2021S0503433,Not applicable,1095,Renter,"Sherbrooke, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Total - Core housing need,32670,Renter,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Household examined for core housing need,32000,Renter,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,In core need,2150,Renter,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Not in core need,29850,Renter,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Trois-Rivières (CMA), Que.",2021S0503442,Not applicable,670,Renter,"Trois-Rivières, Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Ontario,2021A000235,Total - Core housing need,1722000,Renter,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Household examined for core housing need,1633635,Renter,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,In core need,407480,Renter,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Not in core need,1226160,Renter,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,Ontario,2021A000235,Not applicable,88360,Renter,Ontario,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-ON,35
+2021,"Barrie (CMA), Ont.",2021S0503568,Total - Core housing need,20890,Renter,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Household examined for core housing need,20020,Renter,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,In core need,5115,Renter,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Not in core need,14905,Renter,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Barrie (CMA), Ont.",2021S0503568,Not applicable,875,Renter,"Barrie, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Total - Core housing need,14120,Renter,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Household examined for core housing need,13900,Renter,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,In core need,3575,Renter,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Not in core need,10315,Renter,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Belleville - Quinte West (CMA), Ont.",2021S0503522,Not applicable,220,Renter,"Belleville - Quinte West, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Total - Core housing need,15900,Renter,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Household examined for core housing need,15455,Renter,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,In core need,3660,Renter,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Not in core need,11795,Renter,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Brantford (CMA), Ont.",2021S0503543,Not applicable,445,Renter,"Brantford, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Total - Core housing need,25635,Renter,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Household examined for core housing need,25005,Renter,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,In core need,4525,Renter,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Not in core need,20480,Renter,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Greater Sudbury (CMA), Ont.",2021S0503580,Not applicable,630,Renter,"Greater Sudbury, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Total - Core housing need,20025,Renter,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Household examined for core housing need,19240,Renter,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,In core need,4195,Renter,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Not in core need,15045,Renter,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Guelph (CMA), Ont.",2021S0503550,Not applicable,780,Renter,"Guelph, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Total - Core housing need,96545,Renter,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Household examined for core housing need,91965,Renter,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,In core need,24035,Renter,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Not in core need,67925,Renter,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Hamilton (CMA), Ont.",2021S0503537,Not applicable,4580,Renter,"Hamilton, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Total - Core housing need,27340,Renter,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Household examined for core housing need,25895,Renter,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,In core need,5170,Renter,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Not in core need,20730,Renter,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kingston (CMA), Ont.",2021S0503521,Not applicable,1445,Renter,"Kingston, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Total - Core housing need,77445,Renter,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Household examined for core housing need,73795,Renter,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,In core need,14025,Renter,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Not in core need,59770,Renter,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kitchener - Cambridge - Waterloo (CMA), Ont.",2021S0503541,Not applicable,3655,Renter,"Kitchener - Cambridge - Waterloo, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Total - Core housing need,83055,Renter,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Household examined for core housing need,79020,Renter,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,In core need,16880,Renter,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Not in core need,62145,Renter,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"London (CMA), Ont.",2021S0503555,Not applicable,4035,Renter,"London, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Total - Core housing need,37340,Renter,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Household examined for core housing need,35955,Renter,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,In core need,10300,Renter,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Not in core need,25655,Renter,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Oshawa (CMA), Ont.",2021S0503532,Not applicable,1390,Renter,"Oshawa, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Total - Core housing need,208920,Renter,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Household examined for core housing need,199660,Renter,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,In core need,40505,Renter,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Not in core need,159155,Renter,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Ottawa - Gatineau (CMA), Ont./Que.",2021S0503505,Not applicable,9255,Renter,"Ottawa-Gatineau, Ont./Que.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Total - Core housing need,16095,Renter,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Household examined for core housing need,15550,Renter,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,In core need,4325,Renter,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Not in core need,11225,Renter,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Peterborough (CMA), Ont.",2021S0503529,Not applicable,545,Renter,"Peterborough, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Total - Core housing need,51160,Renter,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Household examined for core housing need,49305,Renter,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,In core need,12155,Renter,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Not in core need,37145,Renter,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"St. Catharines - Niagara (CMA), Ont.",2021S0503539,Not applicable,1855,Renter,"St. Catharines - Niagara, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Total - Core housing need,15960,Renter,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Household examined for core housing need,15460,Renter,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,In core need,3045,Renter,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Not in core need,12405,Renter,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Thunder Bay (CMA), Ont.",2021S0503595,Not applicable,505,Renter,"Thunder Bay, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Total - Core housing need,789425,Renter,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Household examined for core housing need,737080,Renter,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,In core need,211665,Renter,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Not in core need,525410,Renter,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Toronto (CMA), Ont.",2021S0503535,Not applicable,52340,Renter,"Toronto, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Total - Core housing need,45600,Renter,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Household examined for core housing need,43805,Renter,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,In core need,8880,Renter,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Not in core need,34925,Renter,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Windsor (CMA), Ont.",2021S0503559,Not applicable,1795,Renter,"Windsor, Ont.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Manitoba,2021A000246,Total - Core housing need,155085,Renter,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Household examined for core housing need,148545,Renter,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,In core need,32625,Renter,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Not in core need,115925,Renter,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,Manitoba,2021A000246,Not applicable,6545,Renter,Manitoba,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-MB,46
+2021,"Winnipeg (CMA), Man.",2021S0503602,Total - Core housing need,113300,Renter,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Household examined for core housing need,107835,Renter,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,In core need,25955,Renter,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Not in core need,81880,Renter,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Winnipeg (CMA), Man.",2021S0503602,Not applicable,5470,Renter,"Winnipeg, Man.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Saskatchewan,2021A000247,Total - Core housing need,117545,Renter,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Household examined for core housing need,113525,Renter,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,In core need,25085,Renter,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Not in core need,88440,Renter,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,Saskatchewan,2021A000247,Not applicable,4020,Renter,Saskatchewan,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-SK,47
+2021,"Regina (CMA), Sask.",2021S0503705,Total - Core housing need,31515,Renter,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Household examined for core housing need,30135,Renter,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,In core need,6915,Renter,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Not in core need,23220,Renter,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Regina (CMA), Sask.",2021S0503705,Not applicable,1375,Renter,"Regina, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Total - Core housing need,39590,Renter,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Household examined for core housing need,38010,Renter,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,In core need,8595,Renter,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Not in core need,29415,Renter,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Saskatoon (CMA), Sask.",2021S0503725,Not applicable,1580,Renter,"Saskatoon, Sask.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Alberta,2021A000248,Total - Core housing need,463570,Renter,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Household examined for core housing need,445170,Renter,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,In core need,92095,Renter,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Not in core need,353075,Renter,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,Alberta,2021A000248,Not applicable,18400,Renter,Alberta,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-AB,48
+2021,"Calgary (CMA), Alta.",2021S0503825,Total - Core housing need,166020,Renter,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Household examined for core housing need,158280,Renter,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,In core need,32485,Renter,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Not in core need,125800,Renter,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Calgary (CMA), Alta.",2021S0503825,Not applicable,7735,Renter,"Calgary, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Total - Core housing need,170490,Renter,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Household examined for core housing need,163445,Renter,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,In core need,37735,Renter,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Not in core need,125705,Renter,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Edmonton (CMA), Alta.",2021S0503835,Not applicable,7040,Renter,"Edmonton, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Total - Core housing need,14335,Renter,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Household examined for core housing need,13890,Renter,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,In core need,2880,Renter,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Not in core need,11010,Renter,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Lethbridge (CMA), Alta.",2021S0503810,Not applicable,445,Renter,"Lethbridge, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Total - Core housing need,14245,Renter,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Household examined for core housing need,13815,Renter,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,In core need,2765,Renter,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Not in core need,11050,Renter,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Red Deer (CMA), Alta.",2021S0503830,Not applicable,435,Renter,"Red Deer, Alta.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,British Columbia,2021A000259,Total - Core housing need,663870,Renter,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Household examined for core housing need,624625,Renter,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,In core need,154240,Renter,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Not in core need,470375,Renter,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,British Columbia,2021A000259,Not applicable,39250,Renter,British Columbia,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-BC,59
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Total - Core housing need,19830,Renter,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Household examined for core housing need,19055,Renter,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,In core need,3965,Renter,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Not in core need,15085,Renter,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Abbotsford - Mission (CMA), B.C.",2021S0503932,Not applicable,775,Renter,"Abbotsford - Mission, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Total - Core housing need,10665,Renter,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Household examined for core housing need,10335,Renter,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,In core need,2575,Renter,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Not in core need,7760,Renter,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Chilliwack (CMA), B.C.",2021S0503930,Not applicable,330,Renter,"Chilliwack, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Total - Core housing need,12730,Renter,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Household examined for core housing need,12245,Renter,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,In core need,2795,Renter,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Not in core need,9445,Renter,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kamloops (CMA), B.C.",2021S0503925,Not applicable,485,Renter,"Kamloops, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Total - Core housing need,26485,Renter,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Household examined for core housing need,24950,Renter,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,In core need,4440,Renter,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Not in core need,20515,Renter,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Kelowna (CMA), B.C.",2021S0503915,Not applicable,1535,Renter,"Kelowna, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Total - Core housing need,15275,Renter,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Household examined for core housing need,14690,Renter,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,In core need,3470,Renter,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Not in core need,11220,Renter,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Nanaimo (CMA), B.C.",2021S0503938,Not applicable,580,Renter,"Nanaimo, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Total - Core housing need,393260,Renter,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Household examined for core housing need,364670,Renter,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,In core need,99160,Renter,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Not in core need,265510,Renter,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Vancouver (CMA), B.C.",2021S0503933,Not applicable,28590,Renter,"Vancouver, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Total - Core housing need,66530,Renter,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Household examined for core housing need,63340,Renter,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,In core need,15395,Renter,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Not in core need,47940,Renter,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,"Victoria (CMA), B.C.",2021S0503935,Not applicable,3185,Renter,"Victoria, B.C.",2021,"2021 Census, table 98-10-0248",2021 Census,2021,,
+2021,Yukon,2021A000260,Total - Core housing need,5530,Renter,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Household examined for core housing need,5420,Renter,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,In core need,1265,Renter,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Not in core need,4155,Renter,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Yukon,2021A000260,Not applicable,115,Renter,Yukon,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-YT,60
+2021,Northwest Territories,2021A000261,Total - Core housing need,7010,Renter,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Household examined for core housing need,6865,Renter,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,In core need,1295,Renter,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Not in core need,5565,Renter,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Northwest Territories,2021A000261,Not applicable,140,Renter,Northwest Territories,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NT,61
+2021,Nunavut,2021A000262,Total - Core housing need,8020,Renter,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Household examined for core housing need,7910,Renter,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,In core need,2945,Renter,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Not in core need,4960,Renter,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
+2021,Nunavut,2021A000262,Not applicable,115,Renter,Nunavut,2021,"2021 Census, table 98-10-0248",2021 Census,2021,CA-NU,62
