@@ -1,0 +1,33 @@
+column,file,type,description
+ref_date,ippi_industrial_product_price_index_monthly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,ippi_industrial_product_price_index_monthly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,ippi_industrial_product_price_index_monthly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+napcs_product,ippi_industrial_product_price_index_monthly.csv,string,"Product group from the North American Product Classification System, with its code in brackets, as published."
+unit_of_measure,ippi_industrial_product_price_index_monthly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,ippi_industrial_product_price_index_monthly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,ippi_industrial_product_price_index_monthly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,ippi_industrial_product_price_index_monthly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,ippi_industrial_product_price_index_monthly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,ippi_industrial_product_price_index_monthly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,ippi_industrial_product_price_index_monthly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,ippi_industrial_product_price_index_monthly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,ippi_industrial_product_price_index_monthly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,ippi_industrial_product_price_index_monthly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,ippi_industrial_product_price_index_monthly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,ippi_industrial_product_price_index_monthly.csv,string,Statistics Canada table identifier this row was taken from.
+ref_date,rmpi_raw_materials_price_index_monthly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,rmpi_raw_materials_price_index_monthly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,rmpi_raw_materials_price_index_monthly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+napcs_product,rmpi_raw_materials_price_index_monthly.csv,string,"Product group from the North American Product Classification System, with its code in brackets, as published."
+unit_of_measure,rmpi_raw_materials_price_index_monthly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,rmpi_raw_materials_price_index_monthly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,rmpi_raw_materials_price_index_monthly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,rmpi_raw_materials_price_index_monthly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,rmpi_raw_materials_price_index_monthly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,rmpi_raw_materials_price_index_monthly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,rmpi_raw_materials_price_index_monthly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,rmpi_raw_materials_price_index_monthly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,rmpi_raw_materials_price_index_monthly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,rmpi_raw_materials_price_index_monthly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,rmpi_raw_materials_price_index_monthly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,rmpi_raw_materials_price_index_monthly.csv,string,Statistics Canada table identifier this row was taken from.
