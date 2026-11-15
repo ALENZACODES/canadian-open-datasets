@@ -1,0 +1,20 @@
+official_type,technology_group,series_role,applies_to,notes
+Total all types of electricity generation,all types,total,generation,Official total used as the denominator for shares and as the target of the reconciliation check.
+Total installed capacity,all types,total,capacity,Official total used as the denominator for shares and as the target of the reconciliation check.
+"Total hydro, tidal, wind, solar and other generation","hydro, tidal, wind, solar and other",subtotal,generation,Official published subtotal. Not included in the exclusive sum used for reconciliation.
+Total thermal generation,thermal,subtotal,generation,Official published subtotal. Not included in the exclusive sum used for reconciliation.
+Total thermal,thermal,subtotal,capacity,Official published subtotal. Not included in the exclusive sum used for reconciliation.
+Total electricity production from combustible fuels,combustible fuels,subtotal,generation,Official published subtotal. Not included in the exclusive sum used for reconciliation.
+Total conventional thermal,conventional thermal,subtotal,thermal_capacity,Official published subtotal. Not included in the exclusive sum used for reconciliation.
+Hydraulic turbine,hydro,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Tidal power turbine,tidal,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Wind power turbine,wind,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Solar,solar,exclusive,generation,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Solar power,solar,exclusive,capacity,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Geothermal,geothermal,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Nuclear steam turbine,nuclear,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Conventional steam turbine,conventional steam,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Internal combustion turbine,internal combustion,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Combustion turbine,combustion turbine,exclusive,both,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Other types of electricity generation,other,exclusive,generation,"Mutually exclusive published type, included in the reconciliation sum against the official total."
+Other non-combustibles,other non-combustibles,exclusive,capacity,"Mutually exclusive published type, included in the reconciliation sum against the official total."
