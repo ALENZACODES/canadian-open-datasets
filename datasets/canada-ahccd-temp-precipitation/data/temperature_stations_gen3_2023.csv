@@ -1,0 +1,781 @@
+station_id,station_name,province_code,period_from_year,period_from_month,period_to_year,period_to_month,percent_missing_official,latitude,longitude,elevation_m,joined_official,rcs_official,iso3166_2,sgc,province_or_territory,generation,product_vintage,end_year,source_list
+1100031,ABBOTSFORD A,BC,1944,10,2023,12,0.3,49.03,-122.37,59,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1100120,AGASSIZ CDA,BC,1893,1,2023,10,1.3,49.25,-121.77,15,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1100119,AGASSIZ RCS,BC,1988,11,2023,12,3.0,49.25,-121.77,19,n,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1036B06,PORT ALBERNI (AUT),BC,1900,2,2023,12,0.6,49.32,-124.93,76,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1160483,ARMSTRONG HULLCAR,BC,1913,3,1998,12,10.8,50.5,-119.22,505,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1200560,ATLIN,BC,1905,8,2021,6,18.6,59.57,-133.7,674,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1180585,BALDONNEL,BC,1927,1,1993,10,1.2,56.23,-120.68,686,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1090660,BARKERVILLE,BC,1888,2,2023,12,8.1,53.07,-121.52,1283,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1130771,BEAVERDELL NORTH,BC,1939,1,2006,9,12.8,49.48,-119.05,838,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1060844,BELLA COOLA AIRPORT,BC,1895,5,2023,12,3.0,52.38,-126.58,37,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1080870,BIG CREEK,BC,1893,1,1998,11,15.6,51.67,-123.07,1175,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1160H99,BLUE RIVER CS,BC,1946,9,2023,12,0.6,52.13,-119.28,683,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1041050,BRITANNIA BEACH FURRY CR,BC,1913,12,2000,4,24.1,49.58,-123.22,9,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1091174,BURNS LAKE DECKER LAKE,BC,1949,3,2023,12,8.9,54.38,-125.97,713,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1031353,CAPE SCOTT,BC,1921,7,2023,12,15.2,50.78,-128.43,72,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1051351,CAPE ST JAMES,BC,1944,12,2023,12,8.7,51.93,-131.02,88,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1171393,CARIBOO LODGE,BC,1914,1,2016,10,9.6,52.72,-119.47,1096,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1141455,CASTLEGAR A,BC,1959,7,2023,12,3.8,49.3,-117.63,496,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1021480,CHATHAM POINT,BC,1958,7,2023,12,9.4,50.33,-125.45,23,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1101530,CHILLIWACK,BC,1881,2,2014,8,29.6,49.17,-121.92,11,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1161663,CLINTON RCS,BC,1993,1,2023,12,2.5,51.15,-121.5,1059,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1021830,COMOX A,BC,1935,11,2023,12,0.9,49.72,-124.9,26,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1021960,CORTES ISLAND TIBER BAY,BC,1947,3,2019,2,9.5,50.07,-124.95,15,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1012010,COWICHAN BAY CHERRY POINT,BC,1913,10,1984,3,7.5,48.72,-123.55,1,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1152106,CRANBROOK AIRPORT AUTO,BC,1901,1,2023,12,6.2,49.62,-115.78,927,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+114B1F0,CRESTON CAMPBELL SCIENTIFIC,BC,1912,6,2023,12,0.3,49.08,-116.5,641,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1022250,CUMBERLAND,BC,1922,5,1977,6,4.1,49.62,-125.03,159,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1162265,DARFIELD,BC,1913,12,2018,3,7.8,51.3,-120.18,466,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1182289,DAWSON CREEK A,BC,1952,9,2023,12,6.7,55.75,-120.18,655,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+119BLM0,DEASE LAKE (AUT),BC,1944,9,2023,12,1.7,58.43,-130.03,801,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1062544,DRYAD POINT,BC,1977,11,2023,12,0.4,52.18,-128.12,4,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1012573,DUNCAN KELVIN CREEK,BC,1926,1,2016,3,1.2,48.73,-123.73,103,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1032731,ESTEVAN POINT CS,BC,1923,10,2023,12,1.5,49.38,-126.55,6,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1142820,FAUQUIER,BC,1913,2,2017,12,6.8,49.87,-118.07,490,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1152850,FERNIE,BC,1913,12,2023,12,3.7,49.48,-115.07,1001,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1192948,FORT NELSON,BC,1937,9,2023,12,0.5,58.83,-122.57,380,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1092975,FORT ST JAMES AUTO,BC,1895,1,2023,12,0.7,54.45,-124.28,688,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1183001,FORT ST. JOHN A,BC,1939,1,2023,12,0.2,56.23,-120.73,695,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1183090,GERMANSEN LANDING,BC,1951,8,2013,11,1.6,55.78,-124.7,766,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1173191,GLACIER NP ROGERS PASS,BC,1908,1,2023,12,11.2,51.3,-117.52,1330,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1173220,GOLDEN AIRPORT,BC,1902,4,2023,12,2.1,51.3,-116.98,785,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1140876,BILLINGS,BC,1911,3,2023,12,2.3,49.02,-118.23,519,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1133300,GREENWOOD,BC,1911,6,1990,8,19.1,49.1,-118.68,763,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1113543,HOPE AIRPORT,BC,1936,10,2023,12,1.6,49.37,-121.5,39,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1093600,HORSEFLY LAKE GRUHS LAKE,BC,1987,6,2016,6,3.4,52.37,-121.37,777,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1073615,HOUSTON,BC,1988,9,2023,12,1.8,54.4,-126.67,610,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1063690,IVORY ISLAND,BC,1989,6,2023,12,0.7,52.27,-128.4,10,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1013720,JAMES ISLAND,BC,1914,2,1978,9,0.2,48.6,-123.35,54,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1123750,JOE RICH CREEK,BC,1948,6,2008,12,2.6,49.85,-119.13,875,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1163781,KAMLOOPS A,BC,1890,1,2023,12,2.1,50.7,-120.45,345,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1163842,KAMLOOPS AUT,BC,2006,4,2023,12,2.7,50.7,-120.45,345,n,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1143900,KASLO,BC,1912,3,2018,9,1.4,49.92,-116.92,600,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1123939,KELOWNA,BC,1899,3,2023,12,1.2,49.95,-119.38,433,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1064020,KEMANO,BC,1951,8,2023,12,6.0,53.57,-127.95,66,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1124112,KEREMEOS 2,BC,1913,1,2000,8,22.5,49.22,-119.82,435,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1154203,KIMBERLEY PCC,BC,1943,2,2023,12,22.6,49.63,-115.97,889,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1064321,KITIMAT 2,BC,1951,6,2023,12,6.8,54.02,-128.7,17,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1064320,KITIMAT TOWNSITE,BC,1954,1,2022,11,2.0,54.05,-128.63,98,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1104488,LAIDLAW,BC,1977,1,2017,2,5.6,49.35,-121.58,37,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1054500,LANGARA,BC,1936,7,2023,12,0.3,54.25,-133.05,43,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1024638,LITTLE QUALICUM HATCHERY,BC,1981,1,2023,8,7.2,49.35,-124.52,30,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1114746,LYTTON RCS,BC,1944,8,2023,12,2.3,50.22,-121.58,225,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1184793,MACKENZIE AIRPORT AUTO,BC,1971,2,2023,12,1.5,55.3,-123.13,694,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1054929,MASSET A,BC,1900,1,2023,12,33.4,54.03,-132.13,6,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1094948,MCBRIDE ELDER CREEK,BC,1922,5,2009,3,12.4,53.42,-120.35,733,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1124980,MCCULLOCH,BC,1936,1,1996,2,2.2,49.8,-119.2,1250,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1065010,MCINNES ISLAND,BC,1955,1,2023,12,3.8,52.27,-128.72,26,n,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1125079,MERRITT STP,BC,1962,5,2023,12,8.5,50.12,-120.8,609,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1175122,MICA DAM,BC,1951,6,2023,12,16.4,52.05,-118.58,579,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1195250,MUNCHO LAKE,BC,1970,5,2014,3,8.0,58.93,-125.77,837,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1145297,NAKUSP CS,BC,1964,9,2023,12,5.9,50.27,-117.82,512,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1025369,NANAIMO A,BC,1892,1,2022,4,6.7,49.05,-123.87,28,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1025C70,NANAIMO DEPARTURE BAY,BC,1913,1,1992,11,12.2,49.22,-123.95,8,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1075384,NASS CAMP,BC,1973,9,2017,12,5.3,55.23,-129.03,195,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1145442,NELSON NE,BC,1904,1,2023,8,5.8,49.58,-117.2,570,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1145460,NEW DENVER,BC,1967,5,2023,12,2.9,50.0,-117.37,568,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1075520,NEW HAZELTON,BC,1914,8,1976,8,4.4,55.23,-127.6,314,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1106178,PITT MEADOWS CS,BC,1874,9,2023,12,18.8,49.2,-122.68,5,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1065670,OCEAN FALLS,BC,1924,1,1986,11,3.0,52.35,-127.68,5,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1125700,OKANAGAN CENTRE,BC,1926,1,2022,5,4.6,50.05,-119.45,370,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1125760,OLIVER,BC,1938,6,2008,10,2.1,49.17,-119.57,315,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1125766,OLIVER STP,BC,1955,1,2022,5,1.4,49.18,-119.55,297,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1085836,OOTSA LAKESKINS LAKE CLIMATE,BC,1926,1,2023,12,1.6,53.77,-126.0,861,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1125852,OSOYOOS CS,BC,1954,4,2023,12,8.9,49.03,-119.43,283,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1035940,PACHENA POINT,BC,1924,11,2023,12,1.6,48.72,-125.1,37,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1086082,PEMBERTON AIRPORT CS,BC,1912,8,2023,12,7.5,50.3,-122.73,204,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1126146,PENTICTON A,BC,1907,4,2023,12,0.6,49.47,-119.6,344,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1106180,PITT POLDER,BC,1954,1,2010,6,4.5,49.28,-122.62,5,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1036240,PORT ALICE,BC,1956,1,2016,4,3.4,50.38,-127.45,21,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1026271,PORT HARDY A,BC,1944,5,2023,12,0.1,50.68,-127.37,22,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1046392,POWELL RIVER,BC,1924,1,2023,12,3.6,49.83,-124.5,125,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1046391,POWELL RIVER A,BC,1954,1,2023,12,9.3,49.83,-124.5,130,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1096453,PRINCE GEORGE AIRPORT AUTO,BC,1912,8,2023,12,0.6,53.88,-122.67,680,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1066482,PRINCE RUPERT,BC,1908,8,2023,12,1.5,54.28,-130.45,35,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+112FN0M,PRINCETON CS,BC,1893,7,2023,12,2.0,49.47,-120.52,697,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1036572,QUATSINO LIGHTSTATION,BC,1895,6,2023,12,5.2,50.43,-128.03,21,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1096631,QUESNEL AIRPORT AUTO,BC,1899,1,2023,12,0.8,53.03,-122.5,545,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1026639,QUINSAM RIVER HATCHERY,BC,1958,7,2023,12,3.4,50.02,-125.3,46,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1176755,REVELSTOKE AIRPORT AUTO,BC,1898,5,2023,12,7.4,50.95,-118.18,445,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1016940,SAANICHTON CDA,BC,1914,3,2023,2,0.8,48.62,-123.42,61,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1167337,SILVER CREEK,BC,1911,7,2021,10,0.9,50.55,-119.35,419,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1016995,SALTSPRING ST MARY'S L,BC,1909,11,2022,10,1.7,48.88,-123.55,46,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1057051,SANDSPIT AIRPORT AUTO,BC,1945,9,2023,12,3.6,53.25,-131.82,7,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1017099,SATURNA CAPMON CS,BC,1989,6,2023,12,2.9,48.78,-123.13,178,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1017230,SHAWNIGAN LAKE,BC,1913,4,2023,11,0.4,48.65,-123.63,159,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1077501,SMITHERS AIRPORT AUTO,BC,1922,6,2023,12,0.2,54.82,-127.18,518,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1147620,SOUTH SLOCAN,BC,1940,10,2008,12,5.2,49.47,-117.52,457,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+10476F0,SQUAMISH AIRPORT,BC,1983,4,2023,12,2.9,49.78,-123.17,54,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1107680,STAVE FALLS,BC,1909,10,2004,8,9.6,49.23,-122.37,110,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1067748,STEWART A,BC,1910,9,2023,12,6.8,55.93,-129.98,7,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+112G8L1,SUMMERLAND CS,BC,1907,7,2023,12,0.1,49.57,-119.65,454,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1088015,TATLAYOKO LAKE RCS,BC,1930,1,2023,12,1.8,51.67,-124.4,875,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1068134,TERRACE A,BC,1912,10,2023,12,2.4,54.47,-128.58,217,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1038205,TOFINO A,BC,1958,12,2023,6,0.7,49.08,-125.77,24,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1038332,UCLUELET KENNEDY CAMP,BC,1988,9,2023,12,1.3,48.95,-125.53,40,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1108380,VANCOUVER SEA ISLAND CCG,BC,1896,2,2023,12,0.1,49.18,-123.18,2,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1108446,VANCOUVER HARBOUR CS,BC,1898,10,2023,12,18.2,49.3,-123.12,3,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1168520,VAVENBY,BC,1913,4,2023,12,1.1,51.58,-119.78,445,n,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1128582,VERNON AUTO,BC,1900,4,2023,12,0.3,50.22,-119.2,482,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1128553,VERNON BELLA VISTA,BC,1919,12,2017,12,22.0,50.27,-119.32,427,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1018621,VICTORIA INTL A,BC,1898,8,2023,12,0.1,48.65,-123.43,20,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1018611,VICTORIA GONZALES CS,BC,1995,2,2023,12,0.6,48.42,-123.32,61,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1018598,VICTORIA UNIVERSITY CS,BC,1992,12,2023,12,0.1,48.45,-123.3,60,n,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1148705,WARFIELD RCS,BC,1928,6,2023,12,2.2,49.12,-117.73,567,y,y,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1158730,WASA,BC,1983,7,2017,12,4.3,49.8,-115.63,970,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1168880,WESTWOLD,BC,1921,5,2013,5,3.0,50.47,-119.75,609,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1108910,WHITE ROCK CAMPBELL SCIENTIFIC,BC,1929,1,2023,12,25.0,49.02,-122.78,13,n,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+1098941,WILLIAMS LAKE A,BC,1939,1,2023,12,1.1,52.18,-122.05,940,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+11790J1,YOHO PARK,BC,1974,1,2023,12,7.0,51.45,-116.35,1602,y,n,CA-BC,59,British Columbia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100184,BURWASH AIRPORT AUTO,YT,1966,10,2023,12,2.4,61.37,-139.02,807,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100301,CARMACKS CS,YT,1963,8,2023,12,6.7,62.12,-136.2,543,y,n,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100LRP,DAWSON,YT,1901,1,2023,12,0.5,64.07,-139.13,370,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100518,FARO (AUT),YT,1977,12,2023,12,7.2,62.2,-133.38,717,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100630,HAINES JUNCTION,YT,1944,10,2023,12,13.3,60.77,-137.58,595,n,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100660,IVVAVIK NAT. PARK,YT,1995,7,2023,12,8.0,69.17,-140.15,244,n,n,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100682,KOMAKUK BEACH,YT,1958,7,2023,12,11.5,69.62,-140.2,13,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100693,MACMILLAN PASS,YT,1998,2,2023,12,8.4,63.25,-130.03,1379,n,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100701,MAYO A,YT,1924,10,2023,12,1.9,63.62,-135.87,504,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100805,OLD CROW RCS,YT,1951,9,2023,12,22.7,67.57,-139.83,251,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100880,PELLY RANCH,YT,1955,1,2017,8,1.5,62.83,-137.32,445,n,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100941,ROSS RIVER YTG,YT,1961,12,2008,8,22.4,61.98,-132.45,698,y,n,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2100950,SHINGLE POINT A,YT,1957,6,2023,9,8.6,68.95,-137.22,49,n,n,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2101102,TESLIN (AUT),YT,1943,10,2023,12,6.6,60.17,-132.73,705,y,n,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2101135,TUCHITUA,YT,1967,1,2014,9,19.2,60.93,-129.22,724,n,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2101204,WATSON LAKE (AUT),YT,1938,10,2023,12,0.5,60.12,-128.83,683,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2101310,WHITEHORSE AUTO,YT,1959,2,2023,12,5.0,60.73,-135.1,707,y,y,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2101303,WHITEHORSE A,YT,1942,4,2023,12,2.3,60.72,-135.07,706,y,n,CA-YT,60,Yukon,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2200675,CAPE PARRY A,NWT,1957,5,2023,9,5.1,70.17,-124.72,87,n,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201022,DELINE CS,NWT,1991,1,2023,12,7.3,65.22,-123.43,213,y,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201450,FORT GOOD HOPE CS,NWT,1944,8,2023,12,13.0,66.25,-128.65,82,y,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201500,FORT GOOD HOPE 2,NWT,1908,9,1966,12,1.6,66.25,-128.63,42,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201579,FORT LIARD,NWT,1973,7,2023,12,3.2,60.23,-123.47,213,y,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201601,FORT MCPHERSON A,NWT,1940,1,2014,11,18.5,67.4,-134.87,35,y,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201799,FORT PROVIDENCE,NWT,1994,3,2023,12,3.9,61.32,-117.6,162,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201903,FORT RELIANCE (AUT),NWT,1948,10,2023,11,8.1,62.72,-109.17,168,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2202000,FORT RESOLUTION A,NWT,1911,8,2014,11,19.5,61.18,-113.68,160,y,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2202102,FORT SIMPSON CLIMATE,NWT,1895,11,2023,12,5.3,61.77,-121.23,168,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2202202,FORT SMITH CLIMATE,NWT,1913,7,2023,12,1.7,60.03,-111.93,203,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2202402,HAY RIVER CLIMATE,NWT,1893,9,2023,12,1.7,60.83,-115.78,164,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2502505,HOLMAN CS,NWT,2000,3,2023,12,2.7,70.77,-117.8,30,n,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2202578,INUVIK CLIMATE,NWT,1957,3,2023,12,0.3,68.32,-133.52,103,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2202678,WHATI,NWT,1994,3,2023,12,13.9,63.13,-117.25,271,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+220N003,LINDBURG LANDING,NWT,1998,6,2023,12,10.3,61.13,-122.85,183,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+220B68C,LIVERPOOL BAY,NWT,1992,12,2023,4,15.8,69.6,-130.92,102,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+220L002,LUTSELK'E CS,NWT,2000,1,2017,7,1.0,62.42,-110.68,179,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+250M001,MOULD BAY CS,NWT,1948,5,2023,12,4.4,76.23,-119.35,2,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2202810,NORMAN WELLS CLIMATE,NWT,1943,5,2023,12,0.3,65.28,-126.75,94,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2203058,PAULATUK,NWT,1985,5,2023,12,5.0,69.35,-124.08,6,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2203359,GAMETI,NWT,1994,3,2023,12,20.5,64.12,-117.33,221,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2503648,SACHS HARBOUR CLIMATE,NWT,1955,11,2023,12,4.5,72.0,-125.25,88,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2503886,THOMSEN RIVER,NWT,1997,7,2023,12,17.8,73.23,-119.53,42,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+220N005,TRAIL VALLEY,NWT,1998,9,2023,12,9.0,68.75,-133.5,85,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2203914,TUKTOYAKTUK,NWT,1957,6,2023,12,5.2,69.43,-133.02,5,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2201700,TULITA A,NWT,1908,8,2014,12,36.3,64.92,-125.57,100,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2204000,WRIGLEY A,NWT,1943,8,2015,2,21.1,63.22,-123.43,150,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2204101,YELLOWKNIFE A,NWT,1942,7,2023,12,0.2,62.47,-114.43,206,y,y,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2204200,YELLOWKNIFE HYDRO,NWT,1943,1,2000,6,13.3,62.67,-114.25,159,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2204300,YOHIN,NWT,1957,6,2023,12,19.9,61.25,-123.75,204,n,n,CA-NT,61,Northwest Territories,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400305,ALERT CLIMATE,NU,1950,7,2023,12,0.3,82.5,-62.33,65,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400404,ARCTIC BAY CS,NU,1937,9,2023,12,16.6,73.0,-85.02,10,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2301153,ARVIAT CLIMATE,NU,2004,12,2023,12,1.8,61.1,-94.07,10,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2300501,BAKER LAKE CLIMATE,NU,1946,2,2023,12,2.6,64.32,-96.0,51,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400565,BREVOORT ISLAND,NU,1959,11,2023,5,29.1,63.33,-64.15,376,n,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400602,CAMBRIDGE BAY GSN,NU,1940,1,2023,12,1.9,69.1,-105.13,19,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400636,KINNGAIT,NU,1927,9,2023,12,9.2,64.23,-76.53,50,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400650,CAPE DYER,NU,1959,8,2023,4,21.5,66.65,-61.38,725,y,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400660,CAPE HOOPER,NU,1957,1,2022,3,10.1,68.47,-66.8,390,n,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400F63,CAPE MERCY,NU,1994,10,2018,8,6.4,64.95,-63.58,583,n,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400697,CAPE PEEL WEST,NU,1992,12,2023,1,21.2,69.03,-107.82,165,n,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2300707,CHESTERFIELD INLET A,NU,1930,9,2014,11,10.6,63.35,-90.73,10,y,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400804,CLYDE RIVER A,NU,1946,2,2023,12,1.2,70.48,-68.52,27,y,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2301002,CORAL HARBOUR A,NU,1945,3,2023,12,2.9,64.2,-83.37,62,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+230J01Q,CROKER RIVER,NU,1992,12,2022,1,12.9,69.28,-119.22,69,n,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2401030,DEWAR LAKES,NU,1958,2,2023,9,6.6,68.65,-71.17,527,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2301102,ENNADAI LAKE (AUT),NU,1949,10,2023,12,27.1,61.13,-100.88,353,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2401199,EUREKA CLIMATE,NU,1947,5,2023,12,0.2,79.98,-85.93,10,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400570,BROUGHTON ISLAND,NU,1957,9,2023,9,12.4,67.53,-63.78,584,n,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2302340,GJOA HAVEN CLIMATE,NU,1984,8,2023,12,3.7,68.63,-95.85,42,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2402351,GRISE FIORD CLIMATE,NU,1984,8,2023,12,13.5,76.42,-82.9,45,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2402353,SANIRAJAK,NU,1957,1,2023,12,1.0,68.78,-81.25,8,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2302370,HAT ISLAND,NU,1992,12,2023,9,10.6,68.32,-100.08,36,n,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2402592,IQALUIT CLIMATE,NU,1946,1,2023,12,1.2,63.75,-68.55,34,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2402604,ISACHSEN (AUT),NU,1997,8,2023,12,28.5,78.8,-103.55,58,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2300904,KUGLUKTUK CLIMATE,NU,1930,10,2023,12,1.5,67.82,-115.13,23,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2402684,LONGSTAFF BLUFF,NU,1958,6,2023,9,23.3,68.9,-75.13,161,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+230N002,LUPIN CS,NU,1959,1,2023,12,5.1,65.75,-111.25,488,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2403049,PANGNIRTUNG,NU,1995,9,2023,12,11.1,66.15,-65.72,23,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2303094,KUGAARUK CLIMATE,NU,1957,8,2023,12,2.8,68.53,-89.8,16,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2403204,POND INLET CLIMATE,NU,1922,10,2023,12,24.9,72.7,-77.95,65,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2400573,QIKIQTARJUAQ CLIMATE,NU,2005,3,2023,12,5.2,67.55,-64.03,6,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2303405,RANKIN INLET A,NU,1981,1,2023,12,0.6,62.82,-92.12,32,y,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2403505,RESOLUTE CS,NU,1947,10,2023,12,0.8,74.72,-94.98,30,y,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2403602,RESOLUTION ISLAND,NU,1929,10,2022,7,28.3,61.58,-64.65,369,y,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2303610,ROBERTSON LAKE (AUT),NU,1995,3,2023,12,29.1,65.1,-102.43,244,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2303685,SHEPHERD BAY A,NU,1957,4,2023,4,5.4,68.82,-93.43,43,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2403756,STEFANSSON ISLAND,NU,2002,8,2023,9,28.4,73.77,-105.3,11,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2403855,TALOYOAK A,NU,1984,9,2023,12,8.9,69.55,-93.58,27,y,n,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+2403945,WAGER BAY (AUT),NU,2001,1,2023,12,37.9,65.88,-89.45,18,n,y,CA-NU,62,Nunavut,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3010237,ANDREW AGDM,ALTA,1974,11,2023,12,2.7,53.92,-112.28,625,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3060330,ATHABASCA AGCM,ALTA,1918,6,2023,12,3.8,54.63,-113.38,635,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3050519,BANFF CS,ALTA,1887,11,2023,12,2.5,51.2,-115.55,1397,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3050602,BEAVER MINES,ALTA,2012,2,2023,12,1.6,49.47,-114.18,1257,n,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3070600,BEAVERLODGE RCS,ALTA,1913,4,2023,12,1.4,55.2,-119.4,745,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3050778,BOW VALLEY,ALTA,1967,5,2023,12,22.6,51.08,-115.07,1298,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3030QLP,BROOKS,ALTA,1915,5,2023,12,18.5,50.55,-111.85,747,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3030838,BROOKS,ALTA,1912,4,1980,5,16.6,50.58,-111.9,755,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3010890,BROWNFIELD,ALTA,1958,9,2009,6,0.2,52.32,-111.47,755,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3031000,CALDWELL,ALTA,1932,4,1990,11,7.1,49.17,-113.63,1286,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3031094,CALGARY INT'L CS,ALTA,1885,1,2023,12,0.2,51.12,-114.0,1082,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3011120,CALMAR,ALTA,1915,11,2023,12,15.2,53.28,-113.87,720,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3061201,CAMPSIE AUTO,ALTA,1912,9,2023,12,1.3,54.13,-114.68,647,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3011240,CAMROSE,ALTA,1946,3,2023,12,3.0,53.05,-112.82,739,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3031322,CARDSTON,ALTA,1918,8,2023,12,6.0,49.2,-113.28,1136,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3031402,CARWAY,ALTA,1914,8,2023,12,3.2,49.0,-113.38,1354,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3074935,CLEARDALE AGDM,ALTA,1964,5,2023,12,2.3,56.32,-119.75,630,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3081680,COLD LAKE A,ALTA,1925,7,2023,12,1.7,54.42,-110.28,541,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3011887,CORONATION CLIMATE,ALTA,1924,3,2023,12,10.9,52.07,-111.45,791,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3012206,EDMONTON INTERNATIONAL CS,ALTA,1880,7,2023,12,0.5,53.3,-113.6,715,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3012209,EDMONTON BLATCHFORD,ALTA,1996,3,2023,12,0.6,53.57,-113.52,671,n,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3012212,EDMONTON NAMAO AWOS A,ALTA,1955,11,2022,1,6.1,53.67,-113.47,688,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3062239,EDSON,ALTA,1970,4,2023,12,43.8,53.58,-116.47,927,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3062246,EDSON CLIMATE,ALTA,1914,2,2023,12,4.8,53.58,-116.45,927,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3012275,ELK ISLAND NAT PARK,ALTA,1981,11,2023,12,10.6,53.68,-112.87,716,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3012280,ELK POINT,ALTA,1911,1,1997,6,6.8,53.88,-111.07,605,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3022400,EMPRESS,ALTA,1937,4,2006,3,15.2,50.95,-110.0,612,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+306A009,HINTON VALLEY,ALTA,1917,6,2023,12,7.8,53.4,-117.53,1011,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3072525,FAIRVIEW AGDM,ALTA,1931,10,2023,12,5.5,56.08,-118.43,655,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3032642,FOREMOST AGDM,ALTA,1915,8,2023,12,22.9,49.48,-111.48,881,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3062660,FORT ASSINIBOINE AGCM,ALTA,1970,1,2023,12,3.0,54.42,-114.77,676,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3072659,FORT CHIPEWYAN RCS,ALTA,1883,10,2023,12,11.2,58.77,-111.12,238,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3032680,FORT MACLEOD,ALTA,1876,6,1988,3,16.4,49.72,-113.4,950,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3062696,FORT MCMURRAY CS,ALTA,1916,1,2023,12,0.6,56.65,-111.22,369,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3012710,FORT SASKATCHEWAN,ALTA,1958,3,2022,12,6.5,53.72,-113.18,620,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3072723,FORT VERMILION,ALTA,1908,7,2023,12,12.2,58.38,-116.03,289,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3032801,GLEICHEN AGCM,ALTA,1903,7,2023,12,4.4,50.93,-112.93,907,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3072921,GRANDE PRAIRIE A,ALTA,1930,10,2023,12,6.4,55.18,-118.88,669,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3073140,HIGH LEVEL A,ALTA,1967,6,2023,12,0.5,58.62,-117.17,338,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3063165,HIGH PRAIRIE AGDM,ALTA,1926,9,2023,12,17.2,55.4,-116.48,602,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3053250,HIGHWOOD AU (B1),ALTA,1902,8,2011,9,11.2,50.55,-114.37,1580,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3025222,PINE LAKE,ALTA,1904,1,1981,4,0.6,52.17,-113.5,945,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3013361,HUGHENDEN,ALTA,1934,10,1985,7,3.7,52.52,-110.97,694,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3063600,ISLAND LAKE SOUTH,ALTA,2015,1,2023,12,1.3,54.82,-113.55,619,n,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3053536,JASPER WARDEN,ALTA,1926,9,2023,12,6.1,52.93,-118.03,1020,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3023560,JENNER,ALTA,1915,8,2008,1,33.4,50.72,-111.2,755,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3053600,KANANASKIS,ALTA,1939,8,2023,12,2.4,51.03,-115.03,1391,n,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3073641,KEG RIVER RS,ALTA,1935,7,2007,11,18.6,57.75,-117.62,405,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3063686,LAC LA BICHE CLIMATE,ALTA,1944,5,2023,12,25.4,54.77,-112.02,567,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3023722,LACOMBE CDA 2,ALTA,1907,12,2023,12,0.2,52.45,-113.75,860,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3053760,LAKE LOUISE,ALTA,1915,1,2007,11,3.8,51.43,-116.22,1524,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3033890,LETHBRIDGE CDA,ALTA,1902,1,2023,12,4.3,49.7,-112.77,910,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3033875,LETHBRIDGE,ALTA,1938,1,2023,12,0.6,49.63,-112.8,929,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3044232,MASINASIN AGDM,ALTA,1981,9,2023,12,3.1,49.13,-111.65,948,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3034485,MEDICINE HAT RCS,ALTA,1883,8,2023,12,0.9,50.03,-110.72,715,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3054843,NORDEGG CS,ALTA,1960,9,2023,12,8.1,52.5,-116.03,1332,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3044923,ONEFOUR CDA,ALTA,1928,8,2023,12,4.0,49.12,-110.47,935,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3024925,OLDS AGDM,ALTA,1914,4,2023,12,2.8,51.77,-114.08,1046,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3075041,PEACE RIVER A,ALTA,1907,10,2023,12,17.2,56.23,-117.45,571,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3055119,PEKISKO,ALTA,1905,7,2023,12,10.9,50.37,-114.42,1415,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3035198,PINCHER CREEK,ALTA,1893,8,2023,12,6.2,49.52,-114.0,1190,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3015401,RANFURLY AUTO,ALTA,1905,1,2023,12,0.2,53.42,-111.73,687,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3025441,RED DEER,ALTA,1904,7,2013,3,20.7,52.32,-113.8,847,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3025484,RED DEER REGIONAL A,ALTA,1938,2,2023,12,0.7,52.18,-113.9,905,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3015523,ROCKY MTN HOUSE (AUT),ALTA,1915,8,2023,12,5.8,52.42,-114.92,988,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3025768,SCHULER AGDM,ALTA,1981,11,2023,12,1.8,50.3,-110.08,800,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3075937,SIMONETTE,ALTA,1973,10,2022,5,13.2,54.42,-117.73,884,n,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3010979,BUSBY AGCM,ALTA,1908,1,2023,12,8.0,53.93,-113.92,714,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3065997,SLAVE LAKE RCS,ALTA,1922,8,2023,12,10.0,55.3,-114.78,583,y,y,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3016124,STETTLER AGDM,ALTA,1918,9,2023,12,4.3,52.35,-112.6,795,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3036240,SUFFIELD A,ALTA,1950,4,2008,12,0.2,50.27,-111.18,770,n,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3032550,FINCASTLE AGDM,ALTA,1948,1,2023,12,2.2,49.8,-112.03,833,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3026479,THREE HILLS,ALTA,1921,2,2023,12,4.5,51.77,-113.2,857,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3036682,VAUXHALL CDA CS,ALTA,1913,10,2023,8,12.9,50.05,-112.13,779,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3016GF0,VEGREVILLE,ALTA,1940,4,2023,12,17.5,53.5,-112.1,639,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3016841,VIKING AGCM,ALTA,1923,6,2023,12,11.9,53.18,-111.73,711,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3016965,WASTINA YOUNGSTOWN,ALTA,1913,3,1981,9,10.4,51.67,-111.12,762,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3056214,WATERTON PARK GATE,ALTA,1966,6,2023,12,13.3,49.13,-113.82,1289,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3017282,WETASKIWIN AGCM,ALTA,1902,11,2023,12,7.0,52.98,-113.45,774,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3067373,WHITECOURT A,ALTA,1942,12,2016,6,2.2,54.15,-115.78,782,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+3067371,WHITECOURT,ALTA,1940,5,2016,4,49.9,54.13,-115.78,785,y,n,CA-AB,48,Alberta,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4020020,ABBEY,SASK,1956,5,2008,1,14.3,50.7,-108.78,695,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4020160,ANEROID,SASK,1922,2,2005,4,2.9,49.72,-107.3,754,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4020286,ASSINIBOIA AIRPORT,SASK,1915,6,2023,12,23.4,49.73,-105.95,726,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4020560,BEECHY,SASK,1926,1,2023,12,3.4,50.83,-107.32,660,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4040600,BIGGAR,SASK,1917,4,2005,3,5.2,52.07,-107.98,671,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4010811,BRATT'S LAKE CLIMATE,SASK,2005,11,2023,12,2.4,50.2,-104.72,580,n,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4010879,BROADVIEW,SASK,1936,4,2023,12,1.3,50.37,-102.57,600,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4060983,BUFFALO NARROWS (AUT),SASK,1962,1,2023,12,4.0,55.83,-108.42,440,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4014913,MANOR,SASK,1923,5,2004,7,2.7,49.62,-102.1,633,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4015867,PARKBEG,SASK,1915,1,2001,9,10.4,50.47,-106.07,610,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4011441,CEYLON,SASK,1940,4,2002,12,8.2,49.38,-104.65,753,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4021520,CHAPLIN,SASK,1893,1,1995,9,4.5,50.47,-106.65,672,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4021600,CODERRE,SASK,1948,4,2008,1,16.8,50.13,-106.37,685,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4061629,COLLINS BAY,SASK,1972,9,2018,4,7.6,58.18,-103.72,490,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+40318MN,CORONACH SPC,SASK,1961,7,2023,12,1.7,49.05,-105.48,756,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4011846,COTE,SASK,1907,8,2006,3,8.2,51.52,-101.78,450,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4011980,CUPAR,SASK,1955,11,2018,10,4.0,50.85,-104.27,556,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4031999,CYPRESS HILLS PARK,SASK,1981,5,2023,12,0.4,49.63,-109.52,1271,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4012130,DAVIDSON 30 NE,SASK,1922,6,2008,3,7.1,51.42,-105.8,640,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4052280,DUNDURN,SASK,1923,5,1985,3,3.1,51.8,-106.5,529,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4022328,EASTLEIGH,SASK,1958,9,2007,11,2.8,50.28,-106.18,709,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4022359,ELBOW CS,SASK,1933,4,2023,12,16.5,51.13,-106.58,595,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4012410,ESTEVAN,SASK,1900,6,2023,12,14.4,49.22,-102.97,581,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4012600,FORT QU'APPELLE,SASK,1911,11,1973,4,12.3,50.78,-103.8,486,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4022960,GRAVELBOURG,SASK,1921,11,1994,10,6.2,49.88,-106.55,700,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4083324,HUDSON BAY(AUT),SASK,1943,3,2023,12,0.7,52.82,-102.32,358,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4013480,INDIAN HEAD CDA,SASK,1889,9,2023,12,0.7,50.55,-103.65,579,n,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4063605,ISLAND FALLS (AUT),SASK,1929,9,2023,12,1.5,55.53,-102.35,297,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4013660,KELLIHER,SASK,1908,1,2023,12,6.2,51.25,-103.75,676,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4063753,KEY LAKE,SASK,1976,10,2023,12,2.2,57.25,-105.6,514,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4043901,KINDERSLEY A,SASK,1912,8,2023,12,11.5,51.52,-109.18,694,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4014040,KIPLING,SASK,1950,4,2023,12,0.8,50.2,-102.73,671,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4032322,EASTEND CYPRESS (AUT),SASK,1910,5,2023,12,2.9,49.43,-108.98,1080,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4064149,LA RONGE RCS,SASK,1923,9,2023,12,25.3,55.15,-105.27,379,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4014156,LAST MOUNTAIN CS,SASK,1975,5,2023,12,2.0,51.42,-105.25,497,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+402DAF0,LEADER AIRPORT,SASK,1924,1,2023,12,9.9,50.92,-109.5,676,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4064620,LOON LAKE RCS,SASK,1930,1,2023,12,20.2,54.02,-109.13,546,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4014720,LUMSDEN,SASK,1923,5,1994,7,2.5,50.65,-104.87,497,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4034910,MANKOTA,SASK,1962,10,2023,12,8.6,49.1,-107.02,830,n,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4024919,MAPLE CREEK,SASK,1921,7,2023,12,2.5,49.9,-109.47,767,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+406N0NM,MEADOW LAKE,SASK,1967,8,2023,12,0.8,54.13,-108.52,481,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4055079,MELFORT,SASK,1901,10,2023,12,4.8,52.82,-104.6,490,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4015159,MIDALE,SASK,1923,5,2014,9,2.1,49.38,-103.3,587,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4015322,MOOSE JAW CS,SASK,1894,3,2023,12,6.3,50.33,-105.53,577,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4015360,MOOSOMIN,SASK,1941,4,2000,9,3.1,50.13,-101.67,576,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4015440,MUENSTER,SASK,1904,6,2023,4,3.5,52.33,-105.0,580,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4035480,NASHLYN,SASK,1911,5,1979,1,6.7,49.2,-109.52,945,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+407N51G,NIPAWIN,SASK,1911,5,2023,12,0.8,53.33,-104.0,372,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4015560,NOKOMIS,SASK,1923,5,2008,2,2.3,51.52,-105.0,524,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4045607,NORTH BATTLEFORD RCS,SASK,1891,1,2023,12,0.5,52.77,-108.25,548,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4055736,OUTLOOK PFRA,SASK,1915,2,2023,12,1.2,51.48,-107.05,541,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4015960,PASWEGIN,SASK,1963,9,2003,9,0.5,51.98,-103.92,533,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4086001,PELLY 2,SASK,1951,8,2019,4,8.5,51.73,-101.9,499,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4056121,PILGER,SASK,1911,10,2023,12,9.2,52.42,-105.15,552,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4038740,WEST POPLAR RIVER,SASK,1956,10,2002,6,8.9,49.0,-106.38,876,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4056243,PRINCE ALBERT GLASS FIELD,SASK,1884,9,2023,12,0.9,53.22,-105.68,425,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4016322,QU'APPELLE 1,SASK,1877,11,2023,12,8.5,50.57,-103.98,663,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4016699,REGINA RCS,SASK,1898,1,2023,12,0.3,50.43,-104.67,577,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4036844,ROCKGLEN (AUT),SASK,1970,12,2023,12,28.1,49.17,-105.98,917,n,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4046884,ROSETOWN EAST,SASK,1937,4,2023,12,1.8,51.57,-107.92,586,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4057165,SASKATOON RCS,SASK,1900,2,2023,12,0.4,52.17,-106.72,504,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4047240,SCOTT CDA,SASK,1911,5,2023,12,0.3,52.37,-108.83,660,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4017320,SEMANS,SASK,1923,5,1994,6,6.3,51.42,-104.73,562,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4027485,SHAUNAVON 2,SASK,1915,6,2003,10,2.4,49.65,-108.42,914,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4067799,STONY RAPIDS,SASK,1986,7,2023,12,0.6,59.25,-105.83,244,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4028038,SWIFT CURRENT,SASK,1885,12,2023,12,0.2,50.3,-107.68,817,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4028060,SWIFT CURRENT CDA,SASK,1959,1,2023,12,0.2,50.27,-107.73,825,n,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4018160,TUGASKE,SASK,1923,6,2009,1,0.5,50.88,-106.3,607,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+406QLD0,URANIUM CITY (AUT),SASK,1953,1,2023,12,17.5,59.57,-108.48,318,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4038412,VAL MARIE SOUTHEAST,SASK,1937,4,2023,12,11.7,49.07,-107.58,796,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4048521,WASECA RCS,SASK,1907,7,2023,12,0.8,53.13,-109.4,640,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4068559,WASKESIU LAKE,SASK,1966,1,2023,12,3.0,53.92,-106.07,569,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4018642,WATROUS EAST,SASK,1953,2,2023,12,0.4,51.67,-105.4,526,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+401HP5R,WEYBURN,SASK,1953,1,2023,12,0.4,49.7,-103.8,589,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4067655,SOUTHEND,SASK,1938,1,2023,12,2.2,56.33,-103.28,344,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4018880,WHITEWOOD,SASK,1915,1,2008,3,6.6,50.35,-102.27,598,n,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+40190LN,WYNYARD (AUT),SASK,1939,7,2023,12,28.0,51.77,-104.2,560,y,n,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4019041,YELLOW GRASS NORTH,SASK,1911,8,2023,12,3.1,49.82,-104.18,578,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+4019073,YORKTON,SASK,1941,5,2023,12,0.6,51.27,-102.47,498,y,y,CA-SK,47,Saskatchewan,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5020040,ALTONA,MAN,1949,4,2008,7,7.7,49.1,-97.55,248,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5030080,ARBORG,MAN,1960,11,2016,6,0.9,50.93,-97.08,224,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5030203,BERENS RIVER CS,MAN,1905,1,2023,12,22.9,52.37,-97.02,222,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5010240,BIRTLE,MAN,1904,6,2000,6,12.6,50.43,-101.05,522,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5010490,BRANDON RCS,MAN,1890,1,2023,12,0.2,49.9,-99.95,409,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5060520,BROCHET A,MAN,1948,8,2009,9,19.6,57.88,-101.68,346,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5010547,CARBERRY CS,MAN,1962,7,2023,12,12.9,49.9,-99.35,384,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+502I001,CARMAN U OF M CS,MAN,1990,8,2023,12,0.6,49.5,-98.03,268,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5060608,CHURCHILL CLIMATE,MAN,1932,1,2023,12,0.5,58.73,-94.07,29,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5060623,CROSS LAKE JENPEG,MAN,1972,5,2017,11,2.4,54.53,-98.03,219,n,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5010641,CYPRESS RIVER RCS,MAN,1949,1,2023,12,0.7,49.57,-99.07,374,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5040681,DAUPHIN CS,MAN,1903,1,2023,12,4.7,51.1,-100.05,305,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5020725,DEERWOOD RCS,MAN,1952,1,2023,12,5.6,49.4,-98.32,341,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5020881,EMERSON AUTO,MAN,1918,4,2023,12,14.6,49.0,-97.23,242,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+50309J6,FISHER BRANCH (AUT),MAN,1977,7,2023,12,3.9,51.08,-97.55,253,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5050919,FLIN FLON,MAN,1927,2,2023,12,2.6,54.68,-101.68,304,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5040985,GILBERT PLAINS,MAN,1958,11,2016,6,3.6,51.1,-100.47,404,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5061022,GILLAM A,MAN,1943,3,2023,12,7.0,56.35,-94.72,145,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5031042,GIMLI CLIMATE,MAN,1944,3,2023,12,2.9,50.63,-97.05,230,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5031A10,GRAND RAPIDS (AUT),MAN,1960,7,2023,12,3.4,53.18,-99.27,223,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5031201,GREAT FALLS CLIMATE,MAN,1922,9,2023,12,4.4,50.52,-95.98,253,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5021220,GRETNA (AUT),MAN,1960,1,2023,12,40.5,49.03,-97.57,253,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5011241,HAMIOTA 2,MAN,1914,11,2002,6,16.0,50.18,-100.6,520,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5031320,INDIAN BAY,MAN,1915,4,2023,12,0.7,49.62,-95.2,327,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5061374,ISLAND LAKE A,MAN,1970,12,2023,12,1.7,53.85,-94.65,235,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5061649,LYNN LAKE RCS,MAN,1952,4,2023,12,4.4,56.85,-101.07,354,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5043158,MCCREARY,MAN,1971,5,2023,12,0.4,50.72,-99.53,351,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+501A7AR,MELITA,MAN,1933,1,2023,12,4.8,49.28,-100.98,446,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5042004,NEEPAWA MURRAY 6 SOUTHWEST,MAN,1881,7,2008,11,9.5,50.15,-99.57,412,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5021849,MORDEN CDA CS,MAN,1904,3,2023,12,1.0,49.18,-98.08,298,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5021920,MORRIS,MAN,1915,9,1987,10,6.2,49.35,-97.37,235,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+50220M0,NINETTE 1 NW,MAN,1911,12,1996,5,6.0,49.42,-99.65,419,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5062040,NORWAY HOUSE,MAN,1897,1,2023,12,24.5,53.97,-97.85,224,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5022125,PILOT MOUND (AUT),MAN,1938,4,2023,12,15.4,49.18,-98.9,470,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+503B1ER,PINAWA,MAN,1915,6,2023,12,0.8,50.18,-96.07,268,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5012322,PORTAGE LA PRAIRIE 2,MAN,1886,1,1996,6,16.0,49.98,-98.32,261,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5012324,PORTAGE SOUTHPORT,MAN,1941,7,2023,12,9.8,49.9,-98.28,273,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5012469,ROBLIN,MAN,1969,11,2023,12,8.2,51.18,-101.37,540,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5012520,RUSSELL,MAN,1883,9,1990,10,21.2,50.77,-101.28,567,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5012654,SHOAL LAKE CS,MAN,1962,6,2023,12,0.4,50.45,-100.6,561,y,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5022759,SPRAGUE,MAN,1915,9,2023,12,0.9,49.02,-95.6,329,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+504K80K,SWAN RIVER RCS,MAN,1959,4,2023,12,4.9,52.12,-101.23,335,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5052890,THE PAS CLIMATE,MAN,1910,6,2023,12,0.9,53.97,-101.1,274,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5062921,THOMPSON A,MAN,1967,4,2023,12,0.4,55.8,-97.87,224,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5012960,VIRDEN,MAN,1890,10,2005,3,33.0,49.83,-100.95,445,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+5013117,WASAGAMING,MAN,1966,3,2023,12,6.7,50.65,-99.95,627,n,n,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+502S001,WINNIPEG A CS,MAN,1872,3,2023,12,0.2,49.92,-97.25,239,y,y,CA-MB,46,Manitoba,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6130257,AMHERSTBURG,ONT,1988,7,2023,12,2.4,42.1,-83.1,182,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6040325,ARMSTRONG (AUT),ONT,1953,1,2023,12,18.0,50.3,-88.9,323,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6020LPQ,ATIKOKAN (AUT),ONT,1917,1,2023,12,5.1,48.77,-91.63,389,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6160465,BANCROFT,ONT,1905,1,1985,12,17.7,45.05,-77.85,327,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6110607,BEATRICE CLIMATE,ONT,1878,1,2023,12,0.8,45.13,-79.4,297,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6150689,BELLEVILLE,ONT,1921,1,2023,12,3.3,44.15,-77.4,76,n,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6010740,BIG TROUT LAKE,ONT,1939,2,2023,12,2.3,53.82,-89.9,223,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6060773,BISCOTASING,ONT,1914,1,2000,10,38.5,47.3,-82.1,407,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+616I001,BANCROFT AUTO,ONT,1995,6,2023,12,2.0,45.07,-77.88,331,n,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6140954,BRANTFORD MOE,ONT,1876,1,2013,1,13.1,43.13,-80.23,196,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6100970,BROCKVILLE CLIMATE,ONT,1915,7,2023,12,1.3,44.63,-75.75,120,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6121025,BRUCEFIELD,ONT,1903,3,1993,12,2.1,43.55,-81.55,259,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6151061,BURLINGTON PIERS (AUT),ONT,1947,5,2023,12,4.0,43.3,-79.8,77,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6041110,CAMERON FALLS (AUT),ONT,1924,6,2023,12,2.5,49.15,-88.35,233,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6061362,CHAPLEAU A,ONT,1913,7,2016,6,7.0,47.82,-83.35,448,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6131415,CHATHAM WPCP,ONT,1889,7,2019,9,8.7,42.38,-82.22,180,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6111467,CHATSWORTH,ONT,1958,6,2013,10,5.1,44.4,-80.9,305,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6071712,COCHRANE,ONT,1910,6,1993,4,5.1,49.07,-81.03,275,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6111792,COLLINGWOOD,ONT,1881,8,2023,6,23.2,44.5,-80.22,180,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6061850,CONISTON STP,ONT,1921,4,2002,10,6.3,46.48,-80.85,268,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6101874,CORNWALL,ONT,1950,11,2023,12,0.5,45.02,-74.75,64,n,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6081928,CRYSTAL FALLS,ONT,1922,6,1988,1,2.6,46.45,-79.87,227,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6131983,DELHI CS,ONT,1934,6,2023,12,0.3,42.87,-80.55,232,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6032125,DRYDEN REGIONAL,ONT,1914,1,2023,12,2.4,49.83,-92.75,413,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6012199,EAR FALLS (AUT),ONT,1928,10,2023,12,14.8,50.63,-93.22,363,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6072230,EARLTON CLIMATE,ONT,1938,9,2023,12,0.2,47.7,-79.85,243,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+611E001,EGBERT CS,ONT,1988,8,2023,12,1.3,44.23,-79.78,251,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6142286,ELORA RCS,ONT,1969,3,2023,12,5.7,43.65,-80.42,376,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6142400,FERGUS SHAND DAM,ONT,1939,10,2023,12,1.1,43.73,-80.33,418,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6142420,FOLDENS,ONT,1963,6,2016,6,0.8,43.02,-80.78,328,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6022474,FORT FRANCES RCS,ONT,1917,1,2023,12,0.7,48.65,-93.43,342,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6042717,GERALDTON A,ONT,1967,11,2022,2,0.2,49.78,-86.93,348,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6142803,GLEN ALLAN,ONT,1958,8,2023,12,10.0,43.68,-80.72,400,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6122847,GODERICH,ONT,1912,3,2023,12,3.3,43.77,-81.72,214,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6092920,GORE BAY CLIMATE,ONT,1915,10,2023,12,1.1,45.88,-82.57,189,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6133047,GRIMSBY,ONT,1910,1,1985,8,20.9,43.2,-79.57,91,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6143089,GUELPH TURFGRASS,ONT,1881,5,2022,3,8.5,43.55,-80.22,325,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6163171,HALIBURTON 3,ONT,1888,6,2023,12,2.4,45.03,-78.53,330,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6153193,HAMILTON A,ONT,1866,1,2023,12,16.6,43.17,-79.93,238,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6133362,HARROW CDA AUTO,ONT,1917,4,2023,12,0.9,42.03,-82.9,191,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6053575,HORNEPAYNE A,ONT,1917,6,1995,7,14.1,49.2,-84.77,335,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6033690,IGNACE,ONT,1914,1,1971,1,3.3,49.42,-91.65,447,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6073810,IROQUOIS FALLS,ONT,1913,3,1998,12,1.9,48.75,-80.67,259,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6042MJ7,FLINT,ONT,1908,11,2014,2,2.5,48.35,-89.68,274,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6073980,KAPUSKASING CDA ON,ONT,1918,1,2023,12,0.2,49.4,-82.45,218,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6104027,KEMPTVILLE CS,ONT,1928,11,2023,12,3.8,45.0,-75.63,99,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6034073,KENORA RCS,ONT,1899,9,2023,12,2.2,49.78,-94.38,413,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6104142,KINGSTON CLIMATE,ONT,1872,7,2023,12,9.3,44.22,-76.6,93,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6074211,KIRKLAND LAKE CS,ONT,1950,2,2022,8,5.5,48.15,-80.0,324,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6147188,ROSEVILLE,ONT,1914,10,2023,12,1.7,43.35,-80.47,328,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6054425,LAKE SUPERIOR PROVINCIAL PARK,ONT,2013,11,2023,12,2.2,47.72,-84.82,401,n,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6014353,LANSDOWNE HOUSE (AUT),ONT,1941,3,2023,12,6.2,52.2,-87.93,253,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6134190,KINGSVILLE MOE,ONT,1916,3,2023,12,1.4,42.05,-82.67,200,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6144478,LONDON CS,ONT,1883,3,2023,12,0.5,43.03,-81.15,278,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6124700,LUCKNOW,ONT,1886,6,1993,12,1.9,43.95,-81.5,290,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6080192,ALGONQUIN PARK EAST GATE,ONT,1915,8,2023,12,4.6,45.53,-78.27,397,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6155183,MILLGROVE,ONT,1951,3,2006,4,3.5,43.32,-79.97,255,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6165195,MINDEN,ONT,1956,2,2011,9,0.1,44.93,-78.72,274,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6025205,MINE CENTRE SOUTHWEST,ONT,1915,2,2022,12,2.6,48.77,-92.62,361,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6075379,MONTREAL RIVER,ONT,1910,12,1967,10,2.2,47.12,-79.48,183,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6075435,MOOSONEE RCS,ONT,1877,10,2022,11,10.5,51.3,-80.62,9,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6105460,MORRISBURG,ONT,1913,6,2008,12,0.5,44.92,-75.18,82,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6145504,MOUNT FOREST (AUT),ONT,1915,7,2023,12,18.9,43.98,-80.75,415,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6115529,MUSKOKA,ONT,1953,1,2023,12,0.3,44.97,-79.3,282,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6075543,NAGAGAMI (AUT),ONT,1992,12,2023,12,6.0,49.75,-84.17,264,n,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6135583,NEW GLASGOW,ONT,1957,7,2023,12,0.7,42.52,-81.63,198,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6135657,NIAGARA FALLS NPCSH,ONT,1942,7,2011,6,11.6,43.13,-79.05,175,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6085680,NORTH BAY A,ONT,1925,1,2023,12,0.3,46.37,-79.42,370,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6155790,ORANGEVILLE MOE,ONT,1961,6,2015,12,1.5,43.92,-80.08,412,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6111769,COLDWATER WARMINSTER,ONT,1892,7,2023,12,18.5,44.63,-79.53,285,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6155878,OSHAWA WPCP,ONT,1923,4,2023,10,4.3,43.87,-78.83,84,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6105978,OTTAWA CDA RCS,ONT,1889,11,2023,12,0.2,45.38,-75.72,79,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6116132,OWEN SOUND MOE,ONT,1878,7,2007,12,8.6,44.58,-80.93,179,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6116257,PARRY SOUND CCG,ONT,1875,11,2023,12,9.8,45.35,-80.05,176,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6016295,PEAWANUCK (AUT),ONT,1994,6,2023,11,8.0,54.98,-85.43,53,n,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6136335,PELEE ISLAND,ONT,1889,10,1987,8,13.5,41.75,-82.68,175,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6106367,PEMBROKE CLIMATE,ONT,1866,2,2023,12,24.6,45.87,-77.25,161,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6106396,PETAWAWA AWOS 2,ONT,1931,6,2022,1,15.2,45.95,-77.32,130,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6166415,PETERBOROUGH A,ONT,1866,4,2023,12,6.4,44.23,-78.37,191,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6166456,PETERBOROUGH TRENT U,ONT,2005,5,2023,9,3.8,44.35,-78.3,216,n,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6016525,PICKLE LAKE (AUT),ONT,1934,1,2023,12,13.0,51.45,-90.22,391,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6136643,PORT DOVER,ONT,1875,7,1983,12,5.4,42.78,-80.22,186,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6136694,PORT STANLEY,ONT,1874,5,1993,6,26.9,42.67,-81.22,183,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6046768,PUKASKWA (AUT),ONT,1948,7,2023,12,6.4,48.6,-86.28,192,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6036907,RAWSON LAKE (AUT),ONT,1969,6,2023,12,4.9,49.67,-93.73,435,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6016970,RED LAKE A,ONT,1965,1,2016,6,0.4,51.07,-93.8,386,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6137154,RIDGETOWN RCS,ONT,1924,1,2023,12,1.1,42.45,-81.88,206,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6127519,SARNIA CLIMATE,ONT,1968,1,2023,12,2.2,43.0,-82.3,181,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6057591,SAULT STE MARIE A,ONT,1945,6,2023,12,3.4,46.48,-84.52,192,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6047627,SCHREIBER,ONT,1909,3,1975,5,2.9,48.82,-87.27,302,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6137730,SIMCOE,ONT,1920,7,1986,12,4.3,42.85,-80.27,241,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6037776,SIOUX LOOKOUT A,ONT,1914,1,2023,12,1.6,50.12,-91.9,383,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6077845,SMOKY FALLS,ONT,1933,10,1997,4,3.4,50.07,-82.17,183,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6124127,KINCARDINE,ONT,1873,11,2022,6,2.6,44.17,-81.62,200,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6136699,PORT WELLER (AUT),ONT,1911,1,2023,12,15.9,43.25,-79.22,79,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6137362,ST THOMAS WPCP,ONT,1925,10,2023,12,1.6,42.77,-81.2,209,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6148105,STRATFORD WWTP,ONT,1865,1,2016,10,8.9,43.37,-81.0,345,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6068145,SUDBURY CLIMATE,ONT,1947,9,2023,12,1.6,46.63,-80.8,348,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6048268,THUNDER BAY CS,ONT,1877,7,2023,12,0.2,48.37,-89.33,199,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6078282,TIMMINS CLIMATE,ONT,1922,4,2023,12,0.6,48.55,-81.38,294,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6128330,TOBERMORY RCS,ONT,1914,2,2023,12,20.4,45.23,-81.63,214,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6158355,TORONTO CITY,ONT,1840,3,2023,12,0.1,43.67,-79.4,113,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6158409,TORONTO BUTTONVILLE A,ONT,1974,7,2023,10,0.5,43.87,-79.37,198,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6158520,TORONTO ELLESMERE,ONT,1895,11,1994,12,2.6,43.77,-79.27,164,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6158731,TORONTO INTL A,ONT,1937,11,2023,12,0.4,43.68,-79.63,173,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6158359,TORONTO CITY CENTRE,ONT,1953,5,2023,12,0.5,43.63,-79.4,77,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6158875,TRENTON A,ONT,1935,1,2023,12,4.5,44.12,-77.53,86,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6068980,TURBINE,ONT,1914,6,1990,3,1.6,46.38,-81.57,206,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6159125,UXBRIDGE 3,ONT,1905,3,1981,1,8.2,44.13,-79.08,270,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6139148,VINELAND STATION RCS,ONT,1924,9,2023,12,2.5,43.18,-79.4,79,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6113329,HANOVER,ONT,1915,7,2008,9,0.8,44.12,-81.0,270,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6139265,WALLACEBURG,ONT,1905,9,1997,4,11.6,42.58,-82.4,177,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6059407,WAWA A,ONT,1940,3,2016,6,4.8,47.97,-84.78,288,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6139449,WELLAND-PELHAM,ONT,1872,10,2023,12,5.6,42.97,-79.33,178,y,y,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6059475,WHITE RIVER,ONT,1888,12,1976,2,0.8,48.6,-85.28,379,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6119499,WIARTON A,ONT,1953,1,2023,12,0.3,44.75,-81.12,222,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6119511,WILDER LAKE,ONT,1947,11,2009,1,4.9,44.15,-80.77,390,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6139530,WINDSOR A,ONT,1940,8,2023,12,0.1,42.28,-82.95,190,y,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6159575,WOODBRIDGE,ONT,1948,10,2005,5,3.8,43.78,-79.6,164,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+6149625,WOODSTOCK,ONT,1871,11,2023,12,1.6,43.13,-80.77,282,n,n,CA-ON,35,Ontario,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7060080,ALBANEL,QUE,1922,6,1991,1,1.2,48.88,-72.45,152,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+709CEE9,LAC BERRY,QUE,1913,6,2023,12,4.1,48.8,-78.28,305,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7050145,AMQUI,QUE,1957,3,2019,7,9.8,48.47,-67.43,166,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7030170,ANGERS,QUE,1966,1,2021,2,3.1,45.55,-75.55,91,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7050200,ANTICOSTI SW POINT,QUE,1880,5,1954,10,0.5,49.4,-63.55,7,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7050240,ARMAGH,QUE,1916,6,1994,5,22.9,46.75,-70.53,358,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+703GDKB,ST-JOVITE,QUE,1963,12,2023,12,4.5,46.08,-74.55,239,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7060400,BAGOTVILLE A,QUE,1880,11,2023,12,6.3,48.33,-71.0,159,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7040442,BAIE-COMEAU A,QUE,1965,1,2023,12,3.0,49.13,-68.2,22,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7070454,BARRAGE GOUIN,QUE,1914,3,1982,12,3.9,48.35,-74.1,404,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027283,ST GEORGES,QUE,1913,8,2023,12,1.5,46.15,-70.7,168,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7020567,BEAUSEJOUR,QUE,1975,8,2019,11,1.3,46.67,-71.17,107,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7080600,BELLETERRE,QUE,1951,9,2004,4,8.3,47.38,-78.7,322,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7010720,BERTHIERVILLE,QUE,1919,8,1995,5,0.8,46.05,-73.18,12,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7050762,BIC,QUE,1921,5,1985,1,8.2,48.4,-68.67,23,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7060826,BONNARD 1,QUE,1961,9,2023,12,4.2,50.73,-71.02,498,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7020840,BROME,QUE,1890,9,2014,7,6.2,45.18,-72.57,206,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7020860,BROMPTONVILLE,QUE,1957,6,2023,12,6.4,45.48,-71.95,130,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+705S002,CAP-CHAT,QUE,1934,5,2023,12,4.5,49.12,-66.65,5,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7051163,CAP-MADELEINE,QUE,1939,2,2023,12,2.2,49.25,-65.32,29,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7051200,CAUSAPSCAL,QUE,1913,11,2021,7,7.1,48.37,-67.23,168,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7091299,CHAPAIS,QUE,1962,5,2023,12,6.3,49.82,-74.98,381,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7031315,CHARTERIS,QUE,1980,5,2023,12,10.2,45.68,-76.43,168,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7031360,CHELSEA,QUE,1927,9,2023,12,3.1,45.52,-75.78,113,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7091410,CHIBOUGAMAU-CHAPAIS,QUE,1885,1,2023,12,24.3,49.78,-74.53,381,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7021840,COATICOOK,QUE,1949,9,2023,12,2.1,45.15,-71.8,259,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7022000,DISRAELI,QUE,1911,1,1991,5,8.3,45.92,-71.32,350,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7011983,DESCHAMBAULT,QUE,1918,7,2023,12,8.8,46.68,-71.97,61,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7022160,DRUMMONDVILLE,QUE,1913,11,2018,10,2.7,45.88,-72.48,82,n,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7022320,FARNHAM,QUE,1917,6,2023,12,12.8,45.3,-72.9,68,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7022375,FLEURY,QUE,1967,1,2023,12,1.4,45.8,-73.0,31,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7042395,FORET MONTMORENCY RCS,QUE,1965,7,2023,12,6.1,47.32,-71.15,673,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7022494,FORTIERVILLE,QUE,1973,1,2023,12,2.0,46.48,-72.05,53,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7052601,GASPE A,QUE,1916,1,2023,12,10.2,48.78,-64.48,34,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7046059,POINT DE L'ISLET,QUE,1913,11,2023,12,6.3,48.13,-69.72,7,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7022800,GRANBY,QUE,1948,6,2023,8,11.8,45.38,-72.72,175,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7043019,HAVRE ST. PIERRE,QUE,1964,5,2023,12,2.2,50.28,-63.62,38,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7023075,HEMMINGFORD FOUR WINDS,QUE,1960,7,2023,12,3.9,45.07,-73.72,61,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7033160,HUBERDEAU,QUE,1913,11,1980,2,3.7,45.97,-74.63,213,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7053254,ILES DE LA MADELEINE A,QUE,1933,9,2023,12,4.5,47.43,-61.78,11,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+710S005,INUKJUAK,QUE,1921,11,2023,12,6.2,58.47,-78.08,26,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7014160,L'ASSOMPTION,QUE,1914,1,2023,12,3.7,45.82,-73.43,21,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7113535,KUUJJUAQ A,QUE,1947,3,2023,12,0.3,58.08,-68.42,40,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7103539,KUUJJUARAPIK,QUE,1925,10,2023,12,7.7,55.37,-77.57,30,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7093GJ5,LA GRANDE IV,QUE,1985,12,2023,12,18.7,53.75,-73.68,303,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7093716,LA GRANDE RIVIERE A,QUE,1976,10,2023,12,0.4,53.63,-77.7,195,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7033939,LA MACAZA,QUE,1956,10,2023,12,4.5,46.37,-74.77,244,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7043960,LA MALBAIE,QUE,1915,7,2004,4,13.6,47.67,-70.15,23,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7054096,LA POCATIERE,QUE,1913,1,2023,12,1.3,47.35,-70.03,31,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7086716,ROUYN,QUE,1951,9,2023,12,8.8,48.25,-79.03,318,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+707DBD4,LA TUQUE,QUE,1911,9,2023,12,5.6,47.42,-72.78,169,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7043540,LABRIEVILLE B1,QUE,1955,1,1994,12,3.0,49.3,-69.55,152,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7063560,LAC BOUCHETTE,QUE,1949,8,2015,9,2.9,48.22,-72.17,358,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+704C64L,LAC EON,QUE,1992,12,2023,12,20.6,51.87,-63.28,589,n,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7053649,LAC HUMQUI,QUE,1972,12,2023,12,1.6,48.28,-67.57,236,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7065012,MISTOOK,QUE,1958,7,2023,12,2.0,48.6,-71.72,113,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7033650,LACHUTE,QUE,1963,1,2023,12,0.4,45.65,-74.33,91,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7024000,LAMBTON,QUE,1915,5,1994,5,14.4,45.83,-71.08,366,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7024254,LAUZON,QUE,1978,12,2023,12,3.5,46.82,-71.1,69,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7094275,LEBEL SUR QUEVILLON,QUE,1967,1,2004,4,29.4,49.05,-76.97,305,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7024280,LENNOXVILLE,QUE,1915,1,2023,12,0.9,45.37,-71.82,181,n,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7044288,LES BUISSONS,QUE,1963,4,2023,12,26.2,49.12,-68.38,15,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7014290,LES CEDRES,QUE,1913,2,2023,12,2.6,45.3,-74.05,47,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7040815,LOURDES DE BLANC SABLON A,QUE,1982,8,2023,12,2.6,51.45,-57.18,37,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7034365,LUSKVILLE,QUE,1980,11,2023,12,2.7,45.53,-76.05,69,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7034395,LYTTON,QUE,1927,1,1994,5,2.1,46.68,-76.03,213,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7024400,MACDONALD COLLEGE,QUE,1906,5,1976,3,1.3,45.42,-73.93,27,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7024440,MAGOG,QUE,1949,11,2023,12,3.5,45.27,-72.12,274,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7034482,MANIWAKI AIRPORT,QUE,1914,6,2023,12,3.6,46.27,-76.0,200,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7094637,MATAGAMI,QUE,1973,10,2023,12,6.3,49.75,-77.8,281,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7024920,MILAN,QUE,1949,10,2015,10,2.0,45.58,-71.12,482,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7055122,MONT-JOLI,QUE,1875,10,2023,12,0.5,48.6,-68.2,55,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7035160,MONT LAURIER,QUE,1920,7,2014,6,6.8,46.57,-75.55,244,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7024745,MCTAVISH,QUE,1871,7,2023,12,2.5,45.5,-73.58,73,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7025251,MONTREAL INTL A,QUE,1941,9,2023,12,0.1,45.47,-73.73,36,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7045401,NATASHQUAN AIRPORT,QUE,1914,10,2023,12,3.9,50.18,-61.8,11,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7055422,NEW CARLISLE 1,QUE,1963,1,2023,12,16.0,48.02,-65.33,46,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7025442,NICOLET,QUE,1913,11,2023,12,2.2,46.23,-72.65,8,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7035520,NOMININGUE,QUE,1913,11,2013,11,6.8,46.4,-75.08,274,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7065639,NORMANDIN,QUE,1936,7,2023,12,2.0,48.85,-72.55,137,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7035680,NOTRE DAME DU LAUS,QUE,1929,5,1991,5,1.7,46.12,-75.63,213,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7015730,OKA,QUE,1937,8,2023,12,6.5,45.5,-74.07,91,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7025745,ORMSTOWN,QUE,1963,7,2023,12,0.4,45.12,-74.05,46,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7115800,PARC NATIONAL DES PINGUALUIT,QUE,2009,10,2023,12,17.3,61.32,-73.67,503,n,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7075800,PARENT,QUE,1943,7,2023,12,21.8,47.92,-74.62,445,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7036063,POINTE AU CHENE,QUE,1958,11,2009,6,8.1,45.65,-74.8,51,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7056120,PORT DANIEL,QUE,1927,1,2004,4,16.5,48.15,-64.98,69,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7066080,PORTAGE DES ROCHES,QUE,1926,1,1984,6,0.3,48.3,-71.22,165,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7056240,PRICE,QUE,1931,9,1985,1,1.3,48.6,-68.13,73,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7116270,QUAQTAQ,QUE,1943,1,1988,5,10.7,61.05,-69.63,30,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+701S001,QUEBEC/JEAN LESAGE INTL,QUE,1875,8,2023,12,0.2,46.8,-71.38,60,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7026465,RICHMOND,QUE,1973,7,2023,12,3.1,45.63,-72.13,123,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7056068,POINTE-AU-PERE (INRS),QUE,1952,12,2023,12,2.4,48.52,-68.47,5,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7116505,RIVIERE AUX FEUILLES,QUE,2006,4,2023,12,8.5,57.92,-72.98,171,n,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7026612,RIVIERE DES PRAIRIES,QUE,1973,1,2023,12,3.3,45.7,-73.5,9,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7016675,RIVIERE VERTE OUEST,QUE,1966,1,2023,12,2.9,46.98,-71.83,213,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7066686,ROBERVAL A,QUE,1914,1,2023,12,6.0,48.52,-72.27,179,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027470,SAINT-GERMAIN-DE-GRANTHAM,QUE,2008,10,2023,12,0.9,45.83,-72.53,85,n,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7057567,SAINT MICHEL,QUE,1978,9,2023,12,1.5,46.87,-70.88,69,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7077571,SAINT-MICHEL-DES-SAINTS,QUE,2009,10,2023,12,4.8,46.82,-74.1,430,n,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027802,SAWYERVILLE NORD,QUE,1961,10,2023,12,4.2,45.37,-71.53,346,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7117823,SCHEFFERVILLE A,QUE,1948,8,2023,12,1.6,54.8,-66.8,521,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027840,SCOTT,QUE,1950,11,2023,12,2.7,46.5,-71.08,145,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7047914,SEPT-ILES,QUE,1944,9,2023,12,0.2,50.22,-66.25,53,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7018001,SHAWINIGAN,QUE,1902,7,2023,12,7.6,46.57,-72.73,110,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7028123,SHERBROOKE,QUE,1923,5,2023,12,5.9,45.43,-71.68,241,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7068160,SHIPSHAW,QUE,1921,9,1993,10,2.6,48.45,-71.22,23,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7028200,SOREL,QUE,1914,6,2023,12,3.1,46.03,-73.12,15,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7016800,ST ALBAN,QUE,1949,9,2023,12,1.3,46.72,-72.08,76,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7066820,ST AMBROISE,QUE,1954,9,2023,12,3.6,48.57,-71.33,122,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+702FQLF,ST-ANICET 1,QUE,1960,11,2023,12,1.1,45.12,-74.28,49,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7056930,ST CAMILLE,QUE,1963,7,2023,12,1.3,46.48,-70.22,396,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7016960,ST CHARLES DE MANDEVILLE,QUE,1976,6,2023,12,17.9,46.35,-73.35,168,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7017080,ST COME,QUE,1950,12,2018,11,5.6,46.28,-73.75,244,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027083,ST COME DE LINIERE,QUE,1965,9,2023,12,2.0,46.05,-70.52,244,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027200,ST EPHREM,QUE,1929,2,2023,12,16.8,46.07,-70.97,312,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7047250,ST FEREOL,QUE,1915,6,1983,12,5.2,47.12,-70.83,229,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027259,ST FLAVIEN,QUE,1963,1,2016,8,1.5,46.48,-71.57,137,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027302,ST GUILLAUME,QUE,1963,1,2015,10,6.6,45.88,-72.77,44,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7037310,ST HIPPOLYTE,QUE,1961,2,2023,12,3.3,45.98,-74.0,366,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027329,MONTREAL/ST-HUBERT,QUE,1953,1,2023,12,0.5,45.52,-73.42,27,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027361,ST HYACINTHE 2,QUE,1935,1,2023,12,7.1,45.57,-72.92,33,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7037400,ST JEROME,QUE,1932,5,2023,12,4.1,45.8,-74.05,170,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027516,ST LUDGER,QUE,1964,10,2023,12,1.4,45.75,-70.68,335,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027520,ST MALO D AUCKLAND,QUE,1949,9,2023,12,3.5,45.2,-71.5,564,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7077570,ST MICHEL DES SAINTS,QUE,1966,11,2023,12,8.0,46.68,-73.92,351,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7017585,ST NARCISSE,QUE,1973,9,2022,6,2.5,46.53,-72.43,46,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7057600,ST PAMPHILE,QUE,1950,11,2004,4,12.5,46.97,-69.78,388,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7067658,ST PRIME,QUE,1980,11,2023,12,0.8,48.62,-72.42,122,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027725,ST SEBASTIEN,QUE,1972,12,2016,10,2.1,45.77,-70.95,442,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7017760,ST TITE,QUE,1920,5,1985,1,3.2,46.73,-72.57,142,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7016840,STE ANNE DE LA PERADE,QUE,1949,8,2023,12,1.8,46.58,-72.23,16,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7036855,STE ANNE DU LAC,QUE,1963,6,2023,12,4.9,46.85,-75.33,262,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7016902,STE BEATRIX,QUE,1974,11,2023,12,6.2,46.2,-73.6,198,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7057287,STE GERMAINE,QUE,1963,1,2013,11,4.1,46.42,-70.47,511,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7027517,STE MADELEINE,QUE,1979,9,2016,7,5.9,45.62,-73.13,30,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7057720,STE ROSE DU DEGELIS,QUE,1932,11,2004,4,5.8,47.57,-68.63,151,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7080468,BARRAGE TEMISCAMINGUE,QUE,1910,4,2023,12,4.5,46.72,-79.1,181,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7041382,CHEVERY,QUE,1911,8,2023,12,3.6,50.47,-59.63,8,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7028442,THETFORD MINES RCS,QUE,1922,2,2023,12,3.3,46.05,-71.27,430,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7056616,RIVIERE-DU-LOUP,QUE,1951,7,2023,12,0.3,47.8,-69.55,147,y,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7018563,TROIS-RIVIERES,QUE,1934,11,2023,12,3.9,46.37,-72.68,62,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7098603,VAL-D'OR,QUE,1951,7,2023,12,1.6,48.05,-77.78,339,y,y,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7028680,VALLEYFIELD,QUE,1952,2,2016,10,9.0,45.28,-74.1,46,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7088760,VILLE MARIE,QUE,1913,12,2004,4,8.1,47.35,-79.43,213,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+7038975,WRIGHT,QUE,1967,10,2023,12,2.3,46.07,-76.05,142,n,n,CA-QC,24,Quebec,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8101746,FUNDY PARK (ALMA) CS,NB,1950,2,2023,12,3.0,45.6,-64.95,43,y,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8100300,AROOSTOOK,NB,1929,6,2023,12,10.8,46.72,-67.72,80,n,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8100506,BATHURST A,NB,1922,1,2023,12,6.3,47.63,-65.73,59,y,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8100593,BOUCTOUCHE CDA CS,NB,1965,10,2021,10,1.4,46.43,-64.77,36,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8100885,CHARLO AUTO,NB,1966,12,2023,12,1.3,47.98,-66.33,42,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8101201,DOAKTOWN AUTO RCS,NB,1952,8,2023,12,9.0,46.58,-66.02,43,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8101303,EDMUNDSTON,NB,1918,6,2023,12,3.3,47.42,-68.32,154,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8101605,FREDERICTON CDA CS,NB,1871,12,2023,12,1.5,45.92,-66.62,35,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8101792,GAGETOWN A,NB,1957,1,2017,12,0.8,45.83,-66.43,51,y,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+810I001,ST LEONARD CS,NB,1914,3,2017,2,13.5,47.15,-67.83,245,y,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8102201,HARVEY STATION,NB,1920,7,1996,9,2.1,45.67,-67.03,183,y,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8102300,KEDGWICK,NB,1931,6,1994,9,33.2,47.65,-67.35,274,n,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8102600,MCADAM,NB,1917,12,1976,6,4.6,45.58,-67.33,140,n,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8102848,MECHANIC SETTLEMENT,NB,2006,7,2023,12,4.8,45.7,-65.17,403,n,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8100989,MIRAMICHI RCS,NB,1873,1,2023,12,0.3,47.02,-65.47,33,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8103050,MISCOU ISLAND (AUT),NB,1964,8,2023,12,29.1,48.02,-64.5,4,n,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8103201,MONCTON/GREATER MONCTON ROMEO,NB,1898,5,2023,12,1.2,46.12,-64.68,71,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8103500,NEPISIGUIT FALLS,NB,1922,7,2006,2,3.5,47.4,-65.78,106,n,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8104295,RED PINES,NB,2010,6,2023,12,2.5,47.43,-65.6,124,n,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8104400,REXTON,NB,1924,9,2009,12,2.3,46.67,-64.87,5,n,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8104501,SACKVILLE,NB,1935,1,2002,3,3.4,45.85,-64.38,46,y,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8104901,SAINT JOHN A,NB,1871,1,2023,12,1.4,45.32,-65.88,109,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8104700,ST GEORGE,NB,1919,7,1981,6,4.0,45.13,-66.83,34,n,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8104928,ST LEONARD A,NB,1985,4,2014,6,0.0,47.15,-67.83,242,n,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8104935,ST. STEPHEN,NB,1992,12,2023,12,3.6,45.22,-67.25,26,y,n,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8105210,SUSSEX FOUR CORNERS,NB,1897,10,2023,12,5.5,45.75,-65.53,47,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8105603,WOODSTOCK NEWBRIDGE,NB,1914,3,2023,12,10.0,46.15,-67.55,154,y,y,CA-NB,13,New Brunswick,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8200100,ANNAPOLIS ROYAL,NS,1914,4,2006,5,13.3,44.75,-65.52,8,n,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8201780,ESKASONI FIRST NATION AUTOMATI,NS,1935,6,2023,12,5.8,45.92,-60.65,28,y,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8200827,CHETICAMP CS,NS,1956,2,2018,11,6.1,46.65,-60.95,44,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8201001,COLLEGEVILLE AUTO,NS,1916,6,2023,12,5.6,45.48,-62.02,69,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8201380,DEBERT,NS,1982,10,2001,6,0.0,45.42,-63.42,38,n,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8201410,DEMING,NS,1913,12,2011,12,2.9,45.22,-61.18,16,y,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8201601,DIGBY AIRPORT,NS,1898,12,1997,5,22.0,44.55,-65.78,152,y,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8202000,GREENWOOD A,NS,1953,1,2023,12,0.0,44.98,-64.92,28,n,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8202251,HALIFAX STANFIELD INT'L A,NS,1871,4,2023,12,4.8,44.88,-63.52,145,y,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8202502,INGONISH BEACH RCS,NS,1950,9,2023,12,0.6,46.67,-60.4,10,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8202592,KEJIMKUJIK 1,NS,1966,2,2023,12,1.2,44.4,-65.2,125,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8202810,KENTVILLE CDA CS,NS,1898,3,2023,12,2.3,45.07,-64.48,49,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8203100,LIVERPOOL BIG FALLS,NS,1940,1,2012,10,3.1,44.13,-64.93,50,n,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8200604,BRIER ISLAND,NS,1937,3,2023,12,24.1,44.28,-66.35,16,y,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8203600,MOUNT UNIACKE,NS,1920,7,2003,7,5.3,44.9,-63.83,159,n,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8203702,NAPPAN AUTO,NS,1913,10,2023,12,0.3,45.77,-64.23,20,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8204402,PARRSBORO,NS,1897,2,2023,12,4.5,45.42,-64.35,31,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8204703,SABLE ISLAND A,NS,1897,10,2023,12,1.9,43.93,-59.97,1,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8205000,SALMON HOLE,NS,1938,10,2013,4,7.3,44.93,-64.03,84,n,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8205092,SHEARWATER RCS,NS,1953,1,2023,12,0.5,44.63,-63.52,24,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8205200,SPRINGFIELD,NS,1920,7,2003,8,3.1,44.67,-64.85,167,n,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8204800,ST MARGARET'S BAY,NS,1922,4,2021,5,3.8,44.7,-63.9,17,n,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8205601,STILLWATER SHERBROOKE,NS,1915,12,2004,2,15.4,45.15,-61.98,14,y,n,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8205702,SYDNEY CS,NS,1870,1,2023,12,1.3,46.17,-60.05,63,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8201390,DEBERT,NS,1873,1,2023,12,3.8,45.42,-63.47,38,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8204193,UPPER STEWIACKE RCS,NS,1915,11,2023,12,1.6,45.23,-63.05,24,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8206491,YARMOUTH RCS,NS,1879,8,2023,12,0.5,43.83,-66.08,36,y,y,CA-NS,12,Nova Scotia,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8300100,ALLISTON,PEI,1936,1,2016,12,15.6,46.07,-62.6,61,n,n,CA-PE,11,Prince Edward Island,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8300301,CHARLOTTETOWN A,PEI,1872,11,2023,12,1.7,46.28,-63.12,51,y,n,CA-PE,11,Prince Edward Island,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+830P001,HARRINGTON CDA CS,PEI,2000,7,2023,12,2.8,46.35,-63.17,53,n,y,CA-PE,11,Prince Edward Island,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8300562,ST. PETERS,PEI,1960,12,2023,12,2.2,46.45,-62.58,30,y,y,CA-PE,11,Prince Edward Island,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8300596,SUMMERSIDE,PEI,1929,6,2023,12,12.4,46.43,-63.83,12,y,y,CA-PE,11,Prince Edward Island,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8400413,BAY D'ESPOIR GEN STN,NFLD,1967,11,2019,11,9.7,47.98,-55.8,23,n,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8400601,BONAVISTA,NFLD,1959,1,2023,12,1.1,48.67,-53.12,26,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8400698,BUCHANS,NFLD,1943,11,2011,6,7.3,48.82,-56.87,270,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8400801,BURGEO NL,NFLD,1966,11,2023,12,4.2,47.62,-57.62,11,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8501106,CARTWRIGHT A,NFLD,1934,11,2023,12,1.2,53.68,-57.05,14,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8501131,CHURCHILL FALLS A,NFLD,1968,11,2023,12,2.4,53.57,-64.1,440,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8401251,COLINET PEAT BOG CDA,NFLD,1938,8,1996,9,6.6,47.23,-53.52,55,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8401295,CORMACK RCS,NFLD,1980,12,2023,12,2.8,49.32,-57.4,166,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8401298,CORNER BROOK,NFLD,1933,4,2023,12,3.7,48.93,-57.92,152,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8401405,DANIEL'S HARBOUR,NFLD,1946,11,2023,12,4.3,50.23,-57.58,19,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8401502,DEER LAKE A,NFLD,1933,3,2023,12,1.3,49.22,-57.4,22,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8401550,EXPLOITS DAM,NFLD,1956,6,2009,2,1.3,48.77,-56.6,154,n,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8401705,GANDER AIRPORT CS,NFLD,1937,1,2023,12,0.3,48.95,-54.57,151,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8501900,GOOSE A,NFLD,1941,12,2023,12,0.0,53.32,-60.42,49,n,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8400301,BADGER (AUT),NFLD,1934,1,2023,12,16.2,48.97,-56.07,103,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8502400,HOPEDALE (AUT),NFLD,1942,1,2023,12,16.5,55.45,-60.22,12,n,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8502592,MARY'S HARBOUR A,NFLD,1884,4,2023,12,7.6,52.3,-55.85,11,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8402757,MILLERTOWN RCS,NFLD,2013,1,2023,12,12.1,48.82,-56.55,204,n,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8502799,NAIN,NFLD,1984,9,2023,12,5.2,56.55,-61.68,8,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8402958,PLUM POINT,NFLD,1972,7,2019,7,4.4,51.07,-56.88,6,n,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8402980,PORT AUX BASQUES,NFLD,1909,2,2023,12,23.6,47.57,-59.15,40,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8403097,ROCKY HARBOUR CS,NFLD,1972,7,2013,12,1.3,49.57,-57.88,68,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8403389,ST. ANTHONY A,NFLD,1946,6,2023,12,11.7,51.4,-56.07,33,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8403505,ST. JOHN'S INTL A,NFLD,1874,1,2023,12,4.1,47.62,-52.75,141,y,n,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8403603,ST JOHNS WEST CLIMATE,NFLD,1950,11,2023,12,6.0,47.52,-52.78,110,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8403619,ST LAWRENCE,NFLD,1989,11,2023,12,13.7,46.92,-55.38,49,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8403820,STEPHENVILLE RCS,NFLD,1895,6,2023,12,6.2,48.57,-58.57,58,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8403851,TERRA NOVA NAT PARK CS,NFLD,1962,3,2023,12,6.5,48.55,-53.97,107,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8504177,WABUSH A,NFLD,1960,11,2023,12,0.7,52.92,-66.87,551,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx
+8404343,WRECKHOUSE,NFLD,1981,6,2023,12,2.2,47.72,-59.32,32,y,y,CA-NL,10,Newfoundland and Labrador,third generation,2023,2023,Temperature_Stations_Gen3_2023.xlsx

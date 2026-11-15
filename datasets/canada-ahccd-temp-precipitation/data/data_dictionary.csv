@@ -1,0 +1,161 @@
+column,file,type,description
+station_id,annual_mean_temperature_gen3_2023.csv,string,Official AHCCD station identifier.
+station_name_header,annual_mean_temperature_gen3_2023.csv,string,Station name as printed in the official daily file header.
+province_code,annual_mean_temperature_gen3_2023.csv,string,Official province or territory code as published in the station list or daily header.
+province_or_territory,annual_mean_temperature_gen3_2023.csv,string,Province or territory name corresponding to the official code.
+iso3166_2,annual_mean_temperature_gen3_2023.csv,string,ISO 3166-2:CA code added from the official province or territory code.
+sgc,annual_mean_temperature_gen3_2023.csv,string,Standard Geographic Classification province or territory code added from the official province or territory code.
+year,annual_mean_temperature_gen3_2023.csv,integer,"Calendar year of the adapted annual value, or of an official daily example row."
+variable,annual_mean_temperature_gen3_2023.csv,string,"Official climate variable, as described in the daily file header."
+unit,annual_mean_temperature_gen3_2023.csv,string,"Official unit: degrees Celsius for temperature, millimetres for precipitation."
+value,annual_mean_temperature_gen3_2023.csv,numeric,"For annual files, the adapted annual mean or total, only when the completeness rule is met. For the example daily file, the official daily value."
+annual_statistic,annual_mean_temperature_gen3_2023.csv,string,"mean of official daily values for temperature, or sum of official daily values for precipitation."
+n_valid_days,annual_mean_temperature_gen3_2023.csv,integer,Number of official non-missing daily values in the calendar year.
+n_calendar_days,annual_mean_temperature_gen3_2023.csv,integer,"Number of calendar days in the year, 365 or 366."
+n_missing_days,annual_mean_temperature_gen3_2023.csv,integer,n_calendar_days minus n_valid_days.
+completeness_ratio,annual_mean_temperature_gen3_2023.csv,numeric,n_valid_days divided by n_calendar_days.
+completeness_threshold,annual_mean_temperature_gen3_2023.csv,numeric,0.80. This threshold is stated here and is not an official AHCCD cutoff.
+completeness_met,annual_mean_temperature_gen3_2023.csv,boolean,True when completeness_ratio is at least 0.80. Annual values are computed only in those years.
+completeness_rule,annual_mean_temperature_gen3_2023.csv,string,The completeness rule used for the adapted annual value.
+generation,annual_mean_temperature_gen3_2023.csv,string,"third generation for the 2023 homogenized temperature product, or second generation for the 2017 adjusted precipitation product."
+product_vintage,annual_mean_temperature_gen3_2023.csv,string,"Official product vintage: 2023 for temperature, 2017 for precipitation."
+end_year,annual_mean_temperature_gen3_2023.csv,integer,"Official update end year of the product: 2023 for temperature, 2017 for precipitation."
+station_joined,annual_mean_temperature_gen3_2023.csv,boolean,Whether the official daily header describes the station as joined or not joined.
+joined_status,annual_mean_temperature_gen3_2023.csv,string,Official joined wording from the daily file header.
+updated_statement,annual_mean_temperature_gen3_2023.csv,string,Official update statement from the daily file header.
+product_zip,annual_mean_temperature_gen3_2023.csv,string,Official bulk zip file name.
+source_file,annual_mean_temperature_gen3_2023.csv,string,Official station daily file name inside the zip.
+station_id,annual_max_temperature_gen3_2023.csv,string,Official AHCCD station identifier.
+station_name_header,annual_max_temperature_gen3_2023.csv,string,Station name as printed in the official daily file header.
+province_code,annual_max_temperature_gen3_2023.csv,string,Official province or territory code as published in the station list or daily header.
+province_or_territory,annual_max_temperature_gen3_2023.csv,string,Province or territory name corresponding to the official code.
+iso3166_2,annual_max_temperature_gen3_2023.csv,string,ISO 3166-2:CA code added from the official province or territory code.
+sgc,annual_max_temperature_gen3_2023.csv,string,Standard Geographic Classification province or territory code added from the official province or territory code.
+year,annual_max_temperature_gen3_2023.csv,integer,"Calendar year of the adapted annual value, or of an official daily example row."
+variable,annual_max_temperature_gen3_2023.csv,string,"Official climate variable, as described in the daily file header."
+unit,annual_max_temperature_gen3_2023.csv,string,"Official unit: degrees Celsius for temperature, millimetres for precipitation."
+value,annual_max_temperature_gen3_2023.csv,numeric,"For annual files, the adapted annual mean or total, only when the completeness rule is met. For the example daily file, the official daily value."
+annual_statistic,annual_max_temperature_gen3_2023.csv,string,"mean of official daily values for temperature, or sum of official daily values for precipitation."
+n_valid_days,annual_max_temperature_gen3_2023.csv,integer,Number of official non-missing daily values in the calendar year.
+n_calendar_days,annual_max_temperature_gen3_2023.csv,integer,"Number of calendar days in the year, 365 or 366."
+n_missing_days,annual_max_temperature_gen3_2023.csv,integer,n_calendar_days minus n_valid_days.
+completeness_ratio,annual_max_temperature_gen3_2023.csv,numeric,n_valid_days divided by n_calendar_days.
+completeness_threshold,annual_max_temperature_gen3_2023.csv,numeric,0.80. This threshold is stated here and is not an official AHCCD cutoff.
+completeness_met,annual_max_temperature_gen3_2023.csv,boolean,True when completeness_ratio is at least 0.80. Annual values are computed only in those years.
+completeness_rule,annual_max_temperature_gen3_2023.csv,string,The completeness rule used for the adapted annual value.
+generation,annual_max_temperature_gen3_2023.csv,string,"third generation for the 2023 homogenized temperature product, or second generation for the 2017 adjusted precipitation product."
+product_vintage,annual_max_temperature_gen3_2023.csv,string,"Official product vintage: 2023 for temperature, 2017 for precipitation."
+end_year,annual_max_temperature_gen3_2023.csv,integer,"Official update end year of the product: 2023 for temperature, 2017 for precipitation."
+station_joined,annual_max_temperature_gen3_2023.csv,boolean,Whether the official daily header describes the station as joined or not joined.
+joined_status,annual_max_temperature_gen3_2023.csv,string,Official joined wording from the daily file header.
+updated_statement,annual_max_temperature_gen3_2023.csv,string,Official update statement from the daily file header.
+product_zip,annual_max_temperature_gen3_2023.csv,string,Official bulk zip file name.
+source_file,annual_max_temperature_gen3_2023.csv,string,Official station daily file name inside the zip.
+station_id,annual_min_temperature_gen3_2023.csv,string,Official AHCCD station identifier.
+station_name_header,annual_min_temperature_gen3_2023.csv,string,Station name as printed in the official daily file header.
+province_code,annual_min_temperature_gen3_2023.csv,string,Official province or territory code as published in the station list or daily header.
+province_or_territory,annual_min_temperature_gen3_2023.csv,string,Province or territory name corresponding to the official code.
+iso3166_2,annual_min_temperature_gen3_2023.csv,string,ISO 3166-2:CA code added from the official province or territory code.
+sgc,annual_min_temperature_gen3_2023.csv,string,Standard Geographic Classification province or territory code added from the official province or territory code.
+year,annual_min_temperature_gen3_2023.csv,integer,"Calendar year of the adapted annual value, or of an official daily example row."
+variable,annual_min_temperature_gen3_2023.csv,string,"Official climate variable, as described in the daily file header."
+unit,annual_min_temperature_gen3_2023.csv,string,"Official unit: degrees Celsius for temperature, millimetres for precipitation."
+value,annual_min_temperature_gen3_2023.csv,numeric,"For annual files, the adapted annual mean or total, only when the completeness rule is met. For the example daily file, the official daily value."
+annual_statistic,annual_min_temperature_gen3_2023.csv,string,"mean of official daily values for temperature, or sum of official daily values for precipitation."
+n_valid_days,annual_min_temperature_gen3_2023.csv,integer,Number of official non-missing daily values in the calendar year.
+n_calendar_days,annual_min_temperature_gen3_2023.csv,integer,"Number of calendar days in the year, 365 or 366."
+n_missing_days,annual_min_temperature_gen3_2023.csv,integer,n_calendar_days minus n_valid_days.
+completeness_ratio,annual_min_temperature_gen3_2023.csv,numeric,n_valid_days divided by n_calendar_days.
+completeness_threshold,annual_min_temperature_gen3_2023.csv,numeric,0.80. This threshold is stated here and is not an official AHCCD cutoff.
+completeness_met,annual_min_temperature_gen3_2023.csv,boolean,True when completeness_ratio is at least 0.80. Annual values are computed only in those years.
+completeness_rule,annual_min_temperature_gen3_2023.csv,string,The completeness rule used for the adapted annual value.
+generation,annual_min_temperature_gen3_2023.csv,string,"third generation for the 2023 homogenized temperature product, or second generation for the 2017 adjusted precipitation product."
+product_vintage,annual_min_temperature_gen3_2023.csv,string,"Official product vintage: 2023 for temperature, 2017 for precipitation."
+end_year,annual_min_temperature_gen3_2023.csv,integer,"Official update end year of the product: 2023 for temperature, 2017 for precipitation."
+station_joined,annual_min_temperature_gen3_2023.csv,boolean,Whether the official daily header describes the station as joined or not joined.
+joined_status,annual_min_temperature_gen3_2023.csv,string,Official joined wording from the daily file header.
+updated_statement,annual_min_temperature_gen3_2023.csv,string,Official update statement from the daily file header.
+product_zip,annual_min_temperature_gen3_2023.csv,string,Official bulk zip file name.
+source_file,annual_min_temperature_gen3_2023.csv,string,Official station daily file name inside the zip.
+station_id,annual_total_precipitation_v2017.csv,string,Official AHCCD station identifier.
+station_name_header,annual_total_precipitation_v2017.csv,string,Station name as printed in the official daily file header.
+province_code,annual_total_precipitation_v2017.csv,string,Official province or territory code as published in the station list or daily header.
+province_or_territory,annual_total_precipitation_v2017.csv,string,Province or territory name corresponding to the official code.
+iso3166_2,annual_total_precipitation_v2017.csv,string,ISO 3166-2:CA code added from the official province or territory code.
+sgc,annual_total_precipitation_v2017.csv,string,Standard Geographic Classification province or territory code added from the official province or territory code.
+year,annual_total_precipitation_v2017.csv,integer,"Calendar year of the adapted annual value, or of an official daily example row."
+variable,annual_total_precipitation_v2017.csv,string,"Official climate variable, as described in the daily file header."
+unit,annual_total_precipitation_v2017.csv,string,"Official unit: degrees Celsius for temperature, millimetres for precipitation."
+value,annual_total_precipitation_v2017.csv,numeric,"For annual files, the adapted annual mean or total, only when the completeness rule is met. For the example daily file, the official daily value."
+annual_statistic,annual_total_precipitation_v2017.csv,string,"mean of official daily values for temperature, or sum of official daily values for precipitation."
+n_valid_days,annual_total_precipitation_v2017.csv,integer,Number of official non-missing daily values in the calendar year.
+n_calendar_days,annual_total_precipitation_v2017.csv,integer,"Number of calendar days in the year, 365 or 366."
+n_missing_days,annual_total_precipitation_v2017.csv,integer,n_calendar_days minus n_valid_days.
+completeness_ratio,annual_total_precipitation_v2017.csv,numeric,n_valid_days divided by n_calendar_days.
+completeness_threshold,annual_total_precipitation_v2017.csv,numeric,0.80. This threshold is stated here and is not an official AHCCD cutoff.
+completeness_met,annual_total_precipitation_v2017.csv,boolean,True when completeness_ratio is at least 0.80. Annual values are computed only in those years.
+completeness_rule,annual_total_precipitation_v2017.csv,string,The completeness rule used for the adapted annual value.
+generation,annual_total_precipitation_v2017.csv,string,"third generation for the 2023 homogenized temperature product, or second generation for the 2017 adjusted precipitation product."
+product_vintage,annual_total_precipitation_v2017.csv,string,"Official product vintage: 2023 for temperature, 2017 for precipitation."
+end_year,annual_total_precipitation_v2017.csv,integer,"Official update end year of the product: 2023 for temperature, 2017 for precipitation."
+station_joined,annual_total_precipitation_v2017.csv,boolean,Whether the official daily header describes the station as joined or not joined.
+joined_status,annual_total_precipitation_v2017.csv,string,Official joined wording from the daily file header.
+updated_statement,annual_total_precipitation_v2017.csv,string,Official update statement from the daily file header.
+product_zip,annual_total_precipitation_v2017.csv,string,Official bulk zip file name.
+source_file,annual_total_precipitation_v2017.csv,string,Official station daily file name inside the zip.
+station_id,temperature_stations_gen3_2023.csv,string,Official AHCCD station identifier.
+station_name,temperature_stations_gen3_2023.csv,string,Official station name from the station list.
+province_code,temperature_stations_gen3_2023.csv,string,Official province or territory code as published in the station list or daily header.
+period_from_year,temperature_stations_gen3_2023.csv,integer,Official start year from the station list.
+period_from_month,temperature_stations_gen3_2023.csv,integer,Official start month from the station list.
+period_to_year,temperature_stations_gen3_2023.csv,integer,Official end year from the station list.
+period_to_month,temperature_stations_gen3_2023.csv,integer,Official end month from the station list.
+percent_missing_official,temperature_stations_gen3_2023.csv,numeric,Official percent missing from the temperature station list.
+latitude,temperature_stations_gen3_2023.csv,numeric,"Official latitude in degrees, from the station list."
+longitude,temperature_stations_gen3_2023.csv,numeric,"Official longitude in degrees, from the station list."
+elevation_m,temperature_stations_gen3_2023.csv,numeric,"Official elevation in metres, from the station list."
+joined_official,temperature_stations_gen3_2023.csv,string,Official Joined flag from the temperature station list (y or n).
+rcs_official,temperature_stations_gen3_2023.csv,string,Official RCS flag from the temperature station list.
+iso3166_2,temperature_stations_gen3_2023.csv,string,ISO 3166-2:CA code added from the official province or territory code.
+sgc,temperature_stations_gen3_2023.csv,string,Standard Geographic Classification province or territory code added from the official province or territory code.
+province_or_territory,temperature_stations_gen3_2023.csv,string,Province or territory name corresponding to the official code.
+generation,temperature_stations_gen3_2023.csv,string,"third generation for the 2023 homogenized temperature product, or second generation for the 2017 adjusted precipitation product."
+product_vintage,temperature_stations_gen3_2023.csv,string,"Official product vintage: 2023 for temperature, 2017 for precipitation."
+end_year,temperature_stations_gen3_2023.csv,integer,"Official update end year of the product: 2023 for temperature, 2017 for precipitation."
+source_list,temperature_stations_gen3_2023.csv,string,Official station list file name.
+province_code,precipitation_stations_v2017.csv,string,Official province or territory code as published in the station list or daily header.
+station_name,precipitation_stations_v2017.csv,string,Official station name from the station list.
+station_id,precipitation_stations_v2017.csv,string,Official AHCCD station identifier.
+period_from_year,precipitation_stations_v2017.csv,integer,Official start year from the station list.
+period_from_month,precipitation_stations_v2017.csv,integer,Official start month from the station list.
+period_to_year,precipitation_stations_v2017.csv,integer,Official end year from the station list.
+period_to_month,precipitation_stations_v2017.csv,integer,Official end month from the station list.
+latitude,precipitation_stations_v2017.csv,numeric,"Official latitude in degrees, from the station list."
+longitude,precipitation_stations_v2017.csv,numeric,"Official longitude in degrees, from the station list."
+elevation_m,precipitation_stations_v2017.csv,numeric,"Official elevation in metres, from the station list."
+stations_joined_official,precipitation_stations_v2017.csv,string,Official stns joined flag from the precipitation station list (Yes or No).
+iso3166_2,precipitation_stations_v2017.csv,string,ISO 3166-2:CA code added from the official province or territory code.
+sgc,precipitation_stations_v2017.csv,string,Standard Geographic Classification province or territory code added from the official province or territory code.
+province_or_territory,precipitation_stations_v2017.csv,string,Province or territory name corresponding to the official code.
+generation,precipitation_stations_v2017.csv,string,"third generation for the 2023 homogenized temperature product, or second generation for the 2017 adjusted precipitation product."
+product_vintage,precipitation_stations_v2017.csv,string,"Official product vintage: 2023 for temperature, 2017 for precipitation."
+end_year,precipitation_stations_v2017.csv,integer,"Official update end year of the product: 2023 for temperature, 2017 for precipitation."
+source_list,precipitation_stations_v2017.csv,string,Official station list file name.
+station_id,example_official_daily_mean_temp_1012010.csv,string,Official AHCCD station identifier.
+date,example_official_daily_mean_temp_1012010.csv,date,Official daily date in the example file.
+year,example_official_daily_mean_temp_1012010.csv,integer,"Calendar year of the adapted annual value, or of an official daily example row."
+month,example_official_daily_mean_temp_1012010.csv,integer,Month of an official daily example row.
+day,example_official_daily_mean_temp_1012010.csv,integer,Day of an official daily example row.
+value,example_official_daily_mean_temp_1012010.csv,numeric,"For annual files, the adapted annual mean or total, only when the completeness rule is met. For the example daily file, the official daily value."
+observation_flag,example_official_daily_mean_temp_1012010.csv,string,Official daily flag character as published. Missing days typically have flag M. Flag meanings are not invented here.
+is_missing,example_official_daily_mean_temp_1012010.csv,boolean,True when the official daily value is the missing sentinel (about -9999.9) or has flag M.
+variable,example_official_daily_mean_temp_1012010.csv,string,"Official climate variable, as described in the daily file header."
+unit,example_official_daily_mean_temp_1012010.csv,string,"Official unit: degrees Celsius for temperature, millimetres for precipitation."
+generation,example_official_daily_mean_temp_1012010.csv,string,"third generation for the 2023 homogenized temperature product, or second generation for the 2017 adjusted precipitation product."
+product_vintage,example_official_daily_mean_temp_1012010.csv,string,"Official product vintage: 2023 for temperature, 2017 for precipitation."
+end_year,example_official_daily_mean_temp_1012010.csv,integer,"Official update end year of the product: 2023 for temperature, 2017 for precipitation."
+product_zip,example_official_daily_mean_temp_1012010.csv,string,Official bulk zip file name.
+province_code,example_official_daily_mean_temp_1012010.csv,string,Official province or territory code as published in the station list or daily header.
+province_or_territory,example_official_daily_mean_temp_1012010.csv,string,Province or territory name corresponding to the official code.
+iso3166_2,example_official_daily_mean_temp_1012010.csv,string,ISO 3166-2:CA code added from the official province or territory code.
+sgc,example_official_daily_mean_temp_1012010.csv,string,Standard Geographic Classification province or territory code added from the official province or territory code.

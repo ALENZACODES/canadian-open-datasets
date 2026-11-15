@@ -1,0 +1,464 @@
+province_code,station_name,station_id,period_from_year,period_from_month,period_to_year,period_to_month,latitude,longitude,elevation_m,stations_joined_official,iso3166_2,sgc,province_or_territory,generation,product_vintage,end_year,source_list
+BC,AGASSIZ,1100120,1890,1,2017,12,49.24305555555556,-121.76027777777776,15,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,ALERT BAY,1020270,1924,1,1994,2,50.583333333333336,-126.93333333333334,59,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,ARMSTRONG HULLCAR,1160483,1912,1,1998,12,50.5,-119.21666666666668,505,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,ATLIN,1200560,1906,1,2017,12,59.56666666666667,-133.7,674,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BARKERVILLE,1090660,1888,1,2015,3,53.06916666666667,-121.51472222222222,1283,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BEAVERDELL NORTH,1130771,1926,1,2006,9,49.47833333333333,-119.047,838,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BELLA COOLA,1060841,1899,1,2017,11,52.3875,-126.59583333333332,36,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BIG CREEK,1080870,1904,1,1998,11,51.66722361111111,-123.07305694444445,1175,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BLUE RIVER,1160899,1929,1,2017,12,52.12902777777778,-119.28952777777778,683,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BRISCO,1171020,1924,1,2004,3,50.82055555555556,-116.25805555555556,823,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BRITANNIA BEACH FURRY CREEK,1041050,1914,1,2000,4,49.583888888888886,-123.22361111111113,9,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,BURQUITLAM VANCOUVER GOLF COURSE,1101200,1926,1,2005,12,49.251666666666665,-122.87694444444443,122,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CAPE SCOTT,1031353,1921,1,2016,6,50.78223333333333,-128.42722777777777,72,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CAPE ST JAMES,1051350,1926,1,1992,8,51.93333333333333,-131.01666666666668,89,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CASSIAR,1191440,1954,1,1996,8,59.28333333333333,-129.83333333333334,1078,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CELISTA,116146F,1924,1,2004,7,50.95555555555556,-119.37944444444445,515,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CHATHAM POINT,1021480,1932,1,2016,2,50.333194444444445,-125.44555555555556,23,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,COMOX,1021830,1936,1,2017,12,49.71666666666667,-124.9,26,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CORTES ISLAND TIBER BAY,1021960,1919,1,2017,12,50.07138888888889,-124.94944444444444,15,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CRANBROOK,1152102,1909,1,2012,11,49.61222222222222,-115.78194444444443,939,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,CRESTON,1142160,1912,1,2015,6,49.09705555555556,-116.51783333333331,597,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,DARFIELD,1162265,1914,1,2017,11,51.29733333333333,-120.18266666666666,412,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,DAWSON CREEK,1182285,1952,1,2007,2,55.74166666666667,-120.18194444444444,655,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,DEASE LAKE,1192340,1945,1,2008,7,58.428335,-130.01055666666667,807,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,DEER PARK,1142400,1924,1,1995,9,49.41666666666666,-118.05,485,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,DRYAD POINT,1062544,1933,1,2017,12,52.185000555555554,-128.11222444444445,4,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,DUNCAN KELVIN CREEK,1012573,1926,1,2016,3,48.734722222222224,-123.72750027777778,103,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,ESTEVAN POINT,1032730,1924,1,2017,12,49.3835,-126.55083333333332,7,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,FALLS RIVER,1062790,1932,1,1992,10,53.98333333333333,-129.73333333333332,18,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,FAUQUIER,1142820,1913,1,2015,6,49.871944444444445,-118.0675,490,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,FERNIE,1152850,1914,1,2017,12,49.48888888888889,-115.07222222222222,1001,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,FORT NELSON,1192940,1938,1,2012,11,58.83638888888889,-122.59722222222224,382,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,FORT ST JAMES,1092970,1895,1,2017,12,54.455280277777774,-124.2855561111111,686,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,FORT ST JOHN,1183000,1931,1,2012,12,56.23805555555556,-120.74027777777778,695,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,GERMANSEN LANDING,1183090,1952,1,2013,11,55.78552777777778,-124.70144444444443,766,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,GLACIER NP ROGERS PASS,1173191,1909,1,2014,7,51.300916666666666,-117.51638888888888,1323,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,GOLDEN,1173210,1908,1,2017,12,51.29833333333333,-116.98166666666668,785,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,GRAND FORKS,1133270,1910,1,2008,3,49.02616666666667,-118.46566666666666,532,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,GRASMERE,1153282,1896,1,1993,11,49.083333333333336,-115.06666666666666,869,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,HAZELTON TEMLEHAN,1073347,1915,1,1997,4,55.2,-127.73333333333332,122,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,HEDLEY,1123360,1904,1,2005,6,49.35722222222222,-120.07666666666668,517,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,JOE RICH CREEK,1123750,1929,1,2008,12,49.85722222222222,-119.12611111111111,875,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,KAMLOOPS,1163780,1895,1,2013,6,50.70222222222223,-120.44194444444445,345,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,KASLO,1143900,1912,1,2017,12,49.91354472222222,-116.91534361111113,591,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,KELOWNA QUAILS GATE,1123993,1899,1,2014,4,49.84222222222222,-119.57277777777776,417,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,KEMANO,1064020,1952,1,2017,12,53.56333333333333,-127.94305555555556,87,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,LAIDLAW,1104488,1910,1,2015,6,49.3565,-121.57966666666668,27,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,LANGARA,1054500,1937,1,2017,12,54.25518,-133.05799972222223,41,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,LILLOOET SETON BCHPA,1114627,1917,1,2001,4,50.67333333333333,-121.92416666666666,198,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,LITTLE QUALICUM HATCHERY,1024638,1924,1,2017,12,49.352777777777774,-124.51222222222222,30,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,LUMBY SIGALET RD,1164730,1924,1,1999,2,50.36666666666667,-118.76666666666668,560,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,LYTTON,1114745,1917,1,2015,6,50.25694444444444,-121.60777777777778,174,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,MASSET AIRPORT,1054920,1900,1,2008,6,54.02261111111111,-132.11747222222223,7,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,MCINNES ISLAND,1065010,1954,1,2017,12,52.26166666666666,-128.71944444444443,26,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,MERRITT STP,1125079,1919,1,2017,12,50.11416777777778,-120.80083472222222,609,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,MICA DAM,1175122,1962,1,2017,12,52.05305555555555,-118.58527777777778,579,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,NANAIMO CITY YARD,10253G0,1913,1,2017,12,49.19888888888889,-123.98777777777778,114,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,NASS CAMP,1075384,1924,1,2015,2,55.2375,-129.02944444444444,290,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,NELSON NE,1145442,1904,1,2017,12,49.58611111111111,-117.2063888888889,570,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,NEW DENVER,1145460,1924,1,2017,12,49.995835,-117.370285,570,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,OKANAGAN CENTRE,1125700,1925,1,2017,12,50.05625,-119.44394444444444,501,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,OLIVER STP,1125766,1924,1,2017,12,49.17890277777778,-119.54446944444445,297,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,OOTSA L SKINS L SPILLWAY,1085835,1926,1,2017,7,53.77216666666666,-125.99655555555556,861,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,OSOYOOS WEST,1125865,1954,1,2009,9,49.03194444444444,-119.44277777777778,297,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PACHENA POINT,1035940,1925,1,2017,12,48.72277777777778,-125.09722222222224,37,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PEMBERTON AIRPORT,1086082,1913,1,1991,6,50.30564611111111,-122.73408888888888,204,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PENTICTON,1126150,1907,1,2012,5,49.46305555555556,-119.60222222222222,344,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PORT ALICE,1036240,1924,1,2016,4,50.38583611111111,-127.4552861111111,21,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PORT HARDY,1026270,1944,1,2013,6,50.680277777777775,-127.36611111111112,22,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,POWELL RIVER,1046390,1924,1,2007,7,49.87611111111111,-124.55416666666666,52,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PRINCE GEORGE,1096450,1913,1,2009,10,53.89083333333333,-122.67888888888888,691,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PRINCE RUPERT,1066481,1909,1,2006,3,54.2925,-130.44472222222225,35,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,PRINCETON,1126510,1901,1,2017,12,49.467777777777776,-120.5125,700,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,QUATSINO,1036570,1895,1,2017,12,50.53361388888889,-127.65333583333332,8,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,QUESNEL,1096630,1900,1,2007,3,53.02611111111111,-122.51,545,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,QUINSAM RIVER HATCHERY,1026639,1936,1,2017,12,50.01611111111111,-125.30388888888888,46,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,REVELSTOKE,1176751,1898,1,1999,8,50.95333333333333,-118.16638888888887,450,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,SAANICHTON,1016940,1914,1,2017,12,48.62166666666667,-123.41888888888889,61,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,SALMON RM,1166R45,1911,1,2013,2,50.68555777777778,-119.23361361111112,527,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,SANDSPIT,1057050,1949,1,2017,3,53.25388888888889,-131.81305555555556,6,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,SEYMOUR FALLS,1107200,1928,1,2003,9,49.44027777777778,-122.97111111111111,244,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,SHALALTH,1117215,1935,1,2004,4,50.72833333333333,-122.24055555555556,244,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,SHAWNIGAN LAKE,1017230,1911,1,2017,12,48.646947222222224,-123.62640833333332,138,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,SMITHERS,1077500,1922,1,2017,12,54.82472222222222,-127.18277777777776,522,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,STAVE FALLS,1107680,1910,1,2004,8,49.23333333333333,-122.36666666666666,110,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,STEWART,1067742,1911,1,2016,6,55.93611111111111,-129.985,7,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,STILLWATER POWER HOUSE,1047770,1931,1,2007,7,49.766666666666666,-124.31666666666666,7,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,TATLAYOKO LAKE,1088010,1928,1,2005,4,51.67472222222222,-124.405,870,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,TERRACE,1068130,1913,1,2013,1,54.466388888888886,-128.5775,217,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,TLELL,1058190,1950,1,1999,1,53.5,-131.95,5,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,TOFINO,1038205,1942,1,2017,12,49.08222222222222,-125.77250555555555,24,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,UCLUELET KENNEDY CAMP,1038332,1958,1,2017,12,48.945283333333336,-125.52723611111112,30,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,VANCOUVER,1108447,1896,1,2013,6,49.195,-123.18194444444444,4,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,VAVENBY,1168520,1913,1,2017,12,51.57611111111111,-119.77805555555555,445,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,VERNON BELLA VISTA,1128553,1900,1,2015,6,50.26436111111112,-119.30886111111111,427,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,VICTORIA,1018620,1899,1,2013,7,48.647225,-123.42583333333332,19,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,WARFIELD,1148700,1928,1,2002,12,49.1,-117.75,606,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,WASA,1158730,1924,1,2017,12,49.823972222222224,-115.63077777777778,930,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,WESTWOLD,1168880,1921,1,2013,5,50.46889111111111,-119.7505563888889,609,No,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+BC,WILLIAMS LAKE,1098940,1936,1,2012,12,52.18305555555556,-122.05416666666666,940,Yes,CA-BC,59,British Columbia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,ALERT,2400306,1950,1,2017,12,82.5,-62.333333333333336,65,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,BAKER LAKE,2300500,1949,1,2013,11,64.29888888888888,-96.07777777777778,18,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,BURWASH,2100182,1967,1,2015,2,61.36666666666667,-139.05,807,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,BYRON BAY,2400595,1957,1,1993,6,68.75,-109.06666666666666,92,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CAMBRIDGE BAY,2400600,1940,1,2015,2,69.10805555555555,-105.13833333333334,27,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CAPE DORSET,2400635,1932,1,2014,11,64.23027777777777,-76.525,50,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CAPE DYER,2400654,1960,1,1993,3,66.58333333333333,-61.61666666666667,393,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CAPE HOOPER,2400660,1958,1,2007,9,68.4725,-66.81527777777778,390,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,CAPE PARRY,2200675,1960,1,1993,3,70.16666666666667,-124.71666666666668,87,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,CARMACKS,2100300,1964,1,2008,2,62.1,-136.3,525,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CHESTERFIELD INLET,2300707,1931,1,2014,11,63.346944444444446,-90.7311111111111,10,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CLINTON POINT,2300750,1957,1,1993,6,69.58333333333333,-120.8,101,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CLYDE,2400800,1946,1,2002,6,70.48611111111111,-68.51666666666667,27,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,CORAL HARBOUR,2301000,1945,1,2015,5,64.19333333333333,-83.35944444444445,64,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,DAWSON,2100402,1901,1,2015,2,64.04305555555555,-139.12777777777777,370,Yes,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,DEWAR LAKES,2401030,1958,1,1993,3,68.65,-71.16666666666667,527,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,DRURY CREEK,2100460,1970,1,2009,4,62.20194444444444,-134.39,609,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,EUREKA,2401200,1948,1,2016,2,79.98333333333333,-85.93333333333334,10,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,FORT GOOD HOPE,2201400,1945,1,2014,11,66.24083333333333,-128.65083333333334,82,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,FORT MCPHERSON,2201601,1932,1,2014,11,67.40777777777778,-134.86027777777778,35,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,FORT RELIANCE,2201903,1949,1,2007,8,62.71138888888889,-109.16833333333334,168,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,FORT RESOLUTION,2202000,1931,1,2014,11,61.18083333333333,-113.68972222222222,160,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,FORT SIMPSON,2202101,1898,1,2014,10,61.76027777777778,-121.23666666666666,169,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,FORT SMITH,2202200,1915,1,2014,11,60.02027777777778,-111.96194444444444,205,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,FOX FIVE,2400570,1959,1,2007,9,67.53555555555556,-63.78888888888889,584,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,GLADMAN POINT,2402340,1957,1,1992,7,68.66666666666667,-97.8,14,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,HAINES JUNCTION,2100631,1945,1,2008,9,60.749544444444446,-137.50525,596,Yes,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,HALL BEACH,2402350,1957,1,2014,12,68.77583333333334,-81.2425,8,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,HAY RIVER,2202400,1909,1,2014,9,60.83972222222222,-115.78277777777778,166,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,INUVIK,2202578,1957,1,2007,11,68.31666666666666,-133.51666666666668,103,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,IQALUIT,2402592,1946,1,2007,11,63.74722222222222,-68.54444444444445,34,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,JENNY LIND ISLAND,2302650,1958,1,1992,7,68.65,-101.73333333333332,18,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,KOMAKUK BEACH,2100685,1959,1,1993,6,69.58333333333333,-140.18333333333334,7,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,KUGAARUK,2303092,1957,1,2012,8,68.54055555555556,-89.79722222222222,17,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,KUGLUKTUK,2300902,1931,1,2014,12,67.81666666666666,-115.1438888888889,23,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,LADY FRANKLIN POINT,2302680,1958,1,1993,3,68.5,-113.21666666666668,16,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,LONGSTAFF BLUFF,2402684,1958,1,1991,6,68.89861111111111,-75.14083333333333,161,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,LUPIN,230N002,1959,1,2007,7,65.75529166666666,-111.24584166666666,488,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,MACKAR INLET,2402686,1958,1,1992,5,68.3,-85.66666666666667,395,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,MAYO,2100700,1925,1,2013,11,63.61666666666667,-135.86666666666667,504,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,MOULD BAY,250M001,1948,1,2007,11,76.23751666666666,-119.34723333333334,2,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,NANISIVIK,2402730,1938,1,2010,12,72.98333333333333,-84.61666666666666,642,Yes,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,NICHOLSON PENINSULA,2202750,1958,1,1993,6,69.93333333333334,-128.96666666666667,89,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,NORMAN WELLS,2202800,1943,1,2012,10,65.2825,-126.80027777777778,73,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,OLD CROW,2100800,1952,1,2015,2,67.57055555555556,-139.83916666666667,251,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,PELLY RANCH,2100880,1952,1,2015,3,62.81666666666667,-137.36666666666667,454,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,RESOLUTE CARS,2403500,1948,1,2014,11,74.71694444444445,-94.96944444444443,67,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,ROSS RIVER YTG,2100941,1967,1,2008,2,61.98333333333333,-132.45,698,Yes,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,SACHS HARBOUR,2503650,1956,1,2013,2,72.0,-125.26666666666668,86,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NU,SHEPHERD BAY,2303685,1957,1,1993,3,68.81666666666666,-93.43333333333334,43,No,CA-NU,62,Nunavut,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,SHINGLE POINT,2100950,1957,1,1993,3,68.95,-137.21666666666667,49,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,SWIFT RIVER,2101081,1967,1,2008,2,60.0,-131.18333333333334,891,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,TESLIN,2101100,1944,1,2013,12,60.17413888888889,-132.7358888888889,705,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,TUCHITUA,2101135,1967,1,2014,9,60.93333333333333,-129.21666666666667,724,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,TUKTOYAKTUK,2203910,1957,1,1993,6,69.45,-133.0,18,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,TULITA,2201700,1904,1,2014,12,64.90861111111111,-125.56833333333331,101,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,ULUKHAKTOK,2502501,1941,1,2010,6,70.76277777777777,-117.80611111111112,36,Yes,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,WATSON LAKE,2101200,1939,1,2014,12,60.1165,-128.82233333333335,687,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+YK,WHITEHORSE,2101300,1942,1,2012,12,60.7095,-135.06883333333334,706,No,CA-YT,60,Yukon,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,WRIGLEY,2204000,1944,1,2014,10,63.20944444444444,-123.43666666666668,149,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,YELLOWKNIFE,2204100,1943,1,2013,1,62.46277777777778,-114.44027777777778,206,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NT,YOHIN,2204300,1957,1,2007,9,61.24194444444444,-123.74166666666666,204,No,CA-NT,61,Northwest Territories,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,ATHABASCA,3060L20,1918,1,2017,12,54.72222305555555,-113.2880575,515,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,BANFF,3050519,1894,1,2007,11,51.193358333333336,-115.55223611111111,1397,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,BEAVER MINES,3050600,1913,1,2012,3,49.46722777777778,-114.17695555555557,1257,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,BEAVERLODGE,3070600,1916,1,2007,11,55.196667222222224,-119.39641388888889,745,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CALGARY,3031093,1885,1,2012,7,51.11388888888889,-114.02027777777778,1084,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CALMAR,3011120,1915,1,2016,12,53.289724166666666,-113.86305777777778,720,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CAMPSIE,3061200,1910,1,2013,10,54.13222277777778,-114.6777788888889,671,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CAMROSE,3011240,1946,1,2007,11,53.03472222222222,-112.81416666666668,739,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CARWAY,3031400,1915,1,2011,11,48.999725,-113.37611111111111,1354,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CLARESHOLM MEADOW CREEK,3031F5F,1913,1,2005,3,49.93752222222222,-113.73751944444444,1035,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,COLD LAKE,3081680,1926,1,2017,12,54.41666666666666,-110.28333333333332,541,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CORONATION,3011887,1928,1,2007,11,52.07416666666666,-111.44944444444444,791,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,CROWSNEST,3051R4R,1913,1,2007,11,49.627525,-114.48195,1303,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,DRUMHELLER ANDREW,3022136,1954,1,2008,3,51.46666666666667,-112.86666666666666,719,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,EDMONTON,3012205,1883,1,2012,4,53.31666666666667,-113.58333333333331,723,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,EDSON,3062246,1920,1,2007,11,53.58027972222222,-116.45333527777778,927,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,ELK POINT,3012280,1913,1,1997,6,53.88333333333333,-111.06666666666666,605,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,ENILDA-BERG,3062427,1932,1,2005,4,55.41666666666666,-116.3,591,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,FAIRVIEW THREE FOX FARM,3072539,1932,1,1999,12,56.083333333333336,-118.53333333333332,604,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,FORT CHIPEWYAN,3072658,1884,1,2007,8,58.766666666666666,-111.11666666666666,232,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,FORT MCMURRAY,3062693,1920,1,2007,11,56.65,-111.21666666666668,369,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,FORT VERMILION,3072723,1909,1,2007,11,58.382305555555554,-116.04016666666666,289,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,GLEICHEN,3032800,1903,1,2006,3,50.88333333333333,-113.05,905,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,GRANDE PRAIRIE,3072920,1931,1,2013,9,55.17972222222223,-118.885,669,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,HIGHWOOD AU,3053250,1903,1,2011,9,50.55111111111111,-114.37055555555555,1580,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,HINTON VALLEY,306A009,1917,1,2017,12,53.40381,-117.53762027777778,1011,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,JASPER WARDEN,3053536,1936,1,2007,11,52.92638888888889,-118.02972222222222,1020,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,JENNER,3023560,1916,1,2008,1,50.722227777777775,-111.19585277777776,755,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,KEG RIVER,3073641,1936,1,2009,1,57.75,-117.61666666666666,405,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,LACOMBE,3023722,1908,1,2007,11,52.44889055555556,-113.75583472222222,860,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,LETHBRIDGE,3033880,1902,1,2007,8,49.63027777777778,-112.79972222222224,929,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,MEDICINE HAT,3034480,1886,1,2006,5,50.01888888888889,-110.72083333333332,717,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,MOUNTAIN VIEW,3034720,1913,1,2006,3,49.126955555555554,-113.63001666666666,1339,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,OLDS,3024920,1914,1,2015,6,51.78333333333333,-114.1,1040,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,ONEFOUR,3044923,1928,1,2007,10,49.11666666666667,-110.46666666666668,935,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,PEACE RIVER,3075040,1908,1,2014,5,56.22694444444444,-117.44722222222222,571,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,PINCHER CREEK,3035206,1915,1,2007,11,49.52055555555555,-113.99722222222222,1190,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,RANFURLY 2NW,3015405,1905,1,2014,11,53.41666666666666,-111.73333333333332,673,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,ROCKY MTN HOUSE,3015523,1917,1,2007,11,52.421390555555554,-114.91222305555556,988,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,SCOTFIELD,3025770,1913,1,2007,10,51.58335555555556,-111.36361166666669,762,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,SION,3015960,1906,1,2004,12,53.88333333333333,-114.11666666666666,701,No,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,SLAVE LAKE,3065999,1925,1,2007,8,55.28333333333333,-114.78333333333332,583,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,STETTLER NORTH,3016119,1919,1,2001,8,52.333333333333336,-112.71666666666668,821,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,VAUXHALL,3036682,1914,1,2007,11,50.05,-112.13333333333334,779,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,WABASCA,3076908,1915,1,2009,1,55.96666666666667,-113.83333333333331,545,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+AB,WHITECOURT,3067372,1943,1,2009,5,54.14388888888889,-115.78666666666666,782,Yes,CA-AB,48,Alberta,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,ANEROID,4020160,1922,1,2005,4,49.71666666666667,-107.3,754,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,BANGOR,4010400,1951,1,2005,2,50.9,-102.28333333333332,526,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,BUFFALO NARROWS,4060982,1962,1,2012,11,55.833333333333336,-108.43333333333334,440,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,CEYLON,4011441,1922,1,2002,12,49.38333333333333,-104.65,753,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,CHAPLIN,4021520,1904,1,1995,9,50.46666666666667,-106.65,672,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,COLLINS BAY CAMECO,4061632,1965,1,2017,12,58.18333333333333,-103.7,490,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,COTE,4011846,1913,1,2006,3,51.516666666666666,-101.78333333333332,450,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,CREE LAKE,4061861,1962,1,1993,8,57.35,-107.13333333333334,495,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,DAVIDSON,4012120,1922,1,2005,10,51.266666666666666,-105.98333333333332,619,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,ESTEVAN,4012400,1902,1,2015,2,49.21666666666667,-102.96666666666668,581,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,HIGH POINT,4023240,1929,1,2017,7,50.978612777777776,-107.93527861111112,645,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,HUDSON BAY,4083323,1943,1,2013,12,52.88333333333333,-102.58333333333331,422,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,INDIAN HEAD,4013480,1895,1,2007,11,50.55,-103.65,579,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,ISLAND FALLS,4063560,1931,1,2004,9,55.53333333333333,-102.35,299,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,KELLIHER,4013660,1908,1,2017,12,51.25741666666666,-103.75302777777776,676,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,KEY LAKE,4063755,1977,1,2017,12,57.25,-105.61666666666666,509,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,KINDERSLEY,4043900,1942,1,2013,11,51.516666666666666,-109.18333333333334,694,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,KLINTONEL,4024080,1911,1,1994,1,49.68333333333333,-108.91666666666669,1074,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,LA RONGE,4064150,1923,1,2013,10,55.15,-105.26666666666668,379,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,LEADER AIRPORT,402DAF0,1923,1,2007,11,50.90946388888889,-109.50139166666666,676,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,LOON LAKE EPF,4064600,1930,1,2005,10,54.05,-109.1,543,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,MANOR,4014913,1922,1,2004,7,49.61666666666667,-102.1,633,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,MELFORT,4055079,1910,1,2007,11,52.81666666666667,-104.6,490,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,MOOSE JAW,4015322,1895,1,2007,11,50.33168055555556,-105.53750833333334,577,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,MOOSOMIN,4015360,1900,1,2000,9,50.13333333333333,-101.66666666666669,576,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,NIPAWIN,4075518,1911,1,2005,9,53.333333333333336,-104.0,372,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,NORTH BATTLEFORD,4045605,1894,1,2007,11,52.766666666666666,-108.25,548,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,OUTLOOK,4055736,1915,1,2007,11,51.48333333333333,-107.05,541,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,PASWEGIN,4015960,1951,1,2003,9,51.98333333333333,-103.91666666666669,533,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,PELLY,4086000,1952,1,2016,3,52.083333333333336,-101.86666666666666,509,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,PILGER,4056120,1913,1,2011,9,52.41666666666666,-105.15,552,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,PRINCE LBERT,4056240,1889,1,2013,11,53.21666666666667,-105.66666666666669,428,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,REGINA,4016560,1898,1,2007,11,50.43333333333333,-104.66666666666669,577,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,SASKATOON DIEFENBAKER,4057120,1900,1,2007,11,52.16666666666666,-106.71666666666668,504,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,SCOTT,4047241,1911,1,2007,11,52.35974,-108.83472333333332,660,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,SWIFT CURRENT,4028060,1886,1,2007,11,50.266666666666666,-107.73333333333332,825,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,TONKIN,4019082,1941,1,2016,1,51.2,-102.23333333333332,527,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,URANIUM CITY,406QLD0,1953,1,2007,10,59.56666666666667,-108.48333333333332,318,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,VAL-MARIE,4038400,1937,1,2010,5,49.37001388888889,-107.847525,808,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,WASECA,4048520,1908,1,2014,12,53.13085555555556,-109.40390277777776,638,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,WASKESIU LAKE,4068559,1966,1,2007,11,53.91666666666666,-106.06666666666666,569,Yes,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,WEST POPLAR RIVER,4038740,1957,1,2002,6,49.0,-106.38333333333334,876,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,WHITESAND DAM,4068840,1938,1,2004,9,56.23333333333333,-103.15,344,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+SK,YELLOW GRASS,4019040,1912,1,2017,7,49.81666666666667,-104.18333333333334,580,No,CA-SK,47,Saskatchewan,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,ARBORG,5030080,1951,1,2016,6,50.93333333333333,-97.08333333333331,224,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,BERENS RIVER,5030203,1905,1,2013,11,52.35973666666667,-97.02195333333331,222,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,BIRTLE,5010240,1917,1,2000,11,50.43333333333333,-101.05,522,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,BISSETT,5030282,1933,1,1997,6,51.03333333333333,-95.7,259,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,BRANDON,5010480,1890,1,2012,12,49.91,-99.95194444444444,409,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,CHURCHILL,5060606,1932,1,2015,12,58.73333333333333,-94.06666666666666,29,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,CYPRESS RIVER,5010640,1948,1,2012,3,49.55,-99.08333333333331,374,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,DAUPHIN,5040681,1911,1,2007,10,51.10038888888889,-100.05688888888888,305,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,EMERSON,5020882,1942,1,2003,1,49.0,-97.2375,242,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,FLIN FLON,5050920,1927,1,2017,12,54.766666666666666,-101.88333333333334,320,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,GILLAM,5061001,1943,1,2014,10,56.3575,-94.71055555555556,145,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,GIMLI,5031039,1944,1,2008,3,50.63333333333333,-97.01666666666668,223,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,GRAND RAPIDS HYDRO,5031111,1962,1,2017,12,53.158055833333336,-99.28334444444444,223,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,GREAT FALLS,5031200,1923,1,2002,12,50.46666666666667,-96.0,249,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,INDIAN BAY,5031320,1915,1,2017,12,49.62388888888889,-95.19722222222222,327,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,LANGRUTH WEST,5041535,1958,1,2005,2,50.41388888888889,-98.80277777777778,264,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,LYNN LAKE,5061648,1952,1,2007,11,56.86388888888889,-101.07611111111112,357,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,MORDEN,5021849,1888,1,2007,11,49.18763888888889,-98.08394444444444,298,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,NEEPAWA MURRAY 6 SOUTHWEST,5042004,1881,1,2008,11,50.15,-99.56666666666666,412,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,NINETTE,50220M0,1916,1,1996,5,49.41666666666666,-99.65,419,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,NORWAY HOUSE,5062045,1896,1,2007,11,53.96666666666667,-97.85,224,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,PIERSON,5012080,1933,1,2007,3,49.18333333333333,-101.26666666666668,469,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,PINAWA WNRE,5032162,1915,1,2017,3,50.18055555555556,-96.05833333333334,267,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,PORTAGE LA PRAIRIE,5012321,1942,1,2017,12,49.95,-98.26666666666668,259,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,SPRAGUE,5022759,1916,1,2007,11,49.02361111111111,-95.59833583333334,329,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,STEINBACH,5022780,1956,1,2005,3,49.53333333333333,-96.76666666666668,254,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,SWAN RIVER,504K80K,1960,1,2007,10,52.11497222222222,-101.23291666666668,335,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,THE PAS,5052880,1910,1,2014,11,53.96666666666667,-101.1,270,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,THOMPSON,5062922,1967,1,2014,11,55.803333333333335,-97.8625,222,No,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+MB,WINNIPEG RICHARDSON,5023222,1872,1,2007,11,49.91666666666666,-97.23333333333332,239,Yes,CA-MB,46,Manitoba,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,AMHERSTBURG,6130257,1917,1,2017,12,42.10335833333333,-83.09446333333334,182,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,ARMSTRONG JELLIEN,6040330,1939,1,1992,10,50.25,-89.1,341,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,ATIKOKAN MARMION,6020384,1919,1,2007,7,48.8,-91.58333333333331,442,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,BEATRICE,6110606,1876,1,2008,9,45.13333333333333,-79.4,297,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,BELLEVILLE,6150689,1921,1,2017,12,44.15057,-77.394735,76,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,BIG TROUT LAKE,6010738,1939,1,1992,10,53.833333333333336,-89.86666666666666,224,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,BISCOTASING,6060773,1914,1,2000,10,47.3,-82.1,407,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,BROCKVILLE PCC,6100971,1915,1,2017,12,44.6,-75.66666666666667,96,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,CAMERON FALLS,6041109,1924,1,1998,8,49.15,-88.35,229,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,CHAPLEAU,6061361,1914,1,2015,3,47.82,-83.34666666666666,447,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,CORNWALL,6101874,1951,1,2017,12,45.01557833333333,-74.7489,64,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,DRYDEN,6032119,1914,1,2005,1,49.833333333333336,-92.75,413,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,EARLTON,6072225,1939,1,2005,1,47.7,-79.85,243,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,FORT FRANCES,6022476,1912,1,2011,5,48.65,-93.43333333333334,342,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,GERALDTON,6042716,1950,1,2015,2,49.782802777777775,-86.93056944444444,349,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,GODFREY,6102857,1924,1,2003,5,44.56666666666667,-76.63333333333334,160,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,GORE BAY,6092925,1916,1,1994,1,45.88333333333333,-82.56666666666666,194,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,HALIBURTON,6163171,1883,1,2017,12,45.032248333333335,-78.531115,330,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,HAMILTON,6153194,1866,1,2011,12,43.171686666666666,-79.93417666666667,238,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,HORNEPAYNE,6053575,1917,1,1995,7,49.2,-84.76666666666667,335,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,IROQUOIS FALLS,6073810,1913,1,1998,12,48.75,-80.66666666666667,259,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,KAPUSKASING,6073975,1918,1,2014,9,49.41388888888889,-82.4675,227,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,KENORA,6034075,1900,1,2013,2,49.79027916666666,-94.36527861111112,406,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,KINGSTON PUMPING STATION,6104175,1872,1,2007,12,44.243903333333336,-76.48056666666666,77,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,LANSDOWNE HOUSE,6014350,1941,1,1989,6,52.23333333333333,-87.88333333333334,255,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,LONDON AIRPORT,6144475,1883,1,2017,4,43.03305555555556,-81.1511111111111,278,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,LUCKNOW,6124700,1885,1,1993,12,43.95,-81.5,290,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,MADAWASKA,6084770,1916,1,2000,11,45.5,-77.98333333333333,316,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,MINE CENTRE SOUTHWEST,6025205,1914,1,2017,12,48.75973888888889,-92.62277777777778,361,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,MOOSONEE,6075425,1892,1,2017,12,51.266666666666666,-80.65,10,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,MORRISBURG,6105460,1913,1,2008,12,44.92361833333333,-75.18834333333334,82,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,NORTH BAY,6085700,1915,1,2013,1,46.36361111111111,-79.42277777777778,370,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,ORANGEVILLE MOE,6155790,1887,1,2015,12,43.918351666666666,-80.08640666666666,412,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,ORILLIA BRAIN,6115811,1871,1,2017,12,44.602777777777774,-79.43888888888888,250,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,OTTAWA,6105976,1890,1,2017,12,45.38333333333333,-75.71666666666667,79,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,OWEN SOUND MOE,6116132,1879,1,2007,12,44.583333333333336,-80.93333333333334,179,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,PELEE ISLAND,6136336,1888,1,1994,9,41.78333333333333,-82.68333333333334,174,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,PETERBOROUGH,6166418,1866,1,2007,5,44.23333333333333,-78.36666666666666,191,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,PICKLE LAKE,6016527,1933,1,2012,7,51.44638888888889,-90.21416666666669,386,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,RED LAKE,6016975,1939,1,2012,5,51.066944444444445,-93.79305555555555,386,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,RIDGETOWN,6137149,1883,1,1997,4,42.45,-81.88333333333334,206,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,SAULT STE MARIE,6057592,1945,1,2012,3,46.48333333333333,-84.50944444444444,192,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,SIOUX LOOKOUT,6037775,1914,1,2013,2,50.11666666666667,-91.9,383,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,SMOKY FALLS,6077845,1934,1,1997,4,50.06666666666667,-82.16666666666667,183,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,SUDBURY,6068150,1921,1,2013,3,46.62555555555556,-80.79777777777778,348,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,TERRACE BAY,6048231,1910,1,2007,9,48.81666666666667,-87.1,290,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,TIMMINS VICTOR POWER,6078285,1955,1,2011,2,48.56972222222223,-81.37666666666667,295,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,TOBERMORY CYPRUS LAKE,6128323,1915,1,1994,12,45.23333333333333,-81.53333333333333,190,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,TORONTO,6158350,1840,1,2017,4,43.66666666666666,-79.4,113,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,TORONTO LESTER B. PEARSON,6158733,1938,1,2013,6,43.67722222222222,-79.63055555555556,173,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,TRANQUILLO RIDGE,6048864,1877,1,2007,12,48.23333333333333,-89.51666666666667,317,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,VINELAND,6139141,1919,1,2013,12,43.15,-79.41666666666667,110,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,WALLACEBURG,6139265,1906,1,1997,4,42.583333333333336,-82.4,177,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,WAWA,6059D09,1940,1,2014,9,47.96666666666667,-84.78333333333333,287,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,WELLAND,6139445,1873,1,2014,8,42.99252666666667,-79.26113833333334,175,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,WIARTON,6119500,1948,1,2014,11,44.74583333333333,-81.10722222222222,222,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,WINDSOR,6139525,1866,1,2014,10,42.27555555555556,-82.95555555555555,190,Yes,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+ON,WOODSTOCK,6149625,1870,1,2017,12,43.13612333333333,-80.77056666666667,282,No,CA-ON,35,Ontario,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ARMAGH,7050240,1916,1,1994,5,46.75,-70.53333333333333,358,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ARUNDEL,7030310,1914,1,2017,5,45.95,-74.61666666666666,191,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,BAGOTVILLE,7060400,1876,1,2017,12,48.333333333333336,-71.0,159,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,BARRAGE ANGLIERS,7080452,1911,1,1996,5,47.551944444444445,-79.23583333333333,267,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,BARRAGE TEMISCAMINGUE,7080468,1910,1,1995,10,46.70972222222223,-79.10111111111111,181,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,BELLETERRE,7080600,1952,1,2004,4,47.38333333333333,-78.7,322,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,BROME,7020840,1877,1,2014,7,45.18333333333333,-72.56666666666666,206,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,CAUSAPSCAL,7051200,1921,1,2017,8,48.36666666666667,-67.23333333333333,168,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,CHIBOUGAMAU CHAPAIS,7091404,1937,1,2016,11,49.766666666666666,-74.53333333333333,387,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,CHELSEA,7031360,1928,1,2017,8,45.516666666666666,-75.78333333333333,113,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,DONNACONA,7012071,1919,1,2008,11,46.68333333333333,-71.73333333333333,46,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,DRUMMONDVILLE,7022160,1914,1,2017,8,45.88333333333333,-72.48333333333333,82,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,GASPE,7052605,1916,1,2013,3,48.776944444444446,-64.47805555555556,33,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,GRANDE VALLEE,7052865,1883,1,2004,4,49.2,-65.15,8,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ILES DE LA MADELEINE,705C2G9,1934,1,2002,11,47.41666666666666,-61.78333333333333,11,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,INUKJUAK,7103282,1938,1,1994,2,58.46666666666667,-78.08333333333333,24,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,JOLIETTE VILLE,7013362,1914,1,2011,4,46.016666666666666,-73.43333333333334,56,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,KUUJJUAQ,7113534,1947,1,2014,3,58.1,-68.41666666666667,39,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,KUUJJUARAPIK,7103536,1934,1,2014,4,55.28333333333333,-77.75,10,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LA MALBAIE,7043960,1914,1,2004,4,47.66666666666666,-70.15,23,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LA POCATIERE,7054095,1913,1,1996,3,47.35,-70.03333333333333,31,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LA SARRE,7094120,1952,1,2004,4,48.78333333333333,-79.21666666666667,244,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LA TUQUE,7074240,1912,1,2004,4,47.4,-72.78333333333333,152,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LABRIEVILLE,7043540,1955,1,1994,12,49.3,-69.55,152,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LAC BERRY,709CEE9,1914,1,2017,8,48.8,-78.28333333333333,305,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LAUZON,7024254,1872,1,2017,8,46.81666666666667,-71.1,69,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LEBEL SUR QUEVILLON,7094275,1967,1,2004,4,49.05,-76.96666666666667,305,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LENNOXVILLE,7024280,1915,1,1995,10,45.36888888888889,-71.8236111111111,181,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LES BUISSONS,7044288,1947,1,2017,8,49.11666666666667,-68.38333333333334,15,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,LES CEDRES,7014290,1913,1,2017,8,45.3,-74.05,47,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,MATAGAMI,7094639,1964,1,1991,6,49.766666666666666,-77.81666666666666,281,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,MONT LAURIER,7035160,1920,1,2014,6,46.56666666666667,-75.55,244,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,MONT-JOLI,7055120,1943,1,2013,3,48.6,-68.21666666666667,52,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,MONTREAL/PIERRE ELLIOTT TRUDEAU,7025250,1872,1,2016,9,45.46666666666667,-73.75,36,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,NATASHQUAN,7045400,1915,1,2003,3,50.18333333333333,-61.81666666666667,11,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,NICOLET,7025440,1914,1,2017,8,46.2,-72.61666666666666,30,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,NOMININGUE,7035520,1914,1,2013,11,46.4,-75.08333333333333,274,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,NORMANDIN,7065640,1936,1,1992,8,48.85,-72.53333333333333,137,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,PARENT S,7075799,1943,1,2004,4,47.91666666666666,-74.61666666666666,410,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,POINTE AU CHENE,7036063,1919,1,2009,6,45.65,-74.8,51,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,QUAQTAQ,7116270,1930,1,1988,5,61.05,-69.63333333333334,30,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,RIMOUSKI,7056480,1877,1,2017,8,48.45,-68.51666666666667,36,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ROBERVAL,7066685,1914,1,2014,3,48.516666666666666,-72.26666666666667,179,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,SCHEFFERVILLE,7117825,1949,1,1993,9,54.8,-66.81666666666666,522,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,SENNETERRE,7097900,1940,1,1994,5,48.333333333333336,-77.26666666666667,310,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,SEPT-ILES,7047912,1945,1,2017,5,50.21666666666667,-66.25,53,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,SHAWINIGAN,7018000,1902,1,2004,4,46.56666666666667,-72.75,122,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,SHEENBORO,7038080,1915,1,2014,10,45.96666666666667,-77.25,137,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,SOREL,7028200,1914,1,2017,8,46.03333333333333,-73.11666666666666,15,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ST CHARLES DE MANDEVILLE,7016960,1921,1,2017,8,46.35,-73.35,168,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ST GEORGES,7027283,1913,1,2017,8,46.15,-70.7,168,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ST JEROME,7037400,1932,1,2017,8,45.8,-74.05,170,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,CAP SEIZE,7051175,1905,1,1994,5,49.016666666666666,-66.4,229,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ST PAMPHILE,7057600,1951,1,2004,4,46.96666666666667,-69.78333333333333,388,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,ST SEBASTIEN,7027725,1915,1,2016,10,45.766666666666666,-70.95,442,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,STE ROSE DU DEGELIS,7057720,1933,1,2004,4,47.56666666666667,-68.63333333333334,151,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,TADOUSSAC,7048320,1914,1,2004,4,48.15,-69.7,70,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,TETE A LA BALEINE,7048421,1912,1,1995,3,50.7,-59.31666666666667,9,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,THETFORD MINES,7028441,1922,1,2016,7,46.1,-71.35,381,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,TRINITE DES MONTS,7058520,1951,1,2004,4,48.13333333333333,-68.48333333333333,262,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,VAL-D'OR,7098600,1952,1,2017,12,48.05638888888889,-77.78666666666666,337,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,VILLE MARIE,7088760,1914,1,2004,4,47.35,-79.43333333333334,213,No,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+QC,WRIGHT,7038975,1914,1,2017,8,46.06666666666667,-76.05,142,Yes,CA-QC,24,Quebec,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,ANNAPOLIS ROYAL,8200100,1915,1,2007,12,44.75,-65.51666666666667,8,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,AROOSTOOK,8100300,1920,1,2017,12,46.71222222222222,-67.71555555555555,91,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,BATHURST,8100503,1884,1,2013,10,47.62918055555556,-65.7483388888889,59,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,BAY D'ESPOIR,8400413,1968,1,2017,12,47.98333333333333,-55.8,23,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,BEAR RIVER,8200500,1915,1,2006,2,44.56666666666667,-65.63333333333334,8,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,BURGEO,8400798,1939,1,1995,7,47.61666666666667,-57.61666666666667,11,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,CARTWRIGHT,8501100,1936,1,2015,3,53.708333333333336,-57.035,14,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,CHARLO,8100880,1934,1,2002,10,47.98333333333333,-66.33333333333333,40,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+PE,CHARLOTTETOWN,8300300,1872,1,2012,9,46.28861666666667,-63.12863055555555,49,Yes,CA-PE,11,Prince Edward Island,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,CHURCHILL FALLS,850A131,1969,1,1998,4,53.53333333333333,-63.96666666666667,489,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,COLLEGEVILLE,8201000,1916,1,2014,6,45.48333333333333,-62.016666666666666,76,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,CORNER BROOK,8401300,1933,1,2017,12,48.95,-57.95,5,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,DANIELS HARBOUR,8401400,1947,1,1998,1,50.23638888888889,-57.58111111111111,19,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,DEER LAKE,8401501,1933,1,2012,3,49.21666666666667,-57.4,22,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,DEMING,8201410,1884,1,2011,12,45.216390833333335,-61.17780277777778,16,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,DOAKTOWN,8101200,1944,1,2009,6,46.55251388888889,-66.14029166666667,38,No,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,EDMUNDSTON,810AL00,1916,1,2009,7,47.34638888888889,-68.18777777777778,163,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,EXPLOITS DAM,8401550,1956,1,2009,2,48.766666666666666,-56.6,154,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,FREDERICTON,8101500,1874,1,2010,4,45.87213055555556,-66.52789166666666,21,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,GANDER,8401700,1937,1,2012,3,48.94638888888889,-54.57694444444444,151,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,GOOSE,8501900,1942,1,2017,12,53.31666666666667,-60.41666666666666,49,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,GRAND FALLS,8402050,1937,1,2009,1,48.93333333333333,-55.66666666666666,60,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,GREENWOOD,8202000,1943,1,2017,12,44.98333333333333,-64.91666666666667,28,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,HALIFAX STANFIELD,8202250,1872,1,2012,9,44.88001666666667,-63.50001388888889,145,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,ISLE UX MORTS,8402450,1909,1,2004,10,47.583333333333336,-58.96666666666667,5,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,KEDGWICK,8102300,1932,1,1994,9,47.65,-67.35,274,No,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,LIVERPOOL BIG FALLS,8203100,1940,1,2012,10,44.13333333333333,-64.93333333333334,50,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,MAKKOVIK,8502NHR,1942,1,2014,11,55.08222222222222,-59.18861111111111,71,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,MARY'S HARBOUR,8502591,1881,1,1998,1,52.30361111111111,-55.83361111111111,12,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,MIRAMICHI,8101000,1873,1,2005,8,47.00946944444444,-65.46778888888889,33,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,MONCTON,8103200,1898,1,2012,6,46.10530555555555,-64.68380555555555,71,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+PE,MONTICELLO,8300447,1960,1,2003,12,46.46666666666667,-62.46666666666667,32,No,CA-PE,11,Prince Edward Island,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,MOUNT UNIACKE,8203600,1920,1,2003,7,44.9,-63.833333333333336,159,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,NAIN,8502800,1939,1,2013,3,56.55,-61.68333333333333,7,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,NAPPAN,8203700,1913,1,2003,7,45.766666666666666,-64.25,20,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,NEPISIGUIT FALLS,8103500,1922,1,2006,2,47.4,-65.78333333333333,106,No,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,NORTH HARBOUR,8402874,1939,1,2007,11,47.13333333333333,-53.66666666666666,11,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,PARRSBORO,8204400,1897,1,2002,9,45.4,-64.33333333333333,24,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,PLUM POINT,8402958,1972,1,2016,6,51.06666666666667,-56.88333333333333,6,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,REXTON,8104400,1923,1,2009,12,46.66666666666666,-64.86666666666666,5,No,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,SABLE ISLAND,8204700,1891,1,2001,12,43.93222222222222,-60.00944444444445,5,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,SAINT JOHN,8104900,1871,1,2012,6,45.31805555555555,-65.88556944444444,109,Yes,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,SPRINGDALE,8403700,1956,1,1993,6,49.5,-56.083333333333336,23,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,SPRINGFIELD,8205200,1920,1,2003,8,44.66666666666666,-64.85,167,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,ST ANTHONY,840C401,1883,1,2008,1,51.38333333333333,-56.1,33,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,ST JOHN'S,8403506,1874,1,2012,3,47.62222222222222,-52.742777777777775,141,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,ST MARGARET'S BAY,8204800,1922,1,2017,12,44.7,-63.9,17,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,STEPHENVILLE,8403800,1935,1,2014,10,48.53333333333333,-58.55,26,Yes,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+PE,SUMMERSIDE,8300700,1936,1,2002,6,46.43888888888889,-63.83166666666666,20,Yes,CA-PE,11,Prince Edward Island,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,SUSSEX,8105200,1898,1,2009,5,45.71666666666667,-65.53333333333333,21,No,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,SYDNEY,8205700,1870,1,2014,8,46.16666666666666,-60.048138888888886,62,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,TRURO,8205990,1910,1,2002,10,45.36666666666667,-63.266666666666666,40,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,UPPER STEWIACKE,8206200,1916,1,2008,4,45.21666666666667,-63.0,23,No,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,WABUSH LAKE,8504175,1961,1,2013,2,52.92722222222222,-66.87416666666667,551,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NL,WESTBROOK ST LAWRENCE,8404201,1957,1,1995,7,46.95,-55.38333333333333,31,No,CA-NL,10,Newfoundland and Labrador,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,WESTPORT,8206260,1937,1,1993,6,44.25,-66.36666666666666,18,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,WHITE ROCK,8206316,1913,1,2017,6,45.05,-64.38333333333334,38,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NB,WOODSTOCK,8105600,1914,1,2017,12,46.17027777777778,-67.55361111111111,153,No,CA-NB,13,New Brunswick,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,WRECK COVE BROOK,8206450,1951,1,2012,12,46.53333333333333,-60.45,76,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
+NS,YARMOUTH,8206500,1880,1,2012,4,43.83083333333333,-66.0886111111111,43,Yes,CA-NS,12,Nova Scotia,second generation,2017,2017,Adj_Precipitation_Stations.xls
