@@ -1,0 +1,65 @@
+file,column,type,description
+education_employment_income_long.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+education_employment_income_long.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+education_employment_income_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+education_employment_income_long.csv,gender,string,Gender grouping published by the census.
+education_employment_income_long.csv,age_group,string,Age group published by the census.
+education_employment_income_long.csv,education_level,string,"Highest certificate, diploma or degree."
+education_employment_income_long.csv,work_activity,string,Work activity during the reference year.
+education_employment_income_long.csv,income_year,integer,Income reference year (2019 or 2020).
+education_employment_income_long.csv,field_of_study,string,Major field of study (CIP 2021 summary).
+education_employment_income_long.csv,total_population_in_universe,integer,Count of people in the census universe for that row.
+education_employment_income_long.csv,with_employment_income,integer,Number of people with employment income.
+education_employment_income_long.csv,median_employment_income,number,Median employment income in dollars.
+education_employment_income_long.csv,average_employment_income,number,Average employment income in dollars.
+education_employment_income_long.csv,with_wages_salaries_commissions,integer,"Number of people with wages, salaries and commissions."
+education_employment_income_long.csv,median_wages_salaries_commissions,number,"Median wages, salaries and commissions in dollars."
+education_employment_income_long.csv,average_wages_salaries_commissions,number,"Average wages, salaries and commissions in dollars."
+education_income_provinces_age_25_64.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+education_income_provinces_age_25_64.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+education_income_provinces_age_25_64.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+education_income_provinces_age_25_64.csv,gender,string,Gender grouping published by the census.
+education_income_provinces_age_25_64.csv,age_group,string,Age group published by the census.
+education_income_provinces_age_25_64.csv,education_level,string,"Highest certificate, diploma or degree."
+education_income_provinces_age_25_64.csv,work_activity,string,Work activity during the reference year.
+education_income_provinces_age_25_64.csv,income_year,integer,Income reference year (2019 or 2020).
+education_income_provinces_age_25_64.csv,field_of_study,string,Major field of study (CIP 2021 summary).
+education_income_provinces_age_25_64.csv,total_population_in_universe,integer,Count of people in the census universe for that row.
+education_income_provinces_age_25_64.csv,with_employment_income,integer,Number of people with employment income.
+education_income_provinces_age_25_64.csv,median_employment_income,number,Median employment income in dollars.
+education_income_provinces_age_25_64.csv,average_employment_income,number,Average employment income in dollars.
+education_income_provinces_age_25_64.csv,with_wages_salaries_commissions,integer,"Number of people with wages, salaries and commissions."
+education_income_provinces_age_25_64.csv,median_wages_salaries_commissions,number,"Median wages, salaries and commissions in dollars."
+education_income_provinces_age_25_64.csv,average_wages_salaries_commissions,number,"Average wages, salaries and commissions in dollars."
+education_income_cmas_age_25_64.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+education_income_cmas_age_25_64.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+education_income_cmas_age_25_64.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+education_income_cmas_age_25_64.csv,gender,string,Gender grouping published by the census.
+education_income_cmas_age_25_64.csv,age_group,string,Age group published by the census.
+education_income_cmas_age_25_64.csv,education_level,string,"Highest certificate, diploma or degree."
+education_income_cmas_age_25_64.csv,work_activity,string,Work activity during the reference year.
+education_income_cmas_age_25_64.csv,income_year,integer,Income reference year (2019 or 2020).
+education_income_cmas_age_25_64.csv,field_of_study,string,Major field of study (CIP 2021 summary).
+education_income_cmas_age_25_64.csv,total_population_in_universe,integer,Count of people in the census universe for that row.
+education_income_cmas_age_25_64.csv,with_employment_income,integer,Number of people with employment income.
+education_income_cmas_age_25_64.csv,median_employment_income,number,Median employment income in dollars.
+education_income_cmas_age_25_64.csv,average_employment_income,number,Average employment income in dollars.
+education_income_cmas_age_25_64.csv,with_wages_salaries_commissions,integer,"Number of people with wages, salaries and commissions."
+education_income_cmas_age_25_64.csv,median_wages_salaries_commissions,number,"Median wages, salaries and commissions in dollars."
+education_income_cmas_age_25_64.csv,average_wages_salaries_commissions,number,"Average wages, salaries and commissions in dollars."
+education_income_cma_ca_age_25_64.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+education_income_cma_ca_age_25_64.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+education_income_cma_ca_age_25_64.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+education_income_cma_ca_age_25_64.csv,gender,string,Gender grouping published by the census.
+education_income_cma_ca_age_25_64.csv,age_group,string,Age group published by the census.
+education_income_cma_ca_age_25_64.csv,education_level,string,"Highest certificate, diploma or degree."
+education_income_cma_ca_age_25_64.csv,work_activity,string,Work activity during the reference year.
+education_income_cma_ca_age_25_64.csv,income_year,integer,Income reference year (2019 or 2020).
+education_income_cma_ca_age_25_64.csv,field_of_study,string,Major field of study (CIP 2021 summary).
+education_income_cma_ca_age_25_64.csv,total_population_in_universe,integer,Count of people in the census universe for that row.
+education_income_cma_ca_age_25_64.csv,with_employment_income,integer,Number of people with employment income.
+education_income_cma_ca_age_25_64.csv,median_employment_income,number,Median employment income in dollars.
+education_income_cma_ca_age_25_64.csv,average_employment_income,number,Average employment income in dollars.
+education_income_cma_ca_age_25_64.csv,with_wages_salaries_commissions,integer,"Number of people with wages, salaries and commissions."
+education_income_cma_ca_age_25_64.csv,median_wages_salaries_commissions,number,"Median wages, salaries and commissions in dollars."
+education_income_cma_ca_age_25_64.csv,average_wages_salaries_commissions,number,"Average wages, salaries and commissions in dollars."
