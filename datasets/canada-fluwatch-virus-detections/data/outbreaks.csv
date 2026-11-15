@@ -1,0 +1,109 @@
+virus,setting,year_week,week,week_ending_date,outbreak_count
+COVID-19,Acute care,202635,35,2026-09-05,8
+COVID-19,Acute care,202636,36,2026-09-12,7
+COVID-19,Acute care,202637,37,2026-09-19,6
+COVID-19,Acute care,202638,38,2026-09-26,13
+COVID-19,Acute care,202639,39,2026-10-03,18
+COVID-19,Acute care,202640,40,2026-10-10,12
+COVID-19,Acute care,202641,41,2026-10-17,22
+COVID-19,Acute care,202642,42,2026-10-24,27
+COVID-19,Acute care,202643,43,2026-10-31,41
+COVID-19,Long-term care,202635,35,2026-09-05,12
+COVID-19,Long-term care,202636,36,2026-09-12,6
+COVID-19,Long-term care,202637,37,2026-09-19,13
+COVID-19,Long-term care,202638,38,2026-09-26,24
+COVID-19,Long-term care,202639,39,2026-10-03,14
+COVID-19,Long-term care,202640,40,2026-10-10,16
+COVID-19,Long-term care,202641,41,2026-10-17,22
+COVID-19,Long-term care,202642,42,2026-10-24,27
+COVID-19,Long-term care,202643,43,2026-10-31,19
+COVID-19,Other,202635,35,2026-09-05,1
+COVID-19,Other,202636,36,2026-09-12,3
+COVID-19,Other,202637,37,2026-09-19,3
+COVID-19,Other,202638,38,2026-09-26,1
+COVID-19,Other,202639,39,2026-10-03,2
+COVID-19,Other,202640,40,2026-10-10,2
+COVID-19,Other,202641,41,2026-10-17,7
+COVID-19,Other,202642,42,2026-10-24,11
+COVID-19,Other,202643,43,2026-10-31,10
+COVID-19,Retirement home,202635,35,2026-09-05,2
+COVID-19,Retirement home,202636,36,2026-09-12,2
+COVID-19,Retirement home,202637,37,2026-09-19,4
+COVID-19,Retirement home,202638,38,2026-09-26,3
+COVID-19,Retirement home,202639,39,2026-10-03,11
+COVID-19,Retirement home,202640,40,2026-10-10,5
+COVID-19,Retirement home,202641,41,2026-10-17,12
+COVID-19,Retirement home,202642,42,2026-10-24,6
+COVID-19,Retirement home,202643,43,2026-10-31,12
+Influenza,Acute care,202635,35,2026-09-05,1
+Influenza,Acute care,202636,36,2026-09-12,7
+Influenza,Acute care,202637,37,2026-09-19,1
+Influenza,Acute care,202638,38,2026-09-26,7
+Influenza,Acute care,202639,39,2026-10-03,7
+Influenza,Acute care,202640,40,2026-10-10,8
+Influenza,Acute care,202641,41,2026-10-17,20
+Influenza,Acute care,202642,42,2026-10-24,17
+Influenza,Acute care,202643,43,2026-10-31,25
+Influenza,Long-term care,202635,35,2026-09-05,2
+Influenza,Long-term care,202636,36,2026-09-12,11
+Influenza,Long-term care,202637,37,2026-09-19,6
+Influenza,Long-term care,202638,38,2026-09-26,9
+Influenza,Long-term care,202639,39,2026-10-03,16
+Influenza,Long-term care,202640,40,2026-10-10,16
+Influenza,Long-term care,202641,41,2026-10-17,26
+Influenza,Long-term care,202642,42,2026-10-24,21
+Influenza,Long-term care,202643,43,2026-10-31,39
+Influenza,Other,202635,35,2026-09-05,0
+Influenza,Other,202636,36,2026-09-12,2
+Influenza,Other,202637,37,2026-09-19,0
+Influenza,Other,202638,38,2026-09-26,6
+Influenza,Other,202639,39,2026-10-03,1
+Influenza,Other,202640,40,2026-10-10,5
+Influenza,Other,202641,41,2026-10-17,4
+Influenza,Other,202642,42,2026-10-24,3
+Influenza,Other,202643,43,2026-10-31,5
+Influenza,Retirement home,202635,35,2026-09-05,0
+Influenza,Retirement home,202636,36,2026-09-12,0
+Influenza,Retirement home,202637,37,2026-09-19,0
+Influenza,Retirement home,202638,38,2026-09-26,2
+Influenza,Retirement home,202639,39,2026-10-03,4
+Influenza,Retirement home,202640,40,2026-10-10,6
+Influenza,Retirement home,202641,41,2026-10-17,3
+Influenza,Retirement home,202642,42,2026-10-24,8
+Influenza,Retirement home,202643,43,2026-10-31,5
+RSV,Acute care,202635,35,2026-09-05,0
+RSV,Acute care,202636,36,2026-09-12,0
+RSV,Acute care,202637,37,2026-09-19,0
+RSV,Acute care,202638,38,2026-09-26,0
+RSV,Acute care,202639,39,2026-10-03,0
+RSV,Acute care,202640,40,2026-10-10,0
+RSV,Acute care,202641,41,2026-10-17,0
+RSV,Acute care,202642,42,2026-10-24,0
+RSV,Acute care,202643,43,2026-10-31,0
+RSV,Long-term care,202635,35,2026-09-05,0
+RSV,Long-term care,202636,36,2026-09-12,1
+RSV,Long-term care,202637,37,2026-09-19,0
+RSV,Long-term care,202638,38,2026-09-26,0
+RSV,Long-term care,202639,39,2026-10-03,0
+RSV,Long-term care,202640,40,2026-10-10,0
+RSV,Long-term care,202641,41,2026-10-17,0
+RSV,Long-term care,202642,42,2026-10-24,0
+RSV,Long-term care,202643,43,2026-10-31,0
+RSV,Other,202635,35,2026-09-05,0
+RSV,Other,202636,36,2026-09-12,0
+RSV,Other,202637,37,2026-09-19,0
+RSV,Other,202638,38,2026-09-26,0
+RSV,Other,202639,39,2026-10-03,0
+RSV,Other,202640,40,2026-10-10,0
+RSV,Other,202641,41,2026-10-17,0
+RSV,Other,202642,42,2026-10-24,0
+RSV,Other,202643,43,2026-10-31,0
+RSV,Retirement home,202635,35,2026-09-05,0
+RSV,Retirement home,202636,36,2026-09-12,0
+RSV,Retirement home,202637,37,2026-09-19,0
+RSV,Retirement home,202638,38,2026-09-26,0
+RSV,Retirement home,202639,39,2026-10-03,0
+RSV,Retirement home,202640,40,2026-10-10,0
+RSV,Retirement home,202641,41,2026-10-17,0
+RSV,Retirement home,202642,42,2026-10-24,0
+RSV,Retirement home,202643,43,2026-10-31,0

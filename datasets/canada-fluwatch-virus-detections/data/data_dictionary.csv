@@ -1,0 +1,38 @@
+file,column,type,description
+weekly_detections.csv,region,string,"Region name as published, including Canada, provincial groups such as Prairies or Atlantic, and individual provinces or territories."
+weekly_detections.csv,province,string,"Province, territory, regional group or Canada, as published in the FluWatch+ laboratory file."
+weekly_detections.csv,week,integer,Epidemiological week number.
+weekly_detections.csv,weekorder,integer,Order of the week within the current FluWatch+ season file.
+weekly_detections.csv,year,integer,Calendar year associated with the surveillance week.
+weekly_detections.csv,date,datetime,Week ending date (Saturday) in the current-season laboratory file (YYYY-MM-DD).
+weekly_detections.csv,virus,string,"Virus name as published. In the current laboratory file this includes SARS-CoV-2, Influenza, Influenza A, Influenza B, RSV, HPIV, ADV, HMPV, EV/RV and HCoV. Historical names follow the older FluWatch tables."
+weekly_detections.csv,tests,integer,Number of specimens tested for that virus and week.
+weekly_detections.csv,detections,integer,Number of specimens positive for that virus and week.
+weekly_detections.csv,percent_positive,numeric,"Percent of tests positive: detections divided by tests, times 100, as published."
+season_baselines_long.csv,region,string,"Region name as published, including Canada, provincial groups such as Prairies or Atlantic, and individual provinces or territories."
+season_baselines_long.csv,week,integer,Epidemiological week number.
+season_baselines_long.csv,weekorder,integer,Order of the week within the current FluWatch+ season file.
+season_baselines_long.csv,current_year_week,string,Current season year and week label as published (for example 2026-35).
+season_baselines_long.csv,week_ending_date,datetime,Date of the last day of the surveillance week (YYYY-MM-DD). Surveillance weeks run from Sunday to Saturday.
+season_baselines_long.csv,virus,string,"Virus name as published. In the current laboratory file this includes SARS-CoV-2, Influenza, Influenza A, Influenza B, RSV, HPIV, ADV, HMPV, EV/RV and HCoV. Historical names follow the older FluWatch tables."
+season_baselines_long.csv,series,string,"Comparison series from the FluWatch+ baseline file, such as Season_2025_2026 or PrePandemicAverage."
+season_baselines_long.csv,percent_positive,numeric,"Percent of tests positive: detections divided by tests, times 100, as published."
+outbreaks.csv,virus,string,"Virus name as published. In the current laboratory file this includes SARS-CoV-2, Influenza, Influenza A, Influenza B, RSV, HPIV, ADV, HMPV, EV/RV and HCoV. Historical names follow the older FluWatch tables."
+outbreaks.csv,setting,string,Outbreak setting as published (for example Acute care).
+outbreaks.csv,year_week,integer,Six digit year and epidemiological week code (YYYYWW).
+outbreaks.csv,week,integer,Epidemiological week number.
+outbreaks.csv,week_ending_date,datetime,Date of the last day of the surveillance week (YYYY-MM-DD). Surveillance weeks run from Sunday to Saturday.
+outbreaks.csv,outbreak_count,integer,"Number of outbreaks reported for that virus, setting and week."
+hospitalizations_ptsos.csv,year_week,integer,Six digit year and epidemiological week code (YYYYWW).
+hospitalizations_ptsos.csv,week,integer,Epidemiological week number.
+hospitalizations_ptsos.csv,week_ending_date,datetime,Date of the last day of the surveillance week (YYYY-MM-DD). Surveillance weeks run from Sunday to Saturday.
+hospitalizations_ptsos.csv,virus,string,"Virus name as published. In the current laboratory file this includes SARS-CoV-2, Influenza, Influenza A, Influenza B, RSV, HPIV, ADV, HMPV, EV/RV and HCoV. Historical names follow the older FluWatch tables."
+hospitalizations_ptsos.csv,age_group,string,"Age group as published, including All."
+hospitalizations_ptsos.csv,hospitalization_count,integer,"Number of hospitalizations from provincial and territorial severe outcomes surveillance (PTSOS) for that virus, age group and week."
+hospitalizations_ptsos.csv,hospitalization_rate_per_100000,numeric,"Hospitalization rate per 100,000 population from the PTSOS table, as published."
+historical_national_detections.csv,season,string,"Older FluWatch season label, for example 2016-2017."
+historical_national_detections.csv,year,integer,Calendar year associated with the surveillance week.
+historical_national_detections.csv,week,integer,Epidemiological week number.
+historical_national_detections.csv,virus,string,"Virus name as published. In the current laboratory file this includes SARS-CoV-2, Influenza, Influenza A, Influenza B, RSV, HPIV, ADV, HMPV, EV/RV and HCoV. Historical names follow the older FluWatch tables."
+historical_national_detections.csv,tests,integer,Number of specimens tested for that virus and week.
+historical_national_detections.csv,detections,integer,Number of specimens positive for that virus and week.
