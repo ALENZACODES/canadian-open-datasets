@@ -1,0 +1,54 @@
+column,file,type,description
+ref_date,job_vacancies_canada_by_industry.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,job_vacancies_canada_by_industry.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,job_vacancies_canada_by_industry.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+naics,job_vacancies_canada_by_industry.csv,string,"Industry group based on the North American Industry Classification System, including sector totals."
+statistic,job_vacancies_canada_by_industry.csv,string,"The published measure, for example job vacancies, payroll employees or the job vacancy rate."
+unit_of_measure,job_vacancies_canada_by_industry.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,job_vacancies_canada_by_industry.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,job_vacancies_canada_by_industry.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,job_vacancies_canada_by_industry.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,job_vacancies_canada_by_industry.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,job_vacancies_canada_by_industry.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,job_vacancies_canada_by_industry.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,job_vacancies_canada_by_industry.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,job_vacancies_canada_by_industry.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,job_vacancies_canada_by_industry.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,job_vacancies_canada_by_industry.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+seasonality,job_vacancies_canada_by_industry.csv,string,"Seasonally adjusted, or unadjusted for seasonality, as published in the source table."
+source_table,job_vacancies_canada_by_industry.csv,string,Statistics Canada table identifier this row was taken from.
+ref_date,job_vacancies_by_province.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,job_vacancies_by_province.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,job_vacancies_by_province.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+statistic,job_vacancies_by_province.csv,string,"The published measure, for example job vacancies, payroll employees or the job vacancy rate."
+unit_of_measure,job_vacancies_by_province.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,job_vacancies_by_province.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,job_vacancies_by_province.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,job_vacancies_by_province.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,job_vacancies_by_province.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,job_vacancies_by_province.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,job_vacancies_by_province.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,job_vacancies_by_province.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,job_vacancies_by_province.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,job_vacancies_by_province.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,job_vacancies_by_province.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+seasonality,job_vacancies_by_province.csv,string,"Seasonally adjusted, or unadjusted for seasonality, as published in the source table."
+source_table,job_vacancies_by_province.csv,string,Statistics Canada table identifier this row was taken from.
+ref_date,job_vacancies_canada_quarterly.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,job_vacancies_canada_quarterly.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,job_vacancies_canada_quarterly.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+naics,job_vacancies_canada_quarterly.csv,string,"Industry group based on the North American Industry Classification System, including sector totals."
+statistic,job_vacancies_canada_quarterly.csv,string,"The published measure, for example job vacancies, payroll employees or the job vacancy rate."
+unit_of_measure,job_vacancies_canada_quarterly.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,job_vacancies_canada_quarterly.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,job_vacancies_canada_quarterly.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,job_vacancies_canada_quarterly.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,job_vacancies_canada_quarterly.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,job_vacancies_canada_quarterly.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,job_vacancies_canada_quarterly.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,job_vacancies_canada_quarterly.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,job_vacancies_canada_quarterly.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,job_vacancies_canada_quarterly.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,job_vacancies_canada_quarterly.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+seasonality,job_vacancies_canada_quarterly.csv,string,"Seasonally adjusted, or unadjusted for seasonality, as published in the source table."
+source_table,job_vacancies_canada_quarterly.csv,string,Statistics Canada table identifier this row was taken from.
