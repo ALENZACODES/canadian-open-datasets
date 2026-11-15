@@ -1,0 +1,29 @@
+column,file,type,description
+ref_date,housing_starts_long.csv,datetime,Reference period as published by Statistics Canada.
+geo,housing_starts_long.csv,string,Geography name as published by Statistics Canada.
+dguid,housing_starts_long.csv,string,Statistics Canada Dissemination Geography Unique Identifier.
+unit_of_measure,housing_starts_long.csv,string,Unit of measure for value.
+unit_of_measure_id,housing_starts_long.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,housing_starts_long.csv,string,"Scale of value (for example units, thousands or millions)."
+scalar_id,housing_starts_long.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,housing_starts_long.csv,string,Statistics Canada vector identifier for the series.
+coordinate,housing_starts_long.csv,string,Statistics Canada coordinate string inside the table.
+value,housing_starts_long.csv,numeric,Published value. Empty when Statistics Canada did not publish a figure.
+status,housing_starts_long.csv,string,Statistics Canada status symbol when a value is missing or qualified.
+symbol,housing_starts_long.csv,string,Additional Statistics Canada symbol when present.
+terminated,housing_starts_long.csv,string,"t if Statistics Canada terminated this series, otherwise empty."
+decimals,housing_starts_long.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_date,housing_starts_by_geo.csv,datetime,Reference period as published by Statistics Canada.
+alberta,housing_starts_by_geo.csv,numeric,Housing starts for alberta.
+atlantic_provinces,housing_starts_by_geo.csv,numeric,Housing starts for atlantic provinces.
+british_columbia,housing_starts_by_geo.csv,numeric,Housing starts for british columbia.
+canada,housing_starts_by_geo.csv,numeric,Housing starts for canada.
+manitoba,housing_starts_by_geo.csv,numeric,Housing starts for manitoba.
+new_brunswick,housing_starts_by_geo.csv,numeric,Housing starts for new brunswick.
+newfoundland_and_labrador,housing_starts_by_geo.csv,numeric,Housing starts for newfoundland and labrador.
+nova_scotia,housing_starts_by_geo.csv,numeric,Housing starts for nova scotia.
+ontario,housing_starts_by_geo.csv,numeric,Housing starts for ontario.
+prairie_provinces,housing_starts_by_geo.csv,numeric,Housing starts for prairie provinces.
+prince_edward_island,housing_starts_by_geo.csv,numeric,Housing starts for prince edward island.
+quebec,housing_starts_by_geo.csv,numeric,Housing starts for quebec.
+saskatchewan,housing_starts_by_geo.csv,numeric,Housing starts for saskatchewan.
