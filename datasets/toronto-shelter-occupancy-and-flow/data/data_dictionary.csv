@@ -1,0 +1,89 @@
+column,file,type,description
+date,shelter_occupancy_citywide_daily.csv,datetime,Occupancy date (YYYY-MM-DD).
+programs,shelter_occupancy_citywide_daily.csv,integer,Number of distinct programs reporting that day in the group.
+service_users,shelter_occupancy_citywide_daily.csv,integer,Sum of service users staying overnight.
+occupied_beds,shelter_occupancy_citywide_daily.csv,integer,Sum of occupied beds (bed-based programs).
+unoccupied_beds,shelter_occupancy_citywide_daily.csv,integer,Sum of unoccupied beds.
+unavailable_beds,shelter_occupancy_citywide_daily.csv,integer,Sum of unavailable beds.
+capacity_actual_beds,shelter_occupancy_citywide_daily.csv,integer,Sum of actual bed capacity.
+occupied_rooms,shelter_occupancy_citywide_daily.csv,integer,Sum of occupied rooms (room-based programs).
+unoccupied_rooms,shelter_occupancy_citywide_daily.csv,integer,Sum of unoccupied rooms.
+unavailable_rooms,shelter_occupancy_citywide_daily.csv,integer,Sum of unavailable rooms.
+capacity_actual_rooms,shelter_occupancy_citywide_daily.csv,integer,Sum of actual room capacity.
+bed_occupancy_rate,shelter_occupancy_citywide_daily.csv,number,"occupied_beds divided by capacity_actual_beds, from the summed figures. Empty when bed capacity is zero."
+room_occupancy_rate,shelter_occupancy_citywide_daily.csv,number,"occupied_rooms divided by capacity_actual_rooms, from the summed figures. Empty when room capacity is zero."
+date,shelter_occupancy_daily_by_sector.csv,datetime,Occupancy date (YYYY-MM-DD).
+sector,shelter_occupancy_daily_by_sector.csv,string,"Population sector as published (for example Families, Mixed Adult, Youth, or Women)."
+program_model,shelter_occupancy_daily_by_sector.csv,string,"Program model, for example Emergency."
+overnight_service_type,shelter_occupancy_daily_by_sector.csv,string,"Overnight service type, for example Shelter or Motel/Hotel Shelter."
+programs,shelter_occupancy_daily_by_sector.csv,integer,Number of distinct programs reporting that day in the group.
+service_users,shelter_occupancy_daily_by_sector.csv,integer,Sum of service users staying overnight.
+occupied_beds,shelter_occupancy_daily_by_sector.csv,integer,Sum of occupied beds (bed-based programs).
+unoccupied_beds,shelter_occupancy_daily_by_sector.csv,integer,Sum of unoccupied beds.
+unavailable_beds,shelter_occupancy_daily_by_sector.csv,integer,Sum of unavailable beds.
+capacity_actual_beds,shelter_occupancy_daily_by_sector.csv,integer,Sum of actual bed capacity.
+occupied_rooms,shelter_occupancy_daily_by_sector.csv,integer,Sum of occupied rooms (room-based programs).
+unoccupied_rooms,shelter_occupancy_daily_by_sector.csv,integer,Sum of unoccupied rooms.
+unavailable_rooms,shelter_occupancy_daily_by_sector.csv,integer,Sum of unavailable rooms.
+capacity_actual_rooms,shelter_occupancy_daily_by_sector.csv,integer,Sum of actual room capacity.
+bed_occupancy_rate,shelter_occupancy_daily_by_sector.csv,number,"occupied_beds divided by capacity_actual_beds, from the summed figures. Empty when bed capacity is zero."
+room_occupancy_rate,shelter_occupancy_daily_by_sector.csv,number,"occupied_rooms divided by capacity_actual_rooms, from the summed figures. Empty when room capacity is zero."
+date,shelter_occupancy_daily_by_program_area.csv,datetime,Occupancy date (YYYY-MM-DD).
+program_area,shelter_occupancy_daily_by_program_area.csv,string,Program area as published.
+sector,shelter_occupancy_daily_by_program_area.csv,string,Population sector as published.
+programs,shelter_occupancy_daily_by_program_area.csv,integer,Number of distinct programs reporting that day in the group.
+service_users,shelter_occupancy_daily_by_program_area.csv,integer,Sum of service users staying overnight.
+occupied_beds,shelter_occupancy_daily_by_program_area.csv,integer,Sum of occupied beds (bed-based programs).
+unoccupied_beds,shelter_occupancy_daily_by_program_area.csv,integer,Sum of unoccupied beds.
+unavailable_beds,shelter_occupancy_daily_by_program_area.csv,integer,Sum of unavailable beds.
+capacity_actual_beds,shelter_occupancy_daily_by_program_area.csv,integer,Sum of actual bed capacity.
+occupied_rooms,shelter_occupancy_daily_by_program_area.csv,integer,Sum of occupied rooms (room-based programs).
+unoccupied_rooms,shelter_occupancy_daily_by_program_area.csv,integer,Sum of unoccupied rooms.
+unavailable_rooms,shelter_occupancy_daily_by_program_area.csv,integer,Sum of unavailable rooms.
+capacity_actual_rooms,shelter_occupancy_daily_by_program_area.csv,integer,Sum of actual room capacity.
+bed_occupancy_rate,shelter_occupancy_daily_by_program_area.csv,number,"occupied_beds divided by capacity_actual_beds, from the summed figures. Empty when bed capacity is zero."
+room_occupancy_rate,shelter_occupancy_daily_by_program_area.csv,number,"occupied_rooms divided by capacity_actual_rooms, from the summed figures. Empty when room capacity is zero."
+snapshot_date,shelter_programs_latest_snapshot.csv,string,"Latest-day value for snapshot_date, from the official program list."
+organization_name,shelter_programs_latest_snapshot.csv,string,"Latest-day value for organization_name, from the official program list."
+shelter_group,shelter_programs_latest_snapshot.csv,string,"Latest-day value for shelter_group, from the official program list."
+location_name,shelter_programs_latest_snapshot.csv,string,"Latest-day value for location_name, from the official program list."
+location_address,shelter_programs_latest_snapshot.csv,string,"Latest-day value for location_address, from the official program list."
+location_postal_code,shelter_programs_latest_snapshot.csv,string,"Latest-day value for location_postal_code, from the official program list."
+location_city,shelter_programs_latest_snapshot.csv,string,"Latest-day value for location_city, from the official program list."
+program_name,shelter_programs_latest_snapshot.csv,string,"Latest-day value for program_name, from the official program list."
+program_id,shelter_programs_latest_snapshot.csv,string,"Latest-day value for program_id, from the official program list."
+sector,shelter_programs_latest_snapshot.csv,string,"Latest-day value for sector, from the official program list."
+program_model,shelter_programs_latest_snapshot.csv,string,"Latest-day value for program_model, from the official program list."
+overnight_service_type,shelter_programs_latest_snapshot.csv,string,"Latest-day value for overnight_service_type, from the official program list."
+program_area,shelter_programs_latest_snapshot.csv,string,"Latest-day value for program_area, from the official program list."
+capacity_type,shelter_programs_latest_snapshot.csv,string,"Latest-day value for capacity_type, from the official program list."
+service_users,shelter_programs_latest_snapshot.csv,integer,"Latest-day value for service_users, from the official program list."
+occupied_beds,shelter_programs_latest_snapshot.csv,integer,"Latest-day value for occupied_beds, from the official program list."
+capacity_actual_beds,shelter_programs_latest_snapshot.csv,integer,"Latest-day value for capacity_actual_beds, from the official program list."
+occupied_rooms,shelter_programs_latest_snapshot.csv,integer,"Latest-day value for occupied_rooms, from the official program list."
+capacity_actual_rooms,shelter_programs_latest_snapshot.csv,integer,"Latest-day value for capacity_actual_rooms, from the official program list."
+id,shelter_system_flow_monthly.csv,string,"Shelter System Flow field id, as published (snake_case names). month_start is the first day of the published month."
+month,shelter_system_flow_monthly.csv,string,"Shelter System Flow field month, as published (snake_case names). month_start is the first day of the published month."
+population_group,shelter_system_flow_monthly.csv,string,"Shelter System Flow field population_group, as published (snake_case names). month_start is the first day of the published month."
+returned_from_housing,shelter_system_flow_monthly.csv,string,"Shelter System Flow field returned_from_housing, as published (snake_case names). month_start is the first day of the published month."
+returned_to_shelter,shelter_system_flow_monthly.csv,string,"Shelter System Flow field returned_to_shelter, as published (snake_case names). month_start is the first day of the published month."
+newly_identified,shelter_system_flow_monthly.csv,string,"Shelter System Flow field newly_identified, as published (snake_case names). month_start is the first day of the published month."
+moved_to_housing,shelter_system_flow_monthly.csv,string,"Shelter System Flow field moved_to_housing, as published (snake_case names). month_start is the first day of the published month."
+became_inactive,shelter_system_flow_monthly.csv,string,"Shelter System Flow field became_inactive, as published (snake_case names). month_start is the first day of the published month."
+actively_homeless,shelter_system_flow_monthly.csv,string,"Shelter System Flow field actively_homeless, as published (snake_case names). month_start is the first day of the published month."
+ageunder16,shelter_system_flow_monthly.csv,string,"Shelter System Flow field ageunder16, as published (snake_case names). month_start is the first day of the published month."
+age16_24,shelter_system_flow_monthly.csv,string,"Shelter System Flow field age16_24, as published (snake_case names). month_start is the first day of the published month."
+age25_34,shelter_system_flow_monthly.csv,string,"Shelter System Flow field age25_34, as published (snake_case names). month_start is the first day of the published month."
+age35_44,shelter_system_flow_monthly.csv,string,"Shelter System Flow field age35_44, as published (snake_case names). month_start is the first day of the published month."
+age45_54,shelter_system_flow_monthly.csv,string,"Shelter System Flow field age45_54, as published (snake_case names). month_start is the first day of the published month."
+age55_64,shelter_system_flow_monthly.csv,string,"Shelter System Flow field age55_64, as published (snake_case names). month_start is the first day of the published month."
+age65over,shelter_system_flow_monthly.csv,string,"Shelter System Flow field age65over, as published (snake_case names). month_start is the first day of the published month."
+gender_male,shelter_system_flow_monthly.csv,string,"Shelter System Flow field gender_male, as published (snake_case names). month_start is the first day of the published month."
+gender_female,shelter_system_flow_monthly.csv,string,"Shelter System Flow field gender_female, as published (snake_case names). month_start is the first day of the published month."
+gender_transgender_non_binary_or_two_spirit,shelter_system_flow_monthly.csv,string,"Shelter System Flow field gender_transgender_non_binary_or_two_spirit, as published (snake_case names). month_start is the first day of the published month."
+population_group_percentage,shelter_system_flow_monthly.csv,string,"Shelter System Flow field population_group_percentage, as published (snake_case names). month_start is the first day of the published month."
+month_start,shelter_system_flow_monthly.csv,string,"Shelter System Flow field month_start, as published (snake_case names). month_start is the first day of the published month."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, datetime, or string."
+description,data_dictionary.csv,string,What the column holds.
