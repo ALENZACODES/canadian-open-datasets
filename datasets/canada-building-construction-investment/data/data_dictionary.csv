@@ -1,0 +1,35 @@
+column,file,type,description
+ref_date,investment_by_geo.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,investment_by_geo.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,investment_by_geo.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+type_of_structure,investment_by_geo.csv,string,"Building type or aggregate, such as total residential, total non-residential, or a more detailed structure type."
+type_of_work,investment_by_geo.csv,string,"Kind of construction work, such as new construction, renovations, conversions, or the total of all types of work."
+investment_value,investment_by_geo.csv,string,"Whether the series is seasonally adjusted or unadjusted, and whether it is in current dollars or constant dollars."
+unit_of_measure,investment_by_geo.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,investment_by_geo.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,investment_by_geo.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,investment_by_geo.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,investment_by_geo.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,investment_by_geo.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,investment_by_geo.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,investment_by_geo.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,investment_by_geo.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,investment_by_geo.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,investment_by_geo.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_date,investment_canada_detail.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,investment_canada_detail.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,investment_canada_detail.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+type_of_structure,investment_canada_detail.csv,string,"Building type or aggregate, such as total residential, total non-residential, or a more detailed structure type."
+type_of_work,investment_canada_detail.csv,string,"Kind of construction work, such as new construction, renovations, conversions, or the total of all types of work."
+investment_value,investment_canada_detail.csv,string,"Whether the series is seasonally adjusted or unadjusted, and whether it is in current dollars or constant dollars."
+unit_of_measure,investment_canada_detail.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,investment_canada_detail.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,investment_canada_detail.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,investment_canada_detail.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,investment_canada_detail.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,investment_canada_detail.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,investment_canada_detail.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,investment_canada_detail.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,investment_canada_detail.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,investment_canada_detail.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,investment_canada_detail.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
