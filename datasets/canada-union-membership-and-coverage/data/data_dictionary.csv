@@ -1,0 +1,37 @@
+column,file,type,description
+ref_date,union_status_by_geography_annual.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,union_status_by_geography_annual.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,union_status_by_geography_annual.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+union_status,union_status_by_geography_annual.csv,string,Union measure as published.
+gender,union_status_by_geography_annual.csv,string,"Total, Men+ or Women+."
+age_group,union_status_by_geography_annual.csv,string,Age group as published.
+unit_of_measure,union_status_by_geography_annual.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,union_status_by_geography_annual.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,union_status_by_geography_annual.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,union_status_by_geography_annual.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,union_status_by_geography_annual.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,union_status_by_geography_annual.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,union_status_by_geography_annual.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,union_status_by_geography_annual.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,union_status_by_geography_annual.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,union_status_by_geography_annual.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,union_status_by_geography_annual.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,union_status_by_geography_annual.csv,string,Statistics Canada table identifier this row was taken from.
+ref_date,union_status_by_industry_annual.csv,datetime,"Reference period as published by Statistics Canada. Monthly tables use the first day of the month, quarterly tables use the first day of the quarter, and annual tables use the calendar year."
+geo,union_status_by_industry_annual.csv,string,"Geography name as published by Statistics Canada, with extra whitespace removed."
+dguid,union_status_by_industry_annual.csv,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+union_status,union_status_by_industry_annual.csv,string,Union measure as published.
+naics,union_status_by_industry_annual.csv,string,Industry with NAICS codes in brackets.
+gender,union_status_by_industry_annual.csv,string,"Total, Men+ or Women+."
+unit_of_measure,union_status_by_industry_annual.csv,string,"Unit of measure for value, as published."
+unit_of_measure_id,union_status_by_industry_annual.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,union_status_by_industry_annual.csv,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+scalar_id,union_status_by_industry_annual.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,union_status_by_industry_annual.csv,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+coordinate,union_status_by_industry_annual.csv,string,Statistics Canada coordinate string that locates the series inside the table.
+value,union_status_by_industry_annual.csv,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+status,union_status_by_industry_annual.csv,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in the official metadata file.
+symbol,union_status_by_industry_annual.csv,string,"Additional Statistics Canada symbol when present, otherwise empty."
+terminated,union_status_by_industry_annual.csv,string,"t if Statistics Canada has terminated this series, otherwise empty."
+decimals,union_status_by_industry_annual.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+source_table,union_status_by_industry_annual.csv,string,Statistics Canada table identifier this row was taken from.
