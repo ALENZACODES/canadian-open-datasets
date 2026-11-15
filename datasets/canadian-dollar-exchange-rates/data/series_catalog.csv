@@ -1,0 +1,159 @@
+file,column,series_id,label,description
+fx_daily_2017_2026.csv,cad_per_aud,FXAUDCAD,AUD/CAD,Daily average exchange rate of the Australian dollar in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_brl,FXBRLCAD,BRL/CAD,Daily average exchange rate of the Brazilian real in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_cny,FXCNYCAD,CNY/CAD,Daily average exchange rate of the Chinese renminbi in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_eur,FXEURCAD,EUR/CAD,Daily average exchange rate of the euro in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_hkd,FXHKDCAD,HKD/CAD,Daily average exchange rate of the Hong Kong dollar in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_inr,FXINRCAD,INR/CAD,Daily average exchange rate of the Indian rupee in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_idr,FXIDRCAD,IDR/CAD,Daily average exchange rate of the Indonesian rupiah in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_jpy,FXJPYCAD,JPY/CAD,Daily average exchange rate of the Japanese yen in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_myr,FXMYRCAD,MYR/CAD,Daily average exchange rate of the Malaysian ringgit in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_mxn,FXMXNCAD,MXN/CAD,Daily average exchange rate of the Mexican peso in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_nzd,FXNZDCAD,NZD/CAD,Daily average exchange rate of the New Zealand dollar in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_nok,FXNOKCAD,NOK/CAD,Daily average exchange rate of the Norwegian krone in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_pen,FXPENCAD,PEN/CAD,Daily average exchange rate of the Peruvian new sol in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_pln,FXPLNCAD,PLN/CAD,Daily average exchange rate of the Polish zloty in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_rub,FXRUBCAD,RUB/CAD,Daily average exchange rate — historical series of the Russian ruble in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_sar,FXSARCAD,SAR/CAD,Daily average exchange rate — historical series of the Saudi riyal in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_sgd,FXSGDCAD,SGD/CAD,Daily average exchange rate of the Singapore dollar in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_zar,FXZARCAD,ZAR/CAD,Daily average exchange rate of the South African rand in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_krw,FXKRWCAD,KRW/CAD,Daily average exchange rate of the South Korean won in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_sek,FXSEKCAD,SEK/CAD,Daily average exchange rate of the Swedish krona in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_chf,FXCHFCAD,CHF/CAD,Daily average exchange rate of the Swiss franc in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_twd,FXTWDCAD,TWD/CAD,Daily average exchange rate of the Taiwanese dollar in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_thb,FXTHBCAD,THB/CAD,Daily average exchange rate of the Thai baht in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_try,FXTRYCAD,TRY/CAD,Daily average exchange rate of the Turkish lira in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_gbp,FXGBPCAD,GBP/CAD,Daily average exchange rate of the UK pound sterling in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_usd,FXUSDCAD,USD/CAD,Daily average exchange rate of the US dollar in Canadian dollars.
+fx_daily_2017_2026.csv,cad_per_vnd,FXVNDCAD,VND/CAD,Daily average exchange rate — historical series of the Vietnamese dong in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_aud,FXMAUDCAD,AUD/CAD,Monthly average exchange rate of the Australian dollar in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_brl,FXMBRLCAD,BRL/CAD,Monthly average exchange rate of the Brazilian real in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_cny,FXMCNYCAD,CNY/CAD,Monthly average exchange rate of the Chinese renminbi in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_eur,FXMEURCAD,EUR/CAD,Monthly average exchange rate of the euro in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_hkd,FXMHKDCAD,HKD/CAD,Monthly average exchange rate of the Hong Kong dollar in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_inr,FXMINRCAD,INR/CAD,Monthly average exchange rate of the Indian rupee in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_idr,FXMIDRCAD,IDR/CAD,Monthly average exchange rate of the Indonesian rupiah in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_jpy,FXMJPYCAD,JPY/CAD,Monthly average exchange rate of the Japanese yen in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_myr,FXMMYRCAD,MYR/CAD,Monthly average exchange rate of the Malaysian ringgit in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_mxn,FXMMXNCAD,MXN/CAD,Monthly average exchange rate of the Mexican peso in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_nzd,FXMNZDCAD,NZD/CAD,Monthly average exchange rate of the New Zealand dollar in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_nok,FXMNOKCAD,NOK/CAD,Monthly average exchange rate of the Norwegian krone in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_pen,FXMPENCAD,PEN/CAD,Monthly average exchange rate of the Peruvian new sol in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_pln,FXMPLNCAD,PLN/CAD,Monthly average exchange rate of the Polish zloty in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_rub,FXMRUBCAD,RUB/CAD,Monthly average exchange rate — historical series of the Russian ruble in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_sar,FXMSARCAD,SAR/CAD,Monthly average exchange rate — historical series of the Saudi riyal in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_sgd,FXMSGDCAD,SGD/CAD,Monthly average exchange rate of the Singapore dollar in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_zar,FXMZARCAD,ZAR/CAD,Monthly average exchange rate of the South African rand in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_krw,FXMKRWCAD,KRW/CAD,Monthly average exchange rate of the South Korean won in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_sek,FXMSEKCAD,SEK/CAD,Monthly average exchange rate of the Swedish krona in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_chf,FXMCHFCAD,CHF/CAD,Monthly average exchange rate of the Swiss franc in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_twd,FXMTWDCAD,TWD/CAD,Monthly average exchange rate of the Taiwanese dollar in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_thb,FXMTHBCAD,THB/CAD,Monthly average exchange rate of the Thai baht in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_try,FXMTRYCAD,TRY/CAD,Monthly average exchange rate of the Turkish lira in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_gbp,FXMGBPCAD,GBP/CAD,Monthly average exchange rate of the UK pound sterling in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_usd,FXMUSDCAD,USD/CAD,Monthly average exchange rate of the US dollar in Canadian dollars.
+fx_monthly_2017_2026.csv,cad_per_vnd,FXMVNDCAD,VND/CAD,Monthly average exchange rate — historical series of the Vietnamese dong in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_aud,FXAAUDCAD,AUD/CAD,Annual average exchange rate of the Australian dollar in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_brl,FXABRLCAD,BRL/CAD,Annual average exchange rate of the Brazilian real in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_cny,FXACNYCAD,CNY/CAD,Annual average exchange rate of the Chinese renminbi in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_eur,FXAEURCAD,EUR/CAD,Annual average exchange rate of the euro in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_hkd,FXAHKDCAD,HKD/CAD,Annual average exchange rate of the Hong Kong dollar in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_inr,FXAINRCAD,INR/CAD,Annual average exchange rate of the Indian rupee in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_idr,FXAIDRCAD,IDR/CAD,Annual average exchange rate of the Indonesian rupiah in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_jpy,FXAJPYCAD,JPY/CAD,Annual average exchange rate of the Japanese yen in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_myr,FXAMYRCAD,MYR/CAD,Annual average exchange rate of the Malaysian ringgit in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_mxn,FXAMXNCAD,MXN/CAD,Annual average exchange rate of the Mexican peso in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_nzd,FXANZDCAD,NZD/CAD,Annual average exchange rate of the New Zealand dollar in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_nok,FXANOKCAD,NOK/CAD,Annual average exchange rate of the Norwegian krone in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_pen,FXAPENCAD,PEN/CAD,Annual average exchange rate of the Peruvian new sol in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_pln,FXAPLNCAD,PLN/CAD,Annual average exchange rate of the Polish zloty in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_rub,FXARUBCAD,RUB/CAD,Annual average exchange rate — historical series of the Russian ruble in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_sar,FXASARCAD,SAR/CAD,Annual average exchange rate — historical series of the Saudi riyal in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_sgd,FXASGDCAD,SGD/CAD,Annual average exchange rate of the Singapore dollar in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_zar,FXAZARCAD,ZAR/CAD,Annual average exchange rate of the South African rand in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_krw,FXAKRWCAD,KRW/CAD,Annual average exchange rate of the South Korean won in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_sek,FXASEKCAD,SEK/CAD,Annual average exchange rate of the Swedish krona in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_chf,FXACHFCAD,CHF/CAD,Annual average exchange rate of the Swiss franc in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_twd,FXATWDCAD,TWD/CAD,Annual average exchange rate of the Taiwanese dollar in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_thb,FXATHBCAD,THB/CAD,Annual average exchange rate of the Thai baht in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_try,FXATRYCAD,TRY/CAD,Annual average exchange rate of the Turkish lira in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_gbp,FXAGBPCAD,GBP/CAD,Annual average exchange rate of the UK pound sterling in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_usd,FXAUSDCAD,USD/CAD,Annual average exchange rate of the US dollar in Canadian dollars.
+fx_annual_2017_2025.csv,cad_per_vnd,FXAVNDCAD,VND/CAD,Annual average exchange rate — historical series of the Vietnamese dong in Canadian dollars.
+fx_noon_daily_2007_2017.csv,cad_per_ars_local,IEXE2702,ARS_NOON,Argentine peso (local)
+fx_noon_daily_2007_2017.csv,cad_per_ars,IEXE2703,ARS_NOON,Argentine peso
+fx_noon_daily_2007_2017.csv,cad_per_aud,IEXE1601,AUD_NOON,Australian dollar
+fx_noon_daily_2007_2017.csv,cad_per_bsd,IEXE6001,BSD_NOON,Bahamian dollar
+fx_noon_daily_2007_2017.csv,cad_per_brl,IEXE2801,BRL_NOON,Brazilian real
+fx_noon_daily_2007_2017.csv,cad_per_xaf,IEXE4501,XAF_NOON,CFA franc
+fx_noon_daily_2007_2017.csv,cad_per_xpf,IEXE4601,XPF_NOON,CFP franc
+fx_noon_daily_2007_2017.csv,cad_per_clp,IEXE2901,CLP_NOON,Chilean peso
+fx_noon_daily_2007_2017.csv,cad_per_cny,IEXE2201,CNY_NOON,Chinese renminbi
+fx_noon_daily_2007_2017.csv,cad_per_cop,IEXE3901,COP_NOON,Colombian peso
+fx_noon_daily_2007_2017.csv,cad_per_hrk,IEXE6101,HRK_NOON,Croatian kuna
+fx_noon_daily_2007_2017.csv,cad_per_czk,IEXE2301,CZK_NOON,Czech Republic koruna
+fx_noon_daily_2007_2017.csv,cad_per_dkk,IEXE0301,DKK_NOON,Danish krone
+fx_noon_daily_2007_2017.csv,cad_per_xcd,IEXE4001,XCD_NOON,East Caribbean dollar
+fx_noon_daily_2007_2017.csv,cad_per_eur,EUROCAE01,EUR_NOON,European Euro
+fx_noon_daily_2007_2017.csv,cad_per_fjd,IEXE4101,FJD_NOON,Fiji dollar
+fx_noon_daily_2007_2017.csv,cad_per_ghc_old,IEXE4701,GHC_NOON,Ghanaian cedi (old)
+fx_noon_daily_2007_2017.csv,cad_per_ghs,IEXE4702,GHS_NOON,Ghanaian cedi
+fx_noon_daily_2007_2017.csv,cad_per_gtq,IEXE6501,GTQ_NOON,Guatemalan quetzal
+fx_noon_daily_2007_2017.csv,cad_per_hnl,IEXE4301,HNL_NOON,Honduran lempira
+fx_noon_daily_2007_2017.csv,cad_per_hkd,IEXE1401,HKD_NOON,Hong Kong dollar
+fx_noon_daily_2007_2017.csv,cad_per_huf,IEXE2501,HUF_NOON,Hungarian forint
+fx_noon_daily_2007_2017.csv,cad_per_isk,IEXE4401,ISK_NOON,Icelandic krona
+fx_noon_daily_2007_2017.csv,cad_per_inr,IEXE3001,INR_NOON,Indian rupee
+fx_noon_daily_2007_2017.csv,cad_per_idr,IEXE2601,IDR_NOON,Indonesian rupiah
+fx_noon_daily_2007_2017.csv,cad_per_ils,IEXE5301,ILS_NOON,Israeli new shekel
+fx_noon_daily_2007_2017.csv,cad_per_jmd,IEXE6401,JMD_NOON,Jamaican dollar
+fx_noon_daily_2007_2017.csv,cad_per_jpy,IEXE0701,JPY_NOON,Japanese yen
+fx_noon_daily_2007_2017.csv,cad_per_myr,IEXE3201,MYR_NOON,Malaysian ringgit
+fx_noon_daily_2007_2017.csv,cad_per_mxn,IEXE2001,MXN_NOON,Mexican peso
+fx_noon_daily_2007_2017.csv,cad_per_mad,IEXE4801,MAD_NOON,Moroccan dirham
+fx_noon_daily_2007_2017.csv,cad_per_mmk_fixed,IEXE3801,MMK_NOON,Myanmar (Burma) kyat (fixed)
+fx_noon_daily_2007_2017.csv,cad_per_mmk,IEXE3802,MMK_NOON,Myanmar (Burma) kyat
+fx_noon_daily_2007_2017.csv,cad_per_ang,IEXE4901,ANG_NOON,Neth. Antilles guilder
+fx_noon_daily_2007_2017.csv,cad_per_nzd,IEXE1901,NZD_NOON,New Zealand dollar
+fx_noon_daily_2007_2017.csv,cad_per_nok,IEXE0901,NOK_NOON,Norwegian krone
+fx_noon_daily_2007_2017.csv,cad_per_pkr,IEXE5001,PKR_NOON,Pakistan rupee
+fx_noon_daily_2007_2017.csv,cad_per_pab,IEXE5101,PAB_NOON,Panamanian balboa
+fx_noon_daily_2007_2017.csv,cad_per_pen,IEXE5201,PEN_NOON,Peruvian new sol
+fx_noon_daily_2007_2017.csv,cad_per_php,IEXE3301,PHP_NOON,Philippine peso
+fx_noon_daily_2007_2017.csv,cad_per_pln,IEXE2401,PLN_NOON,Polish zloty
+fx_noon_daily_2007_2017.csv,cad_per_ron,IEXE6505,RON_NOON,Romanian new leu
+fx_noon_daily_2007_2017.csv,cad_per_rub,IEXE2101,RUB_NOON,Russian ruble
+fx_noon_daily_2007_2017.csv,cad_per_rsd,IEXE6504,RSD_NOON,Serbian dinar
+fx_noon_daily_2007_2017.csv,cad_per_sgd,IEXE3701,SGD_NOON,Singapore dollar
+fx_noon_daily_2007_2017.csv,cad_per_skk,IEXE6201,SKK_NOON,Slovak koruna
+fx_noon_daily_2007_2017.csv,cad_per_zar,IEXE3401,ZAR_NOON,South African rand
+fx_noon_daily_2007_2017.csv,cad_per_krw,IEXE3101,KRW_NOON,South Korean won
+fx_noon_daily_2007_2017.csv,cad_per_lkr,IEXE5501,LKR_NOON,Sri Lanka rupee
+fx_noon_daily_2007_2017.csv,cad_per_sek,IEXE1001,SEK_NOON,Swedish krona
+fx_noon_daily_2007_2017.csv,cad_per_chf,IEXE1101,CHF_NOON,Swiss franc
+fx_noon_daily_2007_2017.csv,cad_per_twd,IEXE3501,TWD_NOON,Taiwanese new dollar
+fx_noon_daily_2007_2017.csv,cad_per_thb,IEXE3601,THB_NOON,Thai baht
+fx_noon_daily_2007_2017.csv,cad_per_ttd,IEXE5601,TTD_NOON,Trinidad and Tobago dollar
+fx_noon_daily_2007_2017.csv,cad_per_tnd,IEXE5701,TND_NOON,Tunisian dinar
+fx_noon_daily_2007_2017.csv,cad_per_try,IEXE5802,TRY_NOON,Turkish lira
+fx_noon_daily_2007_2017.csv,cad_per_aed,IEXE6506,AED_NOON,U.A.E. dirham
+fx_noon_daily_2007_2017.csv,cad_per_veb,IEXE5901,VEB_NOON,Venezuelan bolivar
+fx_noon_daily_2007_2017.csv,cad_per_vef,IEXE5902,VEF_NOON,Venezuelan bolivar fuerte
+fx_noon_daily_2007_2017.csv,cad_per_gbp,IEXE1201,GBP_NOON,U.K. pound sterling
+fx_noon_daily_2007_2017.csv,cad_per_vnd,IEXE6503,VND_NOON,Vietnamese dong
+fx_noon_daily_2007_2017.csv,cad_per_usd,IEXE0101,USD_NOON,U.S. dollar (noon)
+fx_noon_daily_2007_2017.csv,cad_per_usd_90day_forward,IEXE0105,USD_NOON,"U.S. dollar noon, 90-day"
+fx_noon_daily_2007_2017.csv,usd_cad_forward_points_3m,IEXE0124,IEXE0124,US/Canada noon 3-month forward points spread
+fx_noon_daily_2007_2017.csv,usd_cad_forward_points_6m,IEXE0125,IEXE0125,US/Canada noon 6-month forward points spread
+ceer_daily_1999_2026.csv,ceer_broad,CEER_BROADN,Daily nominal Canadian effective exchange rates,"The daily value of the nominal Canadian effective exchange rate (CEER) index, calculated by using a weighted average of bilateral exchange rates against a basket of major trading partners’ currencies. The index is set to 100 for the base year 1999."
+ceer_daily_1999_2026.csv,ceer_broad_ex_us,CEER_BROADN_XUS,Daily nominal CEER excluding the US dollar,"The daily value of the nominal Canadian effective exchange rate (CEER) index, excluding the US dollar from the basket of currencies. The index is set to 100 for the base year 1999."
+ceer_daily_1999_2026.csv,ceer_major_currencies,CEER_MCN,Daily nominal CEER versus major currencies,"The daily value of the nominal Canadian effective exchange rate (CEER) index, calculated against a basket of major currencies. The index is set to 100 for the base year 1999."
+ceer_daily_1999_2026.csv,ceer_other_partners,CEER_OITPN,Daily nominal CEER versus other important trading partners,"The daily value of the nominal Canadian effective exchange rate (CEER) index, calculated against the currencies of other important trading partners. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_broad_nominal,CEER_BROADNM,Monthly nominal Canadian effective exchange rates,"The monthly value of the nominal Canadian effective exchange rate (CEER) index, calculated using a weighted average of bilateral exchange rates against a basket of major trading partners’ currencies. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_broad_ex_us_nominal,CEER_BROADN_XUSM,Monthly nominal CEER excluding the US dollar,"The monthly value of the nominal Canadian effective exchange rate (CEER) index, excluding the US dollar from the basket of currencies. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_major_currencies_nominal,CEER_MCNM,Monthly nominal CEER versus major currencies,"The monthly value of the nominal Canadian effective exchange rate (CEER) index, calculated against a basket of major currencies. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_other_partners_nominal,CEER_OITPNM,Monthly nominal CEER versus other important trading partners,"The monthly value of the nominal Canadian effective exchange rate (CEER) index, calculated against the currencies of other important trading partners. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_broad_real,CEER_BROADM,Monthly real Canadian effective exchange rates,"The monthly value of the real Canadian effective exchange rate (CEER) index, calculated using a weighted average of bilateral exchange rates against a basket of major trading partners’ currencies. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_broad_ex_us_real,CEER_BROAD_XUSM,Monthly real CEER excluding the US dollar,"The monthly value of the real Canadian effective exchange rate (CEER) index, excluding the US dollar from the basket of currencies. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_major_currencies_real,CEER_MCM,Monthly real CEER versus major currencies,"The monthly value of the real Canadian effective exchange rate (CEER) index, calculated against a basket of major currencies. The index is set to 100 for the base year 1999."
+ceer_monthly_1999_2026.csv,ceer_other_partners_real,CEER_OITPM,Monthly real CEER versus other important trading partners,"The monthly value of the real Canadian effective exchange rate (CEER) index, calculated against the currencies of other important trading partners. The index is set to 100 for the base year 1999."
