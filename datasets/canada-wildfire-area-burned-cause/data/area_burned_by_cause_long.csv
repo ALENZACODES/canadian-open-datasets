@@ -1,0 +1,940 @@
+year,iso,jurisdiction,cause,area_hectares,data_qualifier
+1990,AB,Alberta,Human activity,2385.4,a
+1990,AB,Alberta,Lightning,30890.7,a
+1990,AB,Alberta,Unspecified,808.8,a
+1990,BC,British Columbia,Human activity,40278.3,a
+1990,BC,British Columbia,Lightning,35503.5,a
+1990,MB,Manitoba,Human activity,5719.0,a
+1990,MB,Manitoba,Lightning,10426.0,a
+1990,NB,New Brunswick,Human activity,6188.1,a
+1990,NB,New Brunswick,Lightning,6.9,a
+1990,NB,New Brunswick,Unspecified,23.4,a
+1990,NL,Newfoundland and Labrador,Human activity,3825.3,a
+1990,NL,Newfoundland and Labrador,Lightning,20777.0,a
+1990,NS,Nova Scotia,Human activity,1029.09,a
+1990,NS,Nova Scotia,Lightning,0.2,a
+1990,NS,Nova Scotia,Unspecified,38.87,a
+1990,NT,Northwest Territories,Human activity,11.98,a
+1990,NT,Northwest Territories,Lightning,104605.21,a
+1990,NT,Northwest Territories,Unspecified,0.21,a
+1990,ON,Ontario,Human activity,8672.000002,a
+1990,ON,Ontario,Lightning,174915.7,a
+1990,ON,Ontario,Unspecified,25.50000011,a
+1990,PC,Parks Canada,Human activity,8.4,a
+1990,PC,Parks Canada,Lightning,24591.9,a
+1990,PC,Parks Canada,Unspecified,200.0,a
+1990,QC,Quebec,Human activity,18666.5,a
+1990,QC,Quebec,Lightning,64676.1,a
+1990,SK,Saskatchewan,Human activity,35848.28615,a
+1990,SK,Saskatchewan,Lightning,180207.3921,a
+1990,YT,Yukon,Human activity,1412.99,a
+1990,YT,Yukon,Lightning,181478.93,a
+1991,AB,Alberta,Human activity,2260.5,a
+1991,AB,Alberta,Lightning,3769.3,a
+1991,AB,Alberta,Unspecified,135.0,a
+1991,BC,British Columbia,Human activity,10923.6,a
+1991,BC,British Columbia,Lightning,13785.2,a
+1991,MB,Manitoba,Human activity,20668.1,a
+1991,MB,Manitoba,Lightning,130317.6,a
+1991,NB,New Brunswick,Human activity,3417.3,a
+1991,NB,New Brunswick,Lightning,56.7,a
+1991,NB,New Brunswick,Unspecified,85.0,a
+1991,NL,Newfoundland and Labrador,Human activity,6863.4,a
+1991,NL,Newfoundland and Labrador,Lightning,49526.6,a
+1991,NS,Nova Scotia,Human activity,1712.09,a
+1991,NS,Nova Scotia,Lightning,17.98,a
+1991,NS,Nova Scotia,Unspecified,45.68,a
+1991,NT,Northwest Territories,Human activity,46.97,a
+1991,NT,Northwest Territories,Lightning,225401.42,a
+1991,NT,Northwest Territories,Unspecified,18.03,a
+1991,ON,Ontario,Human activity,11090.2,a
+1991,ON,Ontario,Lightning,307671.5,a
+1991,ON,Ontario,Unspecified,49.40000014,a
+1991,PC,Parks Canada,Human activity,200.5,a
+1991,PC,Parks Canada,Lightning,829.2,a
+1991,QC,Quebec,Human activity,42503.1,a
+1991,QC,Quebec,Lightning,395828.3,a
+1991,SK,Saskatchewan,Human activity,33955.16,a
+1991,SK,Saskatchewan,Lightning,164219.95,a
+1991,YT,Yukon,Human activity,805.14,a
+1991,YT,Yukon,Lightning,119465.68,a
+1992,AB,Alberta,Human activity,2002.2,a
+1992,AB,Alberta,Lightning,1075.2,a
+1992,AB,Alberta,Unspecified,470.6,a
+1992,BC,British Columbia,Human activity,15559.9,a
+1992,BC,British Columbia,Lightning,14892.9,a
+1992,MB,Manitoba,Human activity,90957.6,a
+1992,MB,Manitoba,Lightning,342816.2,a
+1992,NB,New Brunswick,Human activity,5330.9,a
+1992,NB,New Brunswick,Lightning,32.2,a
+1992,NB,New Brunswick,Unspecified,35.8,a
+1992,NL,Newfoundland and Labrador,Human activity,1435.5,a
+1992,NL,Newfoundland and Labrador,Lightning,374.2,a
+1992,NS,Nova Scotia,Human activity,1111.11,a
+1992,NS,Nova Scotia,Lightning,0.11,a
+1992,NS,Nova Scotia,Unspecified,48.39,a
+1992,NT,Northwest Territories,Human activity,269.43,a
+1992,NT,Northwest Territories,Lightning,34072.78,a
+1992,NT,Northwest Territories,Unspecified,2607.24,a
+1992,ON,Ontario,Human activity,5372.600002,a
+1992,ON,Ontario,Lightning,170595.9,a
+1992,ON,Ontario,Unspecified,25.90000004,a
+1992,PC,Parks Canada,Lightning,13.3,a
+1992,QC,Quebec,Human activity,8127.3,a
+1992,QC,Quebec,Lightning,18984.2,a
+1992,SK,Saskatchewan,Human activity,9635.18,a
+1992,SK,Saskatchewan,Lightning,88121.21,a
+1992,YT,Yukon,Human activity,5998.23,a
+1992,YT,Yukon,Lightning,31816.84,a
+1993,AB,Alberta,Human activity,1138.61,a
+1993,AB,Alberta,Lightning,24892.7,a
+1993,AB,Alberta,Unspecified,29.1,a
+1993,BC,British Columbia,Human activity,3400.2,a
+1993,BC,British Columbia,Lightning,1783.2,a
+1993,MB,Manitoba,Human activity,5117.4,a
+1993,MB,Manitoba,Lightning,62157.0,a
+1993,NB,New Brunswick,Human activity,417.0,a
+1993,NB,New Brunswick,Lightning,323.2,a
+1993,NB,New Brunswick,Unspecified,38.1,a
+1993,NL,Newfoundland and Labrador,Human activity,55.4,a
+1993,NL,Newfoundland and Labrador,Lightning,28425.0,a
+1993,NS,Nova Scotia,Human activity,362.78,a
+1993,NS,Nova Scotia,Lightning,2.8,a
+1993,NS,Nova Scotia,Unspecified,2.33,a
+1993,NT,Northwest Territories,Human activity,84.47,a
+1993,NT,Northwest Territories,Human activity,7400.0,a
+1993,NT,Northwest Territories,Lightning,856783.73,a
+1993,NT,Northwest Territories,Unspecified,17.63,a
+1993,ON,Ontario,Human activity,9016.000001,a
+1993,ON,Ontario,Lightning,95608.6,a
+1993,ON,Ontario,Unspecified,40.20000002,a
+1993,PC,Parks Canada,Human activity,351.1,a
+1993,PC,Parks Canada,Lightning,1277.7,a
+1993,PC,Parks Canada,Unspecified,3.0,a
+1993,QC,Quebec,Human activity,1062.2,a
+1993,QC,Quebec,Lightning,127171.8,a
+1993,SK,Saskatchewan,Human activity,132315.19,a
+1993,SK,Saskatchewan,Lightning,475884.65,a
+1993,YT,Yukon,Human activity,56.58,a
+1993,YT,Yukon,Lightning,115047.73,a
+1994,AB,Alberta,Human activity,2484.8,a
+1994,AB,Alberta,Lightning,27057.68,a
+1994,AB,Alberta,Unspecified,39.75,a
+1994,BC,British Columbia,Human activity,12017.1,a
+1994,BC,British Columbia,Lightning,17738.2,a
+1994,MB,Manitoba,Human activity,471729.6,a
+1994,MB,Manitoba,Lightning,957056.1,a
+1994,NB,New Brunswick,Human activity,752.0,a
+1994,NB,New Brunswick,Lightning,2.9,a
+1994,NB,New Brunswick,Unspecified,98.4,a
+1994,NL,Newfoundland and Labrador,Human activity,1309.7,a
+1994,NL,Newfoundland and Labrador,Lightning,108964.5,a
+1994,NS,Nova Scotia,Human activity,237.23,a
+1994,NS,Nova Scotia,Unspecified,5.21,a
+1994,NT,Northwest Territories,Human activity,10126.82,a
+1994,NT,Northwest Territories,Human activity,17882.0,a
+1994,NT,Northwest Territories,Lightning,2999302.32,a
+1994,NT,Northwest Territories,Unspecified,3.41,a
+1994,ON,Ontario,Human activity,7455.000002,a
+1994,ON,Ontario,Lightning,76020.3,a
+1994,ON,Ontario,Unspecified,129.1000001,a
+1994,PC,Parks Canada,Lightning,67140.9,a
+1994,PC,Parks Canada,Unspecified,3.6,a
+1994,QC,Quebec,Human activity,792.9,a
+1994,QC,Quebec,Lightning,115247.4,a
+1994,SK,Saskatchewan,Human activity,3770.36,a
+1994,SK,Saskatchewan,Lightning,842249.09,a
+1994,YT,Yukon,Human activity,29.37,a
+1994,YT,Yukon,Lightning,421681.02,a
+1995,AB,Alberta,Human activity,7886.62,a
+1995,AB,Alberta,Lightning,327019.99,a
+1995,AB,Alberta,Unspecified,3042.95,a
+1995,BC,British Columbia,Human activity,19714.4,a
+1995,BC,British Columbia,Lightning,28365.6,a
+1995,MB,Manitoba,Human activity,7366.5,a
+1995,MB,Manitoba,Lightning,881870.6,a
+1995,MB,Manitoba,Unspecified,0.1,a
+1995,NB,New Brunswick,Human activity,408.5,a
+1995,NB,New Brunswick,Lightning,45.9,a
+1995,NB,New Brunswick,Unspecified,115.1,a
+1995,NL,Newfoundland and Labrador,Human activity,301.1,a
+1995,NL,Newfoundland and Labrador,Lightning,400.0,a
+1995,NS,Nova Scotia,Human activity,369.95,a
+1995,NS,Nova Scotia,Lightning,0.33,a
+1995,NS,Nova Scotia,Unspecified,34.23,a
+1995,NT,Northwest Territories,Human activity,111783.76,a
+1995,NT,Northwest Territories,Human activity,15996.9,a
+1995,NT,Northwest Territories,Lightning,2715574.67,a
+1995,NT,Northwest Territories,Unspecified,11.11,a
+1995,ON,Ontario,Human activity,41933.5,a
+1995,ON,Ontario,Lightning,570412.5,a
+1995,ON,Ontario,Unspecified,216.9000002,a
+1995,PC,Parks Canada,Human activity,0.4,a
+1995,PC,Parks Canada,Lightning,4025.6,a
+1995,PC,Parks Canada,Unspecified,378.8,a
+1995,QC,Quebec,Human activity,123078.5,a
+1995,QC,Quebec,Lightning,604648.2,a
+1995,SK,Saskatchewan,Human activity,63833.71,a
+1995,SK,Saskatchewan,Lightning,1584600.18,a
+1995,YT,Yukon,Human activity,389.76,a
+1995,YT,Yukon,Lightning,260989.98,a
+1995,YT,Yukon,Unspecified,502.5,a
+1996,AB,Alberta,Human activity,655.24,a
+1996,AB,Alberta,Lightning,1281.76,a
+1996,AB,Alberta,Unspecified,24.39,a
+1996,BC,British Columbia,Human activity,6579.8,a
+1996,BC,British Columbia,Lightning,14089.3,a
+1996,MB,Manitoba,Human activity,2882.7,a
+1996,MB,Manitoba,Lightning,122443.7,a
+1996,NB,New Brunswick,Human activity,1027.5,a
+1996,NB,New Brunswick,Lightning,908.1,a
+1996,NB,New Brunswick,Unspecified,81.2,a
+1996,NL,Newfoundland and Labrador,Human activity,3161.1,a
+1996,NL,Newfoundland and Labrador,Lightning,78149.3,a
+1996,NS,Nova Scotia,Human activity,601.63,a
+1996,NS,Nova Scotia,Lightning,2.27,a
+1996,NS,Nova Scotia,Unspecified,35.32,a
+1996,NT,Northwest Territories,Human activity,84.66,a
+1996,NT,Northwest Territories,Lightning,371460.06,a
+1996,ON,Ontario,Human activity,1849.800002,a
+1996,ON,Ontario,Lightning,443461.2,a
+1996,ON,Ontario,Unspecified,3691.1,a
+1996,PC,Parks Canada,Lightning,13635.7,a
+1996,QC,Quebec,Human activity,9575.9,a
+1996,QC,Quebec,Lightning,682013.7,a
+1996,SK,Saskatchewan,Human activity,732.31,a
+1996,SK,Saskatchewan,Lightning,12254.68,a
+1996,YT,Yukon,Human activity,15040.38,a
+1996,YT,Yukon,Lightning,76026.75,a
+1997,AB,Alberta,Human activity,4383.07,a
+1997,AB,Alberta,Lightning,322.27,a
+1997,AB,Alberta,Unspecified,19.61,a
+1997,BC,British Columbia,Human activity,2635.4,a
+1997,BC,British Columbia,Lightning,332.4,a
+1997,MB,Manitoba,Human activity,3648.7,a
+1997,MB,Manitoba,Lightning,38150.4,a
+1997,NB,New Brunswick,Human activity,219.8,a
+1997,NB,New Brunswick,Lightning,17.1,a
+1997,NB,New Brunswick,Unspecified,27.0,a
+1997,NL,Newfoundland and Labrador,Human activity,8261.5,a
+1997,NL,Newfoundland and Labrador,Lightning,283.2,a
+1997,NS,Nova Scotia,Human activity,501.67,a
+1997,NS,Nova Scotia,Lightning,24.34,a
+1997,NS,Nova Scotia,Unspecified,39.15,a
+1997,NT,Northwest Territories,Human activity,9.97,a
+1997,NT,Northwest Territories,Lightning,126521.29,a
+1997,NT,Northwest Territories,Unspecified,0.01,a
+1997,ON,Ontario,Human activity,2113.300002,a
+1997,ON,Ontario,Lightning,36224.3,a
+1997,ON,Ontario,Unspecified,281.9000002,a
+1997,PC,Parks Canada,Lightning,199.0,a
+1997,QC,Quebec,Human activity,4713.7,a
+1997,QC,Quebec,Lightning,388365.5,a
+1997,SK,Saskatchewan,Human activity,1669.69,a
+1997,SK,Saskatchewan,Lightning,2207.22,a
+1997,YT,Yukon,Human activity,78.81,a
+1997,YT,Yukon,Lightning,11391.24,a
+1998,AB,Alberta,Human activity,74976.88,a
+1998,AB,Alberta,Lightning,651766.17,a
+1998,AB,Alberta,Unspecified,225.02,a
+1998,BC,British Columbia,Human activity,6552.156,a
+1998,BC,British Columbia,Lightning,70015.188,a
+1998,MB,Manitoba,Human activity,4837.8,a
+1998,MB,Manitoba,Lightning,445734.3,a
+1998,NB,New Brunswick,Human activity,274.9,a
+1998,NB,New Brunswick,Lightning,4.1,a
+1998,NB,New Brunswick,Unspecified,133.4,a
+1998,NL,Newfoundland and Labrador,Human activity,1085.5,a
+1998,NL,Newfoundland and Labrador,Lightning,39075.7,a
+1998,NS,Nova Scotia,Human activity,306.67,a
+1998,NS,Nova Scotia,Lightning,12.13,a
+1998,NS,Nova Scotia,Unspecified,77.93,a
+1998,NT,Northwest Territories,Human activity,79.72,a
+1998,NT,Northwest Territories,Lightning,1458875.43,a
+1998,NT,Northwest Territories,Unspecified,5.01,a
+1998,ON,Ontario,Human activity,4137.500002,a
+1998,ON,Ontario,Lightning,127542.1,a
+1998,ON,Ontario,Unspecified,26492.8,a
+1998,PC,Parks Canada,Human activity,200.2,a
+1998,PC,Parks Canada,Lightning,27808.0,a
+1998,QC,Quebec,Human activity,13329.3,a
+1998,QC,Quebec,Lightning,404977.5,a
+1998,SK,Saskatchewan,Human activity,158432.55,a
+1998,SK,Saskatchewan,Lightning,880263.67,a
+1998,YT,Yukon,Human activity,63760.73,a
+1998,YT,Yukon,Lightning,279911.67,a
+1998,YT,Yukon,Unspecified,59.0,a
+1999,AB,Alberta,Human activity,3722.86,a
+1999,AB,Alberta,Human activity,0.0,a
+1999,AB,Alberta,Lightning,116724.7,a
+1999,AB,Alberta,Unspecified,57.21,a
+1999,BC,British Columbia,Human activity,4834.0,a
+1999,BC,British Columbia,Lightning,6721.41,a
+1999,MB,Manitoba,Human activity,53387.8,a
+1999,MB,Manitoba,Lightning,57065.7,a
+1999,NB,New Brunswick,Human activity,831.0,a
+1999,NB,New Brunswick,Lightning,545.7,a
+1999,NB,New Brunswick,Unspecified,76.1,a
+1999,NL,Newfoundland and Labrador,Human activity,11262.4,a
+1999,NL,Newfoundland and Labrador,Lightning,27777.8,a
+1999,NS,Nova Scotia,Human activity,1788.39,a
+1999,NS,Nova Scotia,Lightning,16.36,a
+1999,NS,Nova Scotia,Unspecified,18.69,a
+1999,NT,Northwest Territories,Human activity,31.65,a
+1999,NT,Northwest Territories,Human activity,11158.0,a
+1999,NT,Northwest Territories,Lightning,549844.38,a
+1999,NT,Northwest Territories,Unspecified,0.61,a
+1999,ON,Ontario,Human activity,251129.6,a
+1999,ON,Ontario,Lightning,76924.8,a
+1999,ON,Ontario,Unspecified,272.4000002,a
+1999,PC,Parks Canada,Human activity,2475.3,a
+1999,PC,Parks Canada,Lightning,67015.2,a
+1999,QC,Quebec,Human activity,3927.8,a
+1999,QC,Quebec,Lightning,93819.4,a
+1999,SK,Saskatchewan,Human activity,9135.45,a
+1999,SK,Saskatchewan,Lightning,171684.79,a
+1999,YT,Yukon,Human activity,3280.24,a
+1999,YT,Yukon,Lightning,191536.24,a
+2000,AB,Alberta,Human activity,4759.14,a
+2000,AB,Alberta,Lightning,9958.0,a
+2000,AB,Alberta,Unspecified,18.76,a
+2000,BC,British Columbia,Human activity,11361.754,a
+2000,BC,British Columbia,Lightning,6190.258,a
+2000,MB,Manitoba,Unspecified,111699.272,a
+2000,NB,New Brunswick,Human activity,370.0,a
+2000,NB,New Brunswick,Lightning,70.8,a
+2000,NB,New Brunswick,Unspecified,50.3,a
+2000,NL,Newfoundland and Labrador,Human activity,232.0,a
+2000,NL,Newfoundland and Labrador,Lightning,103304.167,a
+2000,NS,Nova Scotia,Human activity,300.87,a
+2000,NS,Nova Scotia,Lightning,1.99,a
+2000,NS,Nova Scotia,Unspecified,185.31,a
+2000,NT,Northwest Territories,Human activity,20.83,a
+2000,NT,Northwest Territories,Human activity,17.8,a
+2000,NT,Northwest Territories,Lightning,177796.14,a
+2000,NT,Northwest Territories,Unspecified,1.02,a
+2000,ON,Ontario,Human activity,1420.500003,a
+2000,ON,Ontario,Lightning,5293.200001,a
+2000,ON,Ontario,Unspecified,64.70000003,a
+2000,PC,Parks Canada,Human activity,5570.4,a
+2000,PC,Parks Canada,Lightning,7437.02,a
+2000,QC,Quebec,Human activity,672.4,a
+2000,QC,Quebec,Lightning,38535.9,a
+2000,SK,Saskatchewan,Human activity,10779.06,a
+2000,SK,Saskatchewan,Lightning,130027.11,a
+2000,YT,Yukon,Human activity,10.33,a
+2000,YT,Yukon,Lightning,7642.53,a
+2000,YT,Yukon,Unspecified,363.0,a
+2001,AB,Alberta,Human activity,137095.04,a
+2001,AB,Alberta,Lightning,16932.3,a
+2001,AB,Alberta,Unspecified,76.39,a
+2001,BC,British Columbia,Human activity,4843.569,a
+2001,BC,British Columbia,Lightning,4983.38,a
+2001,MB,Manitoba,Unspecified,80521.829,a
+2001,NB,New Brunswick,Human activity,473.3,a
+2001,NB,New Brunswick,Lightning,25.3,a
+2001,NB,New Brunswick,Unspecified,263.9,a
+2001,NL,Newfoundland and Labrador,Human activity,324.6,a
+2001,NL,Newfoundland and Labrador,Lightning,640.988,a
+2001,NS,Nova Scotia,Human activity,471.1,a
+2001,NS,Nova Scotia,Lightning,7.65,a
+2001,NS,Nova Scotia,Unspecified,50.06,a
+2001,NT,Northwest Territories,Human activity,5.23,a
+2001,NT,Northwest Territories,Lightning,111256.49,a
+2001,ON,Ontario,Human activity,1520.1,a
+2001,ON,Ontario,Lightning,9235.400001,a
+2001,ON,Ontario,Unspecified,89.70000001,a
+2001,PC,Parks Canada,Human activity,3815.132,a
+2001,PC,Parks Canada,Lightning,21175.611,a
+2001,PC,Parks Canada,Unspecified,2.302,a
+2001,QC,Quebec,Human activity,5877.3,a
+2001,QC,Quebec,Lightning,27190.9,a
+2001,SK,Saskatchewan,Human activity,39183.66,a
+2001,SK,Saskatchewan,Lightning,164244.76,a
+2001,YT,Yukon,Human activity,6.82,a
+2001,YT,Yukon,Lightning,17327.66,a
+2002,AB,Alberta,Human activity,247826.19,a
+2002,AB,Alberta,Human activity,7.0,a
+2002,AB,Alberta,Lightning,248579.43,a
+2002,AB,Alberta,Unspecified,6.59,a
+2002,BC,British Columbia,Human activity,4353.763,a
+2002,BC,British Columbia,Lightning,4216.797,a
+2002,MB,Manitoba,Unspecified,95404.79,a
+2002,NB,New Brunswick,Human activity,255.5,a
+2002,NB,New Brunswick,Lightning,33.0,a
+2002,NB,New Brunswick,Unspecified,37.0,a
+2002,NL,Newfoundland and Labrador,Human activity,260.1,a
+2002,NL,Newfoundland and Labrador,Lightning,14524.546,a
+2002,NS,Nova Scotia,Human activity,190.04,a
+2002,NS,Nova Scotia,Lightning,9.72,a
+2002,NS,Nova Scotia,Unspecified,11.49,a
+2002,NT,Northwest Territories,Human activity,18.04,a
+2002,NT,Northwest Territories,Lightning,27067.63,a
+2002,NT,Northwest Territories,Unspecified,3.5,a
+2002,ON,Ontario,Human activity,2326.700001,a
+2002,ON,Ontario,Lightning,178041.9,a
+2002,ON,Ontario,Unspecified,1851.1,a
+2002,PC,Parks Canada,Human activity,2128.31,a
+2002,PC,Parks Canada,Lightning,6753.71,a
+2002,PC,Parks Canada,Unspecified,2.2,a
+2002,QC,Quebec,Human activity,5943.3,a
+2002,QC,Quebec,Lightning,1007806.3,a
+2002,SK,Saskatchewan,Human activity,101467.57,a
+2002,SK,Saskatchewan,Lightning,778142.47,a
+2002,YT,Yukon,Human activity,22.66,a
+2002,YT,Yukon,Lightning,36181.45,a
+2003,AB,Alberta,Human activity,3575.9,a
+2003,AB,Alberta,Lightning,51372.71,a
+2003,AB,Alberta,Unspecified,19958.31,a
+2003,BC,British Columbia,Human activity,81744.683,a
+2003,BC,British Columbia,Lightning,183168.879,a
+2003,MB,Manitoba,Unspecified,938176.427,a
+2003,NB,New Brunswick,Human activity,213.7,a
+2003,NB,New Brunswick,Lightning,4.3,a
+2003,NB,New Brunswick,Unspecified,20.2,a
+2003,NL,Newfoundland and Labrador,Human activity,683.0,a
+2003,NL,Newfoundland and Labrador,Lightning,27028.13,a
+2003,NS,Nova Scotia,Human activity,1235.99,a
+2003,NS,Nova Scotia,Lightning,0.13,a
+2003,NS,Nova Scotia,Unspecified,20.64,a
+2003,NT,Northwest Territories,Human activity,9.3,a
+2003,NT,Northwest Territories,Lightning,127812.1,a
+2003,ON,Ontario,Human activity,8393.500002,a
+2003,ON,Ontario,Lightning,309983.4,a
+2003,ON,Ontario,Unspecified,734.0999998,a
+2003,PC,Parks Canada,Human activity,39483.851,a
+2003,PC,Parks Canada,Lightning,112464.6,a
+2003,QC,Quebec,Human activity,9398.1,a
+2003,QC,Quebec,Lightning,78462.2,a
+2003,SK,Saskatchewan,Human activity,12668.23,a
+2003,SK,Saskatchewan,Lightning,112995.52,a
+2003,YT,Yukon,Human activity,2940.47,a
+2003,YT,Yukon,Lightning,45844.86,a
+2004,AB,Alberta,Human activity,4207.78,a
+2004,AB,Alberta,Human activity,0.2,a
+2004,AB,Alberta,Lightning,231905.13,a
+2004,AB,Alberta,Reburn,41.01,a
+2004,AB,Alberta,Unspecified,9.26,a
+2004,BC,British Columbia,Human activity,2175.187,a
+2004,BC,British Columbia,Lightning,218112.29,a
+2004,MB,Manitoba,Human activity,362.0,a
+2004,MB,Manitoba,Lightning,18074.1,a
+2004,MB,Manitoba,Unspecified,8384.3,a
+2004,NB,New Brunswick,Human activity,385.8,a
+2004,NB,New Brunswick,Lightning,4.6,a
+2004,NB,New Brunswick,Unspecified,68.4,a
+2004,NL,Newfoundland and Labrador,Human activity,1224.5,a
+2004,NL,Newfoundland and Labrador,Lightning,931.586,a
+2004,NS,Nova Scotia,Human activity,287.52,a
+2004,NS,Nova Scotia,Lightning,0.45,a
+2004,NS,Nova Scotia,Unspecified,1.86,a
+2004,NT,Northwest Territories,Human activity,7637.95,a
+2004,NT,Northwest Territories,Lightning,499695.38,a
+2004,NT,Northwest Territories,Unspecified,8287.7,a
+2004,ON,Ontario,Human activity,1487.799999,a
+2004,ON,Ontario,Lightning,120.2000005,a
+2004,ON,Ontario,Unspecified,9.599999987,a
+2004,PC,Parks Canada,Human activity,3260.0126,a
+2004,PC,Parks Canada,Lightning,195464.62,a
+2004,PC,Parks Canada,Unspecified,5.11,a
+2004,QC,Quebec,Human activity,802.1,a
+2004,QC,Quebec,Lightning,2242.1,a
+2004,SK,Saskatchewan,Human activity,7405.16,a
+2004,SK,Saskatchewan,Lightning,250726.45,a
+2004,YT,Yukon,Human activity,11631.47,a
+2004,YT,Yukon,Lightning,1708032.62,a
+2005,AB,Alberta,Human activity,12036.34,a
+2005,AB,Alberta,Human activity,3.91,a
+2005,AB,Alberta,Lightning,48640.28,a
+2005,AB,Alberta,Reburn,0.12,a
+2005,AB,Alberta,Unspecified,45.49,a
+2005,BC,British Columbia,Human activity,7844.705,a
+2005,BC,British Columbia,Lightning,27097.361,a
+2005,MB,Manitoba,Human activity,3585.2,a
+2005,MB,Manitoba,Lightning,69095.4,a
+2005,NB,New Brunswick,Human activity,455.4,a
+2005,NB,New Brunswick,Lightning,9.9,a
+2005,NB,New Brunswick,Unspecified,33.0,a
+2005,NL,Newfoundland and Labrador,Human activity,187.2,a
+2005,NL,Newfoundland and Labrador,Lightning,18061.319,a
+2005,NS,Nova Scotia,Human activity,472.0,a
+2005,NS,Nova Scotia,Lightning,0.0,a
+2005,NS,Nova Scotia,Unspecified,23.0,a
+2005,NT,Northwest Territories,Human activity,9.11,a
+2005,NT,Northwest Territories,Lightning,216865.2,a
+2005,NT,Northwest Territories,Unspecified,1258.31,a
+2005,ON,Ontario,Human activity,3167.800005,a
+2005,ON,Ontario,Lightning,39126.8,a
+2005,ON,Ontario,Unspecified,44.00000006,a
+2005,PC,Parks Canada,Human activity,6244.811,a
+2005,PC,Parks Canada,Lightning,31070.51,a
+2005,PC,Parks Canada,Unspecified,0.7,a
+2005,QC,Quebec,Human activity,33359.6,a
+2005,QC,Quebec,Lightning,766770.7,a
+2005,SK,Saskatchewan,Human activity,8276.24,a
+2005,SK,Saskatchewan,Lightning,205497.22,a
+2005,YT,Yukon,Human activity,1.51,a
+2005,YT,Yukon,Lightning,187436.83,a
+2006,AB,Alberta,Human activity,21166.12,a
+2006,AB,Alberta,Human activity,1.79,a
+2006,AB,Alberta,Lightning,97576.92,a
+2006,AB,Alberta,Reburn,33.26,a
+2006,AB,Alberta,Unspecified,23.66,a
+2006,BC,British Columbia,Human activity,9454.723,a
+2006,BC,British Columbia,Lightning,129696.069,a
+2006,MB,Manitoba,Human activity,6613.3,a
+2006,MB,Manitoba,Lightning,159437.0,a
+2006,NB,New Brunswick,Human activity,574.4,a
+2006,NB,New Brunswick,Lightning,8.7,a
+2006,NB,New Brunswick,Unspecified,39.5,a
+2006,NL,Newfoundland and Labrador,Human activity,153.7,a
+2006,NL,Newfoundland and Labrador,Lightning,3311.868,a
+2006,NS,Nova Scotia,Human activity,1562.0,a
+2006,NS,Nova Scotia,Unspecified,10.0,a
+2006,NT,Northwest Territories,Human activity,68.68,a
+2006,NT,Northwest Territories,Lightning,53312.35,a
+2006,NT,Northwest Territories,Unspecified,16.0,a
+2006,ON,Ontario,Human activity,1762.999998,a
+2006,ON,Ontario,Lightning,145286.1,a
+2006,ON,Ontario,Unspecified,2572.5,a
+2006,PC,Parks Canada,Human activity,5711.59,a
+2006,PC,Parks Canada,Lightning,20320.38,a
+2006,PC,Parks Canada,Unspecified,6804.1,a
+2006,QC,Quebec,Human activity,65210.6,a
+2006,QC,Quebec,Lightning,71140.5,a
+2006,SK,Saskatchewan,Human activity,181715.17,a
+2006,SK,Saskatchewan,Lightning,1022011.37,a
+2006,YT,Yukon,Human activity,4.04,a
+2006,YT,Yukon,Lightning,95029.3,a
+2007,AB,Alberta,Human activity,857.97,a
+2007,AB,Alberta,Lightning,102757.68,a
+2007,AB,Alberta,Reburn,1.2,a
+2007,AB,Alberta,Unspecified,2.15,a
+2007,BC,British Columbia,Human activity,12242.438,a
+2007,BC,British Columbia,Lightning,17243.066,a
+2007,MB,Manitoba,Human activity,4912.9,a
+2007,MB,Manitoba,Lightning,331367.9,a
+2007,NB,New Brunswick,Human activity,384.4,a
+2007,NB,New Brunswick,Lightning,25.2,a
+2007,NB,New Brunswick,Unspecified,181.4,a
+2007,NL,Newfoundland and Labrador,Human activity,324.146,a
+2007,NL,Newfoundland and Labrador,Lightning,11026.484,a
+2007,NL,Newfoundland and Labrador,Unspecified,0.293,a
+2007,NS,Nova Scotia,Human activity,508.0,a
+2007,NS,Nova Scotia,Lightning,0.0,a
+2007,NS,Nova Scotia,Unspecified,181.0,a
+2007,NT,Northwest Territories,Human activity,22183.3,a
+2007,NT,Northwest Territories,Lightning,422923.87,a
+2007,NT,Northwest Territories,Unspecified,22.21,a
+2007,ON,Ontario,Human activity,33191.3,a
+2007,ON,Ontario,Human activity,25.0,a
+2007,ON,Ontario,Lightning,6747.100001,a
+2007,ON,Ontario,Unspecified,713.4,a
+2007,PC,Parks Canada,Human activity,2241.97,a
+2007,PC,Parks Canada,Lightning,222118.51,a
+2007,PC,Parks Canada,Unspecified,3.1,a
+2007,QC,Quebec,Human activity,120725.3,a
+2007,QC,Quebec,Lightning,221956.8,a
+2007,SK,Saskatchewan,Human activity,4569.16,a
+2007,SK,Saskatchewan,Lightning,208303.96,a
+2007,YT,Yukon,Human activity,13989.01,a
+2007,YT,Yukon,Lightning,23718.75,a
+2008,AB,Alberta,Human activity,2163.68,a
+2008,AB,Alberta,Human activity,42.11,a
+2008,AB,Alberta,Lightning,18522.77,a
+2008,AB,Alberta,Reburn,8.42,a
+2008,AB,Alberta,Unspecified,51.85,a
+2008,BC,British Columbia,Human activity,8649.034,a
+2008,BC,British Columbia,Lightning,4661.254,a
+2008,BC,British Columbia,Unspecified,37.0,a
+2008,MB,Manitoba,Human activity,73198.2,a
+2008,MB,Manitoba,Lightning,77474.4,a
+2008,NB,New Brunswick,Human activity,125.7,a
+2008,NB,New Brunswick,Lightning,6.8,a
+2008,NB,New Brunswick,Unspecified,10.0,a
+2008,NL,Newfoundland and Labrador,Human activity,98.4,a
+2008,NL,Newfoundland and Labrador,Lightning,1.6,a
+2008,NS,Nova Scotia,Human activity,2638.0,a
+2008,NS,Nova Scotia,Lightning,0.0,a
+2008,NS,Nova Scotia,Unspecified,62.0,a
+2008,NT,Northwest Territories,Human activity,19.78,a
+2008,NT,Northwest Territories,Lightning,308546.47,a
+2008,NT,Northwest Territories,Unspecified,222.5,a
+2008,ON,Ontario,Human activity,106.0000003,a
+2008,ON,Ontario,Lightning,1193.7,a
+2008,ON,Ontario,Unspecified,16.70000026,a
+2008,PC,Parks Canada,Human activity,8576.212,a
+2008,PC,Parks Canada,Human activity,9255.0,a
+2008,PC,Parks Canada,Lightning,4487.8,a
+2008,PC,Parks Canada,Unspecified,19.711,a
+2008,QC,Quebec,Human activity,148.2,a
+2008,QC,Quebec,Lightning,1333.4,a
+2008,SK,Saskatchewan,Human activity,30996.62,a
+2008,SK,Saskatchewan,Lightning,1099180.61,a
+2008,YT,Yukon,Human activity,11.83,a
+2008,YT,Yukon,Lightning,13056.05,a
+2009,AB,Alberta,Human activity,2885.58,a
+2009,AB,Alberta,Human activity,735.87,a
+2009,AB,Alberta,Lightning,63251.5,a
+2009,AB,Alberta,Reburn,5.97,a
+2009,AB,Alberta,Unspecified,23.92,a
+2009,BC,British Columbia,Human activity,26716.472,a
+2009,BC,British Columbia,Lightning,220626.996,a
+2009,MB,Manitoba,Human activity,2230.2,a
+2009,MB,Manitoba,Lightning,641.8,a
+2009,NB,New Brunswick,Human activity,233.7,a
+2009,NB,New Brunswick,Lightning,0.2,a
+2009,NB,New Brunswick,Unspecified,20.0,a
+2009,NL,Newfoundland and Labrador,Human activity,392.584,a
+2009,NL,Newfoundland and Labrador,Lightning,16263.609,a
+2009,NS,Nova Scotia,Human activity,858.0,a
+2009,NS,Nova Scotia,Unspecified,25.0,a
+2009,NT,Northwest Territories,Human activity,22.6,a
+2009,NT,Northwest Territories,Lightning,2034.15,a
+2009,NT,Northwest Territories,Unspecified,0.1,a
+2009,ON,Ontario,Human activity,375.4000003,a
+2009,ON,Ontario,Lightning,20308.1,a
+2009,ON,Ontario,Unspecified,7.100000024,a
+2009,PC,Parks Canada,Human activity,19453.456,a
+2009,PC,Parks Canada,Human activity,6264.22,a
+2009,PC,Parks Canada,Lightning,17133.82,a
+2009,PC,Parks Canada,Unspecified,10.082,a
+2009,QC,Quebec,Human activity,2246.3,a
+2009,QC,Quebec,Lightning,91725.4,a
+2009,SK,Saskatchewan,Human activity,4822.03,a
+2009,SK,Saskatchewan,Lightning,32737.34,a
+2009,YT,Yukon,Human activity,3.23,a
+2009,YT,Yukon,Lightning,230509.12,a
+2010,AB,Alberta,Human activity,2268.74,a
+2010,AB,Alberta,Human activity,1.5,a
+2010,AB,Alberta,Lightning,78830.84,a
+2010,AB,Alberta,Reburn,138.82,a
+2010,AB,Alberta,Unspecified,83.14,a
+2010,BC,British Columbia,Human activity,10435.463,a
+2010,BC,British Columbia,Lightning,326731.735,a
+2010,MB,Manitoba,Human activity,22395.4,a
+2010,MB,Manitoba,Lightning,165098.7,a
+2010,NB,New Brunswick,Human activity,130.5,a
+2010,NB,New Brunswick,Lightning,10.8,a
+2010,NB,New Brunswick,Unspecified,15.0,a
+2010,NL,Newfoundland and Labrador,Human activity,38.6,a
+2010,NL,Newfoundland and Labrador,Lightning,956.649,a
+2010,NS,Nova Scotia,Unspecified,435.74,a
+2010,NT,Northwest Territories,Human activity,152.56,a
+2010,NT,Northwest Territories,Lightning,350649.38,a
+2010,NT,Northwest Territories,Unspecified,125.05,a
+2010,ON,Ontario,Human activity,2609.4,a
+2010,ON,Ontario,Lightning,10108.9,a
+2010,ON,Ontario,Unspecified,2105.9,a
+2010,PC,Parks Canada,Human activity,30.5,a
+2010,PC,Parks Canada,Human activity,2110.5,a
+2010,PC,Parks Canada,Lightning,5837.2414,a
+2010,PC,Parks Canada,Unspecified,5.1,a
+2010,QC,Quebec,Human activity,36000.1,a
+2010,QC,Quebec,Lightning,278883.7,a
+2010,SK,Saskatchewan,Human activity,208237.07,a
+2010,SK,Saskatchewan,Lightning,1526570.11,a
+2010,YT,Yukon,Human activity,5261.48,a
+2010,YT,Yukon,Lightning,141701.69,a
+2011,AB,Alberta,Human activity,128203.33,a
+2011,AB,Alberta,Human activity,0.6,a
+2011,AB,Alberta,Lightning,74245.95,a
+2011,AB,Alberta,Reburn,0.16,a
+2011,AB,Alberta,Unspecified,603438.14,a
+2011,BC,British Columbia,Human activity,1183.169,a
+2011,BC,British Columbia,Lightning,11379.716,a
+2011,MB,Manitoba,Human activity,26229.1,a
+2011,MB,Manitoba,Lightning,100615.2,a
+2011,NB,New Brunswick,Human activity,33.4,a
+2011,NB,New Brunswick,Lightning,2.2,a
+2011,NB,New Brunswick,Unspecified,1.9,a
+2011,NL,Newfoundland and Labrador,Human activity,38.4,a
+2011,NL,Newfoundland and Labrador,Unspecified,387.21487,a
+2011,NS,Nova Scotia,Unspecified,150.27,a
+2011,NT,Northwest Territories,Human activity,151.17,a
+2011,NT,Northwest Territories,Lightning,329358.2675,a
+2011,NT,Northwest Territories,Unspecified,71.3871,a
+2011,ON,Ontario,Human activity,1850.500001,a
+2011,ON,Ontario,Lightning,632086.6,a
+2011,ON,Ontario,Unspecified,1437.6,a
+2011,PC,Parks Canada,Human activity,14849.933,a
+2011,PC,Parks Canada,Human activity,4816.2,a
+2011,PC,Parks Canada,Lightning,23511.41,a
+2011,PC,Parks Canada,Unspecified,46798.25,a
+2011,QC,Quebec,Human activity,2272.7,a
+2011,QC,Quebec,Lightning,10124.8,a
+2011,SK,Saskatchewan,Human activity,55403.5,a
+2011,SK,Saskatchewan,Lightning,288316.49,a
+2011,YT,Yukon,Human activity,119.88,a
+2011,YT,Yukon,Lightning,40344.45,a
+2012,AB,Alberta,Human activity,7553.0,a
+2012,AB,Alberta,Lightning,377851.12,a
+2012,AB,Alberta,Unspecified,414.3,a
+2012,BC,British Columbia,Human activity,5606.892,a
+2012,BC,British Columbia,Lightning,96509.765,a
+2012,MB,Manitoba,Human activity,21026.9,a
+2012,MB,Manitoba,Lightning,195861.4,a
+2012,NB,New Brunswick,Human activity,287.9,a
+2012,NB,New Brunswick,Lightning,0.8,a
+2012,NB,New Brunswick,Unspecified,72.4,a
+2012,NL,Newfoundland and Labrador,Human activity,1671.9,a
+2012,NL,Newfoundland and Labrador,Lightning,109.1,a
+2012,NL,Newfoundland and Labrador,Unspecified,27501.68559,a
+2012,NS,Nova Scotia,Unspecified,361.81,a
+2012,NT,Northwest Territories,Human activity,597.3,a
+2012,NT,Northwest Territories,Lightning,296543.84,a
+2012,NT,Northwest Territories,Unspecified,2615.22,a
+2012,ON,Ontario,Human activity,43438.7,a
+2012,ON,Ontario,Human activity,1207.0,a
+2012,ON,Ontario,Lightning,107873.5,a
+2012,ON,Ontario,Unspecified,236.1999998,a
+2012,PC,Parks Canada,Human activity,262.6071,a
+2012,PC,Parks Canada,Human activity,1420.3,a
+2012,PC,Parks Canada,Lightning,272200.609,a
+2012,PC,Parks Canada,Unspecified,620.0,a
+2012,QC,Quebec,Human activity,24781.7,a
+2012,QC,Quebec,Lightning,39261.4,a
+2012,SK,Saskatchewan,Human activity,6600.1,a
+2012,SK,Saskatchewan,Lightning,220910.3,a
+2012,SK,Saskatchewan,Unspecified,1.1,a
+2012,YT,Yukon,Human activity,6.47,a
+2012,YT,Yukon,Lightning,58273.73,a
+2013,AB,Alberta,Human activity,2101.0,a
+2013,AB,Alberta,Lightning,17372.64,a
+2013,AB,Alberta,Unspecified,105.2,a
+2013,BC,British Columbia,Human activity,4954.336,a
+2013,BC,British Columbia,Lightning,13348.763,a
+2013,MB,Manitoba,Human activity,895.6,a
+2013,MB,Manitoba,Lightning,1114519.2,a
+2013,NB,New Brunswick,Human activity,845.5,a
+2013,NB,New Brunswick,Lightning,0.2,a
+2013,NB,New Brunswick,Unspecified,34.4,a
+2013,NL,Newfoundland and Labrador,Human activity,27668.735,a
+2013,NL,Newfoundland and Labrador,Lightning,2474.861,a
+2013,NS,Nova Scotia,Human activity,295.217,a
+2013,NS,Nova Scotia,Lightning,0.1,a
+2013,NS,Nova Scotia,Unspecified,6.03,a
+2013,NT,Northwest Territories,Human activity,1188.4,a
+2013,NT,Northwest Territories,Lightning,536684.32,a
+2013,ON,Ontario,Human activity,823.7000012,a
+2013,ON,Ontario,Lightning,50216.4,a
+2013,ON,Ontario,Unspecified,49.89999852,a
+2013,PC,Parks Canada,Human activity,5015.8612,a
+2013,PC,Parks Canada,Human activity,1121.16,a
+2013,PC,Parks Canada,Lightning,48981.54,a
+2013,PC,Parks Canada,Unspecified,4725.21,a
+2013,QC,Quebec,Human activity,17130.7,a
+2013,QC,Quebec,Lightning,1855711.5,a
+2013,SK,Saskatchewan,Human activity,7202.6,a
+2013,SK,Saskatchewan,Lightning,356634.5,a
+2013,YT,Yukon,Human activity,6.45,a
+2013,YT,Yukon,Lightning,198307.34,a
+2014,AB,Alberta,Human activity,1203.51,a
+2014,AB,Alberta,Lightning,22470.08,a
+2014,AB,Alberta,Unspecified,19.12,a
+2014,BC,British Columbia,Human activity,8085.204,a
+2014,BC,British Columbia,Lightning,360840.982,a
+2014,MB,Manitoba,Human activity,1171.5,a
+2014,MB,Manitoba,Lightning,37936.4,a
+2014,NB,New Brunswick,Human activity,101.3,a
+2014,NB,New Brunswick,Lightning,0.5,a
+2014,NB,New Brunswick,Unspecified,9.8,a
+2014,NB,New Brunswick,Unspecified,1.5,a
+2014,NL,Newfoundland and Labrador,Unspecified,8832.0,a
+2014,NS,Nova Scotia,Human activity,536.6007,a
+2014,NS,Nova Scotia,Unspecified,27.86,a
+2014,NT,Northwest Territories,Human activity,10616.38,a
+2014,NT,Northwest Territories,Lightning,3407674.14,a
+2014,ON,Ontario,Human activity,241.9000009,a
+2014,ON,Ontario,Human activity,759.0,a
+2014,ON,Ontario,Lightning,5143.7,a
+2014,ON,Ontario,Unspecified,0.900000013,a
+2014,PC,Parks Canada,Human activity,0.3431,a
+2014,PC,Parks Canada,Human activity,3139.36,a
+2014,PC,Parks Canada,Lightning,267177.55,a
+2014,PC,Parks Canada,Unspecified,0.45,a
+2014,QC,Quebec,Human activity,8416.5,a
+2014,QC,Quebec,Lightning,55304.2,a
+2014,SK,Saskatchewan,Human activity,15529.66,a
+2014,SK,Saskatchewan,Lightning,327253.82,a
+2014,YT,Yukon,Human activity,23.581,a
+2014,YT,Yukon,Lightning,3137.013,a
+2015,AB,Alberta,Human activity,38610.55,a
+2015,AB,Alberta,Lightning,427638.87,a
+2015,AB,Alberta,Unspecified,67.88,a
+2015,BC,British Columbia,Human activity,57126.995,a
+2015,BC,British Columbia,Lightning,223737.266,a
+2015,MB,Manitoba,Human activity,6778.6,a
+2015,MB,Manitoba,Lightning,61353.0,a
+2015,NB,New Brunswick,Human activity,197.7,a
+2015,NB,New Brunswick,Lightning,45.6,a
+2015,NB,New Brunswick,Unspecified,16.8,a
+2015,NB,New Brunswick,Unspecified,2.2,a
+2015,NL,Newfoundland and Labrador,Human activity,9.9,a
+2015,NL,Newfoundland and Labrador,Lightning,3579.9,a
+2015,NS,Nova Scotia,Human activity,511.4599,a
+2015,NS,Nova Scotia,Unspecified,5.29,a
+2015,NT,Northwest Territories,Human activity,4.05,a
+2015,NT,Northwest Territories,Lightning,646983.59,a
+2015,ON,Ontario,Human activity,1243.400002,a
+2015,ON,Ontario,Human activity,3411.0,a
+2015,ON,Ontario,Lightning,38063.8,a
+2015,ON,Ontario,Unspecified,5.600000106,a
+2015,PC,Parks Canada,Human activity,8.3102,a
+2015,PC,Parks Canada,Human activity,6694.1,a
+2015,PC,Parks Canada,Lightning,457818.6,a
+2015,PC,Parks Canada,Unspecified,508.61,a
+2015,QC,Quebec,Human activity,1460.3,a
+2015,QC,Quebec,Lightning,3919.3,a
+2015,SK,Saskatchewan,Human activity,41757.38082,a
+2015,SK,Saskatchewan,Lightning,1716975.669,a
+2015,YT,Yukon,Human activity,41.9,a
+2015,YT,Yukon,Lightning,169799.71,a
+2016,AB,Alberta,Human activity,1134.0,a
+2016,AB,Alberta,Lightning,20015.05,a
+2016,AB,Alberta,Unspecified,485907.99,a
+2016,BC,British Columbia,Human activity,93320.648,a
+2016,BC,British Columbia,Lightning,7056.983,a
+2016,MB,Manitoba,Human activity,6700.6,a
+2016,MB,Manitoba,Lightning,31706.9,a
+2016,NB,New Brunswick,Human activity,199.2,a
+2016,NB,New Brunswick,Lightning,21.7,a
+2016,NB,New Brunswick,Unspecified,43.4,a
+2016,NB,New Brunswick,Unspecified,0.5,a
+2016,NL,Newfoundland and Labrador,Human activity,0.4,a
+2016,NL,Newfoundland and Labrador,Lightning,10602.9,a
+2016,NS,Nova Scotia,Human activity,774.987,a
+2016,NS,Nova Scotia,Lightning,17.551,a
+2016,NS,Nova Scotia,Unspecified,10.186,a
+2016,NT,Northwest Territories,Human activity,7819.08,a
+2016,NT,Northwest Territories,Lightning,247180.28,a
+2016,ON,Ontario,Human activity,6114.800001,a
+2016,ON,Ontario,Human activity,3096.0,a
+2016,ON,Ontario,Lightning,76921.7,a
+2016,ON,Ontario,Unspecified,76.29999999,a
+2016,PC,Parks Canada,Human activity,1.5453,a
+2016,PC,Parks Canada,Human activity,3383.1538,a
+2016,PC,Parks Canada,Lightning,7794.2901,a
+2016,PC,Parks Canada,Unspecified,0.5111,a
+2016,QC,Quebec,Human activity,334.4,a
+2016,QC,Quebec,Lightning,33036.4,a
+2016,SK,Saskatchewan,Human activity,2773.5,a
+2016,SK,Saskatchewan,Lightning,251990.9,a
+2016,SK,Saskatchewan,Unspecified,0.0,a
+2016,YT,Yukon,Human activity,2.28,a
+2016,YT,Yukon,Lightning,21535.12,a
+2017,AB,Alberta,Human activity,6832.69,a
+2017,AB,Alberta,Lightning,42316.3,a
+2017,AB,Alberta,Unspecified,84.32,a
+2017,BC,British Columbia,Human activity,225057.873,a
+2017,BC,British Columbia,Lightning,991081.007,a
+2017,BC,British Columbia,Unspecified,0.328,a
+2017,MB,Manitoba,Human activity,1365.9,a
+2017,MB,Manitoba,Lightning,221813.6,a
+2017,NB,New Brunswick,Human activity,530.3,a
+2017,NB,New Brunswick,Lightning,19.7,a
+2017,NB,New Brunswick,Unspecified,15.7,a
+2017,NB,New Brunswick,Unspecified,2.2,a
+2017,NL,Newfoundland and Labrador,Human activity,62.3,a
+2017,NL,Newfoundland and Labrador,Lightning,637.5,a
+2017,NS,Nova Scotia,Human activity,572.77,a
+2017,NT,Northwest Territories,Human activity,11.14,a
+2017,NT,Northwest Territories,Lightning,1030247.67,a
+2017,ON,Ontario,Human activity,87.40000091,a
+2017,ON,Ontario,Human activity,445.0,a
+2017,ON,Ontario,Lightning,112233.0,a
+2017,ON,Ontario,Unspecified,16.89999963,a
+2017,PC,Parks Canada,Human activity,3.86461,a
+2017,PC,Parks Canada,Human activity,1744.556,a
+2017,PC,Parks Canada,Lightning,92143.0224,a
+2017,PC,Parks Canada,Unspecified,25428.4701,a
+2017,QC,Quebec,Human activity,1692.7,a
+2017,QC,Quebec,Lightning,36699.2,a
+2017,SK,Saskatchewan,Human activity,451.2,a
+2017,SK,Saskatchewan,Lightning,398546.5,a
+2017,YT,Yukon,Human activity,18.7,a
+2017,YT,Yukon,Lightning,399261.45,a
+2018,AB,Alberta,Human activity,1887.8,a
+2018,AB,Alberta,Lightning,57901.81,a
+2018,AB,Alberta,Unspecified,395.61,a
+2018,BC,British Columbia,Human activity,121607.451,a
+2018,BC,British Columbia,Lightning,1229431.195,a
+2018,BC,British Columbia,Unspecified,2963.333,a
+2018,MB,Manitoba,Human activity,78900.9,a
+2018,MB,Manitoba,Lightning,155320.8,a
+2018,NB,New Brunswick,Human activity,250.1,a
+2018,NB,New Brunswick,Lightning,16.5,a
+2018,NB,New Brunswick,Unspecified,44.3,a
+2018,NL,Newfoundland and Labrador,Human activity,355.2,a
+2018,NL,Newfoundland and Labrador,Lightning,40.3,a
+2018,NL,Newfoundland and Labrador,Unspecified,0.0,a
+2018,NS,Nova Scotia,Human activity,193.6200003,a
+2018,NS,Nova Scotia,Lightning,1.790000031,a
+2018,NT,Northwest Territories,Human activity,0.23,a
+2018,NT,Northwest Territories,Lightning,15737.41,a
+2018,ON,Ontario,Human activity,15994.1,a
+2018,ON,Ontario,Lightning,249675.6,a
+2018,ON,Ontario,Unspecified,20.29999956,a
+2018,PC,Parks Canada,Human activity,193.5642,a
+2018,PC,Parks Canada,Human activity,37075.797,a
+2018,PC,Parks Canada,Lightning,25696.132,a
+2018,PC,Parks Canada,Unspecified,12594.732,a
+2018,PC,Parks Canada,Unspecified,2.0,a
+2018,PE,Prince Edward Island,Human activity,7.39015146,a
+2018,QC,Quebec,Human activity,15772.1,a
+2018,QC,Quebec,Lightning,70488.6,a
+2018,SK,Saskatchewan,Human activity,47146.6,a
+2018,SK,Saskatchewan,Lightning,108550.2,a
+2018,YT,Yukon,Human activity,6487.33,a
+2018,YT,Yukon,Lightning,74098.16,a
+2019,AB,Alberta,Human activity,3025.94,a
+2019,AB,Alberta,Lightning,127692.59,a
+2019,AB,Alberta,Unspecified,0.1,a
+2019,AB,Alberta,Unspecified,755224.61,a
+2019,BC,British Columbia,Human activity,4665.837,a
+2019,BC,British Columbia,Lightning,15584.59,a
+2019,BC,British Columbia,Unspecified,1256.097,a
+2019,MB,Manitoba,Human activity,7936.2,a
+2019,MB,Manitoba,Lightning,63317.9,a
+2019,MB,Manitoba,Unspecified,33.1,a
+2019,NB,New Brunswick,Human activity,183.6,a
+2019,NB,New Brunswick,Lightning,14.1,a
+2019,NB,New Brunswick,Unspecified,30.0,a
+2019,NL,Newfoundland and Labrador,Human activity,106.8,a
+2019,NL,Newfoundland and Labrador,Lightning,209.2,a
+2019,NS,Nova Scotia,Human activity,133.57,a
+2019,NS,Nova Scotia,Lightning,0.9,a
+2019,NS,Nova Scotia,Unspecified,2.3,a
+2019,NT,Northwest Territories,Human activity,4.54,a
+2019,NT,Northwest Territories,Lightning,105162.63,a
+2019,ON,Ontario,Human activity,16273.9,a
+2019,ON,Ontario,Lightning,253445.7,a
+2019,ON,Ontario,Unspecified,5.600000009,a
+2019,PC,Parks Canada,Human activity,4.34321,a
+2019,PC,Parks Canada,Human activity,308.15,a
+2019,PC,Parks Canada,Lightning,36405.98,a
+2019,PC,Parks Canada,Unspecified,0.3,a
+2019,PC,Parks Canada,Unspecified,81377.42,a
+2019,PE,Prince Edward Island,Human activity,14.21112824,a
+2019,QC,Quebec,Human activity,5087.1,a
+2019,QC,Quebec,Lightning,4516.9,a
+2019,SK,Saskatchewan,Human activity,1531.4,a
+2019,SK,Saskatchewan,Lightning,46622.2,a
+2019,SK,Saskatchewan,Unspecified,0.0,a
+2019,YT,Yukon,Human activity,1331.3,a
+2019,YT,Yukon,Lightning,254705.32,a
+2020,AB,Alberta,Unspecified,3275.0,e
+2020,BC,British Columbia,Human activity,86.538,a
+2020,BC,British Columbia,Unspecified,1.018,a
+2020,BC,British Columbia,Unspecified,14446.0,e
+2020,MB,Manitoba,Unspecified,49527.0,e
+2020,NB,New Brunswick,Unspecified,1388.0,e
+2020,NL,Newfoundland and Labrador,Unspecified,4178.0,e
+2020,NS,Nova Scotia,Unspecified,709.0,e
+2020,NT,Northwest Territories,Unspecified,19073.0,e
+2020,ON,Ontario,Unspecified,15480.0,e
+2020,PC,Parks Canada,Unspecified,1664.0,e
+2020,PE,Prince Edward Island,Unspecified,13.0,e
+2020,QC,Quebec,Unspecified,59985.0,e
+2020,SK,Saskatchewan,Unspecified,42160.0,e
+2020,YT,Yukon,Unspecified,15491.0,e

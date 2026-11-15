@@ -1,0 +1,19 @@
+file,column,type,description
+area_burned_by_cause_long.csv,year,integer,Calendar year of the reported burned area.
+area_burned_by_cause_long.csv,iso,string,"Two letter jurisdiction code used by the National Forestry Database (for example ON, BC, PC for Parks Canada)."
+area_burned_by_cause_long.csv,jurisdiction,string,"English name of the province, territory or Parks Canada."
+area_burned_by_cause_long.csv,cause,string,"Cause class: Human activity, Lightning, Unspecified or Reburn."
+area_burned_by_cause_long.csv,area_hectares,numeric,"Area burned in hectares for that year, jurisdiction and cause."
+area_burned_by_cause_long.csv,data_qualifier,string,National Forestry Database data qualifier code as published (often a).
+canada_area_burned_by_cause_annual.csv,year,integer,Calendar year of the reported burned area.
+canada_area_burned_by_cause_annual.csv,cause,string,"Cause class: Human activity, Lightning, Unspecified or Reburn."
+canada_area_burned_by_cause_annual.csv,area_hectares,numeric,"Area burned in hectares for that year, jurisdiction and cause."
+canada_area_burned_by_cause_wide.csv,year,integer,Calendar year of the reported burned area.
+canada_area_burned_by_cause_wide.csv,human_activity,numeric,National total area burned by human activity in hectares for the year.
+canada_area_burned_by_cause_wide.csv,lightning,numeric,National total area burned by lightning in hectares for the year.
+canada_area_burned_by_cause_wide.csv,reburn,numeric,National total area burned classed as reburn in hectares for the year.
+canada_area_burned_by_cause_wide.csv,unspecified,numeric,National total area burned with unspecified cause in hectares for the year.
+area_burned_by_jurisdiction_annual.csv,year,integer,Calendar year of the reported burned area.
+area_burned_by_jurisdiction_annual.csv,iso,string,"Two letter jurisdiction code used by the National Forestry Database (for example ON, BC, PC for Parks Canada)."
+area_burned_by_jurisdiction_annual.csv,jurisdiction,string,"English name of the province, territory or Parks Canada."
+area_burned_by_jurisdiction_annual.csv,area_hectares,numeric,"Area burned in hectares for that year, jurisdiction and cause."

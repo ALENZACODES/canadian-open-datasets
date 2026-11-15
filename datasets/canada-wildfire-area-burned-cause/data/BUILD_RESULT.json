@@ -1,0 +1,14 @@
+{
+  "slug": "canada-wildfire-area-burned-cause",
+  "ok": true,
+  "msg": "ready",
+  "stats": {
+    "y_first": 1990,
+    "y_last": 2020,
+    "y_max": 1995,
+    "ha_max": 7375318.8400002,
+    "ha_last": 227476.55599999998,
+    "rows": 939
+  },
+  "outdir": "/workspace/kaggle/science-gc-datasets/canada-wildfire-area-burned-cause"
+}
