@@ -1,0 +1,17 @@
+column,file,type,description
+province_territory,permanent_residents_by_province_category_month.csv,string,"Province or territory of intended destination. Canada is the national total section. Total is the published grand total row, also stored here as Canada."
+immigration_category,permanent_residents_by_province_category_month.csv,string,"Immigration category, program group, class total or Total, as published."
+row_type,permanent_residents_by_province_category_month.csv,string,"geography_total for the published total row of that geography, class_total for class subtotals such as Economic - Total, program_group for mid-level program totals, and category for detailed categories."
+year,permanent_residents_by_province_category_month.csv,integer,Calendar year of admission.
+month,permanent_residents_by_province_category_month.csv,integer,Month number 1 to 12.
+month_label,permanent_residents_by_province_category_month.csv,string,Month abbreviation as published.
+ref_date,permanent_residents_by_province_category_month.csv,datetime,First day of the admission month (YYYY-MM-DD).
+admissions,permanent_residents_by_province_category_month.csv,numeric,Number of permanent resident admissions. IRCC suppresses values between 0 and 5 as -- and rounds other values to the nearest 5. Suppressed cells are omitted.
+ref_date,canada_monthly_admissions.csv,datetime,First day of the admission month (YYYY-MM-DD).
+admissions,canada_monthly_admissions.csv,numeric,Number of permanent resident admissions. IRCC suppresses values between 0 and 5 as -- and rounds other values to the nearest 5. Suppressed cells are omitted.
+country_of_citizenship,permanent_residents_by_citizenship_month.csv,string,Country of citizenship as published.
+year,permanent_residents_by_citizenship_month.csv,integer,Calendar year of admission.
+month,permanent_residents_by_citizenship_month.csv,integer,Month number 1 to 12.
+month_label,permanent_residents_by_citizenship_month.csv,string,Month abbreviation as published.
+ref_date,permanent_residents_by_citizenship_month.csv,datetime,First day of the admission month (YYYY-MM-DD).
+admissions,permanent_residents_by_citizenship_month.csv,numeric,Number of permanent resident admissions. IRCC suppresses values between 0 and 5 as -- and rounds other values to the nearest 5. Suppressed cells are omitted.
