@@ -1,0 +1,47 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Household sector credit market summary table, seasonally adjusted estimates","38100238","378-0127","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3810023801",,"CURRENT - a cube available to the public and that is current","Quarterly","1990-01-01","2026-04-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Categories",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Credit market debt to disposable income","","11","","",1,
+"2","Consumer credit and mortgage liabilities to disposable income","","12","","",1,
+"2","Credit market debt - national balance sheet","","13","","",1,
+"2","Consumer credit - national balance sheet","","14","","",1,
+"2","Non-mortgage loans - national balance sheet","","15","","",1,
+"2","Mortgages - national balance sheet","","16","","",1,
+"2","Credit market debt - financial flow","","7","","",1,
+"2","Consumer credit - financial flow","","8","","",1,
+"2","Non-mortgage loans - financial flow","","9","","",1,
+"2","Mortgages - financial flow","","10","","",1,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"1806","National Balance Sheet Accounts"
+
+"Subject Code","Subject Name"
+"36","Economic accounts"
+
+"Note ID",Note
+1,"Seasonally adjusted at quarterly rates."
+
+"Correction ID","Correction Date","Correction Note"
