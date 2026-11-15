@@ -1,0 +1,16 @@
+{
+  "slug": "canada-household-credit-liabilities",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-household-credit-liabilities",
+  "table_id": "36-10-0639-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-household-credit-liabilities",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-household-credit-liabilities/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.6470588235294118,
+  "facts": [
+    "Seasonally adjusted total credit liabilities of households were 3.30 million (see scalar_factor, usually millions of dollars) in 2026-08.",
+    "Mortgage loans on the same basis were 2.46 million in 2026-08.",
+    "The table is national only. It starts in January 1990 and runs through August 2026."
+  ],
+  "publish_msg": "ready"
+}

@@ -1,0 +1,104 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Credit liabilities of households","36100639",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610063901",,"CURRENT - a cube available to the public and that is current","Monthly","1990-01-01","2026-08-01","3",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Seasonality",,""
+"3","Credit liabilities of households",15,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Raw data","","1","","",,
+"2","Seasonally adjusted data","","2","","",,
+"3","Non-mortgage loans","","1","","",,
+"3","Chartered banks","","2","1","",1,
+"3","Personal loans","","3","2","",1;2,
+"3","Of which: Auto loans","","44","3","",1;2,
+"3","Credit cards","","4","2","",1;2,
+"3","Lines of credit","","5","2","",1;2;3,
+"3","Lines of credit, of which: excluding home equity lines of credit","","6","5","",1;2,
+"3","Other personal loans","","7","2","",1;2,
+"3","Unincorporated business","","8","2","",1;2,
+"3","Non-banks","","9","1","",1,
+"3","Government","","10","9","",1;4,
+"3","Non-bank financial corporations","","11","9","",1;4,
+"3","Credit unions and caisse populaires","","12","11","",1;4,
+"3","Trust companies and mortgage loan companies","","13","11","",1;4,
+"3","Financial vehicle corporations engaged in securitization","","14","11","",1;5,
+"3","Other financial corporations n.e.i.","","15","11","",1;6,
+"3","Other lenders n.e.i.","","16","9","",1;7,
+"3","Mortgage loans","","17","","",,
+"3","Residential mortgages","","18","17","",8,
+"3","Chartered banks","","19","18","",8;9,
+"3","Non-banks","","20","18","",8;9,
+"3","Government","","21","20","",8;9,
+"3","Non-bank financial corporations","","22","20","",8;9;10,
+"3","Credit unions and caisse populaires","","45","22","",8;9,
+"3","Trust companies and mortgage loan companies","","46","22","",8;9,
+"3","Financial vehicle corporations engaged in securitization","","23","22","",5;8;9,
+"3","Of which: off balance-sheet NHA-MBS","","24","23","",8;9;11,
+"3","Other financial corporations n.e.i.","","47","22","",6;8;9,
+"3","Other lenders n.e.i.","","25","20","",7;8;9,
+"3","Non-residential mortgages","","26","17","",8,
+"3","Chartered banks","","27","26","",8;12,
+"3","Non-banks","","28","26","",8;12,
+"3","Government","","29","28","",8;12,
+"3","Non-bank financial corporations","","30","28","",8;12,
+"3","Credit unions and caisse populaires","","48","30","",8;12,
+"3","Trust companies and mortgage loan companies","","49","30","",8;12,
+"3","Financial vehicle corporations engaged in securitization","","31","30","",5;8;12,
+"3","Other financial corporations n.e.i.","","50","30","",6;8;12,
+"3","Other lenders n.e.i.","","32","28","",7;8;12,
+"3","Total credit liabilities of households","","33","","",,
+"3","Of which: real estate secured lending","","34","33","",13,
+"3","Residential mortgages","","35","34","",13,
+"3","Chartered banks","","36","35","",9;13,
+"3","Non-banks","","37","35","",9;13,
+"3","Non-residential mortgages","","38","34","",13,
+"3","Chartered banks","","39","38","",12;13,
+"3","Non-banks","","40","38","",12;13,
+"3","Home equity lines of credit","","41","34","",13,
+"3","Chartered banks","","42","41","",13,
+"3","Non-banks","","43","41","",13;14,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"1806","National Balance Sheet Accounts"
+
+"Subject Code","Subject Name"
+"36","Economic accounts"
+
+"Note ID",Note
+1,"Non-mortgage loans."
+2,"Chartered banks."
+3,"Chartered banks home equity lines of credit are a subset of chartered banks lines of credit under household liabilities."
+4,"Non-banks."
+5,"Financial vehicle corporations engaged in securitization are off balance sheet."
+6,"N.e.i.: not elsewhere included. This consists of other mutual funds, property and casualty insurance companies, trusteed pension plans, segregated funds of life insurance companies, life insurance business, financial corporations engaged in lending, security and derivative dealers, specialized financial corporations and other financial intermediaries, financial auxiliaries, captive financial institutions and money lenders."
+7,"Other lenders n.e.i. (not elsewhere included). This consists of non-financial corporations, households, non-profit institutions serving households, and non-residents."
+8,"Mortgage loans."
+9,"Residential mortgages."
+10,"Types of non-bank financial corporations include credit unions, trust and mortgage loan companies, etcetera."
+11,"NHA - MBS: National Housing Act mortgage backed securities."
+12,"Non-residential mortgages."
+13,"Real estate secured lending: subset of both mortgage and non-mortgage loans for households.  Each series is already accounted for directly or indirectly, in the mortgage or non-mortgage loans."
+14,"This estimate contains only partial coverage of all non-bank HELOCs."
+15,"For further information on the concepts, methodologies, and classifications used to compile these monthly estimates please see the document <a href="https://www150.statcan.gc.ca/n1/en/catalogue/13-605-X202000100004">Guide to the Monthly Credit Aggregates</a>."
+
+"Correction ID","Correction Date","Correction Note"

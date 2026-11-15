@@ -1,0 +1,26 @@
+file,column,type,description
+household_credit_liabilities_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+household_credit_liabilities_long.csv,geo,string,Geography name as published by Statistics Canada.
+household_credit_liabilities_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+household_credit_liabilities_long.csv,seasonality,string,"Raw (not seasonally adjusted) or seasonally adjusted, as published."
+household_credit_liabilities_long.csv,credit_category,string,"Type of household credit liability, including totals, mortgages, non-mortgage loans and selected lenders."
+household_credit_liabilities_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+household_credit_liabilities_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+household_credit_liabilities_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+household_credit_liabilities_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+household_credit_liabilities_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+household_credit_liabilities_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+household_credit_liabilities_long.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+household_credit_liabilities_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+household_credit_liabilities_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+household_credit_liabilities_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+household_credit_liabilities_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+household_credit_sa_headline.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+household_credit_sa_headline.csv,credit_cards,numeric,Seasonally adjusted outstanding amount for credit_cards. See the long file for the unit and scale.
+household_credit_sa_headline.csv,home_equity_lines_of_credit,numeric,Seasonally adjusted outstanding amount for home_equity_lines_of_credit. See the long file for the unit and scale.
+household_credit_sa_headline.csv,mortgage_loans,numeric,Seasonally adjusted outstanding amount for mortgage_loans. See the long file for the unit and scale.
+household_credit_sa_headline.csv,non_mortgage_loans,numeric,Seasonally adjusted outstanding amount for non_mortgage_loans. See the long file for the unit and scale.
+household_credit_sa_headline.csv,of_which_auto_loans,numeric,Seasonally adjusted outstanding amount for of_which_auto_loans. See the long file for the unit and scale.
+household_credit_sa_headline.csv,of_which_real_estate_secured_lending,numeric,Seasonally adjusted outstanding amount for of_which_real_estate_secured_lending. See the long file for the unit and scale.
+household_credit_sa_headline.csv,residential_mortgages,numeric,Seasonally adjusted outstanding amount for residential_mortgages. See the long file for the unit and scale.
+household_credit_sa_headline.csv,total_credit_liabilities_of_households,numeric,Seasonally adjusted outstanding amount for total_credit_liabilities_of_households. See the long file for the unit and scale.
