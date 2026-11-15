@@ -1,0 +1,22 @@
+column,file,type,description
+date,corra_daily.csv,datetime,"Observation date as published by the Bank of Canada, YYYY-MM-DD."
+corra,corra_daily.csv,numeric,"Canadian Overnight Repo Rate Average, in percent."
+total_volume_dollars,corra_daily.csv,numeric,Total nominal dollar volume of CORRA-eligible trades before the bottom 25 percent is trimmed.
+trimmed_volume_dollars,corra_daily.csv,numeric,Nominal dollar volume of CORRA-eligible trades after the bottom 25 percent is trimmed.
+minimum_volume_threshold_dollars,corra_daily.csv,numeric,Dollar volume removed during the trimming step of the CORRA calculation.
+number_of_submitters,corra_daily.csv,numeric,Number of unique data submitters used in the CORRA calculation before trimming.
+rate_at_trim,corra_daily.csv,numeric,"Rate at which the bottom 25 percent of volume was trimmed, in percent."
+rate_at_percentile_5,corra_daily.csv,numeric,"Rate at the 5th volume-weighted percentile of the trimmed trading volume, in percent."
+rate_at_percentile_25,corra_daily.csv,numeric,"Rate at the 25th volume-weighted percentile of the trimmed trading volume, in percent."
+rate_at_percentile_75,corra_daily.csv,numeric,"Rate at the 75th volume-weighted percentile of the trimmed trading volume, in percent."
+rate_at_percentile_95,corra_daily.csv,numeric,"Rate at the 95th volume-weighted percentile of the trimmed trading volume, in percent."
+publication_status,corra_daily.csv,string,Whether CORRA was published on that date.
+calculation_methodology,corra_daily.csv,string,"Methodology used to calculate CORRA on that date, as published."
+weighted_mean_rate,corra_daily.csv,numeric,"Volume-weighted average rate of eligible overnight repurchase transactions, in percent."
+mode_rate,corra_daily.csv,numeric,"Modal rate, the interest-rate level with the largest traded volume among eligible CORRA transactions, in percent."
+date,corra_compounded_index.csv,datetime,"Observation date as published by the Bank of Canada, YYYY-MM-DD."
+corra_compounded_index,corra_compounded_index.csv,numeric,"CORRA Compounded Index, starting at 100 on 12 June 2020."
+id,series_catalog.csv,string,Official Valet series metadata field (id).
+label,series_catalog.csv,string,Official Valet series metadata field (label).
+description,series_catalog.csv,string,Official Valet series metadata field (description).
+date_format,series_catalog.csv,string,Official Valet series metadata field (date_format).

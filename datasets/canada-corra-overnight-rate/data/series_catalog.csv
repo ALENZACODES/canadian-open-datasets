@@ -1,0 +1,16 @@
+id,label,description,date_format
+AVG.INTWO,Canadian Overnight Repo Rate Average (CORRA),A measure of the cost of overnight general collateral funding in Canadian dollars using Government of Canada treasury bills and bonds as collateral for repurchase transactions (repos).,daily
+CORRA_TOTAL_VOLUME,CORRA: total dollar trading volume of all trades eligible,The total nominal value of CORRA transactions before trimming the bottom 25 percent.,daily
+CORRA_TRIMMED_VOLUME,CORRA: trimmed dollar volume of trades eligible,The total nominal value of CORRA transactions after trimming the bottom 25 percent.,daily
+CORRA_MINIMUM_VOLUME_THRESHOLD,CORRA: minimum volume threshold,The minimum dollar volume threshold of trades eligible for CORRA. It represents the volume removed during the trimming process in the CORRA calculation.,daily
+CORRA_NUMBER_OF_SUBMITTERS,CORRA: number of unique data submitters,The number of unique data submitters used in the calculation of CORRA before trimming.,daily
+CORRA_RATE_AT_TRIM,CORRA: rate at which daily trading volume is trimmed,The rate at which the bottom 25 percent of CORRA volume was trimmed.,daily
+CORRA_RATE_AT_PERCENTILE_5,CORRA: rate at 5th percentile of the trimmed trading volume,The rate at the 5th volume-weighted percentile of the trimmed trading volume. This is one of the transparency metrics published alongside CORRA.,daily
+CORRA_RATE_AT_PERCENTILE_25,CORRA: rate at 25th percentile of the trimmed trading volume,The rate at the 25th volume-weighted percentile of the trimmed trading volume. This is one of the transparency metrics published alongside CORRA.,daily
+CORRA_RATE_AT_PERCENTILE_75,CORRA: rate at 75th percentile of the trimmed trading volume,The rate at the 75th volume-weighted percentile of the trimmed trading volume. This is one of the transparency metrics published alongside CORRA.,daily
+CORRA_RATE_AT_PERCENTILE_95,CORRA: rate at 95th percentile of the trimmed trading volume,The rate at the 95th volume-weighted percentile of the trimmed trading volume. This is one of the transparency metrics published alongside CORRA.,daily
+CORRA_PUBLICATION_STATUS,CORRA: publication status,Indicates whether CORRA has been published for the given day.,daily
+CORRA_CALCULATION_METHODOLOGY,CORRA: calculation methodology,Indicates the methodology used by the Bank of Canada to calculate CORRA based on transaction-level repo data.,daily
+CORRA_WEIGHTED_MEAN_RATE,CORRA: mean,The volume‑weighted average rate of eligible overnight repurchase transactions used in the calculation of CORRA.,daily
+CORRA_MODE_RATE,CORRA: mode,The modal rate — the interest‑rate level with the largest traded volume among eligible CORRA transactions for a given day.,daily
+CORRA.COMPOUNDED.INDEX,CORRA Compounded Index,"A measure of the cumulative impact of CORRA compounding over time, starting from a base value of 100 on June 12, 2020. This index, provided for informational purposes only, can be used to calculate CORRA compounded between any two dates.",daily
