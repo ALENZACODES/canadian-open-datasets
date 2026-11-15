@@ -1,0 +1,60 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Adjusted household disposable income, Canada, provinces and territories, annual","36100612",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610061201",,"CURRENT - a cube available to the public and that is current","Annual","2008-01-01","2025-01-01","2",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Estimates",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",2,
+"1","Newfoundland and Labrador","[10]","2","1","",2,
+"1","Prince Edward Island","[11]","3","1","",2,
+"1","Nova Scotia","[12]","4","1","",2,
+"1","New Brunswick","[13]","5","1","",2,
+"1","Quebec","[24]","6","1","",2,
+"1","Ontario","[35]","7","1","",2,
+"1","Manitoba","[46]","8","1","",2,
+"1","Saskatchewan","[47]","9","1","",2,
+"1","Alberta","[48]","10","1","",2,
+"1","British Columbia","[59]","11","1","",2,
+"1","Yukon","[60]","12","1","",2,
+"1","Northwest Territories","[61]","13","1","",2,
+"1","Nunavut","[62]","14","1","",2,
+"1","Outside Canada","","15","1","",2,
+"2","Household disposable income","","1","","",,
+"2","Plus: social transfers in kind","","2","","",1,
+"2","Equals: adjusted household disposable income","","3","","",,
+"2","Adjusted household disposable income","","7","","",,
+"2","Minus: household actual final consumption","","4","","",,
+"2","Plus: change in pension entitlements","","5","","",,
+"2","Equals: household net saving","","6","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"1901","National Gross Domestic Product by Income and by Expenditure Accounts"
+"1902","Provincial and Territorial Gross Domestic Product by Income and by Expenditure Accounts"
+
+"Subject Code","Subject Name"
+"36","Economic accounts"
+
+"Note ID",Note
+1,"Social transfers in kind corresponds to the individual consumption expenditures of general governments and of non-profit institutions serving households. More detailed data can be found in <a href= "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610060901">Table  36-10-0609-01 Household actual final consumption, Canada, provincial and territorial, annual (x 1,000,000)</a>."
+2,"Provincial and territorial data are not available for the last reference year.  Also note that Canada's and provincial/territorial totals do not correspond to the Provincial and territorial economic accounts (PTEA) at certain times of the year, notably after the PTEA's release, which is generally in November.  Estimates are brought back in line when data for Adjusted household disposable income (AHDI) are published, generally in March. "
+
+"Correction ID","Correction Date","Correction Note"
