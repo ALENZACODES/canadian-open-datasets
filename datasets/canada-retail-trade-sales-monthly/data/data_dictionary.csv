@@ -1,0 +1,36 @@
+file,column,type,description
+retail_trade_sales_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+retail_trade_sales_long.csv,geo,string,Geography name as published by Statistics Canada.
+retail_trade_sales_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+retail_trade_sales_long.csv,naics,string,"Industry group based on the North American Industry Classification System, including sector totals."
+retail_trade_sales_long.csv,sales_type,string,Total retail sales or retail e-commerce sales.
+retail_trade_sales_long.csv,adjustment,string,"Unadjusted or seasonally adjusted, as published."
+retail_trade_sales_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+retail_trade_sales_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+retail_trade_sales_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+retail_trade_sales_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+retail_trade_sales_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+retail_trade_sales_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+retail_trade_sales_long.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+retail_trade_sales_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+retail_trade_sales_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+retail_trade_sales_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+retail_trade_sales_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+retail_trade_total_sa_by_geo.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+retail_trade_total_sa_by_geo.csv,alberta,numeric,Published value for alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,british_columbia,numeric,Published value for british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,canada,numeric,Published value for canada. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,manitoba,numeric,Published value for manitoba. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,montr_al_quebec,numeric,Published value for montr al quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,new_brunswick,numeric,Published value for new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,newfoundland_and_labrador,numeric,Published value for newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,northwest_territories,numeric,Published value for northwest territories. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,nova_scotia,numeric,Published value for nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,nunavut,numeric,Published value for nunavut. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,ontario,numeric,Published value for ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,prince_edward_island,numeric,Published value for prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,quebec,numeric,Published value for quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,saskatchewan,numeric,Published value for saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,toronto_ontario,numeric,Published value for toronto ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,vancouver_british_columbia,numeric,Published value for vancouver british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+retail_trade_total_sa_by_geo.csv,yukon,numeric,Published value for yukon. See unit_of_measure and scalar_factor in the long file for the unit.

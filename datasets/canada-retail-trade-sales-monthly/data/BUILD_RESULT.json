@@ -1,0 +1,14 @@
+{
+  "slug": "canada-retail-trade-sales-monthly",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-retail-trade-sales-monthly",
+  "table_id": "20-10-0056-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-retail-trade-sales-monthly",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-retail-trade-sales-monthly/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.8823529411764706,
+  "facts": [
+    "The table starts in January 2017 and runs through August 2026. It replaced the older, now inactive, table 20-10-0008-01."
+  ],
+  "publish_msg": "ready"
+}
