@@ -1,0 +1,169 @@
+column,file,type,description
+ref_date,rental_vacancy_long.csv,datetime,Reference period as published by Statistics Canada.
+geo,rental_vacancy_long.csv,string,Geography name as published by Statistics Canada.
+dguid,rental_vacancy_long.csv,string,Statistics Canada Dissemination Geography Unique Identifier.
+unit_of_measure,rental_vacancy_long.csv,string,Unit of measure for value.
+unit_of_measure_id,rental_vacancy_long.csv,integer,Statistics Canada numeric code for the unit of measure.
+scalar_factor,rental_vacancy_long.csv,string,"Scale of value (for example units, thousands or millions)."
+scalar_id,rental_vacancy_long.csv,integer,Statistics Canada numeric code for the scalar factor.
+vector,rental_vacancy_long.csv,string,Statistics Canada vector identifier for the series.
+coordinate,rental_vacancy_long.csv,string,Statistics Canada coordinate string inside the table.
+value,rental_vacancy_long.csv,numeric,Published value. Empty when Statistics Canada did not publish a figure.
+status,rental_vacancy_long.csv,string,Statistics Canada status symbol when a value is missing or qualified.
+symbol,rental_vacancy_long.csv,string,Additional Statistics Canada symbol when present.
+terminated,rental_vacancy_long.csv,string,"t if Statistics Canada terminated this series, otherwise empty."
+decimals,rental_vacancy_long.csv,integer,Number of decimal places Statistics Canada uses when displaying the value.
+ref_date,rental_vacancy_selected_cmas.csv,datetime,Reference period as published by Statistics Canada.
+alma_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for alma quebec.
+amos_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for amos quebec.
+baie_comeau_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for baie comeau quebec.
+bathurst_new_brunswick,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for bathurst new brunswick.
+bay_roberts_newfoundland_and_labrador,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for bay roberts newfoundland and labrador.
+bracebridge_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for bracebridge ontario.
+brandon_manitoba,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for brandon manitoba.
+brant_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for brant ontario.
+brighton_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for brighton ontario.
+brock_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for brock ontario.
+brockville_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for brockville ontario.
+brooks_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for brooks alberta.
+campbell_river_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for campbell river british columbia.
+campbellton_new_brunswick_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for campbellton new brunswick quebec.
+camrose_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for camrose alberta.
+canmore_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for canmore alberta.
+census_agglomerations_10_000_to_49_999,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for census agglomerations 10 000 to 49 999.
+centre_wellington_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for centre wellington ontario.
+chatham_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for chatham ontario.
+cobourg_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for cobourg ontario.
+cold_lake_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for cold lake alberta.
+collingwood_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for collingwood ontario.
+corner_brook_newfoundland_and_labrador,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for corner brook newfoundland and labrador.
+courtenay_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for courtenay british columbia.
+cowansville_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for cowansville quebec.
+cranbrook_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for cranbrook british columbia.
+dawson_creek_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for dawson creek british columbia.
+dolbeau_mistassini_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for dolbeau mistassini quebec.
+duncan_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for duncan british columbia.
+dunnville_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for dunnville ontario.
+east_hants_nova_scotia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for east hants nova scotia.
+edmundston_new_brunswick,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for edmundston new brunswick.
+elliot_lake_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for elliot lake ontario.
+essex_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for essex ontario.
+estevan_saskatchewan,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for estevan saskatchewan.
+fort_mcmurray_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for fort mcmurray alberta.
+fort_st_john_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for fort st john british columbia.
+gander_newfoundland_and_labrador,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for gander newfoundland and labrador.
+gasp_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for gasp quebec.
+grand_falls_windsor_newfoundland_and_labrador,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for grand falls windsor newfoundland and labrador.
+grande_prairie_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for grande prairie alberta.
+gravenhurst_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for gravenhurst ontario.
+greater_napanee_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for greater napanee ontario.
+haldimand_county,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for haldimand county.
+haldimand_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for haldimand ontario.
+hanover_manitoba,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for hanover manitoba.
+hawkesbury_ontario_part_ontario_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for hawkesbury ontario part ontario quebec.
+high_river_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for high river alberta.
+huntsville_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for huntsville ontario.
+ingersoll_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for ingersoll ontario.
+joliette_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for joliette quebec.
+kapuskasing_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kapuskasing ontario.
+kawartha_lakes_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kawartha lakes ontario.
+kenora_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kenora ontario.
+kentville_nova_scotia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kentville nova scotia.
+kincardine_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kincardine ontario.
+kings_subdivision_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kings subdivision ontario.
+kirkland_lake_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kirkland lake ontario.
+kitimat_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for kitimat british columbia.
+la_tuque_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for la tuque quebec.
+labrador_city_newfoundland_and_labrador,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for labrador city newfoundland and labrador.
+lachute_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for lachute quebec.
+lacombe_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for lacombe alberta.
+lambton_shores_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for lambton shores ontario.
+leamington_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for leamington ontario.
+les_les_de_la_madeleine_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for les les de la madeleine quebec.
+lloydminster_saskatchewan_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for lloydminster saskatchewan alberta.
+mackenzie_no_23_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for mackenzie no 23 alberta.
+magog_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for magog quebec.
+matane_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for matane quebec.
+meaford_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for meaford ontario.
+midland_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for midland ontario.
+miramichi_new_brunswick,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for miramichi new brunswick.
+mississippi_mills_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for mississippi mills ontario.
+mont_laurier_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for mont laurier quebec.
+montmagny_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for montmagny quebec.
+moose_jaw_saskatchewan,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for moose jaw saskatchewan.
+nanticoke_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for nanticoke ontario.
+new_glasgow_nova_scotia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for new glasgow nova scotia.
+norfolk_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for norfolk ontario.
+north_battleford_saskatchewan,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for north battleford saskatchewan.
+north_grenville_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for north grenville ontario.
+north_perth_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for north perth ontario.
+okotoks_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for okotoks alberta.
+orillia_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for orillia ontario.
+owen_sound_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for owen sound ontario.
+parksville_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for parksville british columbia.
+pembroke_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for pembroke ontario.
+penticton_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for penticton british columbia.
+petawawa_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for petawawa ontario.
+port_alberni_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for port alberni british columbia.
+port_hope_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for port hope ontario.
+portage_la_prairie_manitoba,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for portage la prairie manitoba.
+powell_river_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for powell river british columbia.
+prince_albert_saskatchewan,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for prince albert saskatchewan.
+prince_edward_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for prince edward ontario.
+prince_rupert_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for prince rupert british columbia.
+pr_vost_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for pr vost quebec.
+queens_nova_scotia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for queens nova scotia.
+quesnel_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for quesnel british columbia.
+rawdon_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for rawdon quebec.
+red_deer_county_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for red deer county alberta.
+rimouski_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for rimouski quebec.
+rivi_re_du_loup_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for rivi re du loup quebec.
+roberval_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for roberval quebec.
+rouyn_noranda_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for rouyn noranda quebec.
+saint_f_licien_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for saint f licien quebec.
+saint_georges_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for saint georges quebec.
+saint_hyacinthe_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for saint hyacinthe quebec.
+saint_lin_laurentides_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for saint lin laurentides quebec.
+sainte_sophie_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for sainte sophie quebec.
+sainte_ad_le_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for sainte ad le quebec.
+sainte_marie_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for sainte marie quebec.
+salaberry_de_valleyfield_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for salaberry de valleyfield quebec.
+salmon_arm_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for salmon arm british columbia.
+saugeen_shores_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for saugeen shores ontario.
+scugog_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for scugog ontario.
+sept_les_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for sept les quebec.
+smith_falls_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for smith falls ontario.
+sorel_tracy_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for sorel tracy quebec.
+south_huron_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for south huron ontario.
+squamish_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for squamish british columbia.
+steinbach_manitoba,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for steinbach manitoba.
+stratford_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for stratford ontario.
+strathmore_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for strathmore alberta.
+strathroy_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for strathroy ontario.
+strathroy_ontario_terminated_with_1997_10,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for strathroy ontario terminated with 1997 10.
+summerland_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for summerland british columbia.
+summerside_prince_edward_island,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for summerside prince edward island.
+swift_current_saskatchewan,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for swift current saskatchewan.
+sylvan_lake_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for sylvan lake alberta.
+temiskaming_shores_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for temiskaming shores ontario.
+terrace_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for terrace british columbia.
+the_nation_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for the nation ontario.
+thetford_mines_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for thetford mines quebec.
+thompson_manitoba,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for thompson manitoba.
+tillsonburg_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for tillsonburg ontario.
+timmins_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for timmins ontario.
+truro_nova_scotia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for truro nova scotia.
+val_d_or_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for val d or quebec.
+vernon_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for vernon british columbia.
+victoriaville_quebec,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for victoriaville quebec.
+wallaceburg_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for wallaceburg ontario.
+west_grey_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for west grey ontario.
+west_hants_nova_scotia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for west hants nova scotia.
+west_nipissing_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for west nipissing ontario.
+wetaskiwin_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for wetaskiwin alberta.
+williams_lake_british_columbia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for williams lake british columbia.
+wood_buffalo_alberta,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for wood buffalo alberta.
+woodstock_ontario,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for woodstock ontario.
+yarmouth_nova_scotia,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for yarmouth nova scotia.
+yellowknife_northwest_territories,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for yellowknife northwest territories.
+yorkton_saskatchewan,rental_vacancy_selected_cmas.csv,numeric,Vacancy rate (%) for yorkton saskatchewan.
