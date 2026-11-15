@@ -4,7 +4,7 @@
 
 *Monthly sales, orders, inventories and ratios by industry, 1992 to 2026*
 
-**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** January 1992 to August 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-manufacturing-and-wholesale-trade](https://www.kaggle.com/datasets/johnnykhan1/canada-manufacturing-and-wholesale-trade)
+**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** 1992 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-manufacturing-and-wholesale-trade](https://www.kaggle.com/datasets/johnnykhan1/canada-manufacturing-and-wholesale-trade)
 
 ## What it is
 

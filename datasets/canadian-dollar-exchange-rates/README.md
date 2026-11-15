@@ -4,7 +4,7 @@
 
 *Bank of Canada daily, monthly and annual FX rates for 27 currencies plus CEER*
 
-**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 1 January 1999 to 16 October 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canadian-dollar-exchange-rates](https://www.kaggle.com/datasets/johnnykhan1/canadian-dollar-exchange-rates)
+**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 2007 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canadian-dollar-exchange-rates](https://www.kaggle.com/datasets/johnnykhan1/canadian-dollar-exchange-rates)
 
 ## What it is
 

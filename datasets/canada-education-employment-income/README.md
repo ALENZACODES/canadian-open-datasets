@@ -4,7 +4,7 @@
 
 *2021 Census median income by highest certificate, province and CMA*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 2020 to 2020 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-education-employment-income](https://www.kaggle.com/datasets/johnnykhan1/canada-education-employment-income)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 2020 income year (2021 Census) · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-education-employment-income](https://www.kaggle.com/datasets/johnnykhan1/canada-education-employment-income)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *Transport Canada inventory of location, protection and traffic*
 
-**Theme:** [Energy and transport](../../README.md#energy-and-transport) · **Coverage:** See the notes below · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-railway-grade-crossings](https://www.kaggle.com/datasets/johnnykhan1/canada-railway-grade-crossings)
+**Theme:** [Energy and transport](../../README.md#energy-and-transport) · **Coverage:** 2022 inventory update, downloaded 9 November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-railway-grade-crossings](https://www.kaggle.com/datasets/johnnykhan1/canada-railway-grade-crossings)
 
 ## What it is
 

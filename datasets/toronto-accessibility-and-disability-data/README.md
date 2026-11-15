@@ -4,7 +4,7 @@
 
 *Parking, washrooms, libraries and TTC wheelchair boarding flags*
 
-**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** See the notes below · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-accessibility-and-disability-data](https://www.kaggle.com/datasets/johnnykhan1/toronto-accessibility-and-disability-data)
+**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** Snapshot of 9 November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-accessibility-and-disability-data](https://www.kaggle.com/datasets/johnnykhan1/toronto-accessibility-and-disability-data)
 
 ## What it is
 

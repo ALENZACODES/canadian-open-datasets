@@ -4,7 +4,7 @@
 
 *Government revenue, spending, debt and net worth, 1990 to 2026*
 
-**Theme:** [Government and public finance](../../README.md#government-and-public-finance) · **Coverage:** January 1990 to April 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-government-finance-statistics](https://www.kaggle.com/datasets/johnnykhan1/canada-government-finance-statistics)
+**Theme:** [Government and public finance](../../README.md#government-and-public-finance) · **Coverage:** 1990 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-government-finance-statistics](https://www.kaggle.com/datasets/johnnykhan1/canada-government-finance-statistics)
 
 ## What it is
 

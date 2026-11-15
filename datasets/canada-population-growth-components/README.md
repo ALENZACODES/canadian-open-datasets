@@ -4,7 +4,7 @@
 
 *Births, deaths, immigration, emigration and temporary residents, 1946 to 2026*
 
-**Theme:** [Population and immigration](../../README.md#population-and-immigration) · **Coverage:** January 1946 to April 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-population-growth-components](https://www.kaggle.com/datasets/johnnykhan1/canada-population-growth-components)
+**Theme:** [Population and immigration](../../README.md#population-and-immigration) · **Coverage:** 1946 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-population-growth-components](https://www.kaggle.com/datasets/johnnykhan1/canada-population-growth-components)
 
 ## What it is
 

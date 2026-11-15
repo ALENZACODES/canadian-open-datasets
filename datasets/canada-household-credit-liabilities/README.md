@@ -4,7 +4,7 @@
 
 *Monthly mortgage, non-mortgage and total household credit, 1990 to 2026*
 
-**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** January 1990 to August 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-household-credit-liabilities](https://www.kaggle.com/datasets/johnnykhan1/canada-household-credit-liabilities)
+**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 1990 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-household-credit-liabilities](https://www.kaggle.com/datasets/johnnykhan1/canada-household-credit-liabilities)
 
 ## What it is
 

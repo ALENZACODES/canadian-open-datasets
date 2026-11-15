@@ -4,7 +4,7 @@
 
 *Official study, work permit and asylum figures, 2015 to 2026*
 
-**Theme:** [Population and immigration](../../README.md#population-and-immigration) · **Coverage:** January 2000 to November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-ircc-permits-asylum-claims](https://www.kaggle.com/datasets/johnnykhan1/canada-ircc-permits-asylum-claims)
+**Theme:** [Population and immigration](../../README.md#population-and-immigration) · **Coverage:** 2000 to 2026 (monthly from January 2015) · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-ircc-permits-asylum-claims](https://www.kaggle.com/datasets/johnnykhan1/canada-ircc-permits-asylum-claims)
 
 ## What it is
 

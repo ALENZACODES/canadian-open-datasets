@@ -4,7 +4,7 @@
 
 *Official poverty thresholds by region and family size, 2002 to 2025*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 2002 to January 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-market-basket-measure-poverty-lines](https://www.kaggle.com/datasets/johnnykhan1/canada-market-basket-measure-poverty-lines)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 2002 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-market-basket-measure-poverty-lines](https://www.kaggle.com/datasets/johnnykhan1/canada-market-basket-measure-poverty-lines)
 
 ## What it is
 

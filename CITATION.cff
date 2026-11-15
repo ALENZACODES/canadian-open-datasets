@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below and keep the attribution required by each dataset's source licence."
+type: dataset
+title: "Canadian Open Datasets"
+abstract: "103 cleaned and documented open datasets about Canada, Ontario and Toronto covering housing, interest rates and markets, prices, jobs and income, the economy, public finance, population and immigration, health, public safety, environment and energy. Each dataset keeps the licence of its source, mostly the Statistics Canada Open Licence and the Open Government Licence - Canada 2.0."
+authors:
+  - family-names: Khan
+    given-names: John
+    city: Toronto
+    region: Ontario
+    country: CA
+repository-code: "https://github.com/ALENZACODES/canadian-open-datasets"
+url: "https://www.kaggle.com/johnnykhan1/datasets"
+keywords:
+  - canada
+  - ontario
+  - toronto
+  - open data
+  - housing
+  - interest rates
+  - inflation
+  - labour market
+  - environment
+  - public health
+license: OGL-Canada-2.0
+date-released: "2026-11-15"
+version: "2026.11.15"

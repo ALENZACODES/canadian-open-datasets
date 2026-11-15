@@ -4,7 +4,7 @@
 
 *Bank of Canada affordability index, new home prices and the posted 5 year rate*
 
-**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 2 January 1980 to 14 October 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-housing-affordability-repo-import](https://www.kaggle.com/datasets/johnnykhan1/canada-housing-affordability-repo-import)
+**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 1980 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-housing-affordability-repo-import](https://www.kaggle.com/datasets/johnnykhan1/canada-housing-affordability-repo-import)
 
 ## What it is
 

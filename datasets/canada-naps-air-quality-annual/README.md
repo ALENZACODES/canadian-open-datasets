@@ -4,7 +4,7 @@
 
 *Monthly and annual pollutant means at NAPS stations, 2016 to 2024*
 
-**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1 January 1974 to 1 December 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-naps-air-quality-annual](https://www.kaggle.com/datasets/johnnykhan1/canada-naps-air-quality-annual)
+**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 2016 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-naps-air-quality-annual](https://www.kaggle.com/datasets/johnnykhan1/canada-naps-air-quality-annual)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *Tidy 2021 Census indicators for all 158 neighbourhoods*
 
-**Theme:** [Population and immigration](../../README.md#population-and-immigration) · **Coverage:** 2021 to 2021 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-neighbourhood-profiles-2021](https://www.kaggle.com/datasets/johnnykhan1/toronto-neighbourhood-profiles-2021)
+**Theme:** [Population and immigration](../../README.md#population-and-immigration) · **Coverage:** 2021 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-neighbourhood-profiles-2021](https://www.kaggle.com/datasets/johnnykhan1/toronto-neighbourhood-profiles-2021)
 
 ## What it is
 

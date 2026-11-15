@@ -4,7 +4,7 @@
 
 *Official inventory by province and IPCC sector, 1990 to 2024*
 
-**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1 January 1990 to 23 September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-ghg-inventory-nir](https://www.kaggle.com/datasets/johnnykhan1/canada-ghg-inventory-nir)
+**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1990 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-ghg-inventory-nir](https://www.kaggle.com/datasets/johnnykhan1/canada-ghg-inventory-nir)
 
 ## What it is
 

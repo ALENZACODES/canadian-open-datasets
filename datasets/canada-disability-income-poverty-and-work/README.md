@@ -4,7 +4,7 @@
 
 *Income, poverty rates and labour market results by disability status*
 
-**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** January 2013 to January 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-disability-income-poverty-and-work](https://www.kaggle.com/datasets/johnnykhan1/canada-disability-income-poverty-and-work)
+**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** 2013 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-disability-income-poverty-and-work](https://www.kaggle.com/datasets/johnnykhan1/canada-disability-income-poverty-and-work)
 
 ## What it is
 

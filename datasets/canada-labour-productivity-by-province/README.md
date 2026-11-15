@@ -4,7 +4,7 @@
 
 *Output per hour, hours worked, jobs and value added by industry, 2011 on*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 2011 to January 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-labour-productivity-by-province](https://www.kaggle.com/datasets/johnnykhan1/canada-labour-productivity-by-province)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 2011 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-labour-productivity-by-province](https://www.kaggle.com/datasets/johnnykhan1/canada-labour-productivity-by-province)
 
 ## What it is
 

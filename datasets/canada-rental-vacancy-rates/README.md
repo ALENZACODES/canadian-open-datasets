@@ -4,7 +4,7 @@
 
 *CMHC vacancy rates for row and apartment stock in Canadian CMAs*
 
-**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** January 1989 to January 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-rental-vacancy-rates](https://www.kaggle.com/datasets/johnnykhan1/canada-rental-vacancy-rates)
+**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 1989 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-rental-vacancy-rates](https://www.kaggle.com/datasets/johnnykhan1/canada-rental-vacancy-rates)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *NRCan located earthquakes with magnitude, depth and place*
 
-**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1 January 1985 to 31 December 2019 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-earthquakes-1985-2019](https://www.kaggle.com/datasets/johnnykhan1/canada-earthquakes-1985-2019)
+**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1985 to 2019 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-earthquakes-1985-2019](https://www.kaggle.com/datasets/johnnykhan1/canada-earthquakes-1985-2019)
 
 ## What it is
 

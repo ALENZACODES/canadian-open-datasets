@@ -4,7 +4,7 @@
 
 *Median and average income by source, age, gender and province, 1976 to 2024*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 1976 to January 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-income-of-individuals-by-source](https://www.kaggle.com/datasets/johnnykhan1/canada-income-of-individuals-by-source)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 1976 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-income-of-individuals-by-source](https://www.kaggle.com/datasets/johnnykhan1/canada-income-of-individuals-by-source)
 
 ## What it is
 

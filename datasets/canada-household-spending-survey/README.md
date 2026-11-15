@@ -4,7 +4,7 @@
 
 *Average spending per household by category, province, income and type*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 2010 to January 2023 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-household-spending-survey](https://www.kaggle.com/datasets/johnnykhan1/canada-household-spending-survey)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 2010 to 2023 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-household-spending-survey](https://www.kaggle.com/datasets/johnnykhan1/canada-household-spending-survey)
 
 ## What it is
 

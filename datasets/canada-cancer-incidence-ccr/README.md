@@ -4,7 +4,7 @@
 
 *Official age-standardized rates and counts, 1992 to 2023*
 
-**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** January 1992 to February 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-cancer-incidence-ccr](https://www.kaggle.com/datasets/johnnykhan1/canada-cancer-incidence-ccr)
+**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** 1992 to 2023 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-cancer-incidence-ccr](https://www.kaggle.com/datasets/johnnykhan1/canada-cancer-incidence-ccr)
 
 ## What it is
 

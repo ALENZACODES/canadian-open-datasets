@@ -4,7 +4,7 @@
 
 *Government defence spending by function, 2008 to 2024*
 
-**Theme:** [Government and public finance](../../README.md#government-and-public-finance) · **Coverage:** January 2008 to January 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-defence-expenditure-ccofog](https://www.kaggle.com/datasets/johnnykhan1/canada-defence-expenditure-ccofog)
+**Theme:** [Government and public finance](../../README.md#government-and-public-finance) · **Coverage:** 2008 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-defence-expenditure-ccofog](https://www.kaggle.com/datasets/johnnykhan1/canada-defence-expenditure-ccofog)
 
 ## What it is
 

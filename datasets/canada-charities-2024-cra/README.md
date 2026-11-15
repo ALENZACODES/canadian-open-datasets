@@ -4,7 +4,7 @@
 
 *CRA 2024 registered charities identification and T3010 finances*
 
-**Theme:** [Government and public finance](../../README.md#government-and-public-finance) · **Coverage:** 2024 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-charities-2024-cra](https://www.kaggle.com/datasets/johnnykhan1/canada-charities-2024-cra)
+**Theme:** [Government and public finance](../../README.md#government-and-public-finance) · **Coverage:** 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-charities-2024-cra](https://www.kaggle.com/datasets/johnnykhan1/canada-charities-2024-cra)
 
 ## What it is
 

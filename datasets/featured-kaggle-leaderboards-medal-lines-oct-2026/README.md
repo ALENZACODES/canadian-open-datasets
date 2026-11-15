@@ -4,7 +4,7 @@
 
 *Public ranks and scores for 6 medal competitions, 9 Nov 2026*
 
-**Theme:** [Competition reference](../../README.md#competition-reference) · **Coverage:** 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/featured-kaggle-leaderboards-medal-lines-oct-2026](https://www.kaggle.com/datasets/johnnykhan1/featured-kaggle-leaderboards-medal-lines-oct-2026)
+**Theme:** [Competition reference](../../README.md#competition-reference) · **Coverage:** 29 October and 9 November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/featured-kaggle-leaderboards-medal-lines-oct-2026](https://www.kaggle.com/datasets/johnnykhan1/featured-kaggle-leaderboards-medal-lines-oct-2026)
 
 ## What it is
 

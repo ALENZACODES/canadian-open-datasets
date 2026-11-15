@@ -4,7 +4,7 @@
 
 *Annual real and nominal GDP by sector for 13 provinces and territories*
 
-**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** January 1997 to January 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-provincial-gdp-by-industry](https://www.kaggle.com/datasets/johnnykhan1/canada-provincial-gdp-by-industry)
+**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** 1997 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-provincial-gdp-by-industry](https://www.kaggle.com/datasets/johnnykhan1/canada-provincial-gdp-by-industry)
 
 ## What it is
 

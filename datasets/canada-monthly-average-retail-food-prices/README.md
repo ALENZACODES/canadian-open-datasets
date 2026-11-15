@@ -4,7 +4,7 @@
 
 *Average shelf prices for 110 grocery items by province, 2017 to 2026*
 
-**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** January 2017 to September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-average-retail-food-prices](https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-average-retail-food-prices)
+**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** 2017 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-average-retail-food-prices](https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-average-retail-food-prices)
 
 ## What it is
 

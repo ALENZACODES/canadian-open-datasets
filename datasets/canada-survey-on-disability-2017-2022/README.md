@@ -4,7 +4,7 @@
 
 *Prevalence, type, severity, work, education and income*
 
-**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** January 2017 to January 2022 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-survey-on-disability-2017-2022](https://www.kaggle.com/datasets/johnnykhan1/canada-survey-on-disability-2017-2022)
+**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** 2017 to 2022 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-survey-on-disability-2017-2022](https://www.kaggle.com/datasets/johnnykhan1/canada-survey-on-disability-2017-2022)
 
 ## What it is
 

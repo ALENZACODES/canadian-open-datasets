@@ -4,7 +4,7 @@
 
 *Verified occurrences by neighbourhood, including disability bias*
 
-**Theme:** [Public safety and city services](../../README.md#public-safety-and-city-services) · **Coverage:** 2014 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-hate-crimes-2018-2026](https://www.kaggle.com/datasets/johnnykhan1/toronto-hate-crimes-2018-2026)
+**Theme:** [Public safety and city services](../../README.md#public-safety-and-city-services) · **Coverage:** 2018 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-hate-crimes-2018-2026](https://www.kaggle.com/datasets/johnnykhan1/toronto-hate-crimes-2018-2026)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *Monthly IPPI and RMPI producer price indexes by product, 1956 to 2026*
 
-**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** January 1956 to September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-industrial-and-raw-materials-price-indexes](https://www.kaggle.com/datasets/johnnykhan1/canada-industrial-and-raw-materials-price-indexes)
+**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** 1956 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-industrial-and-raw-materials-price-indexes](https://www.kaggle.com/datasets/johnnykhan1/canada-industrial-and-raw-materials-price-indexes)
 
 ## What it is
 

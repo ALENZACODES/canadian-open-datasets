@@ -4,7 +4,7 @@
 
 *Health Canada DPD products, ingredients, forms and status*
 
-**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** 31 December 1911 to 7 November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-drug-product-database](https://www.kaggle.com/datasets/johnnykhan1/canada-drug-product-database)
+**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** Snapshot of 9 November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-drug-product-database](https://www.kaggle.com/datasets/johnnykhan1/canada-drug-product-database)
 
 ## What it is
 

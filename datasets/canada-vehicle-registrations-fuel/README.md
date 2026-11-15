@@ -4,7 +4,7 @@
 
 *Official quarterly new registrations, 2017 to 2026, not a stock*
 
-**Theme:** [Energy and transport](../../README.md#energy-and-transport) · **Coverage:** January 2017 to September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-vehicle-registrations-fuel](https://www.kaggle.com/datasets/johnnykhan1/canada-vehicle-registrations-fuel)
+**Theme:** [Energy and transport](../../README.md#energy-and-transport) · **Coverage:** 2017 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-vehicle-registrations-fuel](https://www.kaggle.com/datasets/johnnykhan1/canada-vehicle-registrations-fuel)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *Monthly money supply, deposits and bank loans in Canada, 1953 to 2026*
 
-**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** January 1953 to August 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-monetary-aggregates-m1-m2-m3](https://www.kaggle.com/datasets/johnnykhan1/canada-monetary-aggregates-m1-m2-m3)
+**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 1953 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-monetary-aggregates-m1-m2-m3](https://www.kaggle.com/datasets/johnnykhan1/canada-monetary-aggregates-m1-m2-m3)
 
 ## What it is
 

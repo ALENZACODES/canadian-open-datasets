@@ -4,7 +4,7 @@
 
 *Pump prices for gasoline, diesel and heating oil in 18 cities, 1979 to 2026*
 
-**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** January 1979 to September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-gasoline-and-fuel-pump-prices](https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-gasoline-and-fuel-pump-prices)
+**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** 1979 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-gasoline-and-fuel-pump-prices](https://www.kaggle.com/datasets/johnnykhan1/canada-monthly-gasoline-and-fuel-pump-prices)
 
 ## What it is
 

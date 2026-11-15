@@ -4,7 +4,7 @@
 
 *Monthly permit values and dwelling units by province, 2018 to 2026*
 
-**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** January 2018 to August 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-building-permits-monthly](https://www.kaggle.com/datasets/johnnykhan1/canada-building-permits-monthly)
+**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 2018 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-building-permits-monthly](https://www.kaggle.com/datasets/johnnykhan1/canada-building-permits-monthly)
 
 ## What it is
 

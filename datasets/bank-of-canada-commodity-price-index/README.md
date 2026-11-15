@@ -4,7 +4,7 @@
 
 *Weekly, monthly and annual BCPI with energy, metals, forestry, farm and fish*
 
-**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** 1 January 1972 to 14 October 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/bank-of-canada-commodity-price-index](https://www.kaggle.com/datasets/johnnykhan1/bank-of-canada-commodity-price-index)
+**Theme:** [Prices and inflation](../../README.md#prices-and-inflation) · **Coverage:** 1972 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/bank-of-canada-commodity-price-index](https://www.kaggle.com/datasets/johnnykhan1/bank-of-canada-commodity-price-index)
 
 ## What it is
 

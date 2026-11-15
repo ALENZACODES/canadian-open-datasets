@@ -4,7 +4,7 @@
 
 *Canadian Income Survey food insecurity, 2018 to 2024*
 
-**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** January 2018 to April 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-food-insecurity-cis](https://www.kaggle.com/datasets/johnnykhan1/canada-food-insecurity-cis)
+**Theme:** [Health, disability and wellbeing](../../README.md#health-disability-and-wellbeing) · **Coverage:** 2018 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-food-insecurity-cis](https://www.kaggle.com/datasets/johnnykhan1/canada-food-insecurity-cis)
 
 ## What it is
 

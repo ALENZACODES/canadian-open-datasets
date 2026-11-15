@@ -4,7 +4,7 @@
 
 *Daily mean discharge for major rivers, 2000 to 2024*
 
-**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1 January 2000 to 31 December 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-hydrometric-daily-flow-selected](https://www.kaggle.com/datasets/johnnykhan1/canada-hydrometric-daily-flow-selected)
+**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 2000 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-hydrometric-daily-flow-selected](https://www.kaggle.com/datasets/johnnykhan1/canada-hydrometric-daily-flow-selected)
 
 ## What it is
 

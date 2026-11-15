@@ -4,7 +4,7 @@
 
 *Unionization and collective agreement coverage by province, age and industry*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 1997 to January 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-union-membership-and-coverage](https://www.kaggle.com/datasets/johnnykhan1/canada-union-membership-and-coverage)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 1997 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-union-membership-and-coverage](https://www.kaggle.com/datasets/johnnykhan1/canada-union-membership-and-coverage)
 
 ## What it is
 

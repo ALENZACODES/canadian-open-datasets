@@ -4,7 +4,7 @@
 
 *Observed StatCan generation and capacity, 2005 to 2025*
 
-**Theme:** [Energy and transport](../../README.md#energy-and-transport) · **Coverage:** 1 January 2005 to 19 October 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-electricity-generation-capacity](https://www.kaggle.com/datasets/johnnykhan1/canada-electricity-generation-capacity)
+**Theme:** [Energy and transport](../../README.md#energy-and-transport) · **Coverage:** 2005 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-electricity-generation-capacity](https://www.kaggle.com/datasets/johnnykhan1/canada-electricity-generation-capacity)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *Daily occupancy totals and monthly flow, 2021 to 2026*
 
-**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 1 January 2021 to 8 November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-shelter-occupancy-and-flow](https://www.kaggle.com/datasets/johnnykhan1/toronto-shelter-occupancy-and-flow)
+**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 2021 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-shelter-occupancy-and-flow](https://www.kaggle.com/datasets/johnnykhan1/toronto-shelter-occupancy-and-flow)
 
 ## What it is
 

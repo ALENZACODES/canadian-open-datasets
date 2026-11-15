@@ -4,7 +4,7 @@
 
 *Daily Canadian benchmark and US Treasury yields, weekly bills and spreads*
 
-**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 2 January 1990 to 16 October 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-us-government-bond-yields](https://www.kaggle.com/datasets/johnnykhan1/canada-us-government-bond-yields)
+**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 1990 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-us-government-bond-yields](https://www.kaggle.com/datasets/johnnykhan1/canada-us-government-bond-yields)
 
 ## What it is
 

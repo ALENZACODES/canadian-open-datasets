@@ -4,7 +4,7 @@
 
 *Policy, prime, posted and actual mortgage rates, mortgage volumes and CPI*
 
-**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 1 January 1969 to 15 October 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-mortgage-interest-rates](https://www.kaggle.com/datasets/johnnykhan1/canada-mortgage-interest-rates)
+**Theme:** [Interest rates, credit and markets](../../README.md#interest-rates-credit-and-markets) · **Coverage:** 1969 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-mortgage-interest-rates](https://www.kaggle.com/datasets/johnnykhan1/canada-mortgage-interest-rates)
 
 ## What it is
 

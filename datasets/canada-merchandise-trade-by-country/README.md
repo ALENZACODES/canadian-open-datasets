@@ -4,7 +4,7 @@
 
 *Monthly exports, imports and trade balance with 28 partners, 1997 to 2026*
 
-**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** January 1997 to September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-merchandise-trade-by-country](https://www.kaggle.com/datasets/johnnykhan1/canada-merchandise-trade-by-country)
+**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** 1997 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-merchandise-trade-by-country](https://www.kaggle.com/datasets/johnnykhan1/canada-merchandise-trade-by-country)
 
 ## What it is
 

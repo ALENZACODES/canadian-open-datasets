@@ -4,7 +4,7 @@
 
 *Household income plus social transfers in kind by province, 2008 to 2025*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 2008 to January 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-adjusted-household-disposable-income](https://www.kaggle.com/datasets/johnnykhan1/canada-adjusted-household-disposable-income)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 2008 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-adjusted-household-disposable-income](https://www.kaggle.com/datasets/johnnykhan1/canada-adjusted-household-disposable-income)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *Daily and monthly sea surface temperature and salinity, 1914 to 2026*
 
-**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1 January 1914 to 31 August 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/bc-lightstation-sst-salinity](https://www.kaggle.com/datasets/johnnykhan1/bc-lightstation-sst-salinity)
+**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1914 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/bc-lightstation-sst-salinity](https://www.kaggle.com/datasets/johnnykhan1/bc-lightstation-sst-salinity)
 
 ## What it is
 

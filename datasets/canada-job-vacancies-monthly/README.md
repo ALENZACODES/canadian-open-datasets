@@ -4,7 +4,7 @@
 
 *Monthly vacancies, vacancy rates and payroll jobs, 2015 to 2026*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 2015 to August 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-job-vacancies-monthly](https://www.kaggle.com/datasets/johnnykhan1/canada-job-vacancies-monthly)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 2015 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-job-vacancies-monthly](https://www.kaggle.com/datasets/johnnykhan1/canada-job-vacancies-monthly)
 
 ## What it is
 

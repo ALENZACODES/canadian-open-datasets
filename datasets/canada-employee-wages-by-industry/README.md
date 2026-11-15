@@ -4,7 +4,7 @@
 
 *Annual average and median wages by industry, province, gender and age*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 1997 to January 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-employee-wages-by-industry](https://www.kaggle.com/datasets/johnnykhan1/canada-employee-wages-by-industry)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 1997 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-employee-wages-by-industry](https://www.kaggle.com/datasets/johnnykhan1/canada-employee-wages-by-industry)
 
 ## What it is
 

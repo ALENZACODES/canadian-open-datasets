@@ -4,7 +4,7 @@
 
 *Official shelter bed capacity by type, 2016 to 2025*
 
-**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 1 January 2016 to 23 September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-homeless-shelter-capacity](https://www.kaggle.com/datasets/johnnykhan1/canada-homeless-shelter-capacity)
+**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 2016 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-homeless-shelter-capacity](https://www.kaggle.com/datasets/johnnykhan1/canada-homeless-shelter-capacity)
 
 ## What it is
 

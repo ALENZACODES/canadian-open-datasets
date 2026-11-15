@@ -4,7 +4,7 @@
 
 *Poverty rates, Gini coefficients and income deciles, 1976 to 2024*
 
-**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** January 1976 to January 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-low-income-and-income-inequality](https://www.kaggle.com/datasets/johnnykhan1/canada-low-income-and-income-inequality)
+**Theme:** [Jobs, wages and income](../../README.md#jobs-wages-and-income) · **Coverage:** 1976 to 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-low-income-and-income-inequality](https://www.kaggle.com/datasets/johnnykhan1/canada-low-income-and-income-inequality)
 
 ## What it is
 

@@ -4,7 +4,7 @@
 
 *NRCan inventory of flood locations and events, 1696 to 2025*
 
-**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1800 to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-historical-flood-events](https://www.kaggle.com/datasets/johnnykhan1/canada-historical-flood-events)
+**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1800s to 2025 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-historical-flood-events](https://www.kaggle.com/datasets/johnnykhan1/canada-historical-flood-events)
 
 ## What it is
 

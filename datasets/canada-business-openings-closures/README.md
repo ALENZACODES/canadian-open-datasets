@@ -4,7 +4,7 @@
 
 *Monthly openings, closures and active businesses, 2015 to 2026*
 
-**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** January 2015 to July 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-business-openings-closures](https://www.kaggle.com/datasets/johnnykhan1/canada-business-openings-closures)
+**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** 2015 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-business-openings-closures](https://www.kaggle.com/datasets/johnnykhan1/canada-business-openings-closures)
 
 ## What it is
 

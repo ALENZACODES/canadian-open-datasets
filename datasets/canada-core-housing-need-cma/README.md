@@ -4,7 +4,7 @@
 
 *CHS official rates and 2021 Census counts, kept separate*
 
-**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** January 2018 to September 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-core-housing-need-cma](https://www.kaggle.com/datasets/johnnykhan1/canada-core-housing-need-cma)
+**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 2018, 2021, 2022 and 2024 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-core-housing-need-cma](https://www.kaggle.com/datasets/johnnykhan1/canada-core-housing-need-cma)
 
 ## What it is
 

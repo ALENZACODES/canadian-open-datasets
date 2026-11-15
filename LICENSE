@@ -1,0 +1,29 @@
+# Licensing for Canadian Open Datasets
+
+This repository brings together open data from several Canadian public bodies. There is no single licence for all of it.
+
+## Data
+
+Each folder under `datasets/` holds data from a public source and keeps that source's own licence. The licence that applies to a folder is stated in its `LICENSE.md` and in its README, with the attribution the source asks for. In summary:
+
+| Licence | Terms | Datasets |
+|---|---|---:|
+| Statistics Canada Open Licence | https://www.statcan.gc.ca/en/terms-conditions/open-licence | 57 |
+| Open Government Licence – Canada 2.0 | https://open.canada.ca/en/open-government-licence-canada | 26 |
+| Open Government Licence – Toronto | https://open.toronto.ca/open-data-licence/ | 13 |
+| Bank of Canada terms of use | https://www.bankofcanada.ca/terms/ | 9 |
+| Open Government Licence – City of Calgary | https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa | 1 |
+| CC0 1.0 (as set on Kaggle) | https://creativecommons.org/publicdomain/zero/1.0/ | 1 |
+| Creative Commons Attribution 4.0 International (City of Montréal open data) | https://creativecommons.org/licenses/by/4.0/ | 1 |
+
+The Statistics Canada Open Licence and the Open Government Licence – Canada 2.0 are the most common. Both allow copying, changing and redistributing the data, including commercially, as long as you credit the source and do not suggest endorsement. The Open Government Licence – Toronto and the City of Calgary licence follow the same model for municipal data. The Bank of Canada terms allow free use, copying and distribution with credit and a note of changes. City of Montréal data is under CC BY 4.0.
+
+If any folder's `LICENSE.md` differs from this summary, the folder file applies.
+
+## Documentation and scripts
+
+The READMEs, column notes, catalogue and cover images in this repository were written and designed by John Khan, Toronto, Ontario. They may be reused under the Creative Commons Attribution 4.0 International licence (https://creativecommons.org/licenses/by/4.0/). Small build scripts included inside a dataset folder carry the licence stated in that folder, or CC BY 4.0 if none is stated.
+
+## No warranty
+
+The data is provided as is, without warranty of any kind. The source agencies and the compiler accept no liability for its use.

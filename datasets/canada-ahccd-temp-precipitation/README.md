@@ -4,7 +4,7 @@
 
 *Station annual series from official homogenized daily data*
 
-**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1 January 1840 to 15 November 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-ahccd-temp-precipitation](https://www.kaggle.com/datasets/johnnykhan1/canada-ahccd-temp-precipitation)
+**Theme:** [Environment, climate and natural hazards](../../README.md#environment-climate-and-natural-hazards) · **Coverage:** 1840 to 2023 (precipitation to December 2017) · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-ahccd-temp-precipitation](https://www.kaggle.com/datasets/johnnykhan1/canada-ahccd-temp-precipitation)
 
 ## What it is
 

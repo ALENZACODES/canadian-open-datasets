@@ -4,7 +4,7 @@
 
 *Monthly counts with names and addresses removed*
 
-**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 1970 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-building-permits](https://www.kaggle.com/datasets/johnnykhan1/toronto-building-permits)
+**Theme:** [Housing and homelessness](../../README.md#housing-and-homelessness) · **Coverage:** 2000 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/toronto-building-permits](https://www.kaggle.com/datasets/johnnykhan1/toronto-building-permits)
 
 ## What it is
 

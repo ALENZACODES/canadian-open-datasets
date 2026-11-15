@@ -4,7 +4,7 @@
 
 *Quarterly, monthly and provincial GDP from Statistics Canada, 1961 to 2026*
 
-**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** January 1961 to August 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-gdp-expenditure-and-industry](https://www.kaggle.com/datasets/johnnykhan1/canada-gdp-expenditure-and-industry)
+**Theme:** [Economy, trade and business](../../README.md#economy-trade-and-business) · **Coverage:** 1961 to 2026 · **Kaggle:** [https://www.kaggle.com/datasets/johnnykhan1/canada-gdp-expenditure-and-industry](https://www.kaggle.com/datasets/johnnykhan1/canada-gdp-expenditure-and-industry)
 
 ## What it is
 
