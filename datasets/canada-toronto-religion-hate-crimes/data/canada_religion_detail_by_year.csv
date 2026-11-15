@@ -1,0 +1,77 @@
+year,ref_date,geo,geo_level,dguid,motivation,motivation_group,incidents,source
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,35,StatCan 35-10-0066
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,213,StatCan 35-10-0066
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,99,StatCan 35-10-0066
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,82,StatCan 35-10-0066
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Unknown religion,religion_detail,33,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,55,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,178,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,159,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,77,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Unknown religion,religion_detail,36,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,27,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,221,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,139,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,73,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Unknown religion,religion_detail,36,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,39,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,360,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,349,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,94,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Unknown religion,religion_detail,37,StatCan 35-10-0066
+2018,2018-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,44,StatCan 35-10-0066
+2018,2018-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,372,StatCan 35-10-0066
+2018,2018-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,166,StatCan 35-10-0066
+2018,2018-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,75,StatCan 35-10-0066
+2019,2019-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,51,StatCan 35-10-0066
+2019,2019-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,306,StatCan 35-10-0066
+2019,2019-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,182,StatCan 35-10-0066
+2019,2019-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,74,StatCan 35-10-0066
+2020,2020-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,43,StatCan 35-10-0066
+2020,2020-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,331,StatCan 35-10-0066
+2020,2020-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,84,StatCan 35-10-0066
+2020,2020-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,72,StatCan 35-10-0066
+2021,2021-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,155,StatCan 35-10-0066
+2021,2021-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,492,StatCan 35-10-0066
+2021,2021-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,142,StatCan 35-10-0066
+2021,2021-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,97,StatCan 35-10-0066
+2022,2022-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,52,StatCan 35-10-0066
+2022,2022-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,527,StatCan 35-10-0066
+2022,2022-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,109,StatCan 35-10-0066
+2022,2022-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,80,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Buddhist,religion_detail,0,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,49,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Christian Orthodox,religion_detail,0,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Hindu,religion_detail,1,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,959,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Mennonite or Amish,religion_detail,0,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,220,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Other Christian Religion,religion_detail,9,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,105,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Seventh Day Adventist – Jehovah’s witness,religion_detail,1,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Sikh,religion_detail,1,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Traditional Indigenous Spirituality,religion_detail,0,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Buddhist,religion_detail,0,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,59,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Christian Orthodox,religion_detail,1,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Hindu,religion_detail,3,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,943,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Mennonite or Amish,religion_detail,0,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,230,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Other Christian Religion,religion_detail,11,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,103,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Seventh Day Adventist – Jehovah’s witness,religion_detail,0,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Sikh,religion_detail,7,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Traditional Indigenous Spirituality,religion_detail,0,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Buddhist,religion_detail,1,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Catholic,religion_detail,36,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Christian Orthodox,religion_detail,6,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Hindu,religion_detail,3,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,788,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Mennonite or Amish,religion_detail,0,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,204,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Other Christian Religion,religion_detail,12,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Other religion,religion_detail,55,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Seventh Day Adventist – Jehovah’s witness,religion_detail,2,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Sikh,religion_detail,8,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Traditional Indigenous Spirituality,religion_detail,0,StatCan 35-10-0066

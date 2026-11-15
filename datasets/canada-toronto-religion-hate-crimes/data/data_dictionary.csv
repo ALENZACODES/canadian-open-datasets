@@ -1,0 +1,60 @@
+file,column,type,description
+religion_hate_crimes_statcan_long.csv,year,integer,Calendar year of the count.
+religion_hate_crimes_statcan_long.csv,ref_date,string,Reference date as YYYY-MM-DD (January 1 for annual figures).
+religion_hate_crimes_statcan_long.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+religion_hate_crimes_statcan_long.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+religion_hate_crimes_statcan_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+religion_hate_crimes_statcan_long.csv,motivation,string,Hate crime motivation as published (for example Jewish or Muslim (Islam)).
+religion_hate_crimes_statcan_long.csv,motivation_group,string,"religion_total for the Religion aggregate, or religion_detail for a specific target."
+religion_hate_crimes_statcan_long.csv,incidents,integer,Number of police-reported hate crime incidents.
+religion_hate_crimes_statcan_long.csv,source,string,Data source short name.
+canada_religion_detail_by_year.csv,year,integer,Calendar year of the count.
+canada_religion_detail_by_year.csv,ref_date,string,Reference date as YYYY-MM-DD (January 1 for annual figures).
+canada_religion_detail_by_year.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+canada_religion_detail_by_year.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+canada_religion_detail_by_year.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+canada_religion_detail_by_year.csv,motivation,string,Hate crime motivation as published (for example Jewish or Muslim (Islam)).
+canada_religion_detail_by_year.csv,motivation_group,string,"religion_total for the Religion aggregate, or religion_detail for a specific target."
+canada_religion_detail_by_year.csv,incidents,integer,Number of police-reported hate crime incidents.
+canada_religion_detail_by_year.csv,source,string,Data source short name.
+region_religion_total_by_year.csv,year,integer,Calendar year of the count.
+region_religion_total_by_year.csv,ref_date,string,Reference date as YYYY-MM-DD (January 1 for annual figures).
+region_religion_total_by_year.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+region_religion_total_by_year.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+region_religion_total_by_year.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+region_religion_total_by_year.csv,motivation,string,Hate crime motivation as published (for example Jewish or Muslim (Islam)).
+region_religion_total_by_year.csv,motivation_group,string,"religion_total for the Religion aggregate, or religion_detail for a specific target."
+region_religion_total_by_year.csv,incidents,integer,Number of police-reported hate crime incidents.
+region_religion_total_by_year.csv,source,string,Data source short name.
+jewish_muslim_by_year_and_region.csv,year,integer,Calendar year of the count.
+jewish_muslim_by_year_and_region.csv,ref_date,string,Reference date as YYYY-MM-DD (January 1 for annual figures).
+jewish_muslim_by_year_and_region.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+jewish_muslim_by_year_and_region.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+jewish_muslim_by_year_and_region.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+jewish_muslim_by_year_and_region.csv,motivation,string,Hate crime motivation as published (for example Jewish or Muslim (Islam)).
+jewish_muslim_by_year_and_region.csv,motivation_group,string,"religion_total for the Religion aggregate, or religion_detail for a specific target."
+jewish_muslim_by_year_and_region.csv,incidents,integer,Number of police-reported hate crime incidents.
+jewish_muslim_by_year_and_region.csv,source,string,Data source short name.
+toronto_religion_by_year.csv,year,integer,Calendar year of the count.
+toronto_religion_by_year.csv,religion_target,string,Religion or belief target recorded on the occurrence.
+toronto_religion_by_year.csv,events,integer,Count of verified hate crime occurrences or religion-bias mentions.
+toronto_religion_by_year.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+toronto_religion_by_year.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+toronto_religion_by_year.csv,source,string,Data source short name.
+toronto_religion_events.csv,reported_year,integer,Year the occurrence was reported to police.
+toronto_religion_events.csv,occurrence_year,integer,Year the occurrence took place.
+toronto_religion_events.csv,neighbourhood_id,string,"Toronto 158-neighbourhood model number, or NSA when not mapped."
+toronto_religion_events.csv,neighbourhood_name,string,Toronto neighbourhood name.
+toronto_religion_events.csv,division,string,Toronto Police Service division code.
+toronto_religion_events.csv,location_type,string,Type of location as published by TPS.
+toronto_religion_events.csv,primary_offence,string,Primary offence as recorded by the Hate Crime Unit.
+toronto_religion_events.csv,religion_target,string,Religion or belief target recorded on the occurrence.
+toronto_religion_events.csv,multiple_bias,string,Whether more than one bias category was recorded.
+toronto_religion_events.csv,arrest_made,string,Whether an arrest was recorded.
+toronto_religion_events.csv,source,string,Data source short name.
+combined_religion_targets_canada_toronto.csv,year,integer,Calendar year of the count.
+combined_religion_targets_canada_toronto.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+combined_religion_targets_canada_toronto.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+combined_religion_targets_canada_toronto.csv,religion_target,string,Religion or belief target recorded on the occurrence.
+combined_religion_targets_canada_toronto.csv,events,integer,Count of verified hate crime occurrences or religion-bias mentions.
+combined_religion_targets_canada_toronto.csv,source,string,Data source short name.

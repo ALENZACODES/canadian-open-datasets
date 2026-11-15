@@ -1,0 +1,25 @@
+year,ref_date,geo,geo_level,dguid,motivation,motivation_group,incidents,source
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,213,StatCan 35-10-0066
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,99,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,178,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,159,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,221,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,139,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,360,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,349,StatCan 35-10-0066
+2018,2018-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,372,StatCan 35-10-0066
+2018,2018-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,166,StatCan 35-10-0066
+2019,2019-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,306,StatCan 35-10-0066
+2019,2019-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,182,StatCan 35-10-0066
+2020,2020-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,331,StatCan 35-10-0066
+2020,2020-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,84,StatCan 35-10-0066
+2021,2021-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,492,StatCan 35-10-0066
+2021,2021-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,142,StatCan 35-10-0066
+2022,2022-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,527,StatCan 35-10-0066
+2022,2022-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,109,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,959,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,220,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,943,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,230,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Jewish,religion_detail,788,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Muslim (Islam),religion_detail,204,StatCan 35-10-0066

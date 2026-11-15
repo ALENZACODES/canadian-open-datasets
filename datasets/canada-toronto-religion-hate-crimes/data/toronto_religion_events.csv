@@ -1,0 +1,975 @@
+reported_year,occurrence_year,neighbourhood_id,neighbourhood_name,division,location_type,primary_offence,religion_target,multiple_bias,arrest_made,source
+2018,2017,174,South Eglinton-Davisville,D53,Other Commercial / Corporate Places,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,102,Forest Hill North,D13,Other Commercial / Corporate Places,Wilful Promotion Of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,099,Mount Pleasant East,D53,,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,028,Rustic,D12,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,169,Bay-Cloverhill,D52,Public Transportation,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,154,Oakdale-Beverley Heights,D31,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,102,Forest Hill North,D13,Business/Retail,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,079,University,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,134,Highland Creek,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,NSA,NSA,NSA,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,100,Yonge-Eglinton,D53,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,078,Kensington-Chinatown,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,058,Old East York,D55,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,154,Oakdale-Beverley Heights,D31,"Medical Facility (Hospitals, Long-term Care, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2017,035,Westminster-Branson,D32,Business/Retail,Indecent Communications,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,105,Lawrence Park North,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,035,Westminster-Branson,D32,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,173,North Toronto,D53,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Uttering Threats - Bodily Harm,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2017,173,North Toronto,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,085,South Parkdale,D11,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,170,Yonge-Bay Corridor,D52,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,094,Wychwood,D13,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,021,Humber Summit,D31,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,078,Kensington-Chinatown,D52,"Medical Facility (Hospitals, Long-term Care, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2017,099,Mount Pleasant East,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,122,Birchcliffe-Cliffside,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,122,Birchcliffe-Cliffside,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,070,South Riverdale,D55,Streets/Roadways/Highway,Assault,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,103,Lawrence Park South,D53,Other Commercial / Corporate Places,Mischief Under $5000,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,111,Rockcliffe-Smythe,D12,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,173,North Toronto,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,167,Church-Wellesley,D52,Streets/Roadways/Highway,Mischief Interfere With Property,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,138,Eglinton East,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,009,Edenbridge-Humber Valley,D22,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,094,Wychwood,D13,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,065,Greenwood-Coxwell,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,095,Annex,D53,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Christian Orthodox,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,154,Oakdale-Beverley Heights,D31,Streets/Roadways/Highway,Assault,Muslim (Islam),Yes,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,154,Oakdale-Beverley Heights,D31,Public Transportation,Assault,Muslim (Islam),Yes,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,154,Oakdale-Beverley Heights,D31,Streets/Roadways/Highway,Assault,Muslim (Islam),Yes,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,154,Oakdale-Beverley Heights,D31,Streets/Roadways/Highway,Assault,Muslim (Islam),Yes,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,044,Flemingdon Park,D55,Public Transportation,Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,170,Yonge-Bay Corridor,D52,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,062,East End-Danforth,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,166,St Lawrence-East Bayfront-The Islands,D52,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,034,Bathurst Manor,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,166,St Lawrence-East Bayfront-The Islands,D52,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,168,Downtown Yonge East,D51,Public Transportation,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,032,Englemount-Lawrence,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,087,High Park-Swansea,D11,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,172,Dovercourt Village,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Christian Orthodox,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,172,Dovercourt Village,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,013,Etobicoke West Mall,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,167,Church-Wellesley,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,108,Briar Hill-Belgravia,D13,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,128,Agincourt South-Malvern West,D42,Business/Retail,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,164,Wellington Place,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,039,Bedford Park-Nortown,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Theft,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,013,Etobicoke West Mall,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,034,Bathurst Manor,D32,Religious Place of Worship/Cultural Centre,Indecent Communications,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,083,Dufferin Grove,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,032,Englemount-Lawrence,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,159,Etobicoke City Centre,D22,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,168,Downtown Yonge East,D52,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,027,York University Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,159,Etobicoke City Centre,D22,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,106,Humewood-Cedarvale,D13,"Educational Institution (Universities, Colleges, Schools, etc.)","Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,034,Bathurst Manor,D32,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Indecent Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,039,Bedford Park-Nortown,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,099,Mount Pleasant East,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2018,2018,101,Forest Hill South,D13,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,089,Runnymede-Bloor West Village,D11,Business/Retail,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,098,Rosedale-Moore Park,D53,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,048,Hillcrest Village,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2018,2018,094,Wychwood,D13,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,067,Playter Estates-Danforth,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,128,Agincourt South-Malvern West,D42,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,032,Englemount-Lawrence,D13,Streets/Roadways/Highway,Robbery,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,060,Woodbine-Lumsden,D55,"Apartment Building (Condo, Retirement Buidling, etc.)",Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2018,2018,172,Dovercourt Village,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,098,Rosedale-Moore Park,D53,,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,106,Humewood-Cedarvale,D13,Religious Place of Worship/Cultural Centre,Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,172,Dovercourt Village,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2018,2018,037,Willowdale West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Criminal Harassment,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,068,North Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,107,Oakwood Village,D13,Streets/Roadways/Highway,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,080,Palmerston-Little Italy,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2019,2019,163,Fort York-Liberty Village,D14,Non-Commercial/Non for Profit,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,120,Clairlea-Birchmount,D41,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,103,Lawrence Park South,D53,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,050,Newtonbrook East,D32,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2018,050,Newtonbrook East,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,152,East Willowdale,D32,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,105,Lawrence Park North,D32,"Educational Institution (Universities, Colleges, Schools, etc.)","Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,042,Banbury-Don Mills,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,164,Wellington Place,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,121,Oakridge,D41,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,NSA,NSA,NSA,"Open Area, Park or Parking Lot",Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,067,Playter Estates-Danforth,D55,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,166,St Lawrence-East Bayfront-The Islands,D51,Streets/Roadways/Highway,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,167,Church-Wellesley,D51,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,147,L'Amoreaux West,D42,"Apartment Building (Condo, Retirement Buidling, etc.)",Criminal Harassment,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,059,Danforth East York,D55,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,078,Kensington-Chinatown,D52,Business/Retail,Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,170,Yonge-Bay Corridor,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,011,Eringate-Centennial-West Deane,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,NSA,NSA,NSA,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,034,Bathurst Manor,D32,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2019,2019,167,Church-Wellesley,D51,Religious Place of Worship/Cultural Centre,Criminal Harassment,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,128,Agincourt South-Malvern West,D42,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,095,Annex,D14,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,168,Downtown Yonge East,D51,"Open Area, Park or Parking Lot",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,048,Hillcrest Village,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,032,Englemount-Lawrence,D32,"Educational Institution (Universities, Colleges, Schools, etc.)","Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,035,Westminster-Branson,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,019,Long Branch,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,123,Cliffcrest,D43,Religious Place of Worship/Cultural Centre,Mischief Interfere With Property,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,024,Black Creek,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2019,2019,171,Junction-Wallace Emerson,D11,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,038,Lansing-Westgate,D32,,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,NSA,NSA,NSA,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Sikh,No,Yes,Toronto Police Service Hate Crime Unit
+2019,2019,032,Englemount-Lawrence,D13,Business/Retail,Uttering Threats - Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,172,Dovercourt Village,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,095,Annex,D53,Other Commercial / Corporate Places,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,148,East L'Amoreaux,D42,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,167,Church-Wellesley,D51,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,126,Dorset Park,D41,,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,136,West Hill,D43,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Uttering Threats - Property,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,170,Yonge-Bay Corridor,D52,Other Commercial / Corporate Places,Mischief Under $5000,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,013,Etobicoke West Mall,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,169,Bay-Cloverhill,D52,Other Commercial / Corporate Places,Wilful Promotion Of Hatred,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,078,Kensington-Chinatown,D52,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,151,Yonge-Doris,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,155,Downsview,D31,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,107,Oakwood Village,D13,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,123,Cliffcrest,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,050,Newtonbrook East,D32,"Open Area, Park or Parking Lot",Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,050,Newtonbrook East,D32,Streets/Roadways/Highway,Advocating Genocide,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,163,Fort York-Liberty Village,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Criminal Harassment,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2019,2019,001,West Humber-Clairville,D23,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2019,2019,032,Englemount-Lawrence,D13,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,155,Downsview,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,100,Yonge-Eglinton,D53,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,136,West Hill,D43,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,081,Trinity-Bellwoods,D14,,Uttering Threats - Bodily Harm,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2019,2019,078,Kensington-Chinatown,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,138,Eglinton East,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,170,Yonge-Bay Corridor,D52,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2019,2019,165,Harbourfront-CityPlace,D52,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,074,North St.James Town,D51,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Public Incitement of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,068,North Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2019,2019,028,Rustic,D12,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,032,Englemount-Lawrence,D13,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,169,Bay-Cloverhill,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,095,Annex,D53,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,173,North Toronto,D53,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,109,Caledonia-Fairbank,D13,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,161,Humber Bay Shores,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,034,Bathurst Manor,D32,Business/Retail,Public Incitement of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,167,Church-Wellesley,D51,Streets/Roadways/Highway,Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,153,Avondale,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,171,Junction-Wallace Emerson,D11,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Christian Orthodox,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,163,Fort York-Liberty Village,D14,"Open Area, Park or Parking Lot",Criminal Harassment,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2020,2020,086,Roncesvalles,D11,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,099,Mount Pleasant East,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,039,Bedford Park-Nortown,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,NSA,NSA,NSA,Public Transportation,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,035,Westminster-Branson,D32,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,037,Willowdale West,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,081,Trinity-Bellwoods,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,037,Willowdale West,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,106,Humewood-Cedarvale,D13,"Apartment Building (Condo, Retirement Buidling, etc.)",Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,032,Englemount-Lawrence,D13,Religious Place of Worship/Cultural Centre,Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2014,053,Henry Farm,D33,Religious Place of Worship/Cultural Centre,Wilful Promotion Of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,107,Oakwood Village,D13,Religious Place of Worship/Cultural Centre,Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,034,Bathurst Manor,D32,Religious Place of Worship/Cultural Centre,Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,069,Blake-Jones,D55,Religious Place of Worship/Cultural Centre,Uttering Threats - Property,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2020,2020,152,East Willowdale,D32,Religious Place of Worship/Cultural Centre,Disturbing Religious Worship Or Certain Meeting,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,059,Danforth East York,D55,"Apartment Building (Condo, Retirement Buidling, etc.)",Disturbing Religious Worship Or Certain Meeting,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,152,East Willowdale,D32,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,033,Clanton Park,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,079,University,D52,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,078,Kensington-Chinatown,D52,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,170,Yonge-Bay Corridor,D52,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2020,2020,152,East Willowdale,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,079,University,D14,Streets/Roadways/Highway,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,105,Lawrence Park North,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,170,Yonge-Bay Corridor,D52,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2020,2020,073,Moss Park,D51,Streets/Roadways/Highway,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,054,O'Connor-Parkview,D55,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Other Christian Religion,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,040,St.Andrew-Windfields,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,170,Yonge-Bay Corridor,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,118,Tam O'Shanter-Sullivan,D42,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,118,Tam O'Shanter-Sullivan,D42,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,165,Harbourfront-CityPlace,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,160,Mimico-Queensway,D22,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Wilful Promotion Of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,039,Bedford Park-Nortown,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,161,Humber Bay Shores,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,170,Yonge-Bay Corridor,D52,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,068,North Riverdale,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,151,Yonge-Doris,D32,"Open Area, Park or Parking Lot",Mischief Over $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,167,Church-Wellesley,D51,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,027,York University Heights,D31,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2020,2020,027,York University Heights,D31,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2020,2020,168,Downtown Yonge East,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,012,Markland Wood,D22,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,018,New Toronto,D22,Streets/Roadways/Highway,Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,134,Highland Creek,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,085,South Parkdale,D14,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Catholic,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,159,Etobicoke City Centre,D22,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,027,York University Heights,D32,Other Commercial / Corporate Places,Wilful Promotion Of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,085,South Parkdale,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,160,Mimico-Queensway,D22,Government Building,Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2020,2020,155,Downsview,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,065,Greenwood-Coxwell,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,096,Casa Loma,D13,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,096,Casa Loma,D13,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,166,St Lawrence-East Bayfront-The Islands,D52,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,067,Playter Estates-Danforth,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,012,Markland Wood,D22,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,091,Weston-Pelham Park,D11,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,166,St Lawrence-East Bayfront-The Islands,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,040,St.Andrew-Windfields,D33,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,057,Broadview North,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,040,St.Andrew-Windfields,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,080,Palmerston-Little Italy,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,164,Wellington Place,D52,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,016,Stonegate-Queensway,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,057,Broadview North,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,105,Lawrence Park North,D32,Public Transportation,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,040,St.Andrew-Windfields,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,062,East End-Danforth,D55,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,NSA,NSA,NSA,Streets/Roadways/Highway,Assault,Catholic,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,122,Birchcliffe-Cliffside,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,167,Church-Wellesley,D51,Streets/Roadways/Highway,Assault Peace Officer,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2020,2020,123,Cliffcrest,D43,Public Transportation,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2020,2020,018,New Toronto,D22,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2020,2020,095,Annex,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,Yes,Toronto Police Service Hate Crime Unit
+2020,2020,153,Avondale,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,095,Annex,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,Yes,Toronto Police Service Hate Crime Unit
+2020,2020,155,Downsview,D31,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,040,St.Andrew-Windfields,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,040,St.Andrew-Windfields,D33,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,162,West Queen West,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,095,Annex,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,Yes,Toronto Police Service Hate Crime Unit
+2020,2020,119,Wexford/Maryvale,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2020,2020,071,Cabbagetown-South St.James Town,D51,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,034,Bathurst Manor,D32,Religious Place of Worship/Cultural Centre,Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,153,Avondale,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,169,Bay-Cloverhill,D52,"Educational Institution (Universities, Colleges, Schools, etc.)","Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,122,Birchcliffe-Cliffside,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,135,Morningside,D43,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,170,Yonge-Bay Corridor,D52,"Open Area, Park or Parking Lot",Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,150,Fenside-Parkwoods,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,016,Stonegate-Queensway,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,166,St Lawrence-East Bayfront-The Islands,D51,Streets/Roadways/Highway,Assault With a Weapon,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,069,Blake-Jones,D55,Public Transportation,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,145,Malvern West,D42,Streets/Roadways/Highway,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,040,St.Andrew-Windfields,D32,Public Transportation,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,071,Cabbagetown-South St.James Town,D51,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,001,West Humber-Clairville,D23,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,163,Fort York-Liberty Village,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,165,Harbourfront-CityPlace,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,040,St.Andrew-Windfields,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,110,Keelesdale-Eglinton West,D12,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,144,Morningside Heights,D42,Streets/Roadways/Highway,Assault,Muslim (Islam),Yes,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,040,St.Andrew-Windfields,D33,"Open Area, Park or Parking Lot",Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,027,York University Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Sexual Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,166,St Lawrence-East Bayfront-The Islands,D51,"Open Area, Park or Parking Lot",Mischief Interfere With Property,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,063,The Beaches,D55,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,165,Harbourfront-CityPlace,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,048,Hillcrest Village,D33,"Open Area, Park or Parking Lot",Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,NSA,NSA,D23,Public Transportation,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,006,Kingsview Village-The Westway,D23,"Medical Facility (Hospitals, Long-term Care, etc.)",Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,065,Greenwood-Coxwell,D55,Public Transportation,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,033,Clanton Park,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Harassing Communications,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,160,Mimico-Queensway,D22,Government Building,Mischief Under $5000,Jewish,Yes,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,164,Wellington Place,D52,Streets/Roadways/Highway,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,039,Bedford Park-Nortown,D32,Streets/Roadways/Highway,Assault With a Weapon,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Assault With a Weapon,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,105,Lawrence Park North,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,087,High Park-Swansea,D11,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,070,South Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,161,Humber Bay Shores,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,024,Black Creek,D31,Public Transportation,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,155,Downsview,D31,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,171,Junction-Wallace Emerson,D11,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,078,Kensington-Chinatown,D52,Religious Place of Worship/Cultural Centre,Mischief Interfere With Property,Catholic,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,095,Annex,D14,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,025,Glenfield-Jane Heights,D31,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,072,Regent Park,D51,Streets/Roadways/Highway,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,159,Etobicoke City Centre,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,092,Corso Italia-Davenport,D13,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Catholic,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,162,West Queen West,D14,"Open Area, Park or Parking Lot",Assault With a Weapon,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,098,Rosedale-Moore Park,D53,Streets/Roadways/Highway,Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,154,Oakdale-Beverley Heights,D31,"Medical Facility (Hospitals, Long-term Care, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,155,Downsview,D31,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,086,Roncesvalles,D11,Other Commercial / Corporate Places,Assault With a Weapon,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,100,Yonge-Eglinton,D53,Streets/Roadways/Highway,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,025,Glenfield-Jane Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,155,Downsview,D31,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,107,Oakwood Village,D13,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,078,Kensington-Chinatown,D14,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,100,Yonge-Eglinton,D53,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,096,Casa Loma,D13,Religious Place of Worship/Cultural Centre,Harassing Communications,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,039,Bedford Park-Nortown,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,065,Greenwood-Coxwell,D55,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,105,Lawrence Park North,D32,Public Transportation,Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,156,Bendale-Glen Andrew,D43,Streets/Roadways/Highway,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2021,2021,165,Harbourfront-CityPlace,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,105,Lawrence Park North,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,071,Cabbagetown-South St.James Town,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Muslim (Islam),Yes,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,059,Danforth East York,D55,"Open Area, Park or Parking Lot",Assault With a Weapon,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,165,Harbourfront-CityPlace,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,064,Woodbine Corridor,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,079,University,D14,Religious Place of Worship/Cultural Centre,Harassing Communications,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,035,Westminster-Branson,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,165,Harbourfront-CityPlace,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,035,Westminster-Branson,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,119,Wexford/Maryvale,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,103,Lawrence Park South,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,022,Humbermede,D31,,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,031,Yorkdale-Glen Park,D13,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,005,Elms-Old Rexdale,D23,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,095,Annex,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,059,Danforth East York,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,154,Oakdale-Beverley Heights,D31,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2021,2021,054,O'Connor-Parkview,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,018,New Toronto,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,158,Islington,D22,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,164,Wellington Place,D52,Other Commercial / Corporate Places,Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,015,Kingsway South,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,083,Dufferin Grove,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,105,Lawrence Park North,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,052,Bayview Village,D33,Public Transportation,Mischief Interfere With Property,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,098,Rosedale-Moore Park,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,150,Fenside-Parkwoods,D33,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2021,2021,160,Mimico-Queensway,D22,,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2021,2021,078,Kensington-Chinatown,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,078,Kensington-Chinatown,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,035,Westminster-Branson,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,074,North St.James Town,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,068,North Riverdale,D55,"Apartment Building (Condo, Retirement Buidling, etc.)",Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,086,Roncesvalles,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,125,Ionview,D41,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2022,2022,NSA,NSA,D52,Streets/Roadways/Highway,Public Incitement of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,044,Flemingdon Park,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2021,032,Englemount-Lawrence,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Jewish,Yes,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,153,Avondale,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2021,034,Bathurst Manor,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,006,Kingsview Village-The Westway,D23,Other Commercial / Corporate Places,Harassing Communications,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2022,2022,092,Corso Italia-Davenport,D13,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,062,East End-Danforth,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,071,Cabbagetown-South St.James Town,D51,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,079,University,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,011,Eringate-Centennial-West Deane,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,122,Birchcliffe-Cliffside,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,058,Old East York,D55,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,174,South Eglinton-Davisville,D53,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,168,Downtown Yonge East,D51,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,062,East End-Danforth,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,122,Birchcliffe-Cliffside,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,159,Etobicoke City Centre,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,058,Old East York,D55,"Open Area, Park or Parking Lot",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,069,Blake-Jones,D55,Business/Retail,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,065,Greenwood-Coxwell,D55,Public Transportation,Assault,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Harassing Communications,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2022,2022,165,Harbourfront-CityPlace,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,154,Oakdale-Beverley Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,065,Greenwood-Coxwell,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,006,Kingsview Village-The Westway,D23,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,134,Highland Creek,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Disturbing Religious Worship Or Certain Meeting,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,068,North Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,010,Princess-Rosethorn,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,036,Newtonbrook West,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,095,Annex,D14,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,012,Markland Wood,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,012,Markland Wood,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,159,Etobicoke City Centre,D22,"Open Area, Park or Parking Lot",Mischief Interfere With Property,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2022,2022,032,Englemount-Lawrence,D13,"Educational Institution (Universities, Colleges, Schools, etc.)",Assault With a Weapon,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,016,Stonegate-Queensway,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,168,Downtown Yonge East,D51,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,042,Banbury-Don Mills,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,039,Bedford Park-Nortown,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,168,Downtown Yonge East,D51,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,031,Yorkdale-Glen Park,D13,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,152,East Willowdale,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,152,East Willowdale,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,078,Kensington-Chinatown,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,151,Yonge-Doris,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,120,Clairlea-Birchmount,D41,Public Transportation,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,151,Yonge-Doris,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,042,Banbury-Don Mills,D33,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,152,East Willowdale,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,120,Clairlea-Birchmount,D41,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,095,Annex,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,052,Bayview Village,D33,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Christian Orthodox,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,156,Bendale-Glen Andrew,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,126,Dorset Park,D41,"Medical Facility (Hospitals, Long-term Care, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,124,Kennedy Park,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2022,2022,NSA,NSA,NSA,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,165,Harbourfront-CityPlace,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,166,St Lawrence-East Bayfront-The Islands,D52,Streets/Roadways/Highway,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,079,University,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,155,Downsview,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,039,Bedford Park-Nortown,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Harassing Communications,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,043,Victoria Village,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,079,University,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,097,Yonge-St.Clair,D53,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,063,The Beaches,D55,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,081,Trinity-Bellwoods,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,095,Annex,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,095,Annex,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,079,University,D52,Streets/Roadways/Highway,Assault,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,071,Cabbagetown-South St.James Town,D51,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,033,Clanton Park,D32,Other Commercial / Corporate Places,Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,070,South Riverdale,D55,Public Transportation,Mischief Under $5000,Jewish,Yes,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,081,Trinity-Bellwoods,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,029,Maple Leaf,D12,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,172,Dovercourt Village,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,094,Wychwood,D13,"Educational Institution (Universities, Colleges, Schools, etc.)","Mischief To Religious Property, Educational Institutions, Etc.",Catholic,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,172,Dovercourt Village,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,122,Birchcliffe-Cliffside,D41,Other Commercial / Corporate Places,Robbery,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,009,Edenbridge-Humber Valley,D22,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,135,Morningside,D43,Streets/Roadways/Highway,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2022,2022,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,079,University,D52,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2022,2022,095,Annex,D14,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,166,St Lawrence-East Bayfront-The Islands,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,166,St Lawrence-East Bayfront-The Islands,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2022,2022,039,Bedford Park-Nortown,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2022,2022,164,Wellington Place,D14,Other Commercial / Corporate Places,Harassing Communications,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2022,2022,034,Bathurst Manor,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,069,Blake-Jones,D55,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,028,Rustic,D12,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,034,Bathurst Manor,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2022,027,York University Heights,D31,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,038,Lansing-Westgate,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,065,Greenwood-Coxwell,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,167,Church-Wellesley,D51,Public Transportation,Assault,Sikh,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,087,High Park-Swansea,D11,Public Transportation,Mischief Under $5000,Hindu,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,033,Clanton Park,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Other Christian Religion,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,153,Avondale,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,084,Little Portugal,D14,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,038,Lansing-Westgate,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,NSA,NSA,D52,Streets/Roadways/Highway,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,038,Lansing-Westgate,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,038,Lansing-Westgate,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,154,Oakdale-Beverley Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,113,Weston,D12,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,065,Greenwood-Coxwell,D55,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Sikh,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,142,Woburn North,D43,Public Transportation,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,089,Runnymede-Bloor West Village,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,033,Clanton Park,D32,Public Transportation,Assault With a Weapon,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,120,Clairlea-Birchmount,D41,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,119,Wexford/Maryvale,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,065,Greenwood-Coxwell,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,089,Runnymede-Bloor West Village,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,170,Yonge-Bay Corridor,D52,Other Commercial / Corporate Places,Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,089,Runnymede-Bloor West Village,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,113,Weston,D12,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,033,Clanton Park,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,154,Oakdale-Beverley Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,141,Golfdale-Cedarbrae-Woburn,D43,Business/Retail,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,141,Golfdale-Cedarbrae-Woburn,D43,Religious Place of Worship/Cultural Centre,Assault With a Weapon,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,156,Bendale-Glen Andrew,D43,Other Commercial / Corporate Places,Criminal Harassment,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,156,Bendale-Glen Andrew,D43,Other Commercial / Corporate Places,Causing a Disturbance,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,157,Bendale South,D41,Streets/Roadways/Highway,Assault With a Weapon,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,047,Don Valley Village,D33,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,035,Westminster-Branson,D32,,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,130,Milliken,D42,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Criminal Harassment,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,103,Lawrence Park South,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,172,Dovercourt Village,D14,,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,084,Little Portugal,D11,Streets/Roadways/Highway,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,141,Golfdale-Cedarbrae-Woburn,D43,Religious Place of Worship/Cultural Centre,Dangerous Operation Motor Vehicle,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,032,Englemount-Lawrence,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,032,Englemount-Lawrence,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,035,Westminster-Branson,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,079,University,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,170,Yonge-Bay Corridor,D52,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Disturbing Religious Worship Or Certain Meeting,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,171,Junction-Wallace Emerson,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,040,St.Andrew-Windfields,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,107,Oakwood Village,D13,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,085,South Parkdale,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,171,Junction-Wallace Emerson,D11,,Assault,Sikh,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,089,Runnymede-Bloor West Village,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,033,Clanton Park,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,167,Church-Wellesley,D51,Streets/Roadways/Highway,Criminal Harassment,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,102,Forest Hill North,D13,Public Transportation,Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,143,West Rouge,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,089,Runnymede-Bloor West Village,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,052,Bayview Village,D33,"Medical Facility (Hospitals, Long-term Care, etc.)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,062,East End-Danforth,D55,Public Transportation,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,170,Yonge-Bay Corridor,D52,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,147,L'Amoreaux West,D42,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Wilful Promotion Of Hatred,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,143,West Rouge,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,166,St Lawrence-East Bayfront-The Islands,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,094,Wychwood,D13,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,174,South Eglinton-Davisville,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Bodily Harm,Hindu,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,172,Dovercourt Village,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,172,Dovercourt Village,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,065,Greenwood-Coxwell,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,172,Dovercourt Village,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,128,Agincourt South-Malvern West,D42,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,095,Annex,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,042,Banbury-Don Mills,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,079,University,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,025,Glenfield-Jane Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,042,Banbury-Don Mills,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,039,Bedford Park-Nortown,D32,"Open Area, Park or Parking Lot",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,166,St Lawrence-East Bayfront-The Islands,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Jewish,Yes,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Aggravated Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,105,Lawrence Park North,D32,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,094,Wychwood,D13,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,084,Little Portugal,D11,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,073,Moss Park,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,102,Forest Hill North,D13,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,042,Banbury-Don Mills,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,105,Lawrence Park North,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,069,Blake-Jones,D55,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,130,Milliken,D42,"Open Area, Park or Parking Lot",Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,038,Lansing-Westgate,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,055,Thorncliffe Park,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,032,Englemount-Lawrence,D32,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,048,Hillcrest Village,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,159,Etobicoke City Centre,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,011,Eringate-Centennial-West Deane,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,056,Leaside-Bennington,D53,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,100,Yonge-Eglinton,D53,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,056,Leaside-Bennington,D53,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,140,Guildwood,D43,Public Transportation,Assault,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,032,Englemount-Lawrence,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,039,Bedford Park-Nortown,D32,"Open Area, Park or Parking Lot",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,098,Rosedale-Moore Park,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,102,Forest Hill North,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,128,Agincourt South-Malvern West,D42,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,106,Humewood-Cedarvale,D13,Religious Place of Worship/Cultural Centre,Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,NSA,NSA,D23,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,080,Palmerston-Little Italy,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,072,Regent Park,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Criminal Harassment,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,078,Kensington-Chinatown,D52,"Medical Facility (Hospitals, Long-term Care, etc.)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,069,Blake-Jones,D55,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,102,Forest Hill North,D13,Business/Retail,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Property,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,069,Blake-Jones,D55,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,005,Elms-Old Rexdale,D23,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,011,Eringate-Centennial-West Deane,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,079,University,D14,,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,096,Casa Loma,D13,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,118,Tam O'Shanter-Sullivan,D42,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,164,Wellington Place,D14,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,066,Danforth,D55,Public Transportation,Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,070,South Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,095,Annex,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,162,West Queen West,D14,Other Commercial / Corporate Places,Indecent Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,103,Lawrence Park South,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,170,Yonge-Bay Corridor,D52,Other Commercial / Corporate Places,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,099,Mount Pleasant East,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,095,Annex,D53,"Apartment Building (Condo, Retirement Buidling, etc.)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,122,Birchcliffe-Cliffside,D41,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,016,Stonegate-Queensway,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,166,St Lawrence-East Bayfront-The Islands,D52,Business/Retail,Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,154,Oakdale-Beverley Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,036,Newtonbrook West,D32,Streets/Roadways/Highway,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,095,Annex,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,039,Bedford Park-Nortown,D32,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,040,St.Andrew-Windfields,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,170,Yonge-Bay Corridor,D52,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Disturbing Religious Worship Or Certain Meeting,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,037,Willowdale West,D32,Other Commercial / Corporate Places,Mischief Under $5000,Hindu,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,039,Bedford Park-Nortown,D32,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,095,Annex,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,032,Englemount-Lawrence,D32,Other Commercial / Corporate Places,Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,073,Moss Park,D51,Streets/Roadways/Highway,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,118,Tam O'Shanter-Sullivan,D42,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,146,Malvern East,D42,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,123,Cliffcrest,D43,Other Commercial / Corporate Places,Criminal Harassment,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,040,St.Andrew-Windfields,D33,Religious Place of Worship/Cultural Centre,Indecent Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,011,Eringate-Centennial-West Deane,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2023,2023,070,South Riverdale,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,106,Humewood-Cedarvale,D13,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,168,Downtown Yonge East,D52,Streets/Roadways/Highway,Assault With a Weapon,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,099,Mount Pleasant East,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,095,Annex,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,154,Oakdale-Beverley Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Muslim (Islam),Yes,No,Toronto Police Service Hate Crime Unit
+2023,2023,098,Rosedale-Moore Park,D53,Religious Place of Worship/Cultural Centre,Assault With a Weapon,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,035,Westminster-Branson,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,154,Oakdale-Beverley Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,168,Downtown Yonge East,D51,"Educational Institution (Universities, Colleges, Schools, etc.)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,152,East Willowdale,D32,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,040,St.Andrew-Windfields,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,154,Oakdale-Beverley Heights,D31,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,097,Yonge-St.Clair,D53,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,173,North Toronto,D53,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,061,Taylor-Massey,D55,"Open Area, Park or Parking Lot",Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,095,Annex,D53,Streets/Roadways/Highway,Mischief Interfere With Property,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,033,Clanton Park,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,151,Yonge-Doris,D32,Other Commercial / Corporate Places,Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,168,Downtown Yonge East,D51,Business/Retail,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,164,Wellington Place,D52,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,033,Clanton Park,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,106,Humewood-Cedarvale,D13,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Interfere With Property,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2023,2023,148,East L'Amoreaux,D42,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2023,2023,136,West Hill,D43,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,105,Lawrence Park North,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,171,Junction-Wallace Emerson,D11,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2023,NSA,NSA,NSA,Streets/Roadways/Highway,Public Incitement Of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,033,Clanton Park,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,168,Downtown Yonge East,D51,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,068,North Riverdale,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D52,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,088,High Park North,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,164,Wellington Place,D52,Other Commercial / Corporate Places,Criminal Harassment,Hindu,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,072,Regent Park,D51,Streets/Roadways/Highway,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,121,Oakridge,D41,Other Commercial / Corporate Places,Robbery,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,015,Kingsway South,D22,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,171,Junction-Wallace Emerson,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Over $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,078,Kensington-Chinatown,D52,Streets/Roadways/Highway,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,063,The Beaches,D55,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,033,Clanton Park,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,107,Oakwood Village,D13,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,085,South Parkdale,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,162,West Queen West,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,071,Cabbagetown-South St.James Town,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,166,St Lawrence-East Bayfront-The Islands,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,033,Clanton Park,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,063,The Beaches,D55,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,072,Regent Park,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,036,Newtonbrook West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,070,South Riverdale,D55,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,040,St.Andrew-Windfields,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,155,Downsview,D31,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,164,Wellington Place,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,084,Little Portugal,D11,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,088,High Park North,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,119,Wexford/Maryvale,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,035,Westminster-Branson,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,031,Yorkdale-Glen Park,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,113,Weston,D12,Business/Retail,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,090,Junction Area,D11,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,172,Dovercourt Village,D14,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,119,Wexford/Maryvale,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,124,Kennedy Park,D41,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Public Incitement Of Hatred,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,095,Annex,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,042,Banbury-Don Mills,D33,Other Commercial / Corporate Places,Assault,Sikh,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,009,Edenbridge-Humber Valley,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,171,Junction-Wallace Emerson,D11,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,099,Mount Pleasant East,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,168,Downtown Yonge East,D51,"Educational Institution (Universities, Colleges, Schools, etc.)",Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,009,Edenbridge-Humber Valley,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,095,Annex,D53,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,036,Newtonbrook West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,049,Bayview Woods-Steeles,D33,"Open Area, Park or Parking Lot",Arson,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,152,East Willowdale,D32,Religious Place of Worship/Cultural Centre,Arson,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,088,High Park North,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,171,Junction-Wallace Emerson,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,163,Fort York-Liberty Village,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,018,New Toronto,D22,"Open Area, Park or Parking Lot",Uttering Threats - Bodily Harm,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,052,Bayview Village,D33,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,078,Kensington-Chinatown,D14,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Other Christian Religion,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,106,Humewood-Cedarvale,D13,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,036,Newtonbrook West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,087,High Park-Swansea,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,070,South Riverdale,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,037,Willowdale West,D32,Public Transportation,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,100,Yonge-Eglinton,D53,Public Transportation,Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,168,Downtown Yonge East,D51,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,039,Bedford Park-Nortown,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,124,Kennedy Park,D41,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,033,Clanton Park,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Assault With a Weapon,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,070,South Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,040,St.Andrew-Windfields,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,149,Parkwoods-O'Connor Hills,D33,"Open Area, Park or Parking Lot",Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,002,Mount Olive-Silverstone-Jamestown,D23,Streets/Roadways/Highway,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,102,Forest Hill North,D13,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,100,Yonge-Eglinton,D53,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,046,Pleasant View,D33,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,088,High Park North,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,168,Downtown Yonge East,D51,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,096,Casa Loma,D13,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,033,Clanton Park,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,Streets/Roadways/Highway,Public Incitement Of Hatred,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,"Open Area, Park or Parking Lot",Public Incitement Of Hatred,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,087,High Park-Swansea,D11,Business/Retail,Mischief Under $5000,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,088,High Park North,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,089,Runnymede-Bloor West Village,D11,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,070,South Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,151,Yonge-Doris,D32,,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,141,Golfdale-Cedarbrae-Woburn,D43,Streets/Roadways/Highway,Assault With a Weapon,Hindu,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,015,Kingsway South,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,033,Clanton Park,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,072,Regent Park,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,171,Junction-Wallace Emerson,D11,Public Transportation,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,120,Clairlea-Birchmount,D41,Religious Place of Worship/Cultural Centre,Assault With a Weapon,Hindu,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,166,St Lawrence-East Bayfront-The Islands,D52,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,036,Newtonbrook West,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,040,St.Andrew-Windfields,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,108,Briar Hill-Belgravia,D13,Streets/Roadways/Highway,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,111,Rockcliffe-Smythe,D12,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,166,St Lawrence-East Bayfront-The Islands,D51,"Open Area, Park or Parking Lot",Uttering Threats - Bodily Harm,Hindu,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,143,West Rouge,D43,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,095,Annex,D53,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,116,Steeles,D42,Streets/Roadways/Highway,Robbery,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,009,Edenbridge-Humber Valley,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,032,Englemount-Lawrence,D32,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,097,Yonge-St.Clair,D53,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D14,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,039,Bedford Park-Nortown,D32,Religious Place of Worship/Cultural Centre,Arson,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,040,St.Andrew-Windfields,D32,Religious Place of Worship/Cultural Centre,Arson,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,166,St Lawrence-East Bayfront-The Islands,D52,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,078,Kensington-Chinatown,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,097,Yonge-St.Clair,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,027,York University Heights,D32,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,069,Blake-Jones,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,081,Trinity-Bellwoods,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,088,High Park North,D11,Public Transportation,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,081,Trinity-Bellwoods,D14,,Mischief Under $5000,Buddhist,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,172,Dovercourt Village,D11,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,078,Kensington-Chinatown,D14,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,136,West Hill,D43,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,010,Princess-Rosethorn,D22,Streets/Roadways/Highway,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,139,Scarborough Village,D43,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,078,Kensington-Chinatown,D14,Streets/Roadways/Highway,Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,113,Weston,D12,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,010,Princess-Rosethorn,D22,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Catholic,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,033,Clanton Park,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,099,Mount Pleasant East,D53,Other Commercial / Corporate Places,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,124,Kennedy Park,D41,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,096,Casa Loma,D53,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,098,Rosedale-Moore Park,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,002,Mount Olive-Silverstone-Jamestown,D23,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,098,Rosedale-Moore Park,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,119,Wexford/Maryvale,D41,Streets/Roadways/Highway,Assault,Other Christian Religion,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,164,Wellington Place,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,113,Weston,D12,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,119,Wexford/Maryvale,D41,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,032,Englemount-Lawrence,D13,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,168,Downtown Yonge East,D51,Streets/Roadways/Highway,Assault With a Weapon,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,062,East End-Danforth,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,NSA,NSA,NSA,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,086,Roncesvalles,D11,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,063,The Beaches,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,085,South Parkdale,D14,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,151,Yonge-Doris,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,166,St Lawrence-East Bayfront-The Islands,D52,Business/Retail,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,126,Dorset Park,D41,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,167,Church-Wellesley,D51,Streets/Roadways/Highway,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,072,Regent Park,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,069,Blake-Jones,D55,Religious Place of Worship/Cultural Centre,Uttering Threats - Property,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Assault With a Weapon,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,035,Westminster-Branson,D32,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,035,Westminster-Branson,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D52,"Medical Facility (Hospitals, Long-term Care, etc.)",Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,095,Annex,D53,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,128,Agincourt South-Malvern West,D42,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,139,Scarborough Village,D43,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,163,Fort York-Liberty Village,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,NSA,NSA,D42,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,071,Cabbagetown-South St.James Town,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Assault,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,138,Eglinton East,D43,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,001,West Humber-Clairville,D23,"Open Area, Park or Parking Lot",Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,124,Kennedy Park,D41,Public Transportation,Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,064,Woodbine Corridor,D55,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,169,Bay-Cloverhill,D52,,Public Incitement Of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,034,Bathurst Manor,D32,,Public Incitement Of Hatred,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,171,Junction-Wallace Emerson,D11,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,068,North Riverdale,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,079,University,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2024,2024,078,Kensington-Chinatown,D52,Streets/Roadways/Highway,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2024,2024,133,Centennial Scarborough,D43,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2024,2024,007,Willowridge-Martingrove-Richview,D23,"Open Area, Park or Parking Lot",Theft,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2024,171,Junction-Wallace Emerson,D11,Other Commercial / Corporate Places,Wilful Promotion Of Hatred,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2024,032,Englemount-Lawrence,D32,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Public Incitement Of Hatred,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,081,Trinity-Bellwoods,D14,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2024,038,Lansing-Westgate,D32,Business/Retail,Mischief Under $5000,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,170,Yonge-Bay Corridor,D52,Public Transportation,Mischief Interfere With Property,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,168,Downtown Yonge East,D51,,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2024,063,The Beaches,D55,Business/Retail,Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,081,Trinity-Bellwoods,D14,Business/Retail,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,123,Cliffcrest,D43,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,078,Kensington-Chinatown,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,066,Danforth,D55,Streets/Roadways/Highway,Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,168,Downtown Yonge East,D51,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,170,Yonge-Bay Corridor,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,097,Yonge-St.Clair,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,069,Blake-Jones,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,001,West Humber-Clairville,D23,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,118,Tam O'Shanter-Sullivan,D42,,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,001,West Humber-Clairville,D23,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,108,Briar Hill-Belgravia,D13,,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,064,Woodbine Corridor,D55,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D53,Public Transportation,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,130,Milliken,D42,Streets/Roadways/Highway,Mischief Under $5000,Hindu,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,100,Yonge-Eglinton,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,069,Blake-Jones,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,099,Mount Pleasant East,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,037,Willowdale West,D32,"Open Area, Park or Parking Lot",Mischief Interfere With Property,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D53,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,143,West Rouge,D43,,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,146,Malvern East,D42,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,169,Bay-Cloverhill,D52,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,002,Mount Olive-Silverstone-Jamestown,D23,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Mischief Over $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,172,Dovercourt Village,D14,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,066,Danforth,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,064,Woodbine Corridor,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,079,University,D14,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,167,Church-Wellesley,D51,"Government Building (Courthouse, Museums, Parliament Building, etc.)",Harassing Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,066,Danforth,D55,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,166,St Lawrence-East Bayfront-The Islands,D51,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,064,Woodbine Corridor,D55,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,168,Downtown Yonge East,D51,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,063,The Beaches,D55,Religious Place of Worship/Cultural Centre,"Mischief To Religious Property, Educational Institutions, Etc.",Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,019,Long Branch,D22,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Public Incitement Of Hatred,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,086,Roncesvalles,D11,"Medical Facility (Hospitals, Long-term Care, etc.)",Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,011,Eringate-Centennial-West Deane,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,034,Bathurst Manor,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,016,Stonegate-Queensway,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,063,The Beaches,D55,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,042,Banbury-Don Mills,D33,,Public Incitement Of Hatred,Other Christian Religion,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,033,Clanton Park,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,165,Harbourfront-CityPlace,D52,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,033,Clanton Park,D32,"Apartment Building (Condo, Retirement Buidling, etc.)",Indecent Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D14,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,126,Dorset Park,D41,Religious Place of Worship/Cultural Centre,Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,022,Humbermede,D31,"Open Area, Park or Parking Lot",Assault,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,072,Regent Park,D51,Streets/Roadways/Highway,Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,079,University,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,120,Clairlea-Birchmount,D41,"Open Area, Park or Parking Lot",Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,078,Kensington-Chinatown,D52,Streets/Roadways/Highway,Assault,Sikh,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,168,Downtown Yonge East,D51,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,171,Junction-Wallace Emerson,D11,,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,073,Moss Park,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,129,Agincourt North,D42,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,079,University,D52,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,146,Malvern East,D42,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Public Incitement Of Hatred,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,162,West Queen West,D14,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,037,Willowdale West,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,037,Willowdale West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,062,East End-Danforth,D55,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,037,Willowdale West,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,047,Don Valley Village,D33,"Open Area, Park or Parking Lot",Assault,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,114,Lambton Baby Point,D22,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,042,Banbury-Don Mills,D33,,Indecent Communications,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D53,"Educational Institution (Universities, Colleges, Schools, etc.)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2024,141,Golfdale-Cedarbrae-Woburn,D43,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,138,Eglinton East,D43,"Apartment Building (Condo, Retirement Buidling, etc.)",Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,163,Fort York-Liberty Village,D14,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,015,Kingsway South,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,015,Kingsway South,D22,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,124,Kennedy Park,D41,,Public Incitement Of Hatred,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,124,Kennedy Park,D41,,Public Incitement Of Hatred,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,006,Kingsview Village-The Westway,D23,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,120,Clairlea-Birchmount,D41,Other Commercial / Corporate Places,Uttering Threats - Bodily Harm,Jewish,No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,009,Edenbridge-Humber Valley,D22,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,168,Downtown Yonge East,D51,Religious Place of Worship/Cultural Centre,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,035,Westminster-Branson,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,028,Rustic,D12,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,094,Wychwood,D13,Other Commercial / Corporate Places,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,102,Forest Hill North,D13,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,102,Forest Hill North,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,169,Bay-Cloverhill,D52,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,009,Edenbridge-Humber Valley,D22,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,NSA,NSA,NSA,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,095,Annex,D53,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,071,Cabbagetown-South St.James Town,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,096,Casa Loma,D13,Religious Place of Worship/Cultural Centre,Criminal Harassment,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,164,Wellington Place,D14,Streets/Roadways/Highway,Mischief Under $5000,Muslim (Islam),No,No,Toronto Police Service Hate Crime Unit
+2025,2025,015,Kingsway South,D22,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,035,Westminster-Branson,D32,"Open Area, Park or Parking Lot",Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,098,Rosedale-Moore Park,D53,Streets/Roadways/Highway,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,032,Englemount-Lawrence,D32,"Educational Institution (Universities, Colleges, Schools, etc.)",Indecent Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,040,St.Andrew-Windfields,D33,Religious Place of Worship/Cultural Centre,Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,149,Parkwoods-O'Connor Hills,D33,,Uttering Threats - Bodily Harm,Muslim (Islam),No,Yes,Toronto Police Service Hate Crime Unit
+2025,2025,074,North St.James Town,D51,Streets/Roadways/Highway,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,164,Wellington Place,D14,Business/Retail,Assault,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,071,Cabbagetown-South St.James Town,D51,"Apartment Building (Condo, Retirement Buidling, etc.)",Indecent Communications,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,033,Clanton Park,D32,Public Transportation,Mischief Under $5000,Jewish,No,No,Toronto Police Service Hate Crime Unit
+2025,2025,009,Edenbridge-Humber Valley,D22,"House (Townhouse, Retirement Home, Garage, Vehicle, Cottage)",Uttering Threats - Bodily Harm,Jewish,No,No,Toronto Police Service Hate Crime Unit

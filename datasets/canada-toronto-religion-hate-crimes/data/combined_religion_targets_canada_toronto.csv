@@ -1,0 +1,115 @@
+year,geo,geo_level,religion_target,events,source
+2014,"Canada, selected police services",canada,Catholic,35,StatCan 35-10-0066
+2014,"Canada, selected police services",canada,Jewish,213,StatCan 35-10-0066
+2014,"Canada, selected police services",canada,Muslim (Islam),99,StatCan 35-10-0066
+2014,"Canada, selected police services",canada,Other religion,82,StatCan 35-10-0066
+2014,"Canada, selected police services",canada,Unknown religion,33,StatCan 35-10-0066
+2015,"Canada, selected police services",canada,Catholic,55,StatCan 35-10-0066
+2015,"Canada, selected police services",canada,Jewish,178,StatCan 35-10-0066
+2015,"Canada, selected police services",canada,Muslim (Islam),159,StatCan 35-10-0066
+2015,"Canada, selected police services",canada,Other religion,77,StatCan 35-10-0066
+2015,"Canada, selected police services",canada,Unknown religion,36,StatCan 35-10-0066
+2016,"Canada, selected police services",canada,Catholic,27,StatCan 35-10-0066
+2016,"Canada, selected police services",canada,Jewish,221,StatCan 35-10-0066
+2016,"Canada, selected police services",canada,Muslim (Islam),139,StatCan 35-10-0066
+2016,"Canada, selected police services",canada,Other religion,73,StatCan 35-10-0066
+2016,"Canada, selected police services",canada,Unknown religion,36,StatCan 35-10-0066
+2017,"Canada, selected police services",canada,Catholic,39,StatCan 35-10-0066
+2017,"Canada, selected police services",canada,Jewish,360,StatCan 35-10-0066
+2017,"Canada, selected police services",canada,Muslim (Islam),349,StatCan 35-10-0066
+2017,"Canada, selected police services",canada,Other religion,94,StatCan 35-10-0066
+2017,"Canada, selected police services",canada,Unknown religion,37,StatCan 35-10-0066
+2018,"Canada, selected police services",canada,Catholic,44,StatCan 35-10-0066
+2018,"Canada, selected police services",canada,Jewish,372,StatCan 35-10-0066
+2018,"Canada, selected police services",canada,Muslim (Islam),166,StatCan 35-10-0066
+2018,"Canada, selected police services",canada,Other religion,75,StatCan 35-10-0066
+2019,"Canada, selected police services",canada,Catholic,51,StatCan 35-10-0066
+2019,"Canada, selected police services",canada,Jewish,306,StatCan 35-10-0066
+2019,"Canada, selected police services",canada,Muslim (Islam),182,StatCan 35-10-0066
+2019,"Canada, selected police services",canada,Other religion,74,StatCan 35-10-0066
+2020,"Canada, selected police services",canada,Catholic,43,StatCan 35-10-0066
+2020,"Canada, selected police services",canada,Jewish,331,StatCan 35-10-0066
+2020,"Canada, selected police services",canada,Muslim (Islam),84,StatCan 35-10-0066
+2020,"Canada, selected police services",canada,Other religion,72,StatCan 35-10-0066
+2021,"Canada, selected police services",canada,Catholic,155,StatCan 35-10-0066
+2021,"Canada, selected police services",canada,Jewish,492,StatCan 35-10-0066
+2021,"Canada, selected police services",canada,Muslim (Islam),142,StatCan 35-10-0066
+2021,"Canada, selected police services",canada,Other religion,97,StatCan 35-10-0066
+2022,"Canada, selected police services",canada,Catholic,52,StatCan 35-10-0066
+2022,"Canada, selected police services",canada,Jewish,527,StatCan 35-10-0066
+2022,"Canada, selected police services",canada,Muslim (Islam),109,StatCan 35-10-0066
+2022,"Canada, selected police services",canada,Other religion,80,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Buddhist,0,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Catholic,49,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Christian Orthodox,0,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Hindu,1,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Jewish,959,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Mennonite or Amish,0,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Muslim (Islam),220,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Other Christian Religion,9,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Other religion,105,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Seventh Day Adventist – Jehovah’s witness,1,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Sikh,1,StatCan 35-10-0066
+2023,"Canada, selected police services",canada,Traditional Indigenous Spirituality,0,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Buddhist,0,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Catholic,59,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Christian Orthodox,1,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Hindu,3,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Jewish,943,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Mennonite or Amish,0,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Muslim (Islam),230,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Other Christian Religion,11,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Other religion,103,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Seventh Day Adventist – Jehovah’s witness,0,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Sikh,7,StatCan 35-10-0066
+2024,"Canada, selected police services",canada,Traditional Indigenous Spirituality,0,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Buddhist,1,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Catholic,36,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Christian Orthodox,6,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Hindu,3,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Jewish,788,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Mennonite or Amish,0,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Muslim (Islam),204,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Other Christian Religion,12,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Other religion,55,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Seventh Day Adventist – Jehovah’s witness,2,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Sikh,8,StatCan 35-10-0066
+2025,"Canada, selected police services",canada,Traditional Indigenous Spirituality,0,StatCan 35-10-0066
+2018,Toronto,city,Christian Orthodox,2,Toronto Police Service Hate Crime Unit
+2018,Toronto,city,Jewish,61,Toronto Police Service Hate Crime Unit
+2018,Toronto,city,Muslim (Islam),23,Toronto Police Service Hate Crime Unit
+2019,Toronto,city,Catholic,1,Toronto Police Service Hate Crime Unit
+2019,Toronto,city,Jewish,51,Toronto Police Service Hate Crime Unit
+2019,Toronto,city,Muslim (Islam),18,Toronto Police Service Hate Crime Unit
+2019,Toronto,city,Sikh,3,Toronto Police Service Hate Crime Unit
+2020,Toronto,city,Catholic,6,Toronto Police Service Hate Crime Unit
+2020,Toronto,city,Christian Orthodox,1,Toronto Police Service Hate Crime Unit
+2020,Toronto,city,Jewish,78,Toronto Police Service Hate Crime Unit
+2020,Toronto,city,Muslim (Islam),8,Toronto Police Service Hate Crime Unit
+2020,Toronto,city,Other Christian Religion,1,Toronto Police Service Hate Crime Unit
+2020,Toronto,city,Sikh,2,Toronto Police Service Hate Crime Unit
+2021,Toronto,city,Catholic,4,Toronto Police Service Hate Crime Unit
+2021,Toronto,city,Jewish,72,Toronto Police Service Hate Crime Unit
+2021,Toronto,city,Muslim (Islam),17,Toronto Police Service Hate Crime Unit
+2021,Toronto,city,Sikh,1,Toronto Police Service Hate Crime Unit
+2022,Toronto,city,Catholic,1,Toronto Police Service Hate Crime Unit
+2022,Toronto,city,Christian Orthodox,1,Toronto Police Service Hate Crime Unit
+2022,Toronto,city,Jewish,85,Toronto Police Service Hate Crime Unit
+2022,Toronto,city,Muslim (Islam),14,Toronto Police Service Hate Crime Unit
+2023,Toronto,city,Hindu,3,Toronto Police Service Hate Crime Unit
+2023,Toronto,city,Jewish,147,Toronto Police Service Hate Crime Unit
+2023,Toronto,city,Muslim (Islam),34,Toronto Police Service Hate Crime Unit
+2023,Toronto,city,Other Christian Religion,1,Toronto Police Service Hate Crime Unit
+2023,Toronto,city,Sikh,4,Toronto Police Service Hate Crime Unit
+2024,Toronto,city,Buddhist,1,Toronto Police Service Hate Crime Unit
+2024,Toronto,city,Catholic,1,Toronto Police Service Hate Crime Unit
+2024,Toronto,city,Hindu,4,Toronto Police Service Hate Crime Unit
+2024,Toronto,city,Jewish,176,Toronto Police Service Hate Crime Unit
+2024,Toronto,city,Muslim (Islam),29,Toronto Police Service Hate Crime Unit
+2024,Toronto,city,Other Christian Religion,2,Toronto Police Service Hate Crime Unit
+2024,Toronto,city,Sikh,5,Toronto Police Service Hate Crime Unit
+2025,Toronto,city,Hindu,1,Toronto Police Service Hate Crime Unit
+2025,Toronto,city,Jewish,96,Toronto Police Service Hate Crime Unit
+2025,Toronto,city,Muslim (Islam),17,Toronto Police Service Hate Crime Unit
+2025,Toronto,city,Other Christian Religion,1,Toronto Police Service Hate Crime Unit
+2025,Toronto,city,Sikh,2,Toronto Police Service Hate Crime Unit

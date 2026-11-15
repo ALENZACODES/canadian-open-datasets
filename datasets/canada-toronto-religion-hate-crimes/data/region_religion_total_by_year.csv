@@ -1,0 +1,109 @@
+year,ref_date,geo,geo_level,dguid,motivation,motivation_group,incidents,source
+2014,2014-01-01,Alberta [48],region,2021A000248,Religion,religion_total,30,StatCan 35-10-0066
+2014,2014-01-01,Atlantic [1],region,N00011,Religion,religion_total,7,StatCan 35-10-0066
+2014,2014-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,44,StatCan 35-10-0066
+2014,2014-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,429,StatCan 35-10-0066
+2014,2014-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,7,StatCan 35-10-0066
+2014,2014-01-01,Ontario [35],region,2021A000235,Religion,religion_total,246,StatCan 35-10-0066
+2014,2014-01-01,Quebec [24],region,2021A000224,Religion,religion_total,93,StatCan 35-10-0066
+2014,2014-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,2,StatCan 35-10-0066
+2014,2014-01-01,Territories [6],region,N00016,Religion,religion_total,0,StatCan 35-10-0066
+2015,2015-01-01,Alberta [48],region,2021A000248,Religion,religion_total,56,StatCan 35-10-0066
+2015,2015-01-01,Atlantic [1],region,N00011,Religion,religion_total,15,StatCan 35-10-0066
+2015,2015-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,38,StatCan 35-10-0066
+2015,2015-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,469,StatCan 35-10-0066
+2015,2015-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,4,StatCan 35-10-0066
+2015,2015-01-01,Ontario [35],region,2021A000235,Religion,religion_total,224,StatCan 35-10-0066
+2015,2015-01-01,Quebec [24],region,2021A000224,Religion,religion_total,127,StatCan 35-10-0066
+2015,2015-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,5,StatCan 35-10-0066
+2015,2015-01-01,Territories [6],region,N00016,Religion,religion_total,0,StatCan 35-10-0066
+2016,2016-01-01,Alberta [48],region,2021A000248,Religion,religion_total,25,StatCan 35-10-0066
+2016,2016-01-01,Atlantic [1],region,N00011,Religion,religion_total,9,StatCan 35-10-0066
+2016,2016-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,47,StatCan 35-10-0066
+2016,2016-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,460,StatCan 35-10-0066
+2016,2016-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,13,StatCan 35-10-0066
+2016,2016-01-01,Ontario [35],region,2021A000235,Religion,religion_total,242,StatCan 35-10-0066
+2016,2016-01-01,Quebec [24],region,2021A000224,Religion,religion_total,116,StatCan 35-10-0066
+2016,2016-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,6,StatCan 35-10-0066
+2016,2016-01-01,Territories [6],region,N00016,Religion,religion_total,2,StatCan 35-10-0066
+2017,2017-01-01,Alberta [48],region,2021A000248,Religion,religion_total,48,StatCan 35-10-0066
+2017,2017-01-01,Atlantic [1],region,N00011,Religion,religion_total,14,StatCan 35-10-0066
+2017,2017-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,103,StatCan 35-10-0066
+2017,2017-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,842,StatCan 35-10-0066
+2017,2017-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,10,StatCan 35-10-0066
+2017,2017-01-01,Ontario [35],region,2021A000235,Religion,religion_total,437,StatCan 35-10-0066
+2017,2017-01-01,Quebec [24],region,2021A000224,Religion,religion_total,226,StatCan 35-10-0066
+2017,2017-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,4,StatCan 35-10-0066
+2017,2017-01-01,Territories [6],region,N00016,Religion,religion_total,0,StatCan 35-10-0066
+2018,2018-01-01,Alberta [48],region,2021A000248,Religion,religion_total,86,StatCan 35-10-0066
+2018,2018-01-01,Atlantic [1],region,N00011,Religion,religion_total,13,StatCan 35-10-0066
+2018,2018-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,74,StatCan 35-10-0066
+2018,2018-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,657,StatCan 35-10-0066
+2018,2018-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,11,StatCan 35-10-0066
+2018,2018-01-01,Ontario [35],region,2021A000235,Religion,religion_total,326,StatCan 35-10-0066
+2018,2018-01-01,Quebec [24],region,2021A000224,Religion,religion_total,139,StatCan 35-10-0066
+2018,2018-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,7,StatCan 35-10-0066
+2018,2018-01-01,Territories [6],region,N00016,Religion,religion_total,1,StatCan 35-10-0066
+2019,2019-01-01,Alberta [48],region,2021A000248,Religion,religion_total,53,StatCan 35-10-0066
+2019,2019-01-01,Atlantic [1],region,N00011,Religion,religion_total,13,StatCan 35-10-0066
+2019,2019-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,66,StatCan 35-10-0066
+2019,2019-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,613,StatCan 35-10-0066
+2019,2019-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,22,StatCan 35-10-0066
+2019,2019-01-01,Ontario [35],region,2021A000235,Religion,religion_total,312,StatCan 35-10-0066
+2019,2019-01-01,Quebec [24],region,2021A000224,Religion,religion_total,137,StatCan 35-10-0066
+2019,2019-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,9,StatCan 35-10-0066
+2019,2019-01-01,Territories [6],region,N00016,Religion,religion_total,1,StatCan 35-10-0066
+2020,2020-01-01,Alberta [48],region,2021A000248,Religion,religion_total,30,StatCan 35-10-0066
+2020,2020-01-01,Atlantic [1],region,N00011,Religion,religion_total,14,StatCan 35-10-0066
+2020,2020-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,72,StatCan 35-10-0066
+2020,2020-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,530,StatCan 35-10-0066
+2020,2020-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,18,StatCan 35-10-0066
+2020,2020-01-01,Ontario [35],region,2021A000235,Religion,religion_total,297,StatCan 35-10-0066
+2020,2020-01-01,Quebec [24],region,2021A000224,Religion,religion_total,90,StatCan 35-10-0066
+2020,2020-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,9,StatCan 35-10-0066
+2020,2020-01-01,Territories [6],region,N00016,Religion,religion_total,0,StatCan 35-10-0066
+2021,2021-01-01,Alberta [48],region,2021A000248,Religion,religion_total,92,StatCan 35-10-0066
+2021,2021-01-01,Atlantic [1],region,N00011,Religion,religion_total,19,StatCan 35-10-0066
+2021,2021-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,152,StatCan 35-10-0066
+2021,2021-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,886,StatCan 35-10-0066
+2021,2021-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,27,StatCan 35-10-0066
+2021,2021-01-01,Ontario [35],region,2021A000235,Religion,religion_total,455,StatCan 35-10-0066
+2021,2021-01-01,Quebec [24],region,2021A000224,Religion,religion_total,118,StatCan 35-10-0066
+2021,2021-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,19,StatCan 35-10-0066
+2021,2021-01-01,Territories [6],region,N00016,Religion,religion_total,2,StatCan 35-10-0066
+2022,2022-01-01,Alberta [48],region,2021A000248,Religion,religion_total,55,StatCan 35-10-0066
+2022,2022-01-01,Atlantic [1],region,N00011,Religion,religion_total,14,StatCan 35-10-0066
+2022,2022-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,79,StatCan 35-10-0066
+2022,2022-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,768,StatCan 35-10-0066
+2022,2022-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,14,StatCan 35-10-0066
+2022,2022-01-01,Ontario [35],region,2021A000235,Religion,religion_total,499,StatCan 35-10-0066
+2022,2022-01-01,Quebec [24],region,2021A000224,Religion,religion_total,80,StatCan 35-10-0066
+2022,2022-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,20,StatCan 35-10-0066
+2022,2022-01-01,Territories [6],region,N00016,Religion,religion_total,5,StatCan 35-10-0066
+2023,2023-01-01,Alberta [48],region,2021A000248,Religion,religion_total,97,StatCan 35-10-0066
+2023,2023-01-01,Atlantic [1],region,N00011,Religion,religion_total,37,StatCan 35-10-0066
+2023,2023-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,122,StatCan 35-10-0066
+2023,2023-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,1345,StatCan 35-10-0066
+2023,2023-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,28,StatCan 35-10-0066
+2023,2023-01-01,Ontario [35],region,2021A000235,Religion,religion_total,835,StatCan 35-10-0066
+2023,2023-01-01,Quebec [24],region,2021A000224,Religion,religion_total,196,StatCan 35-10-0066
+2023,2023-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,25,StatCan 35-10-0066
+2023,2023-01-01,Territories [6],region,N00016,Religion,religion_total,1,StatCan 35-10-0066
+2024,2024-01-01,Alberta [48],region,2021A000248,Religion,religion_total,73,StatCan 35-10-0066
+2024,2024-01-01,Atlantic [1],region,N00011,Religion,religion_total,37,StatCan 35-10-0066
+2024,2024-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,129,StatCan 35-10-0066
+2024,2024-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,1357,StatCan 35-10-0066
+2024,2024-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,28,StatCan 35-10-0066
+2024,2024-01-01,Ontario [35],region,2021A000235,Religion,religion_total,856,StatCan 35-10-0066
+2024,2024-01-01,Quebec [24],region,2021A000224,Religion,religion_total,219,StatCan 35-10-0066
+2024,2024-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,12,StatCan 35-10-0066
+2024,2024-01-01,Territories [6],region,N00016,Religion,religion_total,1,StatCan 35-10-0066
+2025,2025-01-01,Alberta [48],region,2021A000248,Religion,religion_total,68,StatCan 35-10-0066
+2025,2025-01-01,Atlantic [1],region,N00011,Religion,religion_total,38,StatCan 35-10-0066
+2025,2025-01-01,British Columbia [59],region,2021A000259,Religion,religion_total,123,StatCan 35-10-0066
+2025,2025-01-01,"Canada, selected police services",canada,2021A000011124,Religion,religion_total,1115,StatCan 35-10-0066
+2025,2025-01-01,Manitoba [46],region,2021A000246,Religion,religion_total,42,StatCan 35-10-0066
+2025,2025-01-01,Ontario [35],region,2021A000235,Religion,religion_total,635,StatCan 35-10-0066
+2025,2025-01-01,Quebec [24],region,2021A000224,Religion,religion_total,189,StatCan 35-10-0066
+2025,2025-01-01,Saskatchewan [47],region,2021A000247,Religion,religion_total,20,StatCan 35-10-0066
+2025,2025-01-01,Territories [6],region,N00016,Religion,religion_total,0,StatCan 35-10-0066

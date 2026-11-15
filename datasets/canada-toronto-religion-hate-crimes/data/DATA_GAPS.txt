@@ -1,0 +1,5 @@
+Toronto Jewish yearly coverage: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+Toronto Muslim yearly coverage: [2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+StatCan Canada Jewish years with values: [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+StatCan Canada Muslim years with values: [2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+StatCan table 35-10-0066 publishes religion detail for Canada and selected regions, not for individual CMAs. Table 35-10-0191 has hate crime totals by CMA but not by religion target.
