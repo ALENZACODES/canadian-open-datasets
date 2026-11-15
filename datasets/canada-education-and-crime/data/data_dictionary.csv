@@ -1,0 +1,73 @@
+file,column,type,description
+cma_education_income_csi.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+cma_education_income_csi.csv,geo_clean,string,Geography name with province codes stripped for joining.
+cma_education_income_csi.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+cma_education_income_csi.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+cma_education_income_csi.csv,population_2021,number,2021 Census population count (or 25% sample population for neighbourhood profiles).
+cma_education_income_csi.csv,land_area_km2,number,Land area in square kilometres.
+cma_education_income_csi.csv,population_density_per_km2,number,Population density per square kilometre.
+cma_education_income_csi.csv,education_universe,number,Denominator for the education share.
+cma_education_income_csi.csv,bachelor_or_higher_count,number,Count of people with a bachelor's degree or higher.
+cma_education_income_csi.csv,bachelor_or_higher_share,number,Share of the education universe with a bachelor's degree or higher (0 to 1).
+cma_education_income_csi.csv,median_employment_income_bachelor_plus,number,"Median employment income for bachelor's degree or higher, age 25 to 64, 2020."
+cma_education_income_csi.csv,csi_year,integer,Year of the Crime Severity Index figure.
+cma_education_income_csi.csv,crime_severity_index,number,Police-reported Crime Severity Index.
+cma_education_income_csi.csv,violent_csi,number,Violent Crime Severity Index.
+cma_education_income_csi.csv,nonviolent_csi,number,Non-violent Crime Severity Index.
+province_education_income_csi.csv,geo,string,"Geography name as published, or Toronto for citywide TPS rows."
+province_education_income_csi.csv,geo_clean,string,Geography name with province codes stripped for joining.
+province_education_income_csi.csv,geo_level,string,"Geography level: canada, region, province_or_canada, cma_or_ca, city or neighbourhood."
+province_education_income_csi.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier.
+province_education_income_csi.csv,population_2021,number,2021 Census population count (or 25% sample population for neighbourhood profiles).
+province_education_income_csi.csv,land_area_km2,number,Land area in square kilometres.
+province_education_income_csi.csv,population_density_per_km2,number,Population density per square kilometre.
+province_education_income_csi.csv,education_universe,number,Denominator for the education share.
+province_education_income_csi.csv,bachelor_or_higher_count,number,Count of people with a bachelor's degree or higher.
+province_education_income_csi.csv,bachelor_or_higher_share,number,Share of the education universe with a bachelor's degree or higher (0 to 1).
+province_education_income_csi.csv,median_employment_income_bachelor_plus,number,"Median employment income for bachelor's degree or higher, age 25 to 64, 2020."
+province_education_income_csi.csv,csi_year,integer,Year of the Crime Severity Index figure.
+province_education_income_csi.csv,crime_severity_index,number,Police-reported Crime Severity Index.
+province_education_income_csi.csv,violent_csi,number,Violent Crime Severity Index.
+province_education_income_csi.csv,nonviolent_csi,number,Non-violent Crime Severity Index.
+toronto_neighbourhood_education_crime_2021.csv,neighbourhood_id,integer,"Toronto 158-neighbourhood model number, or NSA when not mapped."
+toronto_neighbourhood_education_crime_2021.csv,neighbourhood_name,string,Toronto neighbourhood name.
+toronto_neighbourhood_education_crime_2021.csv,classification,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+toronto_neighbourhood_education_crime_2021.csv,median_household_income_2020,number,Median total income of household in 2020 ($).
+toronto_neighbourhood_education_crime_2021.csv,population_2021,number,2021 Census population count (or 25% sample population for neighbourhood profiles).
+toronto_neighbourhood_education_crime_2021.csv,education_universe,number,Denominator for the education share.
+toronto_neighbourhood_education_crime_2021.csv,bachelor_or_higher_count,number,Count of people with a bachelor's degree or higher.
+toronto_neighbourhood_education_crime_2021.csv,bachelor_or_higher_share,number,Share of the education universe with a bachelor's degree or higher (0 to 1).
+toronto_neighbourhood_education_crime_2021.csv,land_area_km2,number,Land area in square kilometres.
+toronto_neighbourhood_education_crime_2021.csv,population_density_per_km2,number,Population density per square kilometre.
+toronto_neighbourhood_education_crime_2021.csv,crime_year,integer,Year of the neighbourhood crime rates.
+toronto_neighbourhood_education_crime_2021.csv,total_major_crime_rate_per_100000,number,Sum of the major crime rates listed in this file for that neighbourhood and year.
+toronto_neighbourhood_education_crime_2021.csv,assault_rate_per_100000,number,"Assault rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,autotheft_rate_per_100000,number,"Auto theft rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,biketheft_rate_per_100000,number,"Bicycle theft rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,breakenter_rate_per_100000,number,"Break and enter rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,homicide_rate_per_100000,number,"Homicide rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,robbery_rate_per_100000,number,"Robbery rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,shooting_rate_per_100000,number,"Shooting rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,theftfrommv_rate_per_100000,number,"Theft from motor vehicle rate per 100,000 population."
+toronto_neighbourhood_education_crime_2021.csv,theftover_rate_per_100000,number,"Theft over rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,neighbourhood_id,integer,"Toronto 158-neighbourhood model number, or NSA when not mapped."
+toronto_neighbourhood_education_crime_2024.csv,neighbourhood_name,string,Toronto neighbourhood name.
+toronto_neighbourhood_education_crime_2024.csv,classification,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+toronto_neighbourhood_education_crime_2024.csv,median_household_income_2020,number,Median total income of household in 2020 ($).
+toronto_neighbourhood_education_crime_2024.csv,population_2021,number,2021 Census population count (or 25% sample population for neighbourhood profiles).
+toronto_neighbourhood_education_crime_2024.csv,education_universe,number,Denominator for the education share.
+toronto_neighbourhood_education_crime_2024.csv,bachelor_or_higher_count,number,Count of people with a bachelor's degree or higher.
+toronto_neighbourhood_education_crime_2024.csv,bachelor_or_higher_share,number,Share of the education universe with a bachelor's degree or higher (0 to 1).
+toronto_neighbourhood_education_crime_2024.csv,land_area_km2,number,Land area in square kilometres.
+toronto_neighbourhood_education_crime_2024.csv,population_density_per_km2,number,Population density per square kilometre.
+toronto_neighbourhood_education_crime_2024.csv,crime_year,integer,Year of the neighbourhood crime rates.
+toronto_neighbourhood_education_crime_2024.csv,total_major_crime_rate_per_100000,number,Sum of the major crime rates listed in this file for that neighbourhood and year.
+toronto_neighbourhood_education_crime_2024.csv,assault_rate_per_100000,number,"Assault rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,autotheft_rate_per_100000,number,"Auto theft rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,biketheft_rate_per_100000,number,"Bicycle theft rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,breakenter_rate_per_100000,number,"Break and enter rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,homicide_rate_per_100000,number,"Homicide rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,robbery_rate_per_100000,number,"Robbery rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,shooting_rate_per_100000,number,"Shooting rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,theftfrommv_rate_per_100000,number,"Theft from motor vehicle rate per 100,000 population."
+toronto_neighbourhood_education_crime_2024.csv,theftover_rate_per_100000,number,"Theft over rate per 100,000 population."

@@ -1,0 +1,15 @@
+geo,geo_clean,geo_level,dguid,population_2021,land_area_km2,population_density_per_km2,education_universe,bachelor_or_higher_count,bachelor_or_higher_share,median_employment_income_bachelor_plus,csi_year,crime_severity_index,violent_csi,nonviolent_csi
+Canada,Canada,canada,2021A000011124,,,,19568260.0,6431940.0,0.32869248466649564,63200.0,2025,75.01,97.19,66.78
+Alberta,Alberta,province_or_canada,2021A000248,,,,2298160.0,714040.0,0.310700734500644,65000.0,2025,90.62,102.04,86.82
+British Columbia,British Columbia,province_or_canada,2021A000259,,,,2691860.0,941735.0,0.3498454600164942,58400.0,2025,92.37,98.02,90.89
+Manitoba,Manitoba,province_or_canada,2021A000246,,,,675695.0,194545.0,0.2879183655347457,56800.0,2025,130.04,194.55,105.35
+New Brunswick,New Brunswick,province_or_canada,2021A000213,,,,401005.0,94140.0,0.23476016508522338,64500.0,2025,90.36,108.63,83.82
+Newfoundland and Labrador,Newfoundland and Labrador,province_or_canada,2021A000210,,,,267785.0,55780.0,0.20830143585338984,73000.0,2025,88.74,100.24,84.89
+Northwest Territories,Northwest Territories,province_or_canada,2021A000261,,,,23080.0,6090.0,0.2638648180242634,106000.0,2025,485.88,556.3,461.84
+Nova Scotia,Nova Scotia,province_or_canada,2021A000212,,,,507465.0,151270.0,0.29808952341540795,60800.0,2025,72.96,89.78,66.85
+Nunavut,Nunavut,province_or_canada,2021A000262,,,,17060.0,2410.0,0.14126611957796015,123000.0,2025,461.22,719.01,362.08
+Ontario,Ontario,province_or_canada,2021A000235,,,,7584645.0,2789795.0,0.3678214339629607,65000.0,2025,57.17,74.91,50.56
+Prince Edward Island,Prince Edward Island,province_or_canada,2021A000211,,,,77465.0,21195.0,0.2736074356160847,58400.0,2025,68.4,71.55,67.72
+Quebec,Quebec,province_or_canada,2021A000224,,,,4434525.0,1307225.0,0.2947835450245517,63200.0,2025,61.55,97.99,47.5
+Saskatchewan,Saskatchewan,province_or_canada,2021A000247,,,,566615.0,146160.0,0.2579529310025326,63200.0,2025,146.64,194.27,128.84
+Yukon,Yukon,province_or_canada,2021A000260,,,,22895.0,7540.0,0.3293295479362306,80000.0,2025,195.42,235.95,180.88
