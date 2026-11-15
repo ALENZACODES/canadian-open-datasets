@@ -1,0 +1,50 @@
+file,column,type,description
+low_income_statistics.csv,ref_date,datetime,"Reference year of the income data, stored as January 1 of that year (1976-01-01 to 2024-01-01). Income refers to the full calendar year."
+low_income_statistics.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the provinces, the territories, official regional groupings, and in low_income_statistics.csv also eight census metropolitan areas. The official notes say estimates for Canada do not include the territories before 2018."
+low_income_statistics.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+low_income_statistics.csv,persons_in_low_income,string,"Population group as published: all persons, age groups, Men+ and Women+, and economic family types. Men+ and Women+ include some non-binary persons. Before 2021 this was the sex of the person."
+low_income_statistics.csv,low_income_line,string,"Low income line as published: Low income measure after tax (LIM-AT), Low income cut-offs after tax and before tax (1992 base), or the Market Basket Measure on its 2000, 2008, 2018 or 2023 base. The Market Basket Measure is Canada's Official Poverty Line."
+low_income_statistics.csv,statistic,string,"The kind of official figure. In low_income_statistics.csv: number of persons in low income, percentage of persons in low income, or average gap ratio. In income_deciles.csv: upper income limit, share of income, or average income."
+low_income_statistics.csv,unit_of_measure,string,"Unit of measure for value, as published: Number, Percent or 2024 constant dollars."
+low_income_statistics.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+low_income_statistics.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so values are already in persons, percent, dollars or Gini points."
+low_income_statistics.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+low_income_statistics.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+low_income_statistics.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+low_income_statistics.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered. Gini coefficients run from 0 (equal) to 1 (unequal).
+low_income_statistics.csv,status,string,"Statistics Canada status symbol. A to E are data quality grades based on the coefficient of variation (A excellent, B very good, C good, D acceptable, E use with caution) and come with a published value. F means too unreliable to be published and .. means not available for that reference period; in both cases value is empty. Empty status means no grade was given."
+low_income_statistics.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+low_income_statistics.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+low_income_statistics.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+gini_coefficients.csv,ref_date,datetime,"Reference year of the income data, stored as January 1 of that year (1976-01-01 to 2024-01-01). Income refers to the full calendar year."
+gini_coefficients.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the provinces, the territories, official regional groupings, and in low_income_statistics.csv also eight census metropolitan areas. The official notes say estimates for Canada do not include the territories before 2018."
+gini_coefficients.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+gini_coefficients.csv,income_concept,string,"Income concept as published: adjusted market income, adjusted total income (market income plus government transfers) or adjusted after-tax income. Adjusted means divided by the square root of household size."
+gini_coefficients.csv,unit_of_measure,string,"Unit of measure for value, as published: Number, Percent or 2024 constant dollars."
+gini_coefficients.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+gini_coefficients.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so values are already in persons, percent, dollars or Gini points."
+gini_coefficients.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+gini_coefficients.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+gini_coefficients.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+gini_coefficients.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered. Gini coefficients run from 0 (equal) to 1 (unequal).
+gini_coefficients.csv,status,string,"Statistics Canada status symbol. A to E are data quality grades based on the coefficient of variation (A excellent, B very good, C good, D acceptable, E use with caution) and come with a published value. F means too unreliable to be published and .. means not available for that reference period; in both cases value is empty. Empty status means no grade was given."
+gini_coefficients.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+gini_coefficients.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+gini_coefficients.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+income_deciles.csv,ref_date,datetime,"Reference year of the income data, stored as January 1 of that year (1976-01-01 to 2024-01-01). Income refers to the full calendar year."
+income_deciles.csv,geo,string,"Geography name as published by Statistics Canada: Canada, the provinces, the territories, official regional groupings, and in low_income_statistics.csv also eight census metropolitan areas. The official notes say estimates for Canada do not include the territories before 2018."
+income_deciles.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+income_deciles.csv,income_concept,string,"Income concept as published: adjusted market income, adjusted total income (market income plus government transfers) or adjusted after-tax income. Adjusted means divided by the square root of household size."
+income_deciles.csv,income_decile,string,"Income decile as published, from Lowest decile to Highest decile, plus Total deciles. The highest decile has no upper income limit."
+income_deciles.csv,statistic,string,"The kind of official figure. In low_income_statistics.csv: number of persons in low income, percentage of persons in low income, or average gap ratio. In income_deciles.csv: upper income limit, share of income, or average income."
+income_deciles.csv,unit_of_measure,string,"Unit of measure for value, as published: Number, Percent or 2024 constant dollars."
+income_deciles.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+income_deciles.csv,scalar_factor,string,"Scale of value as published. In these tables the official scale is units, so values are already in persons, percent, dollars or Gini points."
+income_deciles.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+income_deciles.csv,vector,string,Statistics Canada vector identifier for the series. Useful if you want to pull the same series again.
+income_deciles.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the official table.
+income_deciles.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that cell (see status). Official values were not altered. Gini coefficients run from 0 (equal) to 1 (unequal).
+income_deciles.csv,status,string,"Statistics Canada status symbol. A to E are data quality grades based on the coefficient of variation (A excellent, B very good, C good, D acceptable, E use with caution) and come with a published value. F means too unreliable to be published and .. means not available for that reference period; in both cases value is empty. Empty status means no grade was given."
+income_deciles.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+income_deciles.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+income_deciles.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
