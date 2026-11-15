@@ -1,0 +1,582 @@
+year,province_territory,province_territory_description,n_events
+1696,NB,New Brunswick,1
+1701,NB,New Brunswick,1
+1734,ON,Ontario,1
+1741,ON,Ontario,1
+1743,ON,Ontario,1
+1753,ON,Ontario,1
+1758,ON,Ontario,1
+1759,NB,New Brunswick,1
+1759,NS,Nova Scotia,1
+1767,ON,Ontario,1
+1768,NB,New Brunswick,1
+1769,ON,Ontario,1
+1785,NB,New Brunswick,1
+1786,ON,Ontario,1
+1789,NB,New Brunswick,1
+1792,NS,Nova Scotia,1
+1794,ON,Ontario,1
+1798,NB,New Brunswick,1
+1799,NB,New Brunswick,1
+1800,NB,New Brunswick,1
+1804,NS,Nova Scotia,1
+1807,NS,Nova Scotia,1
+1810,ON,Ontario,1
+1811,ON,Ontario,1
+1817,NB,New Brunswick,1
+1826,ON,Ontario,1
+1829,ON,Ontario,1
+1831,NB,New Brunswick,1
+1846,NB,New Brunswick,1
+1848,NS,Nova Scotia,1
+1849,ON,Ontario,1
+1851,NB,New Brunswick,1
+1854,NB,New Brunswick,2
+1855,ON,Ontario,1
+1857,NB,New Brunswick,1
+1859,ON,Ontario,1
+1865,NB,New Brunswick,1
+1869,NB,New Brunswick,3
+1869,NS,Nova Scotia,1
+1871,NS,Nova Scotia,1
+1873,NS,Nova Scotia,6
+1874,NB,New Brunswick,1
+1875,NS,Nova Scotia,1
+1881,NB,New Brunswick,1
+1883,NS,Nova Scotia,3
+1884,NB,New Brunswick,1
+1885,NB,New Brunswick,1
+1887,NB,New Brunswick,1
+1888,NB,New Brunswick,1
+1891,NS,Nova Scotia,1
+1892,NB,New Brunswick,1
+1893,NB,New Brunswick,2
+1894,BC,British Columbia,1
+1894,ON,Ontario,1
+1895,NS,Nova Scotia,1
+1896,NB,New Brunswick,1
+1896,NS,Nova Scotia,1
+1896,ON,Ontario,1
+1900,NB,New Brunswick,2
+1900,NS,Nova Scotia,1
+1901,NB,New Brunswick,2
+1901,NS,Nova Scotia,1
+1902,NB,New Brunswick,2
+1902,NS,Nova Scotia,1
+1903,NB,New Brunswick,2
+1904,MB,Manitoba,1
+1904,NB,New Brunswick,1
+1904,NS,Nova Scotia,1
+1906,NS,Nova Scotia,4
+1909,NB,New Brunswick,3
+1910,NB,New Brunswick,4
+1911,NB,New Brunswick,1
+1912,NB,New Brunswick,1
+1912,ON,Ontario,1
+1913,ON,Ontario,2
+1913,NB,New Brunswick,1
+1913,NS,Nova Scotia,1
+1914,NB,New Brunswick,1
+1915,NB,New Brunswick,2
+1915,"AB,SK","Alberta,Saskatchewan",1
+1916,NB,New Brunswick,3
+1916,MB,Manitoba,1
+1916,ON,Ontario,1
+1917,NB,New Brunswick,3
+1917,BC,British Columbia,1
+1917,ON,Ontario,1
+1918,NB,New Brunswick,2
+1918,"NB,NS","New Brunswick,Nova Scotia",1
+1919,NS,Nova Scotia,1
+1920,NB,New Brunswick,2
+1920,NS,Nova Scotia,1
+1920,ON,Ontario,1
+1921,NB,New Brunswick,1
+1921,NT,Northwest Territories,1
+1922,NB,New Brunswick,3
+1922,ON,Ontario,1
+1923,NB,New Brunswick,3
+1923,MB,Manitoba,1
+1923,NS,Nova Scotia,1
+1924,NB,New Brunswick,1
+1925,NB,New Brunswick,2
+1925,NS,Nova Scotia,1
+1925,YT,Yukon,1
+1926,NB,New Brunswick,3
+1927,NS,Nova Scotia,3
+1927,NB,New Brunswick,1
+1928,NB,New Brunswick,1
+1928,NS,Nova Scotia,1
+1928,ON,Ontario,1
+1928,QC,Quebec,1
+1928,SK,Saskatchewan,1
+1929,ON,Ontario,2
+1929,NS,Nova Scotia,1
+1930,NS,Nova Scotia,1
+1931,NB,New Brunswick,1
+1931,NS,Nova Scotia,1
+1932,NB,New Brunswick,4
+1932,NS,Nova Scotia,1
+1933,NB,New Brunswick,5
+1933,NS,Nova Scotia,2
+1934,NB,New Brunswick,5
+1934,ON,Ontario,3
+1934,NS,Nova Scotia,2
+1935,NB,New Brunswick,2
+1935,NS,Nova Scotia,2
+1936,NS,Nova Scotia,2
+1936,"NB,QC","New Brunswick,Quebec",1
+1936,ON,Ontario,1
+1937,NB,New Brunswick,2
+1937,NS,Nova Scotia,2
+1937,ON,Ontario,2
+1938,NB,New Brunswick,2
+1938,ON,Ontario,2
+1939,NB,New Brunswick,3
+1940,NB,New Brunswick,2
+1940,NS,Nova Scotia,1
+1941,NL,Newfoundland and Labrador,1
+1942,NB,New Brunswick,3
+1942,NS,Nova Scotia,1
+1943,NS,Nova Scotia,2
+1943,NB,New Brunswick,1
+1944,"NB,NS","New Brunswick,Nova Scotia",1
+1945,NB,New Brunswick,2
+1945,"NB,NS","New Brunswick,Nova Scotia",1
+1945,"NB,QC","New Brunswick,Quebec",1
+1946,NS,Nova Scotia,1
+1946,ON,Ontario,1
+1947,NB,New Brunswick,5
+1947,NS,Nova Scotia,2
+1947,ON,Ontario,2
+1948,NS,Nova Scotia,2
+1948,AB,Alberta,1
+1948,BC,British Columbia,1
+1948,NL,Newfoundland and Labrador,1
+1948,ON,Ontario,1
+1948,QC,Quebec,1
+1949,NB,New Brunswick,2
+1949,NS,Nova Scotia,1
+1950,ON,Ontario,8
+1950,NB,New Brunswick,3
+1950,"NB,QC","New Brunswick,Quebec",2
+1950,NS,Nova Scotia,2
+1950,MB,Manitoba,1
+1951,BC,British Columbia,2
+1951,NB,New Brunswick,2
+1951,NL,Newfoundland and Labrador,1
+1952,NB,New Brunswick,2
+1952,NS,Nova Scotia,1
+1952,SK,Saskatchewan,1
+1953,NB,New Brunswick,2
+1953,NS,Nova Scotia,1
+1953,ON,Ontario,1
+1954,ON,Ontario,4
+1954,NB,New Brunswick,2
+1956,NB,New Brunswick,1
+1956,NS,Nova Scotia,1
+1956,ON,Ontario,1
+1957,NB,New Brunswick,2
+1957,NS,Nova Scotia,2
+1957,NT,Northwest Territories,1
+1957,QC,Quebec,1
+1958,NB,New Brunswick,4
+1958,NS,Nova Scotia,4
+1959,NS,Nova Scotia,6
+1959,NB,New Brunswick,3
+1959,QC,Quebec,1
+1960,ON,Ontario,2
+1960,MB,Manitoba,1
+1960,NB,New Brunswick,1
+1960,NS,Nova Scotia,1
+1961,NB,New Brunswick,2
+1961,BC,British Columbia,1
+1961,NT,Northwest Territories,1
+1961,ON,Ontario,1
+1962,NB,New Brunswick,3
+1962,NS,Nova Scotia,1
+1963,NB,New Brunswick,3
+1963,NS,Nova Scotia,2
+1963,NT,Northwest Territories,1
+1964,NS,Nova Scotia,4
+1964,NB,New Brunswick,1
+1964,NT,Northwest Territories,1
+1965,QC,Quebec,1
+1966,ON,Ontario,4
+1966,MB,Manitoba,1
+1966,QC,Quebec,1
+1967,ON,Ontario,3
+1967,NS,Nova Scotia,2
+1967,NB,New Brunswick,1
+1968,NB,New Brunswick,2
+1968,NS,Nova Scotia,2
+1968,ON,Ontario,1
+1969,NS,Nova Scotia,4
+1969,MB,Manitoba,1
+1969,NB,New Brunswick,1
+1969,SK,Saskatchewan,1
+1970,NB,New Brunswick,3
+1970,ON,Ontario,2
+1970,MB,Manitoba,1
+1970,"NB,QC","New Brunswick,Quebec",1
+1970,NS,Nova Scotia,1
+1970,QC,Quebec,1
+1971,NB,New Brunswick,2
+1971,NS,Nova Scotia,2
+1971,QC,Quebec,1
+1972,NB,New Brunswick,4
+1972,NS,Nova Scotia,2
+1972,AB,Alberta,1
+1972,BC,British Columbia,1
+1972,NL,Newfoundland and Labrador,1
+1972,ON,Ontario,1
+1972,QC,Quebec,1
+1973,NB,New Brunswick,5
+1973,NS,Nova Scotia,4
+1973,ON,Ontario,1
+1974,NB,New Brunswick,6
+1974,NS,Nova Scotia,2
+1974,AB,Alberta,1
+1974,MB,Manitoba,1
+1974,"NB,QC","New Brunswick,Quebec",1
+1974,NT,Northwest Territories,1
+1974,ON,Ontario,1
+1974,"ON,QC","Ontario,Quebec",1
+1974,QC,Quebec,1
+1974,SK,Saskatchewan,1
+1975,NS,Nova Scotia,4
+1975,NB,New Brunswick,3
+1975,SK,Saskatchewan,1
+1976,NB,New Brunswick,4
+1976,NS,Nova Scotia,3
+1976,ON,Ontario,3
+1976,QC,Quebec,3
+1976,"NB,QC","New Brunswick,Quebec",1
+1976,NL,Newfoundland and Labrador,1
+1977,NB,New Brunswick,4
+1977,NS,Nova Scotia,3
+1977,ON,Ontario,2
+1977,AB,Alberta,1
+1977,NL,Newfoundland and Labrador,1
+1978,NS,Nova Scotia,8
+1978,AB,Alberta,3
+1978,NB,New Brunswick,3
+1978,BC,British Columbia,1
+1978,NL,Newfoundland and Labrador,1
+1978,QC,Quebec,1
+1979,NS,Nova Scotia,9
+1979,NB,New Brunswick,6
+1979,AB,Alberta,3
+1979,ON,Ontario,3
+1979,QC,Quebec,3
+1979,MB,Manitoba,2
+1979,"NB,QC","New Brunswick,Quebec",2
+1979,BC,British Columbia,1
+1979,YT,Yukon,1
+1980,QC,Quebec,4
+1980,NS,Nova Scotia,3
+1980,BC,British Columbia,1
+1980,NB,New Brunswick,1
+1980,ON,Ontario,1
+1981,NS,Nova Scotia,6
+1981,NB,New Brunswick,4
+1981,QC,Quebec,3
+1981,AB,Alberta,1
+1981,"NB,QC","New Brunswick,Quebec",1
+1981,ON,Ontario,1
+1982,NS,Nova Scotia,4
+1982,QC,Quebec,3
+1982,NT,Northwest Territories,2
+1982,AB,Alberta,1
+1982,NB,New Brunswick,1
+1983,QC,Quebec,8
+1983,NB,New Brunswick,5
+1983,NS,Nova Scotia,4
+1983,NL,Newfoundland and Labrador,3
+1983,AB,Alberta,1
+1983,"NB,QC","New Brunswick,Quebec",1
+1984,NS,Nova Scotia,6
+1984,NB,New Brunswick,3
+1984,BC,British Columbia,2
+1984,ON,Ontario,1
+1984,QC,Quebec,1
+1984,SK,Saskatchewan,1
+1985,ON,Ontario,16
+1985,QC,Quebec,5
+1985,NB,New Brunswick,3
+1985,NS,Nova Scotia,1
+1985,NT,Northwest Territories,1
+1986,QC,Quebec,8
+1986,NS,Nova Scotia,5
+1986,NB,New Brunswick,3
+1986,AB,Alberta,2
+1986,MB,Manitoba,1
+1986,ON,Ontario,1
+1986,SK,Saskatchewan,1
+1987,NS,Nova Scotia,4
+1987,QC,Quebec,4
+1987,ON,Ontario,3
+1987,NB,New Brunswick,1
+1988,AB,Alberta,3
+1988,ON,Ontario,2
+1988,BC,British Columbia,1
+1988,MB,Manitoba,1
+1988,NB,New Brunswick,1
+1988,"NB,QC","New Brunswick,Quebec",1
+1988,NT,Northwest Territories,1
+1988,QC,Quebec,1
+1989,NB,New Brunswick,4
+1989,ON,Ontario,4
+1989,QC,Quebec,3
+1989,BC,British Columbia,1
+1989,NT,Northwest Territories,1
+1990,QC,Quebec,6
+1990,NB,New Brunswick,3
+1990,AB,Alberta,1
+1990,ON,Ontario,1
+1991,NB,New Brunswick,6
+1991,QC,Quebec,4
+1991,BC,British Columbia,2
+1991,ON,Ontario,1
+1991,YT,Yukon,1
+1992,QC,Quebec,10
+1992,NS,Nova Scotia,5
+1992,NB,New Brunswick,4
+1992,ON,Ontario,3
+1992,AB,Alberta,2
+1992,"NB,QC","New Brunswick,Quebec",1
+1992,NT,Northwest Territories,1
+1992,YT,Yukon,1
+1993,QC,Quebec,9
+1993,NB,New Brunswick,6
+1993,NS,Nova Scotia,5
+1993,MB,Manitoba,2
+1994,NS,Nova Scotia,16
+1994,QC,Quebec,10
+1994,NB,New Brunswick,1
+1994,ON,Ontario,1
+1995,QC,Quebec,8
+1995,BC,British Columbia,4
+1995,NS,Nova Scotia,4
+1995,AB,Alberta,2
+1995,NB,New Brunswick,2
+1995,MB,Manitoba,1
+1995,SK,Saskatchewan,1
+1996,QC,Quebec,11
+1996,ON,Ontario,7
+1996,NS,Nova Scotia,6
+1996,NB,New Brunswick,4
+1996,AB,Alberta,2
+1996,BC,British Columbia,2
+1996,NL,Newfoundland and Labrador,1
+1997,QC,Quebec,11
+1997,NS,Nova Scotia,6
+1997,NB,New Brunswick,4
+1997,ON,Ontario,3
+1997,AB,Alberta,2
+1997,BC,British Columbia,1
+1997,MB,Manitoba,1
+1997,SK,Saskatchewan,1
+1998,ON,Ontario,8
+1998,NS,Nova Scotia,7
+1998,QC,Quebec,6
+1998,BC,British Columbia,2
+1998,NB,New Brunswick,2
+1999,NS,Nova Scotia,9
+1999,BC,British Columbia,6
+1999,NB,New Brunswick,4
+1999,QC,Quebec,4
+1999,AB,Alberta,1
+1999,MB,Manitoba,1
+1999,ON,Ontario,1
+1999,PE,Prince Edward Island,1
+1999,SK,Saskatchewan,1
+2000,QC,Quebec,9
+2000,NS,Nova Scotia,5
+2000,ON,Ontario,3
+2000,NB,New Brunswick,2
+2000,BC,British Columbia,1
+2000,MB,Manitoba,1
+2000,"NB,NS","New Brunswick,Nova Scotia",1
+2000,SK,Saskatchewan,1
+2001,NS,Nova Scotia,6
+2001,QC,Quebec,6
+2001,BC,British Columbia,2
+2001,MB,Manitoba,1
+2001,ON,Ontario,1
+2002,QC,Quebec,10
+2002,NS,Nova Scotia,6
+2002,ON,Ontario,6
+2002,NB,New Brunswick,2
+2002,AB,Alberta,1
+2002,BC,British Columbia,1
+2002,MB,Manitoba,1
+2003,QC,Quebec,7
+2003,NS,Nova Scotia,6
+2003,BC,British Columbia,2
+2003,NL,Newfoundland and Labrador,2
+2003,NB,New Brunswick,1
+2003,ON,Ontario,1
+2003,PE,Prince Edward Island,1
+2004,QC,Quebec,16
+2004,ON,Ontario,6
+2004,BC,British Columbia,5
+2004,MB,Manitoba,2
+2004,NS,Nova Scotia,2
+2004,NB,New Brunswick,1
+2005,QC,Quebec,17
+2005,NS,Nova Scotia,8
+2005,ON,Ontario,4
+2005,AB,Alberta,1
+2005,BC,British Columbia,1
+2005,MB,Manitoba,1
+2005,NB,New Brunswick,1
+2005,NL,Newfoundland and Labrador,1
+2005,NT,Northwest Territories,1
+2005,SK,Saskatchewan,1
+2006,QC,Quebec,14
+2006,NB,New Brunswick,2
+2006,NS,Nova Scotia,2
+2006,ON,Ontario,2
+2006,BC,British Columbia,1
+2006,NL,Newfoundland and Labrador,1
+2006,NT,Northwest Territories,1
+2006,SK,Saskatchewan,1
+2007,QC,Quebec,15
+2007,BC,British Columbia,12
+2007,NS,Nova Scotia,5
+2007,MB,Manitoba,1
+2007,SK,Saskatchewan,1
+2008,QC,Quebec,24
+2008,ON,Ontario,18
+2008,NS,Nova Scotia,9
+2008,NB,New Brunswick,4
+2008,AB,Alberta,1
+2008,BC,British Columbia,1
+2008,NT,Northwest Territories,1
+2008,NU,Nunavut,1
+2008,SK,Saskatchewan,1
+2009,QC,Quebec,16
+2009,NS,Nova Scotia,7
+2009,ON,Ontario,5
+2009,BC,British Columbia,4
+2009,NB,New Brunswick,3
+2009,MB,Manitoba,2
+2009,YT,Yukon,1
+2010,QC,Quebec,24
+2010,NS,Nova Scotia,7
+2010,NB,New Brunswick,5
+2010,BC,British Columbia,4
+2010,"AB,SK","Alberta,Saskatchewan",1
+2010,MB,Manitoba,1
+2010,"NB,NS","New Brunswick,Nova Scotia",1
+2010,ON,Ontario,1
+2011,QC,Quebec,12
+2011,NS,Nova Scotia,6
+2011,BC,British Columbia,4
+2011,MB,Manitoba,4
+2011,NB,New Brunswick,4
+2011,AB,Alberta,2
+2011,SK,Saskatchewan,1
+2012,QC,Quebec,11
+2012,BC,British Columbia,7
+2012,ON,Ontario,5
+2012,NS,Nova Scotia,3
+2012,NB,New Brunswick,2
+2012,"BC,NT,YT","British Columbia,Northwest Territories,Yukon",1
+2013,QC,Quebec,19
+2013,ON,Ontario,18
+2013,NS,Nova Scotia,7
+2013,BC,British Columbia,2
+2013,NB,New Brunswick,2
+2013,AB,Alberta,1
+2013,MB,Manitoba,1
+2013,SK,Saskatchewan,1
+2014,QC,Quebec,16
+2014,NS,Nova Scotia,9
+2014,ON,Ontario,9
+2014,BC,British Columbia,4
+2014,NB,New Brunswick,4
+2014,MB,Manitoba,2
+2014,AB,Alberta,1
+2014,SK,Saskatchewan,1
+2015,QC,Quebec,14
+2015,BC,British Columbia,5
+2015,ON,Ontario,4
+2015,NB,New Brunswick,3
+2015,AB,Alberta,1
+2015,NS,Nova Scotia,1
+2016,QC,Quebec,16
+2016,ON,Ontario,10
+2016,BC,British Columbia,3
+2016,AB,Alberta,1
+2016,"NL,NS,PE","Newfoundland and Labrador,Nova Scotia,Prince Edward Island",1
+2016,SK,Saskatchewan,1
+2017,QC,Quebec,12
+2017,BC,British Columbia,3
+2017,NB,New Brunswick,2
+2017,MB,Manitoba,1
+2017,ON,Ontario,1
+2018,QC,Quebec,9
+2018,BC,British Columbia,4
+2018,NB,New Brunswick,2
+2018,ON,Ontario,2
+2018,AB,Alberta,1
+2019,QC,Quebec,8
+2019,MB,Manitoba,2
+2019,NB,New Brunswick,2
+2019,ON,Ontario,2
+2019,BC,British Columbia,1
+2019,"ON,QC","Ontario,Quebec",1
+2020,QC,Quebec,6
+2020,AB,Alberta,2
+2020,BC,British Columbia,1
+2020,MB,Manitoba,1
+2020,ON,Ontario,1
+2021,QC,Quebec,6
+2021,BC,British Columbia,2
+2021,NL,Newfoundland and Labrador,1
+2021,NS,Nova Scotia,1
+2021,NT,Northwest Territories,1
+2021,YT,Yukon,1
+2022,ON,Ontario,10
+2022,BC,British Columbia,4
+2022,MB,Manitoba,3
+2022,NT,Northwest Territories,3
+2022,AB,Alberta,2
+2022,NL,Newfoundland and Labrador,2
+2022,QC,Quebec,2
+2022,NB,New Brunswick,1
+2022,"NB,NL,NS,PE,QC","New Brunswick,Newfoundland and Labrador,Nova Scotia,Prince Edward Island,Quebec",1
+2022,SK,Saskatchewan,1
+2022,YT,Yukon,1
+2023,ON,Ontario,21
+2023,QC,Quebec,21
+2023,BC,British Columbia,4
+2023,NB,New Brunswick,3
+2023,SK,Saskatchewan,3
+2023,AB,Alberta,2
+2023,MB,Manitoba,2
+2023,NT,Northwest Territories,2
+2023,YT,Yukon,2
+2023,"NB,QC","New Brunswick,Quebec",1
+2023,"NL,NS","Newfoundland and Labrador,Nova Scotia",1
+2023,"ON,QC","Ontario,Quebec",1
+2024,QC,Quebec,16
+2024,ON,Ontario,7
+2024,AB,Alberta,5
+2024,BC,British Columbia,5
+2024,MB,Manitoba,3
+2024,NS,Nova Scotia,3
+2024,NL,Newfoundland and Labrador,2
+2024,SK,Saskatchewan,2
+2024,NB,New Brunswick,1
+2024,"NB,NS","New Brunswick,Nova Scotia",1
+2024,"NS,QC","Nova Scotia,Quebec",1
+2024,YT,Yukon,1
+2025,QC,Quebec,10
+2025,BC,British Columbia,3
+2025,ON,Ontario,2
+2025,AB,Alberta,1
+2025,NL,Newfoundland and Labrador,1
+2025,YT,Yukon,1

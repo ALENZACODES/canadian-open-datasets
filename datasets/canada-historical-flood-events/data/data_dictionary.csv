@@ -1,0 +1,62 @@
+file,column,type,description
+flood_locations.csv,id,integer,Row identifier from the official GeoPackage layer.
+flood_locations.csv,uuid,string,Record UUID from the official layer.
+flood_locations.csv,event_id,string,Event identifier shared by the event layer and its location rows.
+flood_locations.csv,event_name,string,Event name when published (for example a named storm). Blank if none was given.
+flood_locations.csv,year,integer,Event year as published.
+flood_locations.csv,start_date,string,Start date as published. Some early events carry only a year.
+flood_locations.csv,end_date,string,End date as published. Left blank when the source had no end date (n/a - nd).
+flood_locations.csv,locality,string,"Place name reported as affected. The official point sits on this locality, not on a mapped flood footprint."
+flood_locations.csv,season,string,"Season as published (spring, summer, fall, winter, or unknown)."
+flood_locations.csv,province_territory,string,"Province or territory code. On the event table this may list more than one code, separated by commas."
+flood_locations.csv,province_territory_description,string,Province or territory name corresponding to the code field.
+flood_locations.csv,flood_cause,string,"Cause code as published (freshet, heavy rain, coastal storm, frazil, beaver dam failure, municipal water main break, dam failure, or unknown)."
+flood_locations.csv,flood_cause_description,string,Official description of the cause code.
+flood_locations.csv,death,string,"yes, no or unknown, as coded in the inventory. This is not a count of fatalities."
+flood_locations.csv,evacuation,string,"yes, no or unknown, as coded in the inventory. This is not a count of people evacuated."
+flood_locations.csv,rainfall_mm,numeric,Rainfall amount in millimetres when published.
+flood_locations.csv,intensity,string,"Intensity as published (for example low, unknown)."
+flood_locations.csv,comment,string,Source comment or narrative for the location.
+flood_locations.csv,link_1,string,First source link when published.
+flood_locations.csv,link_2,string,Second source link when published.
+flood_locations.csv,source_1,string,Primary source class for the location row (for example provincial).
+flood_locations.csv,source_1_description,string,Description of the primary source class.
+flood_locations.csv,source_2,string,Secondary source class when published.
+flood_locations.csv,source_2_description,string,Description of the secondary source class.
+flood_locations.csv,geometry_source,string,How the official point was placed (for example CGNDB).
+flood_locations.csv,geometry_source_description,string,Description of the geometry source.
+flood_locations.csv,weather_station,string,Weather station reference when published.
+flood_locations.csv,precipitation_analysis_url,string,Precipitation analysis document URL when published (events after 1 January 1980 caused by heavy rain or a coastal storm).
+flood_locations.csv,precipitation_data_url,string,Precipitation data URL when published.
+flood_locations.csv,longitude,numeric,"Longitude in decimal degrees (WGS84), converted from the official EPSG:3978 point. Approximate; the official point is a locality, not a flood outline."
+flood_locations.csv,latitude,numeric,"Latitude in decimal degrees (WGS84), converted from the official EPSG:3978 point. Approximate; the official point is a locality, not a flood outline."
+flood_locations.csv,x_lambert_m,numeric,"Easting in metres, NAD83 / Canada Atlas Lambert (EPSG:3978), as stored in the GeoPackage."
+flood_locations.csv,y_lambert_m,numeric,"Northing in metres, NAD83 / Canada Atlas Lambert (EPSG:3978), as stored in the GeoPackage."
+flood_events.csv,id,integer,Row identifier from the official GeoPackage layer.
+flood_events.csv,uuid,string,Record UUID from the official layer.
+flood_events.csv,event_id,string,Event identifier shared by the event layer and its location rows.
+flood_events.csv,event_name,string,Event name when published (for example a named storm). Blank if none was given.
+flood_events.csv,year,integer,Event year as published.
+flood_events.csv,start_date,string,Start date as published. Some early events carry only a year.
+flood_events.csv,end_date,string,End date as published. Left blank when the source had no end date (n/a - nd).
+flood_events.csv,season,string,"Season as published (spring, summer, fall, winter, or unknown)."
+flood_events.csv,province_territory,string,"Province or territory code. On the event table this may list more than one code, separated by commas."
+flood_events.csv,province_territory_description,string,Province or territory name corresponding to the code field.
+flood_events.csv,flood_cause,string,"Cause code as published (freshet, heavy rain, coastal storm, frazil, beaver dam failure, municipal water main break, dam failure, or unknown)."
+flood_events.csv,flood_cause_description,string,Official description of the cause code.
+flood_events.csv,death,string,"yes, no or unknown, as coded in the inventory. This is not a count of fatalities."
+flood_events.csv,evacuation,string,"yes, no or unknown, as coded in the inventory. This is not a count of people evacuated."
+flood_events.csv,event_summary,string,Event-level summary from the official event layer.
+flood_events.csv,source,string,Source class on the event layer.
+flood_events.csv,source_description,string,Description of the event-layer source class.
+flood_events.csv,precipitation_analysis_url,string,Precipitation analysis document URL when published (events after 1 January 1980 caused by heavy rain or a coastal storm).
+flood_events.csv,precipitation_animation_url,string,Precipitation animation URL when published.
+flood_events.csv,precipitation_data_url,string,Precipitation data URL when published.
+flood_events.csv,n_locations,integer,Number of location rows linked to this event in the official location layer.
+events_by_year_province.csv,year,integer,Event year as published.
+events_by_year_province.csv,province_territory,string,"Province or territory code. On the event table this may list more than one code, separated by commas."
+events_by_year_province.csv,province_territory_description,string,Province or territory name corresponding to the code field.
+events_by_year_province.csv,n_events,integer,Number of events in that year and group.
+events_by_year_cause.csv,year,integer,Event year as published.
+events_by_year_cause.csv,flood_cause,string,"Cause code as published (freshet, heavy rain, coastal storm, frazil, beaver dam failure, municipal water main break, dam failure, or unknown)."
+events_by_year_cause.csv,n_events,integer,Number of events in that year and group.

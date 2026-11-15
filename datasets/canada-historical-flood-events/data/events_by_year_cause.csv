@@ -1,0 +1,460 @@
+year,flood_cause,n_events
+1696,freshet,1
+1701,unknown,1
+1734,freshet,1
+1741,freshet,1
+1743,freshet,1
+1753,freshet,1
+1758,freshet,1
+1759,coastal storm,2
+1767,freshet,1
+1768,coastal storm,1
+1769,freshet,1
+1785,freshet,1
+1786,freshet,1
+1789,freshet,1
+1792,heavy rain,1
+1794,freshet,1
+1798,unknown,1
+1799,unknown,1
+1800,unknown,1
+1804,unknown,1
+1807,unknown,1
+1810,freshet,1
+1811,freshet,1
+1817,unknown,1
+1826,freshet,1
+1829,freshet,1
+1831,freshet,1
+1846,freshet,1
+1848,freshet,1
+1849,freshet,1
+1851,heavy rain,1
+1854,heavy rain,1
+1854,unknown,1
+1855,freshet,1
+1857,freshet,1
+1859,freshet,1
+1865,coastal storm,1
+1869,coastal storm,3
+1869,heavy rain,1
+1871,coastal storm,1
+1873,coastal storm,6
+1874,heavy rain,1
+1875,heavy rain,1
+1881,freshet,1
+1883,unknown,3
+1884,coastal storm,1
+1885,heavy rain,1
+1887,freshet,1
+1888,freshet,1
+1891,heavy rain,1
+1892,freshet,1
+1893,freshet,1
+1893,unknown,1
+1894,freshet,2
+1895,freshet,1
+1896,freshet,2
+1896,heavy rain,1
+1900,heavy rain,2
+1900,coastal storm,1
+1901,freshet,2
+1901,heavy rain,1
+1902,freshet,2
+1902,heavy rain,1
+1903,coastal storm,1
+1903,freshet,1
+1904,freshet,2
+1904,heavy rain,1
+1906,freshet,4
+1909,freshet,2
+1909,coastal storm,1
+1910,freshet,2
+1910,coastal storm,1
+1910,heavy rain,1
+1911,heavy rain,1
+1912,freshet,1
+1912,heavy rain,1
+1913,freshet,2
+1913,coastal storm,1
+1913,unknown,1
+1914,coastal storm,1
+1915,freshet,2
+1915,heavy rain,1
+1916,coastal storm,2
+1916,freshet,2
+1916,unknown,1
+1917,coastal storm,2
+1917,heavy rain,2
+1917,freshet,1
+1918,heavy rain,2
+1918,coastal storm,1
+1919,coastal storm,1
+1920,freshet,3
+1920,heavy rain,1
+1921,freshet,1
+1921,unknown,1
+1922,heavy rain,2
+1922,coastal storm,1
+1922,freshet,1
+1923,coastal storm,2
+1923,freshet,2
+1923,unknown,1
+1924,heavy rain,1
+1925,coastal storm,2
+1925,freshet,2
+1926,coastal storm,1
+1926,freshet,1
+1926,heavy rain,1
+1927,heavy rain,2
+1927,coastal storm,1
+1927,freshet,1
+1928,unknown,3
+1928,freshet,2
+1929,unknown,2
+1929,heavy rain,1
+1930,freshet,1
+1931,coastal storm,1
+1931,freshet,1
+1932,coastal storm,2
+1932,freshet,2
+1932,heavy rain,1
+1933,coastal storm,3
+1933,heavy rain,3
+1933,freshet,1
+1934,freshet,5
+1934,heavy rain,3
+1934,unknown,2
+1935,freshet,3
+1935,heavy rain,1
+1936,freshet,3
+1936,coastal storm,1
+1937,freshet,3
+1937,coastal storm,2
+1937,heavy rain,1
+1938,freshet,2
+1938,coastal storm,1
+1938,unknown,1
+1939,freshet,3
+1940,coastal storm,2
+1940,freshet,1
+1941,heavy rain,1
+1942,freshet,3
+1942,heavy rain,1
+1943,heavy rain,2
+1943,freshet,1
+1944,coastal storm,1
+1945,heavy rain,2
+1945,coastal storm,1
+1945,freshet,1
+1946,heavy rain,1
+1946,unknown,1
+1947,freshet,5
+1947,heavy rain,3
+1947,unknown,1
+1948,freshet,4
+1948,heavy rain,2
+1948,unknown,1
+1949,coastal storm,1
+1949,freshet,1
+1949,heavy rain,1
+1950,freshet,10
+1950,coastal storm,3
+1950,heavy rain,2
+1950,unknown,1
+1951,freshet,2
+1951,unknown,2
+1951,coastal storm,1
+1952,freshet,4
+1953,freshet,3
+1953,unknown,1
+1954,freshet,3
+1954,heavy rain,2
+1954,unknown,1
+1956,freshet,2
+1956,heavy rain,1
+1957,coastal storm,2
+1957,freshet,2
+1957,heavy rain,2
+1958,freshet,3
+1958,heavy rain,3
+1958,coastal storm,2
+1959,coastal storm,5
+1959,freshet,3
+1959,heavy rain,1
+1959,unknown,1
+1960,freshet,4
+1960,unknown,1
+1961,freshet,2
+1961,heavy rain,2
+1961,unknown,1
+1962,freshet,3
+1962,coastal storm,1
+1963,freshet,4
+1963,heavy rain,2
+1964,heavy rain,3
+1964,freshet,2
+1964,coastal storm,1
+1965,freshet,1
+1966,freshet,5
+1966,heavy rain,1
+1967,heavy rain,3
+1967,unknown,2
+1967,freshet,1
+1968,coastal storm,2
+1968,freshet,2
+1968,heavy rain,1
+1969,coastal storm,3
+1969,freshet,2
+1969,heavy rain,1
+1969,unknown,1
+1970,freshet,3
+1970,heavy rain,3
+1970,unknown,2
+1970,frazil,1
+1971,freshet,4
+1971,heavy rain,1
+1972,freshet,9
+1972,heavy rain,2
+1973,freshet,6
+1973,heavy rain,3
+1973,coastal storm,1
+1974,freshet,11
+1974,coastal storm,2
+1974,heavy rain,2
+1974,frazil,1
+1975,heavy rain,5
+1975,freshet,2
+1975,coastal storm,1
+1976,freshet,10
+1976,heavy rain,3
+1976,coastal storm,2
+1977,freshet,6
+1977,coastal storm,3
+1977,heavy rain,1
+1977,unknown,1
+1978,freshet,7
+1978,heavy rain,6
+1978,coastal storm,3
+1978,unknown,1
+1979,freshet,17
+1979,heavy rain,5
+1979,coastal storm,4
+1979,unknown,4
+1980,coastal storm,3
+1980,heavy rain,3
+1980,freshet,2
+1980,unknown,2
+1981,heavy rain,9
+1981,freshet,6
+1981,frazil,1
+1982,freshet,8
+1982,heavy rain,2
+1982,unknown,1
+1983,freshet,11
+1983,coastal storm,4
+1983,heavy rain,3
+1983,unknown,3
+1983,frazil,1
+1984,freshet,10
+1984,heavy rain,2
+1984,coastal storm,1
+1984,unknown,1
+1985,freshet,15
+1985,heavy rain,4
+1985,unknown,4
+1985,coastal storm,3
+1986,freshet,11
+1986,heavy rain,7
+1986,coastal storm,2
+1986,unknown,1
+1987,coastal storm,5
+1987,freshet,3
+1987,heavy rain,2
+1987,unknown,2
+1988,freshet,4
+1988,unknown,3
+1988,heavy rain,2
+1988,coastal storm,1
+1988,frazil,1
+1989,freshet,7
+1989,heavy rain,3
+1989,frazil,2
+1989,unknown,1
+1990,freshet,4
+1990,heavy rain,4
+1990,coastal storm,1
+1990,frazil,1
+1990,unknown,1
+1991,freshet,8
+1991,heavy rain,4
+1991,beaver dam failure,1
+1991,unknown,1
+1992,freshet,12
+1992,heavy rain,7
+1992,unknown,4
+1992,frazil,3
+1992,coastal storm,1
+1993,coastal storm,9
+1993,heavy rain,6
+1993,freshet,4
+1993,beaver dam failure,1
+1993,frazil,1
+1993,unknown,1
+1994,freshet,15
+1994,heavy rain,7
+1994,frazil,3
+1994,unknown,3
+1995,heavy rain,9
+1995,freshet,7
+1995,unknown,3
+1995,coastal storm,2
+1995,frazil,1
+1996,freshet,11
+1996,heavy rain,11
+1996,unknown,8
+1996,beaver dam failure,1
+1996,coastal storm,1
+1996,frazil,1
+1997,freshet,15
+1997,heavy rain,7
+1997,unknown,4
+1997,coastal storm,2
+1997,beaver dam failure,1
+1998,unknown,11
+1998,heavy rain,8
+1998,freshet,6
+1999,heavy rain,10
+1999,freshet,9
+1999,unknown,6
+1999,coastal storm,3
+2000,heavy rain,10
+2000,coastal storm,5
+2000,freshet,4
+2000,beaver dam failure,2
+2000,frazil,1
+2000,unknown,1
+2001,freshet,5
+2001,heavy rain,5
+2001,unknown,4
+2001,coastal storm,1
+2001,municipal water main break,1
+2002,heavy rain,14
+2002,freshet,5
+2002,unknown,4
+2002,coastal storm,2
+2002,frazil,1
+2002,municipal water main break,1
+2003,freshet,8
+2003,heavy rain,7
+2003,unknown,3
+2003,coastal storm,1
+2003,frazil,1
+2004,heavy rain,16
+2004,freshet,6
+2004,unknown,5
+2004,coastal storm,2
+2004,frazil,2
+2004,beaver dam failure,1
+2005,heavy rain,18
+2005,freshet,10
+2005,beaver dam failure,5
+2005,coastal storm,1
+2005,frazil,1
+2005,unknown,1
+2006,freshet,10
+2006,heavy rain,10
+2006,beaver dam failure,2
+2006,coastal storm,1
+2006,dam failure,1
+2007,heavy rain,14
+2007,freshet,12
+2007,unknown,5
+2007,beaver dam failure,1
+2007,coastal storm,1
+2007,frazil,1
+2008,freshet,35
+2008,heavy rain,20
+2008,beaver dam failure,3
+2008,coastal storm,1
+2008,frazil,1
+2009,heavy rain,19
+2009,freshet,9
+2009,beaver dam failure,5
+2009,coastal storm,2
+2009,unknown,2
+2009,dam failure,1
+2010,heavy rain,21
+2010,coastal storm,10
+2010,beaver dam failure,3
+2010,freshet,3
+2010,unknown,3
+2010,frazil,2
+2010,dam failure,1
+2010,municipal water main break,1
+2011,heavy rain,17
+2011,freshet,11
+2011,beaver dam failure,2
+2011,unknown,2
+2011,coastal storm,1
+2012,heavy rain,15
+2012,freshet,13
+2012,unknown,1
+2013,freshet,21
+2013,heavy rain,21
+2013,coastal storm,4
+2013,beaver dam failure,2
+2013,unknown,2
+2013,dam failure,1
+2014,heavy rain,22
+2014,freshet,12
+2014,unknown,8
+2014,frazil,2
+2014,beaver dam failure,1
+2014,coastal storm,1
+2015,heavy rain,13
+2015,freshet,10
+2015,beaver dam failure,2
+2015,frazil,2
+2015,dam failure,1
+2016,heavy rain,19
+2016,freshet,8
+2016,coastal storm,2
+2016,frazil,2
+2016,dam failure,1
+2017,freshet,10
+2017,heavy rain,4
+2017,beaver dam failure,2
+2017,frazil,2
+2017,coastal storm,1
+2018,freshet,9
+2018,heavy rain,6
+2018,coastal storm,2
+2018,beaver dam failure,1
+2019,freshet,8
+2019,heavy rain,6
+2019,coastal storm,2
+2020,heavy rain,6
+2020,freshet,4
+2020,beaver dam failure,1
+2021,heavy rain,6
+2021,freshet,3
+2021,coastal storm,2
+2021,beaver dam failure,1
+2022,freshet,12
+2022,heavy rain,8
+2022,coastal storm,7
+2022,unknown,2
+2022,beaver dam failure,1
+2023,freshet,36
+2023,heavy rain,20
+2023,municipal water main break,6
+2023,coastal storm,1
+2024,heavy rain,29
+2024,freshet,10
+2024,municipal water main break,7
+2024,beaver dam failure,1
+2025,freshet,7
+2025,heavy rain,7
+2025,municipal water main break,3
+2025,coastal storm,1
