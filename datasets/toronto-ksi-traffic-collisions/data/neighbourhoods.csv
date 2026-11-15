@@ -1,0 +1,159 @@
+neighbourhood_id,neighbourhood_name,neighbourhood_label,classification,classification_code,centroid_longitude,centroid_latitude
+001,West Humber-Clairville,West Humber-Clairville (1),Not an NIA or Emerging Neighbourhood,,-79.596363,43.716186
+002,Mount Olive-Silverstone-Jamestown,Mount Olive-Silverstone-Jamestown (2),Neighbourhood Improvement Area,NIA,-79.58726,43.746869
+003,Thistletown-Beaumond Heights,Thistletown-Beaumond Heights (3),Neighbourhood Improvement Area,NIA,-79.563491,43.737988
+004,Rexdale-Kipling,Rexdale-Kipling (4),Not an NIA or Emerging Neighbourhood,,-79.566229,43.723726
+005,Elms-Old Rexdale,Elms-Old Rexdale (5),Neighbourhood Improvement Area,NIA,-79.548983,43.72152
+006,Kingsview Village-The Westway,Kingsview Village-The Westway (6),Neighbourhood Improvement Area,NIA,-79.547863,43.698993
+007,Willowridge-Martingrove-Richview,Willowridge-Martingrove-Richview (7),Not an NIA or Emerging Neighbourhood,,-79.55422,43.683645
+008,Humber Heights-Westmount,Humber Heights-Westmount (8),Emerging Neighbourhood,EN,-79.522417,43.692233
+009,Edenbridge-Humber Valley,Edenbridge-Humber Valley (9),Not an NIA or Emerging Neighbourhood,,-79.522458,43.670887
+010,Princess-Rosethorn,Princess-Rosethorn (10),Not an NIA or Emerging Neighbourhood,,-79.54456,43.666051
+011,Eringate-Centennial-West Deane,Eringate-Centennial-West Deane (11),Not an NIA or Emerging Neighbourhood,,-79.580443,43.658017
+012,Markland Wood,Markland Wood (12),Not an NIA or Emerging Neighbourhood,,-79.573432,43.633542
+013,Etobicoke West Mall,Etobicoke West Mall (13),Not an NIA or Emerging Neighbourhood,,-79.568939,43.645063
+015,Kingsway South,Kingsway South (15),Not an NIA or Emerging Neighbourhood,,-79.510577,43.65352
+016,Stonegate-Queensway,Stonegate-Queensway (16),Not an NIA or Emerging Neighbourhood,,-79.501128,43.635518
+018,New Toronto,New Toronto (18),Not an NIA or Emerging Neighbourhood,,-79.510361,43.600582
+019,Long Branch,Long Branch (19),Not an NIA or Emerging Neighbourhood,,-79.533345,43.592362
+020,Alderwood,Alderwood (20),Not an NIA or Emerging Neighbourhood,,-79.541611,43.604937
+021,Humber Summit,Humber Summit (21),Neighbourhood Improvement Area,NIA,-79.556174,43.758919
+022,Humbermede,Humbermede (22),Neighbourhood Improvement Area,NIA,-79.542367,43.74343
+023,Pelmo Park-Humberlea,Pelmo Park-Humberlea (23),Not an NIA or Emerging Neighbourhood,,-79.528283,43.717515
+024,Black Creek,Black Creek (24),Neighbourhood Improvement Area,NIA,-79.52198,43.76489
+025,Glenfield-Jane Heights,Glenfield-Jane Heights (25),Neighbourhood Improvement Area,NIA,-79.513463,43.745635
+027,York University Heights,York University Heights (27),Neighbourhood Improvement Area,NIA,-79.488882,43.765738
+028,Rustic,Rustic (28),Neighbourhood Improvement Area,NIA,-79.498092,43.711609
+029,Maple Leaf,Maple Leaf (29),Not an NIA or Emerging Neighbourhood,,-79.480758,43.715574
+030,Brookhaven-Amesbury,Brookhaven-Amesbury (30),Not an NIA or Emerging Neighbourhood,,-79.485589,43.701326
+031,Yorkdale-Glen Park,Yorkdale-Glen Park (31),Emerging Neighbourhood,EN,-79.457108,43.714672
+032,Englemount-Lawrence,Englemount-Lawrence (32),Emerging Neighbourhood,EN,-79.437409,43.720345
+033,Clanton Park,Clanton Park (33),Not an NIA or Emerging Neighbourhood,,-79.446371,43.741976
+034,Bathurst Manor,Bathurst Manor (34),Not an NIA or Emerging Neighbourhood,,-79.456057,43.764814
+035,Westminster-Branson,Westminster-Branson (35),Emerging Neighbourhood,EN,-79.452419,43.778814
+036,Newtonbrook West,Newtonbrook West (36),Not an NIA or Emerging Neighbourhood,,-79.431421,43.78583
+037,Willowdale West,Willowdale West (37),Not an NIA or Emerging Neighbourhood,,-79.427557,43.77121
+038,Lansing-Westgate,Lansing-Westgate (38),Not an NIA or Emerging Neighbourhood,,-79.424747,43.754272
+039,Bedford Park-Nortown,Bedford Park-Nortown (39),Not an NIA or Emerging Neighbourhood,,-79.420226,43.731488
+040,St.Andrew-Windfields,St.Andrew-Windfields (40),Not an NIA or Emerging Neighbourhood,,-79.379144,43.756264
+041,Bridle Path-Sunnybrook-York Mills,Bridle Path-Sunnybrook-York Mills (41),Not an NIA or Emerging Neighbourhood,,-79.378903,43.731013
+042,Banbury-Don Mills,Banbury-Don Mills (42),Not an NIA or Emerging Neighbourhood,,-79.349721,43.737659
+043,Victoria Village,Victoria Village (43),Neighbourhood Improvement Area,NIA,-79.314874,43.72849
+044,Flemingdon Park,Flemingdon Park (44),Neighbourhood Improvement Area,NIA,-79.332646,43.71593
+046,Pleasant View,Pleasant View (46),Not an NIA or Emerging Neighbourhood,,-79.334949,43.786983
+047,Don Valley Village,Don Valley Village (47),Not an NIA or Emerging Neighbourhood,,-79.353644,43.783294
+048,Hillcrest Village,Hillcrest Village (48),Not an NIA or Emerging Neighbourhood,,-79.354803,43.802988
+049,Bayview Woods-Steeles,Bayview Woods-Steeles (49),Not an NIA or Emerging Neighbourhood,,-79.382118,43.796802
+050,Newtonbrook East,Newtonbrook East (50),Not an NIA or Emerging Neighbourhood,,-79.405937,43.791536
+052,Bayview Village,Bayview Village (52),Not an NIA or Emerging Neighbourhood,,-79.377117,43.776361
+053,Henry Farm,Henry Farm (53),Not an NIA or Emerging Neighbourhood,,-79.341238,43.771143
+054,O'Connor-Parkview,O'Connor-Parkview (54),Not an NIA or Emerging Neighbourhood,,-79.312228,43.7068
+055,Thorncliffe Park,Thorncliffe Park (55),Neighbourhood Improvement Area,NIA,-79.349984,43.70775
+056,Leaside-Bennington,Leaside-Bennington (56),Not an NIA or Emerging Neighbourhood,,-79.366072,43.703798
+057,Broadview North,Broadview North (57),Not an NIA or Emerging Neighbourhood,,-79.355629,43.688825
+058,Old East York,Old East York (58),Not an NIA or Emerging Neighbourhood,,-79.335488,43.696781
+059,Danforth East York,Danforth East York (59),Not an NIA or Emerging Neighbourhood,,-79.331403,43.689468
+060,Woodbine-Lumsden,Woodbine-Lumsden (60),Not an NIA or Emerging Neighbourhood,,-79.311164,43.694107
+061,Taylor-Massey,Taylor-Massey (61),Neighbourhood Improvement Area,NIA,-79.295901,43.694998
+062,East End-Danforth,East End-Danforth (62),Not an NIA or Emerging Neighbourhood,,-79.299358,43.684174
+063,The Beaches,The Beaches (63),Not an NIA or Emerging Neighbourhood,,-79.2996,43.67105
+064,Woodbine Corridor,Woodbine Corridor (64),Not an NIA or Emerging Neighbourhood,,-79.315408,43.676773
+065,Greenwood-Coxwell,Greenwood-Coxwell (65),Not an NIA or Emerging Neighbourhood,,-79.324318,43.672613
+066,Danforth,Danforth (66),Not an NIA or Emerging Neighbourhood,,-79.329819,43.684025
+067,Playter Estates-Danforth,Playter Estates-Danforth (67),Not an NIA or Emerging Neighbourhood,,-79.354887,43.6797
+068,North Riverdale,North Riverdale (68),Not an NIA or Emerging Neighbourhood,,-79.351261,43.671995
+069,Blake-Jones,Blake-Jones (69),Not an NIA or Emerging Neighbourhood,,-79.337394,43.676173
+070,South Riverdale,South Riverdale (70),Not an NIA or Emerging Neighbourhood,,-79.335617,43.649203
+071,Cabbagetown-South St.James Town,Cabbagetown-South St.James Town (71),Not an NIA or Emerging Neighbourhood,,-79.366107,43.667648
+072,Regent Park,Regent Park (72),Neighbourhood Improvement Area,NIA,-79.360509,43.659992
+073,Moss Park,Moss Park (73),Not an NIA or Emerging Neighbourhood,,-79.367454,43.656528
+074,North St.James Town,North St.James Town (74),Not an NIA or Emerging Neighbourhood,,-79.375247,43.669622
+078,Kensington-Chinatown,Kensington-Chinatown (78),Not an NIA or Emerging Neighbourhood,,-79.39724,43.653554
+079,University,University (79),Not an NIA or Emerging Neighbourhood,,-79.40118,43.662506
+080,Palmerston-Little Italy,Palmerston-Little Italy (80),Not an NIA or Emerging Neighbourhood,,-79.418409,43.659157
+081,Trinity-Bellwoods,Trinity-Bellwoods (81),Not an NIA or Emerging Neighbourhood,,-79.415342,43.650176
+083,Dufferin Grove,Dufferin Grove (83),Not an NIA or Emerging Neighbourhood,,-79.437341,43.655428
+084,Little Portugal,Little Portugal (84),Not an NIA or Emerging Neighbourhood,,-79.430323,43.647536
+085,South Parkdale,South Parkdale (85),Neighbourhood Improvement Area,NIA,-79.439338,43.636699
+086,Roncesvalles,Roncesvalles (86),Not an NIA or Emerging Neighbourhood,,-79.442993,43.646123
+087,High Park-Swansea,High Park-Swansea (87),Not an NIA or Emerging Neighbourhood,,-79.467871,43.645064
+088,High Park North,High Park North (88),Not an NIA or Emerging Neighbourhood,,-79.466302,43.657565
+089,Runnymede-Bloor West Village,Runnymede-Bloor West Village (89),Not an NIA or Emerging Neighbourhood,,-79.48571,43.659269
+090,Junction Area,Junction Area (90),Not an NIA or Emerging Neighbourhood,,-79.471441,43.667888
+091,Weston-Pelham Park,Weston-Pelham Park (91),Neighbourhood Improvement Area,NIA,-79.460251,43.673948
+092,Corso Italia-Davenport,Corso Italia-Davenport (92),Not an NIA or Emerging Neighbourhood,,-79.447496,43.677663
+094,Wychwood,Wychwood (94),Not an NIA or Emerging Neighbourhood,,-79.425515,43.676919
+095,Annex,Annex (95),Not an NIA or Emerging Neighbourhood,,-79.404,43.671585
+096,Casa Loma,Casa Loma (96),Not an NIA or Emerging Neighbourhood,,-79.408007,43.681852
+097,Yonge-St.Clair,Yonge-St.Clair (97),Not an NIA or Emerging Neighbourhood,,-79.397871,43.68786
+098,Rosedale-Moore Park,Rosedale-Moore Park (98),Not an NIA or Emerging Neighbourhood,,-79.37965,43.682806
+099,Mount Pleasant East,Mount Pleasant East (99),Not an NIA or Emerging Neighbourhood,,-79.384935,43.704828
+100,Yonge-Eglinton,Yonge-Eglinton (100),Not an NIA or Emerging Neighbourhood,,-79.403591,43.70469
+101,Forest Hill South,Forest Hill South (101),Not an NIA or Emerging Neighbourhood,,-79.414318,43.694526
+102,Forest Hill North,Forest Hill North (102),Not an NIA or Emerging Neighbourhood,,-79.428162,43.704209
+103,Lawrence Park South,Lawrence Park South (103),Not an NIA or Emerging Neighbourhood,,-79.406038,43.717212
+105,Lawrence Park North,Lawrence Park North (105),Not an NIA or Emerging Neighbourhood,,-79.403978,43.73006
+106,Humewood-Cedarvale,Humewood-Cedarvale (106),Not an NIA or Emerging Neighbourhood,,-79.427684,43.69137
+107,Oakwood Village,Oakwood Village (107),Not an NIA or Emerging Neighbourhood,,-79.439786,43.688566
+108,Briar Hill-Belgravia,Briar Hill-Belgravia (108),Not an NIA or Emerging Neighbourhood,,-79.45287,43.699024
+109,Caledonia-Fairbank,Caledonia-Fairbank (109),Not an NIA or Emerging Neighbourhood,,-79.455213,43.688568
+110,Keelesdale-Eglinton West,Keelesdale-Eglinton West (110),Neighbourhood Improvement Area,NIA,-79.471438,43.685727
+111,Rockcliffe-Smythe,Rockcliffe-Smythe (111),Neighbourhood Improvement Area,NIA,-79.494419,43.674791
+112,Beechborough-Greenbrook,Beechborough-Greenbrook (112),Neighbourhood Improvement Area,NIA,-79.479472,43.693216
+113,Weston,Weston (113),Neighbourhood Improvement Area,NIA,-79.515723,43.702716
+114,Lambton Baby Point,Lambton Baby Point (114),Not an NIA or Emerging Neighbourhood,,-79.496044,43.657419
+115,Mount Dennis,Mount Dennis (115),Neighbourhood Improvement Area,NIA,-79.499989,43.688144
+116,Steeles,Steeles (116),Emerging Neighbourhood,EN,-79.321207,43.812959
+118,Tam O'Shanter-Sullivan,Tam O'Shanter-Sullivan (118),Not an NIA or Emerging Neighbourhood,,-79.302917,43.780131
+119,Wexford/Maryvale,Wexford/Maryvale (119),Not an NIA or Emerging Neighbourhood,,-79.298638,43.748574
+120,Clairlea-Birchmount,Clairlea-Birchmount (120),Not an NIA or Emerging Neighbourhood,,-79.281382,43.713592
+121,Oakridge,Oakridge (121),Neighbourhood Improvement Area,NIA,-79.279709,43.697408
+122,Birchcliffe-Cliffside,Birchcliffe-Cliffside (122),Not an NIA or Emerging Neighbourhood,,-79.265089,43.694683
+123,Cliffcrest,Cliffcrest (123),Not an NIA or Emerging Neighbourhood,,-79.235531,43.721122
+124,Kennedy Park,Kennedy Park (124),Neighbourhood Improvement Area,NIA,-79.260382,43.725556
+125,Ionview,Ionview (125),Neighbourhood Improvement Area,NIA,-79.27247,43.735365
+126,Dorset Park,Dorset Park (126),Emerging Neighbourhood,EN,-79.278909,43.759276
+128,Agincourt South-Malvern West,Agincourt South-Malvern West (128),Not an NIA or Emerging Neighbourhood,,-79.265611,43.788657
+129,Agincourt North,Agincourt North (129),Not an NIA or Emerging Neighbourhood,,-79.266712,43.805441
+130,Milliken,Milliken (130),Not an NIA or Emerging Neighbourhood,,-79.275007,43.82069
+133,Centennial Scarborough,Centennial Scarborough (133),Not an NIA or Emerging Neighbourhood,,-79.150843,43.782377
+134,Highland Creek,Highland Creek (134),Not an NIA or Emerging Neighbourhood,,-79.177472,43.790775
+135,Morningside,Morningside (135),Neighbourhood Improvement Area,NIA,-79.207041,43.782399
+136,West Hill,West Hill (136),Neighbourhood Improvement Area,NIA,-79.176676,43.76749
+138,Eglinton East,Eglinton East (138),Neighbourhood Improvement Area,NIA,-79.245597,43.740922
+139,Scarborough Village,Scarborough Village (139),Neighbourhood Improvement Area,NIA,-79.216813,43.738651
+140,Guildwood,Guildwood (140),Not an NIA or Emerging Neighbourhood,,-79.195043,43.748833
+141,Golfdale-Cedarbrae-Woburn,Golfdale-Cedarbrae-Woburn (141),Neighbourhood Improvement Area,NIA,-79.219998,43.760023
+142,Woburn North,Woburn North (142),Neighbourhood Improvement Area,NIA,-79.236815,43.773177
+143,West Rouge,West Rouge (143),Not an NIA or Emerging Neighbourhood,,-79.148023,43.7986
+144,Morningside Heights,Morningside Heights (144),Not an NIA or Emerging Neighbourhood,,-79.197719,43.827899
+145,Malvern West,Malvern West (145),Emerging Neighbourhood,EN,-79.230751,43.805604
+146,Malvern East,Malvern East (146),Emerging Neighbourhood,EN,-79.215647,43.802025
+147,L'Amoreaux West,L'Amoreaux West (147),Emerging Neighbourhood,EN,-79.323064,43.792248
+148,East L'Amoreaux,East L'Amoreaux (148),Emerging Neighbourhood,EN,-79.305672,43.798966
+149,Parkwoods-O'Connor Hills,Parkwoods-O'Connor Hills (149),Not an NIA or Emerging Neighbourhood,,-79.329576,43.749801
+150,Fenside-Parkwoods,Fenside-Parkwoods (150),Not an NIA or Emerging Neighbourhood,,-79.330922,43.761574
+151,Yonge-Doris,Yonge-Doris (151),Not an NIA or Emerging Neighbourhood,,-79.411909,43.771544
+152,East Willowdale,East Willowdale (152),Not an NIA or Emerging Neighbourhood,,-79.400311,43.77345
+153,Avondale,Avondale (153),Not an NIA or Emerging Neighbourhood,,-79.400842,43.760964
+154,Oakdale-Beverley Heights,Oakdale-Beverley Heights (154),Neighbourhood Improvement Area,NIA,-79.510743,43.726557
+155,Downsview,Downsview (155),Neighbourhood Improvement Area,NIA,-79.474245,43.738702
+156,Bendale-Glen Andrew,Bendale-Glen Andrew (156),Not an NIA or Emerging Neighbourhood,,-79.259968,43.766432
+157,Bendale South,Bendale South (157),Not an NIA or Emerging Neighbourhood,,-79.252444,43.748653
+158,Islington,Islington (158),Not an NIA or Emerging Neighbourhood,,-79.547528,43.646336
+159,Etobicoke City Centre,Etobicoke City Centre (159),Not an NIA or Emerging Neighbourhood,,-79.540778,43.625709
+160,Mimico-Queensway,Mimico-Queensway (160),Not an NIA or Emerging Neighbourhood,,-79.505751,43.614061
+161,Humber Bay Shores,Humber Bay Shores (161),Not an NIA or Emerging Neighbourhood,,-79.480638,43.622391
+162,West Queen West,West Queen West (162),Not an NIA or Emerging Neighbourhood,,-79.410911,43.642928
+163,Fort York-Liberty Village,Fort York-Liberty Village (163),Not an NIA or Emerging Neighbourhood,,-79.413002,43.634273
+164,Wellington Place,Wellington Place (164),Not an NIA or Emerging Neighbourhood,,-79.394628,43.645851
+165,Harbourfront-CityPlace,Harbourfront-CityPlace (165),Not an NIA or Emerging Neighbourhood,,-79.390379,43.640122
+166,St Lawrence-East Bayfront-The Islands,St Lawrence-East Bayfront-The Islands (166),Not an NIA or Emerging Neighbourhood,,-79.37435,43.632242
+167,Church-Wellesley,Church-Wellesley (167),Not an NIA or Emerging Neighbourhood,,-79.381763,43.666354
+168,Downtown Yonge East,Downtown Yonge East (168),Not an NIA or Emerging Neighbourhood,,-79.377128,43.655034
+169,Bay-Cloverhill,Bay-Cloverhill (169),Not an NIA or Emerging Neighbourhood,,-79.388951,43.664899
+170,Yonge-Bay Corridor,Yonge-Bay Corridor (170),Not an NIA or Emerging Neighbourhood,,-79.383728,43.652952
+171,Junction-Wallace Emerson,Junction-Wallace Emerson (171),Not an NIA or Emerging Neighbourhood,,-79.445124,43.665304
+172,Dovercourt Village,Dovercourt Village (172),Not an NIA or Emerging Neighbourhood,,-79.428805,43.666228
+173,North Toronto,North Toronto (173),Not an NIA or Emerging Neighbourhood,,-79.395075,43.710254
+174,South Eglinton-Davisville,South Eglinton-Davisville (174),Not an NIA or Emerging Neighbourhood,,-79.392623,43.701932

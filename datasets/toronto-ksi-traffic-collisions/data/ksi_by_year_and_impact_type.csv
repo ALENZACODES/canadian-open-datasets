@@ -1,0 +1,213 @@
+year,impact_type,collisions
+2006,Angle,31
+2006,Approaching Head On,24
+2006,Cyclist Collision (internal code),52
+2006,Other,3
+2006,Pedestrian Collision (internal code),213
+2006,Rear End,28
+2006,SMV Other,61
+2006,SMV Unattended Vehicle,6
+2006,Sideswipe,12
+2006,Turning Movement,51
+2007,Angle,35
+2007,Approaching Head On,23
+2007,Cyclist Collision (internal code),37
+2007,Other,1
+2007,Pedestrian Collision (internal code),186
+2007,Rear End,37
+2007,SMV Other,52
+2007,SMV Unattended Vehicle,6
+2007,Sideswipe,11
+2007,Turning Movement,65
+2008,Angle,26
+2008,Approaching Head On,29
+2008,Cyclist Collision (internal code),40
+2008,Other,4
+2008,Pedestrian Collision (internal code),183
+2008,Rear End,35
+2008,SMV Other,40
+2008,SMV Unattended Vehicle,2
+2008,Sideswipe,14
+2008,Turning Movement,44
+2009,Angle,23
+2009,Approaching Head On,16
+2009,Cyclist Collision (internal code),39
+2009,Other,3
+2009,Pedestrian Collision (internal code),201
+2009,Rear End,40
+2009,SMV Other,44
+2009,SMV Unattended Vehicle,6
+2009,Sideswipe,9
+2009,Turning Movement,57
+2010,Angle,25
+2010,Approaching Head On,11
+2010,Cyclist Collision (internal code),41
+2010,Other,5
+2010,Pedestrian Collision (internal code),180
+2010,Rear End,30
+2010,SMV Other,34
+2010,SMV Unattended Vehicle,9
+2010,Sideswipe,10
+2010,Turning Movement,55
+2011,Angle,13
+2011,Approaching Head On,10
+2011,Cyclist Collision (internal code),52
+2011,Other,3
+2011,Pedestrian Collision (internal code),186
+2011,Rear End,43
+2011,SMV Other,42
+2011,SMV Unattended Vehicle,2
+2011,Sideswipe,10
+2011,Turning Movement,39
+2012,Angle,24
+2012,Approaching Head On,9
+2012,Cyclist Collision (internal code),70
+2012,Other,9
+2012,Pedestrian Collision (internal code),201
+2012,Rear End,32
+2012,SMV Other,48
+2012,SMV Unattended Vehicle,7
+2012,Sideswipe,5
+2012,Turning Movement,48
+2013,Angle,14
+2013,Approaching Head On,14
+2013,Cyclist Collision (internal code),64
+2013,Other,6
+2013,Pedestrian Collision (internal code),205
+2013,Rear End,21
+2013,SMV Other,36
+2013,SMV Unattended Vehicle,4
+2013,Sideswipe,11
+2013,Turning Movement,56
+2014,Angle,13
+2014,Approaching Head On,14
+2014,Cyclist Collision (internal code),45
+2014,Other,6
+2014,Pedestrian Collision (internal code),146
+2014,Rear End,18
+2014,SMV Other,39
+2014,SMV Unattended Vehicle,2
+2014,Sideswipe,14
+2014,Turning Movement,53
+2015,Angle,16
+2015,Approaching Head On,15
+2015,Cyclist Collision (internal code),51
+2015,Other,6
+2015,Pedestrian Collision (internal code),142
+2015,Rear End,23
+2015,SMV Other,35
+2015,SMV Unattended Vehicle,3
+2015,Sideswipe,7
+2015,Turning Movement,52
+2016,Angle,19
+2016,Approaching Head On,15
+2016,Cyclist Collision (internal code),41
+2016,Other,7
+2016,Pedestrian Collision (internal code),169
+2016,Rear End,23
+2016,SMV Other,40
+2016,SMV Unattended Vehicle,2
+2016,Sideswipe,9
+2016,Turning Movement,61
+2017,Angle,17
+2017,Approaching Head On,9
+2017,Cyclist Collision (internal code),55
+2017,Other,6
+2017,Pedestrian Collision (internal code),167
+2017,Rear End,28
+2017,SMV Other,40
+2017,SMV Unattended Vehicle,3
+2017,Sideswipe,9
+2017,Turning Movement,58
+2018,Angle,22
+2018,Approaching Head On,19
+2018,Cyclist Collision (internal code),44
+2018,Other,7
+2018,Pedestrian Collision (internal code),208
+2018,Rear End,20
+2018,SMV Other,38
+2018,SMV Unattended Vehicle,5
+2018,Sideswipe,8
+2018,Turning Movement,51
+2019,Angle,17
+2019,Approaching Head On,16
+2019,Cyclist Collision (internal code),46
+2019,Pedestrian Collision (internal code),170
+2019,Rear End,17
+2019,SMV Other,30
+2019,SMV Unattended Vehicle,3
+2019,Sideswipe,4
+2019,Turning Movement,63
+2020,Angle,14
+2020,Approaching Head On,4
+2020,Cyclist Collision (internal code),31
+2020,Other,6
+2020,Pedestrian Collision (internal code),123
+2020,Rear End,19
+2020,SMV Other,37
+2020,SMV Unattended Vehicle,2
+2020,Sideswipe,3
+2020,Turning Movement,31
+2021,Angle,14
+2021,Approaching Head On,7
+2021,Cyclist Collision (internal code),21
+2021,Other,3
+2021,Pedestrian Collision (internal code),112
+2021,Rear End,19
+2021,SMV Other,48
+2021,SMV Unattended Vehicle,4
+2021,Sideswipe,6
+2021,Turning Movement,36
+2022,Angle,12
+2022,Approaching Head On,13
+2022,Cyclist Collision (internal code),36
+2022,Other,2
+2022,Pedestrian Collision (internal code),115
+2022,Rear End,24
+2022,SMV Other,37
+2022,Sideswipe,6
+2022,Turning Movement,50
+2023,Angle,7
+2023,Approaching Head On,13
+2023,Cyclist Collision (internal code),31
+2023,Other,4
+2023,Pedestrian Collision (internal code),11
+2023,Rear End,18
+2023,Reversing,152
+2023,SMV Other,34
+2023,SMV Unattended Vehicle,2
+2023,Same Direction,1
+2023,Sideswipe,4
+2023,Turning Movement,51
+2024,Angle,16
+2024,Approaching Head On,9
+2024,Cyclist Collision (internal code),15
+2024,Rear End,22
+2024,Reversing,50
+2024,SMV Other,119
+2024,SMV Unattended Vehicle,4
+2024,Same Direction,7
+2024,Sideswipe,4
+2024,Turning Movement,48
+2025,Angle,18
+2025,Approaching Head On,11
+2025,Cyclist Collision (internal code),1
+2025,Opposite Direction,4
+2025,Other,2
+2025,Rear End,17
+2025,Reversing,1
+2025,SMV Other,134
+2025,SMV Unattended Vehicle,4
+2025,Same Direction,9
+2025,Sideswipe,2
+2025,Turning Movement,53
+2026,Angle,15
+2026,Approaching Head On,6
+2026,Cyclist Collision (internal code),1
+2026,Other,1
+2026,Rear End,16
+2026,Reversing,1
+2026,SMV Other,114
+2026,SMV Unattended Vehicle,6
+2026,Same Direction,8
+2026,Turning Movement,46

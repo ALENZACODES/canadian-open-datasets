@@ -1,0 +1,61 @@
+column,file,type,description
+collision_id,ksi_collisions.csv,string,Official collision identifier from the source file.
+occurrence_date,ksi_collisions.csv,datetime,Collision date (YYYY-MM-DD). Time of day was dropped.
+year,ksi_collisions.csv,integer,Calendar year of the collision.
+month_num,ksi_collisions.csv,integer,Month number from 1 to 12.
+neighbourhood_id,ksi_collisions.csv,string,"158-neighbourhood model number parsed from the source neighbourhood field, or NSA."
+neighbourhood_name,ksi_collisions.csv,string,Neighbourhood name.
+ward,ksi_collisions.csv,string,City ward name as published.
+division,ksi_collisions.csv,string,Police division as published.
+accident_class,ksi_collisions.csv,string,"Collision class, for example Fatal or Non-Fatal Injury."
+accident_location,ksi_collisions.csv,string,"Location type, for example at an intersection."
+impact_type,ksi_collisions.csv,string,Impact type as published.
+visibility,ksi_collisions.csv,string,Weather or visibility condition as published.
+light,ksi_collisions.csv,string,Light condition as published.
+road_surface,ksi_collisions.csv,string,Road surface condition as published.
+road_class,ksi_collisions.csv,string,Road class as published.
+traffic_control,ksi_collisions.csv,string,Traffic control present at the location.
+people_involved,ksi_collisions.csv,integer,"Number of people involved, from the source collision field."
+most_severe_injury,ksi_collisions.csv,string,"Most severe injury recorded among people in the collision (Fatal, Major, Minor, Minimal, or None)."
+fatal_injuries,ksi_collisions.csv,integer,Count of people recorded with a fatal injury.
+major_injuries,ksi_collisions.csv,integer,Count of people recorded with a major injury.
+minor_injuries,ksi_collisions.csv,integer,Count of people recorded with a minor or minimal injury.
+pedestrian_involved,ksi_collisions.csv,integer,"1 if any person record was flagged as a pedestrian involvement, else 0."
+cyclist_involved,ksi_collisions.csv,integer,"1 if any person record was flagged as a cyclist involvement, else 0."
+motorcyclist_involved,ksi_collisions.csv,integer,"1 if any person record was flagged as a motorcyclist involvement, else 0."
+older_adult_involved,ksi_collisions.csv,integer,"1 if any person record was flagged as an older adult involvement, else 0."
+school_child_involved,ksi_collisions.csv,integer,"1 if any person record was flagged as a school child involvement, else 0."
+aggressive,ksi_collisions.csv,integer,"1 if an aggressive driving flag was recorded, else 0."
+distracted,ksi_collisions.csv,integer,"1 if a distracted driving flag was recorded, else 0."
+red_light,ksi_collisions.csv,integer,"1 if a red light flag was recorded, else 0."
+heavy_truck_involved,ksi_collisions.csv,integer,"1 if a heavy truck flag was recorded, else 0."
+year,ksi_yearly_by_neighbourhood.csv,integer,Calendar year.
+neighbourhood_id,ksi_yearly_by_neighbourhood.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,ksi_yearly_by_neighbourhood.csv,string,Neighbourhood name.
+collisions,ksi_yearly_by_neighbourhood.csv,integer,Number of KSI collisions.
+fatal_collisions,ksi_yearly_by_neighbourhood.csv,integer,Collisions whose accident class includes Fatal.
+fatal_injuries,ksi_yearly_by_neighbourhood.csv,integer,People recorded with a fatal injury.
+major_injuries,ksi_yearly_by_neighbourhood.csv,integer,People recorded with a major injury.
+pedestrian_collisions,ksi_yearly_by_neighbourhood.csv,integer,Collisions with a pedestrian involvement flag.
+cyclist_collisions,ksi_yearly_by_neighbourhood.csv,integer,Collisions with a cyclist involvement flag.
+year,ksi_citywide_by_year.csv,integer,Calendar year.
+collisions,ksi_citywide_by_year.csv,integer,Citywide KSI collision count.
+fatal_collisions,ksi_citywide_by_year.csv,integer,Collisions whose accident class includes Fatal.
+fatal_injuries,ksi_citywide_by_year.csv,integer,People recorded with a fatal injury.
+major_injuries,ksi_citywide_by_year.csv,integer,People recorded with a major injury.
+pedestrian_collisions,ksi_citywide_by_year.csv,integer,Collisions with a pedestrian involvement flag.
+cyclist_collisions,ksi_citywide_by_year.csv,integer,Collisions with a cyclist involvement flag.
+year,ksi_by_year_and_impact_type.csv,integer,Calendar year.
+impact_type,ksi_by_year_and_impact_type.csv,string,Impact type as published.
+collisions,ksi_by_year_and_impact_type.csv,integer,Citywide collision count for that impact type.
+neighbourhood_id,neighbourhoods.csv,string,"Neighbourhood number, zero padded."
+neighbourhood_name,neighbourhoods.csv,string,Neighbourhood name.
+neighbourhood_label,neighbourhoods.csv,string,Name with the number in parentheses.
+classification,neighbourhoods.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+classification_code,neighbourhoods.csv,string,Short classification code.
+centroid_longitude,neighbourhoods.csv,number,"Longitude of the polygon centroid, WGS84."
+centroid_latitude,neighbourhoods.csv,number,"Latitude of the polygon centroid, WGS84."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, datetime, or string."
+description,data_dictionary.csv,string,What the column holds.

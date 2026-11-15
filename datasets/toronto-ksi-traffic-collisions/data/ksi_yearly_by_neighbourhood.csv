@@ -1,0 +1,2702 @@
+year,neighbourhood_id,neighbourhood_name,collisions,fatal_collisions,fatal_injuries,major_injuries,pedestrian_collisions,cyclist_collisions
+2006,NSA,Agincourt North,7,7,1,9,2,0
+2006,NSA,Agincourt South-Malvern West,7,7,1,7,4,0
+2006,NSA,Alderwood,2,2,0,3,1,0
+2006,NSA,Annex,14,14,0,14,7,5
+2006,NSA,Avondale,1,1,0,1,1,0
+2006,NSA,Banbury-Don Mills,4,4,0,5,1,0
+2006,NSA,Bathurst Manor,1,1,0,2,0,0
+2006,NSA,Bay-Cloverhill,2,2,0,2,0,2
+2006,NSA,Bayview Village,2,2,0,3,1,0
+2006,NSA,Bedford Park-Nortown,4,4,1,3,3,0
+2006,NSA,Beechborough-Greenbrook,2,2,0,3,0,0
+2006,NSA,Bendale South,4,4,1,3,1,1
+2006,NSA,Bendale-Glen Andrew,2,2,0,5,1,0
+2006,NSA,Birchcliffe-Cliffside,2,2,1,1,1,0
+2006,NSA,Black Creek,1,1,0,1,0,0
+2006,NSA,Briar Hill-Belgravia,2,2,0,2,1,0
+2006,NSA,Bridle Path-Sunnybrook-York Mills,1,1,0,1,0,0
+2006,NSA,Broadview North,2,2,0,2,0,2
+2006,NSA,Brookhaven-Amesbury,6,6,0,6,2,0
+2006,NSA,Cabbagetown-South St.James Town,2,2,1,1,0,0
+2006,NSA,Caledonia-Fairbank,3,3,0,5,2,0
+2006,NSA,Casa Loma,3,3,0,3,1,2
+2006,NSA,Church-Wellesley,2,2,1,1,2,0
+2006,NSA,Clairlea-Birchmount,2,2,1,2,0,1
+2006,NSA,Clanton Park,2,2,1,1,2,0
+2006,NSA,Cliffcrest,2,2,0,2,0,1
+2006,NSA,Corso Italia-Davenport,2,2,0,2,0,0
+2006,NSA,Danforth,1,1,0,1,0,0
+2006,NSA,Danforth East York,2,2,1,1,2,0
+2006,NSA,Don Valley Village,4,4,0,4,2,0
+2006,NSA,Dorset Park,6,6,1,7,3,0
+2006,NSA,Dovercourt Village,2,2,0,2,1,1
+2006,NSA,Downsview,1,1,0,1,1,0
+2006,NSA,Downtown Yonge East,6,6,0,6,2,2
+2006,NSA,Dufferin Grove,7,7,2,5,3,2
+2006,NSA,East L'Amoreaux,3,3,0,4,2,0
+2006,NSA,East Willowdale,3,3,0,4,2,0
+2006,NSA,Edenbridge-Humber Valley,1,1,0,1,0,0
+2006,NSA,Eglinton East,5,5,1,5,2,0
+2006,NSA,Elms-Old Rexdale,3,3,1,3,1,0
+2006,NSA,Englemount-Lawrence,4,4,0,4,3,0
+2006,NSA,Eringate-Centennial-West Deane,6,6,0,6,2,0
+2006,NSA,Etobicoke City Centre,4,4,0,5,1,0
+2006,NSA,Etobicoke West Mall,3,3,0,4,1,0
+2006,NSA,Fenside-Parkwoods,2,2,0,2,1,0
+2006,NSA,Flemingdon Park,4,4,0,6,2,0
+2006,NSA,Forest Hill North,3,3,0,3,0,0
+2006,NSA,Forest Hill South,3,3,0,3,2,0
+2006,NSA,Fort York-Liberty Village,3,3,1,3,0,0
+2006,NSA,Glenfield-Jane Heights,1,1,0,1,0,0
+2006,NSA,Greenwood-Coxwell,3,3,1,2,2,0
+2006,NSA,Guildwood,1,1,0,1,0,0
+2006,NSA,Harbourfront-CityPlace,4,4,0,5,0,0
+2006,NSA,Henry Farm,1,1,0,1,0,1
+2006,NSA,High Park North,4,4,1,3,4,0
+2006,NSA,High Park-Swansea,5,5,0,5,2,0
+2006,NSA,Hillcrest Village,4,4,0,5,1,1
+2006,NSA,Humber Bay Shores,6,6,2,4,1,0
+2006,NSA,Humber Heights-Westmount,2,2,0,2,0,0
+2006,NSA,Humber Summit,1,1,1,0,0,0
+2006,NSA,Humbermede,3,3,0,3,1,1
+2006,NSA,Humewood-Cedarvale,1,1,0,1,1,0
+2006,NSA,Ionview,2,2,0,2,0,0
+2006,NSA,Islington,1,1,0,1,1,0
+2006,NSA,Junction-Wallace Emerson,3,3,0,3,2,1
+2006,NSA,Keelesdale-Eglinton West,5,5,0,6,2,0
+2006,NSA,Kennedy Park,4,4,1,3,4,0
+2006,NSA,Kensington-Chinatown,7,7,0,8,6,0
+2006,NSA,Kingsview Village-The Westway,4,4,2,2,2,0
+2006,NSA,L'Amoreaux West,2,2,0,4,2,0
+2006,NSA,Lambton Baby Point,1,1,0,1,0,0
+2006,NSA,Lansing-Westgate,4,4,0,4,3,0
+2006,NSA,Lawrence Park North,3,3,0,3,2,0
+2006,NSA,Lawrence Park South,2,2,1,1,1,1
+2006,NSA,Leaside-Bennington,1,1,0,1,1,0
+2006,NSA,Little Portugal,1,1,0,1,0,1
+2006,NSA,Malvern East,3,3,3,1,1,0
+2006,NSA,Malvern West,1,1,1,0,1,0
+2006,NSA,Maple Leaf,1,1,0,1,0,0
+2006,NSA,Milliken,3,3,0,3,2,0
+2006,NSA,Mimico-Queensway,5,5,2,4,1,0
+2006,NSA,Morningside,4,4,1,3,2,0
+2006,NSA,Morningside Heights,7,7,2,7,0,0
+2006,NSA,Moss Park,11,11,0,15,3,2
+2006,NSA,Mount Dennis,1,1,0,1,0,0
+2006,NSA,Mount Olive-Silverstone-Jamestown,1,1,0,1,1,0
+2006,NSA,Mount Pleasant East,4,4,0,4,1,0
+2006,NSA,NSA,5,5,0,7,1,0
+2006,NSA,New Toronto,4,4,1,3,2,1
+2006,NSA,Newtonbrook East,2,2,0,2,2,0
+2006,NSA,North Riverdale,1,1,0,1,0,1
+2006,NSA,O'Connor-Parkview,2,2,0,2,1,0
+2006,NSA,Oakdale-Beverley Heights,2,2,0,2,1,0
+2006,NSA,Oakwood Village,2,2,0,2,0,2
+2006,NSA,Old East York,1,1,0,1,0,0
+2006,NSA,Palmerston-Little Italy,5,5,0,5,3,0
+2006,NSA,Parkwoods-O'Connor Hills,3,3,0,3,1,2
+2006,NSA,Pelmo Park-Humberlea,1,1,0,1,0,0
+2006,NSA,Princess-Rosethorn,2,2,0,2,0,0
+2006,NSA,Regent Park,1,1,0,1,0,1
+2006,NSA,Rexdale-Kipling,4,4,0,4,1,1
+2006,NSA,Rockcliffe-Smythe,7,7,2,8,2,1
+2006,NSA,Roncesvalles,1,1,0,1,1,0
+2006,NSA,Rosedale-Moore Park,6,6,1,7,4,1
+2006,NSA,Runnymede-Bloor West Village,2,2,0,2,2,0
+2006,NSA,Rustic,1,1,0,1,1,0
+2006,NSA,Scarborough Village,1,1,0,1,0,0
+2006,NSA,South Eglinton-Davisville,1,1,0,1,1,0
+2006,NSA,South Parkdale,10,10,1,9,4,2
+2006,NSA,South Riverdale,9,9,0,9,4,2
+2006,NSA,St Lawrence-East Bayfront-The Islands,4,4,0,5,1,0
+2006,NSA,St.Andrew-Windfields,4,4,1,5,0,0
+2006,NSA,Steeles,6,6,1,12,2,0
+2006,NSA,Stonegate-Queensway,1,1,0,1,0,0
+2006,NSA,Tam O'Shanter-Sullivan,2,2,0,2,1,0
+2006,NSA,Taylor-Massey,2,2,0,2,1,0
+2006,NSA,The Beaches,5,5,1,4,4,1
+2006,NSA,Thistletown-Beaumond Heights,1,1,0,1,1,0
+2006,NSA,Thorncliffe Park,3,3,1,2,2,1
+2006,NSA,Trinity-Bellwoods,5,5,1,4,4,1
+2006,NSA,Victoria Village,4,4,4,1,2,0
+2006,NSA,Wellington Place,5,5,0,5,3,0
+2006,NSA,West Hill,6,6,0,6,4,1
+2006,NSA,West Humber-Clairville,18,18,2,19,9,0
+2006,NSA,West Queen West,3,3,0,3,0,0
+2006,NSA,West Rouge,2,2,1,1,2,0
+2006,NSA,Westminster-Branson,2,2,0,2,2,0
+2006,NSA,Weston,1,1,0,1,1,0
+2006,NSA,Weston-Pelham Park,3,3,0,5,1,0
+2006,NSA,Wexford/Maryvale,11,11,2,10,3,1
+2006,NSA,Willowdale West,2,2,0,2,1,0
+2006,NSA,Willowridge-Martingrove-Richview,2,2,0,2,2,0
+2006,NSA,Woburn North,5,5,2,3,2,0
+2006,NSA,Woodbine Corridor,4,4,0,4,2,2
+2006,NSA,Woodbine-Lumsden,2,2,0,2,1,0
+2006,NSA,Wychwood,3,3,0,3,2,0
+2006,NSA,Yonge-Bay Corridor,9,9,0,9,4,5
+2006,NSA,Yonge-Doris,2,2,0,2,2,0
+2006,NSA,Yonge-Eglinton,2,2,0,2,1,0
+2006,NSA,Yonge-St.Clair,1,1,0,1,0,0
+2006,NSA,York University Heights,9,9,2,7,5,1
+2006,NSA,Yorkdale-Glen Park,2,2,0,2,1,0
+2007,NSA,Agincourt North,5,5,0,5,3,0
+2007,NSA,Agincourt South-Malvern West,5,5,0,6,1,1
+2007,NSA,Alderwood,2,2,1,2,0,0
+2007,NSA,Annex,8,8,2,6,4,1
+2007,NSA,Avondale,1,1,0,1,1,0
+2007,NSA,Banbury-Don Mills,4,4,0,4,0,0
+2007,NSA,Bathurst Manor,2,2,0,2,0,0
+2007,NSA,Bay-Cloverhill,1,1,0,1,0,0
+2007,NSA,Bayview Village,3,3,1,2,2,0
+2007,NSA,Bayview Woods-Steeles,1,1,0,1,0,1
+2007,NSA,Bedford Park-Nortown,1,1,0,1,0,0
+2007,NSA,Bendale South,1,1,1,0,1,0
+2007,NSA,Bendale-Glen Andrew,6,6,1,6,2,1
+2007,NSA,Birchcliffe-Cliffside,2,2,0,3,0,0
+2007,NSA,Black Creek,2,2,1,1,1,0
+2007,NSA,Blake-Jones,1,1,0,1,0,1
+2007,NSA,Briar Hill-Belgravia,4,4,1,3,1,0
+2007,NSA,Bridle Path-Sunnybrook-York Mills,2,2,0,2,2,0
+2007,NSA,Broadview North,3,3,0,4,0,0
+2007,NSA,Brookhaven-Amesbury,3,3,0,3,1,0
+2007,NSA,Cabbagetown-South St.James Town,2,2,1,1,1,0
+2007,NSA,Caledonia-Fairbank,2,2,0,2,2,0
+2007,NSA,Centennial Scarborough,3,3,0,3,0,1
+2007,NSA,Church-Wellesley,1,1,0,1,1,0
+2007,NSA,Clairlea-Birchmount,12,12,0,12,7,3
+2007,NSA,Clanton Park,2,2,0,3,0,0
+2007,NSA,Cliffcrest,5,5,2,4,4,0
+2007,NSA,Corso Italia-Davenport,4,4,0,5,0,0
+2007,NSA,Danforth,1,1,0,2,0,0
+2007,NSA,Danforth East York,1,1,0,1,1,0
+2007,NSA,Don Valley Village,5,5,0,5,4,0
+2007,NSA,Dorset Park,3,3,2,1,1,0
+2007,NSA,Dovercourt Village,5,5,0,5,2,0
+2007,NSA,Downsview,3,3,1,2,0,1
+2007,NSA,Downtown Yonge East,4,4,0,4,2,0
+2007,NSA,Dufferin Grove,1,1,0,1,1,0
+2007,NSA,East End-Danforth,3,3,0,5,2,0
+2007,NSA,East L'Amoreaux,2,2,0,2,0,0
+2007,NSA,East Willowdale,1,1,0,1,0,0
+2007,NSA,Eglinton East,1,1,0,2,0,0
+2007,NSA,Elms-Old Rexdale,3,3,1,3,0,0
+2007,NSA,Englemount-Lawrence,1,1,0,1,0,0
+2007,NSA,Eringate-Centennial-West Deane,2,2,0,2,0,0
+2007,NSA,Etobicoke City Centre,7,7,1,7,4,0
+2007,NSA,Etobicoke West Mall,1,1,0,1,1,0
+2007,NSA,Fenside-Parkwoods,1,1,0,1,0,1
+2007,NSA,Flemingdon Park,4,4,1,5,2,0
+2007,NSA,Forest Hill South,1,1,0,1,0,0
+2007,NSA,Fort York-Liberty Village,5,5,0,5,0,1
+2007,NSA,Glenfield-Jane Heights,4,4,1,3,2,0
+2007,NSA,Golfdale-Cedarbrae-Woburn,5,5,1,4,3,0
+2007,NSA,Greenwood-Coxwell,6,6,0,6,2,2
+2007,NSA,Harbourfront-CityPlace,4,4,0,4,2,0
+2007,NSA,High Park-Swansea,6,6,0,6,3,0
+2007,NSA,Highland Creek,3,3,0,3,2,0
+2007,NSA,Hillcrest Village,2,2,0,2,1,0
+2007,NSA,Humber Heights-Westmount,1,1,0,1,1,0
+2007,NSA,Humber Summit,1,1,0,1,1,0
+2007,NSA,Humbermede,4,4,3,3,1,0
+2007,NSA,Humewood-Cedarvale,2,2,0,2,1,0
+2007,NSA,Islington,3,3,0,3,2,0
+2007,NSA,Junction Area,5,5,0,6,0,0
+2007,NSA,Junction-Wallace Emerson,6,6,0,6,4,0
+2007,NSA,Keelesdale-Eglinton West,1,1,0,1,0,0
+2007,NSA,Kennedy Park,3,3,0,3,0,0
+2007,NSA,Kensington-Chinatown,4,4,1,3,3,0
+2007,NSA,Kingsview Village-The Westway,6,6,0,7,0,0
+2007,NSA,L'Amoreaux West,2,2,1,1,2,0
+2007,NSA,Lansing-Westgate,1,1,0,1,1,0
+2007,NSA,Lawrence Park North,2,2,1,1,2,0
+2007,NSA,Lawrence Park South,1,1,1,0,0,0
+2007,NSA,Leaside-Bennington,1,1,0,2,0,0
+2007,NSA,Little Portugal,3,3,0,3,1,1
+2007,NSA,Long Branch,2,2,0,2,1,0
+2007,NSA,Malvern East,3,3,0,5,1,0
+2007,NSA,Malvern West,1,1,0,1,1,0
+2007,NSA,Maple Leaf,1,1,0,1,0,1
+2007,NSA,Milliken,6,6,1,5,4,1
+2007,NSA,Mimico-Queensway,3,3,0,3,1,0
+2007,NSA,Morningside,1,1,0,1,0,0
+2007,NSA,Morningside Heights,7,7,0,8,0,0
+2007,NSA,Moss Park,4,4,0,4,3,0
+2007,NSA,Mount Olive-Silverstone-Jamestown,10,10,1,10,2,0
+2007,NSA,Mount Pleasant East,2,2,0,2,1,0
+2007,NSA,NSA,9,9,1,9,4,2
+2007,NSA,Newtonbrook East,3,3,0,3,2,0
+2007,NSA,Newtonbrook West,5,5,0,5,3,0
+2007,NSA,North Riverdale,3,3,0,3,0,0
+2007,NSA,O'Connor-Parkview,2,2,1,2,1,0
+2007,NSA,Oakdale-Beverley Heights,2,2,0,2,0,0
+2007,NSA,Oakridge,2,2,0,2,2,0
+2007,NSA,Oakwood Village,2,2,0,2,2,0
+2007,NSA,Old East York,7,7,1,6,2,0
+2007,NSA,Parkwoods-O'Connor Hills,1,1,0,1,0,0
+2007,NSA,Pelmo Park-Humberlea,3,3,0,3,1,0
+2007,NSA,Pleasant View,3,3,1,2,2,0
+2007,NSA,Princess-Rosethorn,1,1,0,1,0,0
+2007,NSA,Regent Park,3,3,0,3,2,0
+2007,NSA,Rexdale-Kipling,2,2,2,2,1,0
+2007,NSA,Rockcliffe-Smythe,4,4,0,6,3,0
+2007,NSA,Roncesvalles,4,4,1,3,3,0
+2007,NSA,Rosedale-Moore Park,3,3,0,4,1,1
+2007,NSA,Runnymede-Bloor West Village,1,1,0,1,1,0
+2007,NSA,Scarborough Village,2,2,0,2,0,1
+2007,NSA,South Eglinton-Davisville,2,2,0,2,2,1
+2007,NSA,South Parkdale,6,6,4,4,3,0
+2007,NSA,South Riverdale,11,11,0,11,5,1
+2007,NSA,St Lawrence-East Bayfront-The Islands,3,3,0,4,2,2
+2007,NSA,St.Andrew-Windfields,4,4,1,3,0,2
+2007,NSA,Steeles,3,3,1,2,2,0
+2007,NSA,Stonegate-Queensway,2,2,0,2,1,0
+2007,NSA,Tam O'Shanter-Sullivan,8,8,2,7,2,1
+2007,NSA,Taylor-Massey,1,1,0,1,1,0
+2007,NSA,The Beaches,1,1,0,1,0,1
+2007,NSA,Thistletown-Beaumond Heights,3,3,0,3,1,0
+2007,NSA,Trinity-Bellwoods,5,5,2,4,4,0
+2007,NSA,University,3,3,0,3,0,1
+2007,NSA,Victoria Village,1,1,0,1,0,0
+2007,NSA,Wellington Place,4,4,0,4,2,1
+2007,NSA,West Hill,2,2,0,2,1,0
+2007,NSA,West Humber-Clairville,17,17,1,17,5,0
+2007,NSA,West Queen West,3,3,0,3,1,2
+2007,NSA,West Rouge,3,3,1,2,0,2
+2007,NSA,Weston,3,3,0,3,2,1
+2007,NSA,Weston-Pelham Park,4,4,0,4,2,1
+2007,NSA,Wexford/Maryvale,8,8,3,6,3,1
+2007,NSA,Willowdale West,2,2,0,2,2,0
+2007,NSA,Willowridge-Martingrove-Richview,7,7,1,6,1,0
+2007,NSA,Woburn North,4,4,0,4,2,0
+2007,NSA,Woodbine Corridor,3,3,0,3,3,0
+2007,NSA,Wychwood,2,2,0,2,1,1
+2007,NSA,Yonge-Bay Corridor,7,7,0,8,3,1
+2007,NSA,Yonge-Doris,2,2,0,2,1,0
+2007,NSA,Yonge-Eglinton,1,1,0,1,0,0
+2007,NSA,York University Heights,5,5,0,5,1,0
+2007,NSA,Yorkdale-Glen Park,2,2,0,2,1,0
+2008,NSA,Agincourt North,1,1,0,1,0,0
+2008,NSA,Agincourt South-Malvern West,4,4,0,4,3,0
+2008,NSA,Alderwood,2,2,0,2,1,0
+2008,NSA,Annex,9,9,1,9,5,1
+2008,NSA,Banbury-Don Mills,1,1,0,1,0,0
+2008,NSA,Bathurst Manor,2,2,0,2,1,0
+2008,NSA,Bay-Cloverhill,2,2,0,2,2,1
+2008,NSA,Bayview Woods-Steeles,1,1,0,1,0,0
+2008,NSA,Bedford Park-Nortown,3,3,1,2,2,1
+2008,NSA,Beechborough-Greenbrook,1,1,0,1,1,0
+2008,NSA,Bendale South,3,3,0,6,1,0
+2008,NSA,Bendale-Glen Andrew,2,2,0,2,1,0
+2008,NSA,Black Creek,2,2,0,2,1,0
+2008,NSA,Blake-Jones,1,1,0,1,0,1
+2008,NSA,Briar Hill-Belgravia,2,2,0,2,1,0
+2008,NSA,Broadview North,4,4,0,4,1,0
+2008,NSA,Brookhaven-Amesbury,1,1,1,0,0,1
+2008,NSA,Cabbagetown-South St.James Town,3,3,0,3,2,0
+2008,NSA,Caledonia-Fairbank,1,1,0,1,0,0
+2008,NSA,Casa Loma,6,6,1,5,4,2
+2008,NSA,Centennial Scarborough,4,4,1,4,0,0
+2008,NSA,Clairlea-Birchmount,3,3,0,3,2,0
+2008,NSA,Clanton Park,4,4,1,4,3,0
+2008,NSA,Cliffcrest,4,4,1,3,2,1
+2008,NSA,Corso Italia-Davenport,1,1,0,1,1,0
+2008,NSA,Danforth,1,1,0,1,0,0
+2008,NSA,Don Valley Village,4,4,1,3,0,0
+2008,NSA,Dorset Park,5,5,0,5,3,0
+2008,NSA,Downsview,4,4,1,3,3,0
+2008,NSA,Downtown Yonge East,3,3,0,3,3,0
+2008,NSA,Dufferin Grove,6,6,0,6,1,4
+2008,NSA,East L'Amoreaux,3,3,2,1,3,0
+2008,NSA,East Willowdale,1,1,0,1,1,0
+2008,NSA,Edenbridge-Humber Valley,3,3,0,3,0,0
+2008,NSA,Eglinton East,5,5,2,5,3,0
+2008,NSA,Elms-Old Rexdale,1,1,0,1,0,0
+2008,NSA,Englemount-Lawrence,2,2,0,3,1,0
+2008,NSA,Eringate-Centennial-West Deane,5,5,0,5,1,0
+2008,NSA,Etobicoke City Centre,2,2,0,2,1,0
+2008,NSA,Etobicoke West Mall,1,1,0,1,1,0
+2008,NSA,Fenside-Parkwoods,2,2,0,2,2,0
+2008,NSA,Flemingdon Park,3,3,0,3,2,0
+2008,NSA,Forest Hill North,3,3,0,3,2,0
+2008,NSA,Fort York-Liberty Village,1,1,1,1,0,0
+2008,NSA,Glenfield-Jane Heights,2,2,0,2,0,0
+2008,NSA,Greenwood-Coxwell,1,1,0,1,1,0
+2008,NSA,Guildwood,2,2,0,2,1,0
+2008,NSA,Harbourfront-CityPlace,1,1,0,1,0,0
+2008,NSA,Henry Farm,3,3,0,3,2,0
+2008,NSA,High Park North,2,2,0,2,0,2
+2008,NSA,High Park-Swansea,4,4,0,5,1,0
+2008,NSA,Highland Creek,1,1,0,1,1,0
+2008,NSA,Humber Heights-Westmount,3,3,2,1,0,0
+2008,NSA,Humber Summit,1,1,0,1,1,0
+2008,NSA,Humbermede,2,2,0,2,1,0
+2008,NSA,Humewood-Cedarvale,1,1,0,1,0,0
+2008,NSA,Islington,3,3,0,3,2,0
+2008,NSA,Junction-Wallace Emerson,3,3,0,3,1,0
+2008,NSA,Keelesdale-Eglinton West,5,5,1,4,2,0
+2008,NSA,Kennedy Park,1,1,0,1,0,0
+2008,NSA,Kensington-Chinatown,7,7,0,7,4,1
+2008,NSA,Kingsview Village-The Westway,4,4,0,4,0,0
+2008,NSA,Kingsway South,1,1,0,1,0,1
+2008,NSA,L'Amoreaux West,3,3,1,2,2,0
+2008,NSA,Lansing-Westgate,2,2,0,2,2,0
+2008,NSA,Lawrence Park North,1,1,0,1,1,0
+2008,NSA,Lawrence Park South,1,1,1,0,0,1
+2008,NSA,Leaside-Bennington,2,2,0,2,0,1
+2008,NSA,Little Portugal,1,1,0,1,0,1
+2008,NSA,Long Branch,4,4,1,3,1,0
+2008,NSA,Malvern West,3,3,0,3,2,0
+2008,NSA,Markland Wood,1,1,0,1,0,0
+2008,NSA,Milliken,4,4,0,4,1,1
+2008,NSA,Mimico-Queensway,2,2,0,4,0,1
+2008,NSA,Morningside,1,1,0,1,0,0
+2008,NSA,Morningside Heights,4,4,2,2,1,0
+2008,NSA,Moss Park,4,4,0,4,2,1
+2008,NSA,Mount Dennis,4,4,0,4,1,0
+2008,NSA,Mount Olive-Silverstone-Jamestown,3,3,0,3,2,0
+2008,NSA,Mount Pleasant East,2,2,1,1,1,0
+2008,NSA,NSA,1,1,0,1,0,0
+2008,NSA,New Toronto,2,2,0,3,0,0
+2008,NSA,Newtonbrook East,2,2,1,1,2,0
+2008,NSA,Newtonbrook West,8,8,1,7,4,0
+2008,NSA,North Riverdale,6,6,0,6,5,0
+2008,NSA,O'Connor-Parkview,1,1,0,1,1,0
+2008,NSA,Oakdale-Beverley Heights,6,6,2,4,4,1
+2008,NSA,Oakridge,2,2,0,2,1,0
+2008,NSA,Oakwood Village,3,3,0,3,3,0
+2008,NSA,Old East York,3,3,0,3,0,1
+2008,NSA,Palmerston-Little Italy,2,2,0,2,1,0
+2008,NSA,Pelmo Park-Humberlea,5,5,2,4,0,1
+2008,NSA,Pleasant View,1,1,0,1,1,0
+2008,NSA,Princess-Rosethorn,2,2,0,2,0,0
+2008,NSA,Regent Park,1,1,0,1,1,0
+2008,NSA,Rexdale-Kipling,2,2,0,2,0,0
+2008,NSA,Rockcliffe-Smythe,7,7,1,6,2,0
+2008,NSA,Roncesvalles,1,1,0,1,0,1
+2008,NSA,Rosedale-Moore Park,5,5,3,2,3,0
+2008,NSA,Runnymede-Bloor West Village,3,3,0,3,2,0
+2008,NSA,Rustic,1,1,0,1,1,0
+2008,NSA,Scarborough Village,1,1,0,1,1,0
+2008,NSA,South Eglinton-Davisville,2,2,0,2,0,0
+2008,NSA,South Parkdale,5,5,2,4,1,0
+2008,NSA,South Riverdale,8,8,0,11,3,1
+2008,NSA,St Lawrence-East Bayfront-The Islands,8,8,0,9,2,2
+2008,NSA,St.Andrew-Windfields,2,2,0,2,2,0
+2008,NSA,Steeles,6,6,4,3,3,0
+2008,NSA,Stonegate-Queensway,4,4,0,4,2,2
+2008,NSA,Tam O'Shanter-Sullivan,5,5,0,5,3,0
+2008,NSA,The Beaches,1,1,1,0,0,0
+2008,NSA,Thistletown-Beaumond Heights,1,1,0,1,0,1
+2008,NSA,Thorncliffe Park,1,1,0,1,1,0
+2008,NSA,Trinity-Bellwoods,3,3,1,2,1,1
+2008,NSA,University,2,2,0,2,2,0
+2008,NSA,Victoria Village,4,4,3,4,3,0
+2008,NSA,Wellington Place,5,5,0,5,2,1
+2008,NSA,West Hill,3,3,0,4,2,0
+2008,NSA,West Humber-Clairville,18,18,4,17,7,1
+2008,NSA,West Queen West,1,1,0,1,0,1
+2008,NSA,West Rouge,1,1,0,1,0,0
+2008,NSA,Westminster-Branson,3,3,2,1,1,0
+2008,NSA,Weston,3,3,1,2,1,0
+2008,NSA,Weston-Pelham Park,3,3,0,3,1,0
+2008,NSA,Wexford/Maryvale,5,5,0,5,2,0
+2008,NSA,Willowdale West,6,6,0,6,2,1
+2008,NSA,Willowridge-Martingrove-Richview,4,4,1,3,2,0
+2008,NSA,Woburn North,6,6,0,7,1,0
+2008,NSA,Woodbine Corridor,1,1,1,1,1,0
+2008,NSA,Woodbine-Lumsden,2,2,1,1,1,0
+2008,NSA,Wychwood,5,5,0,5,2,2
+2008,NSA,Yonge-Bay Corridor,7,7,0,8,2,1
+2008,NSA,Yonge-Doris,1,1,0,1,0,1
+2008,NSA,Yonge-Eglinton,1,1,0,1,0,0
+2008,NSA,Yonge-St.Clair,1,1,0,1,0,0
+2008,NSA,York University Heights,8,8,0,8,6,0
+2008,NSA,Yorkdale-Glen Park,5,5,0,5,1,0
+2009,NSA,Agincourt North,4,4,0,4,2,0
+2009,NSA,Agincourt South-Malvern West,8,8,1,8,3,1
+2009,NSA,Alderwood,4,4,0,4,1,1
+2009,NSA,Annex,5,5,0,5,3,1
+2009,NSA,Banbury-Don Mills,1,1,0,1,0,0
+2009,NSA,Bathurst Manor,3,3,0,3,2,0
+2009,NSA,Bay-Cloverhill,6,6,1,5,2,0
+2009,NSA,Bayview Village,2,2,1,1,2,0
+2009,NSA,Bedford Park-Nortown,6,6,0,6,4,0
+2009,NSA,Beechborough-Greenbrook,3,3,0,3,0,1
+2009,NSA,Bendale South,1,1,0,1,1,0
+2009,NSA,Bendale-Glen Andrew,4,4,0,5,2,0
+2009,NSA,Birchcliffe-Cliffside,8,8,1,7,4,3
+2009,NSA,Blake-Jones,2,2,0,2,0,1
+2009,NSA,Briar Hill-Belgravia,1,1,0,1,1,0
+2009,NSA,Bridle Path-Sunnybrook-York Mills,1,1,0,1,0,0
+2009,NSA,Broadview North,2,2,0,2,0,0
+2009,NSA,Brookhaven-Amesbury,3,3,0,4,1,0
+2009,NSA,Cabbagetown-South St.James Town,3,3,2,1,2,0
+2009,NSA,Caledonia-Fairbank,1,1,0,1,1,0
+2009,NSA,Casa Loma,1,1,0,1,1,0
+2009,NSA,Centennial Scarborough,1,1,0,1,0,0
+2009,NSA,Church-Wellesley,3,3,0,3,2,0
+2009,NSA,Clairlea-Birchmount,4,4,1,3,2,1
+2009,NSA,Clanton Park,5,5,3,2,3,0
+2009,NSA,Cliffcrest,3,3,0,3,1,1
+2009,NSA,Corso Italia-Davenport,1,1,0,1,0,0
+2009,NSA,Danforth East York,4,4,1,3,3,1
+2009,NSA,Don Valley Village,2,2,1,1,0,1
+2009,NSA,Dorset Park,6,6,1,7,2,1
+2009,NSA,Dovercourt Village,1,1,0,1,0,0
+2009,NSA,Downsview,2,2,0,2,1,0
+2009,NSA,Downtown Yonge East,4,4,0,5,2,1
+2009,NSA,Dufferin Grove,2,2,1,1,1,0
+2009,NSA,East End-Danforth,5,5,0,5,3,0
+2009,NSA,East L'Amoreaux,3,3,0,5,1,0
+2009,NSA,East Willowdale,2,2,0,2,2,0
+2009,NSA,Edenbridge-Humber Valley,3,3,0,3,1,0
+2009,NSA,Eglinton East,5,5,2,4,4,0
+2009,NSA,Elms-Old Rexdale,1,1,0,1,1,0
+2009,NSA,Englemount-Lawrence,2,2,0,2,2,0
+2009,NSA,Eringate-Centennial-West Deane,3,3,0,5,0,0
+2009,NSA,Etobicoke City Centre,3,3,0,3,1,0
+2009,NSA,Fenside-Parkwoods,1,1,0,1,0,0
+2009,NSA,Flemingdon Park,3,3,2,2,1,0
+2009,NSA,Forest Hill North,3,3,0,3,2,0
+2009,NSA,Forest Hill South,1,1,0,1,1,0
+2009,NSA,Fort York-Liberty Village,1,1,0,1,0,0
+2009,NSA,Glenfield-Jane Heights,2,2,3,3,1,0
+2009,NSA,Golfdale-Cedarbrae-Woburn,1,1,0,1,1,0
+2009,NSA,Greenwood-Coxwell,3,3,0,3,2,0
+2009,NSA,Guildwood,1,1,0,1,1,0
+2009,NSA,Harbourfront-CityPlace,5,5,0,5,2,1
+2009,NSA,Henry Farm,1,1,0,1,1,0
+2009,NSA,High Park North,1,1,0,1,1,0
+2009,NSA,High Park-Swansea,4,4,0,4,2,0
+2009,NSA,Highland Creek,2,2,0,2,0,0
+2009,NSA,Humber Summit,4,4,2,2,4,0
+2009,NSA,Humbermede,2,2,1,1,2,0
+2009,NSA,Humewood-Cedarvale,1,1,0,1,0,1
+2009,NSA,Ionview,1,1,0,1,1,0
+2009,NSA,Islington,2,2,0,2,1,0
+2009,NSA,Junction Area,3,3,1,2,2,0
+2009,NSA,Junction-Wallace Emerson,1,1,0,1,0,1
+2009,NSA,Keelesdale-Eglinton West,3,3,0,3,0,1
+2009,NSA,Kennedy Park,1,1,0,1,1,0
+2009,NSA,Kensington-Chinatown,8,8,1,7,2,4
+2009,NSA,Kingsview Village-The Westway,1,1,0,1,0,0
+2009,NSA,Kingsway South,1,1,0,1,1,0
+2009,NSA,L'Amoreaux West,3,3,0,3,2,0
+2009,NSA,Lansing-Westgate,3,3,0,4,3,0
+2009,NSA,Lawrence Park South,2,2,0,2,0,0
+2009,NSA,Leaside-Bennington,1,1,0,1,0,0
+2009,NSA,Little Portugal,4,4,0,6,1,0
+2009,NSA,Malvern East,4,4,0,4,2,0
+2009,NSA,Malvern West,2,2,0,2,2,0
+2009,NSA,Markland Wood,1,1,0,1,0,0
+2009,NSA,Milliken,7,7,0,7,4,0
+2009,NSA,Mimico-Queensway,5,5,0,5,1,1
+2009,NSA,Morningside Heights,4,4,1,3,2,0
+2009,NSA,Moss Park,2,2,0,2,1,0
+2009,NSA,Mount Dennis,2,2,0,2,1,0
+2009,NSA,Mount Olive-Silverstone-Jamestown,3,3,0,5,1,0
+2009,NSA,Mount Pleasant East,1,1,0,1,0,0
+2009,NSA,NSA,3,3,1,6,1,0
+2009,NSA,New Toronto,2,2,0,2,1,0
+2009,NSA,Newtonbrook East,2,2,0,2,2,0
+2009,NSA,Newtonbrook West,4,4,1,3,4,0
+2009,NSA,North St.James Town,1,1,1,0,1,0
+2009,NSA,O'Connor-Parkview,3,3,0,4,1,0
+2009,NSA,Oakdale-Beverley Heights,3,3,1,2,2,0
+2009,NSA,Oakwood Village,6,6,0,6,5,0
+2009,NSA,Old East York,3,3,0,3,1,0
+2009,NSA,Palmerston-Little Italy,2,2,0,2,1,0
+2009,NSA,Pelmo Park-Humberlea,2,2,0,4,0,0
+2009,NSA,Playter Estates-Danforth,1,1,0,1,1,0
+2009,NSA,Regent Park,3,3,0,3,1,2
+2009,NSA,Rexdale-Kipling,2,2,0,2,2,0
+2009,NSA,Rockcliffe-Smythe,3,3,0,3,2,0
+2009,NSA,Roncesvalles,3,3,1,2,1,2
+2009,NSA,Rosedale-Moore Park,3,3,0,5,1,0
+2009,NSA,Runnymede-Bloor West Village,3,3,0,3,0,2
+2009,NSA,Rustic,3,3,0,3,3,0
+2009,NSA,Scarborough Village,2,2,2,1,0,0
+2009,NSA,South Eglinton-Davisville,4,4,0,4,1,2
+2009,NSA,South Parkdale,2,2,0,2,0,0
+2009,NSA,South Riverdale,8,8,1,7,5,1
+2009,NSA,St Lawrence-East Bayfront-The Islands,8,8,0,9,1,0
+2009,NSA,St.Andrew-Windfields,5,5,0,5,3,0
+2009,NSA,Steeles,4,4,0,4,2,0
+2009,NSA,Stonegate-Queensway,3,3,0,3,0,0
+2009,NSA,Tam O'Shanter-Sullivan,3,3,0,3,1,0
+2009,NSA,The Beaches,7,7,0,7,2,1
+2009,NSA,Thistletown-Beaumond Heights,4,4,2,2,4,0
+2009,NSA,Thorncliffe Park,1,1,0,1,1,0
+2009,NSA,Trinity-Bellwoods,2,2,0,5,1,1
+2009,NSA,University,4,4,1,3,1,2
+2009,NSA,Victoria Village,3,3,0,3,1,0
+2009,NSA,Wellington Place,5,5,1,4,3,0
+2009,NSA,West Hill,5,5,0,5,2,1
+2009,NSA,West Humber-Clairville,20,20,1,20,5,0
+2009,NSA,West Queen West,1,1,0,1,0,0
+2009,NSA,West Rouge,4,4,0,4,1,0
+2009,NSA,Weston,2,2,0,2,1,0
+2009,NSA,Weston-Pelham Park,4,4,1,5,2,1
+2009,NSA,Wexford/Maryvale,10,10,3,8,4,0
+2009,NSA,Willowdale West,2,2,0,2,1,0
+2009,NSA,Willowridge-Martingrove-Richview,3,3,0,3,1,1
+2009,NSA,Woburn North,4,4,1,3,3,0
+2009,NSA,Woodbine Corridor,4,4,0,4,1,2
+2009,NSA,Wychwood,1,1,0,2,0,0
+2009,NSA,Yonge-Bay Corridor,8,8,0,9,5,1
+2009,NSA,Yonge-Doris,1,1,0,1,1,0
+2009,NSA,Yonge-St.Clair,1,1,1,0,0,0
+2009,NSA,York University Heights,9,9,1,8,2,0
+2009,NSA,Yorkdale-Glen Park,7,7,1,6,3,1
+2010,NSA,Agincourt North,8,8,0,8,2,1
+2010,NSA,Agincourt South-Malvern West,2,2,0,2,1,0
+2010,NSA,Alderwood,1,1,1,0,1,0
+2010,NSA,Annex,3,3,0,3,1,1
+2010,NSA,Banbury-Don Mills,2,2,0,2,0,0
+2010,NSA,Bathurst Manor,1,1,0,1,0,0
+2010,NSA,Bay-Cloverhill,3,3,0,4,1,1
+2010,NSA,Bayview Village,2,2,0,2,1,0
+2010,NSA,Bendale South,2,2,0,2,1,1
+2010,NSA,Bendale-Glen Andrew,3,3,1,2,0,0
+2010,NSA,Birchcliffe-Cliffside,5,5,0,5,1,1
+2010,NSA,Black Creek,3,3,1,2,3,0
+2010,NSA,Blake-Jones,1,1,0,1,0,0
+2010,NSA,Briar Hill-Belgravia,1,1,0,1,0,1
+2010,NSA,Broadview North,1,1,0,1,0,1
+2010,NSA,Brookhaven-Amesbury,2,2,0,2,1,0
+2010,NSA,Cabbagetown-South St.James Town,3,3,0,4,1,1
+2010,NSA,Caledonia-Fairbank,6,6,1,5,4,0
+2010,NSA,Casa Loma,3,3,1,3,1,0
+2010,NSA,Centennial Scarborough,3,3,0,3,0,0
+2010,NSA,Clairlea-Birchmount,4,4,2,4,2,0
+2010,NSA,Clanton Park,2,2,0,2,1,0
+2010,NSA,Cliffcrest,2,2,1,1,1,0
+2010,NSA,Corso Italia-Davenport,3,3,1,2,2,1
+2010,NSA,Danforth,1,1,0,1,0,1
+2010,NSA,Don Valley Village,2,2,0,2,1,0
+2010,NSA,Dorset Park,2,2,0,2,1,0
+2010,NSA,Dovercourt Village,3,3,0,3,1,1
+2010,NSA,Downsview,2,2,0,2,1,0
+2010,NSA,Downtown Yonge East,4,4,0,4,1,2
+2010,NSA,Dufferin Grove,1,1,1,0,1,0
+2010,NSA,East End-Danforth,4,4,0,4,2,0
+2010,NSA,East L'Amoreaux,4,4,0,4,3,0
+2010,NSA,East Willowdale,1,1,0,1,0,0
+2010,NSA,Englemount-Lawrence,1,1,0,1,1,0
+2010,NSA,Eringate-Centennial-West Deane,2,2,1,1,2,0
+2010,NSA,Etobicoke City Centre,2,2,0,2,1,0
+2010,NSA,Forest Hill North,1,1,0,1,1,0
+2010,NSA,Forest Hill South,1,1,0,1,0,0
+2010,NSA,Fort York-Liberty Village,3,3,0,4,0,1
+2010,NSA,Glenfield-Jane Heights,4,4,0,4,2,0
+2010,NSA,Golfdale-Cedarbrae-Woburn,3,3,1,5,0,0
+2010,NSA,Greenwood-Coxwell,1,1,0,1,1,0
+2010,NSA,Harbourfront-CityPlace,3,3,1,3,0,1
+2010,NSA,High Park North,5,5,1,4,5,0
+2010,NSA,High Park-Swansea,3,3,0,4,2,0
+2010,NSA,Hillcrest Village,1,1,0,1,0,0
+2010,NSA,Humber Bay Shores,1,1,0,1,1,0
+2010,NSA,Humber Heights-Westmount,1,1,0,1,1,0
+2010,NSA,Humber Summit,3,3,0,3,1,0
+2010,NSA,Humbermede,2,2,0,2,2,0
+2010,NSA,Humewood-Cedarvale,2,2,1,3,1,0
+2010,NSA,Ionview,2,2,0,2,1,1
+2010,NSA,Islington,5,5,0,5,1,0
+2010,NSA,Junction Area,1,1,0,1,0,0
+2010,NSA,Junction-Wallace Emerson,6,6,0,6,2,1
+2010,NSA,Keelesdale-Eglinton West,4,4,0,4,1,1
+2010,NSA,Kennedy Park,6,6,0,8,2,0
+2010,NSA,Kensington-Chinatown,10,10,1,9,9,1
+2010,NSA,Kingsview Village-The Westway,5,5,1,4,2,1
+2010,NSA,Lambton Baby Point,1,1,0,1,0,0
+2010,NSA,Lansing-Westgate,3,3,0,3,2,0
+2010,NSA,Lawrence Park North,1,1,0,1,1,0
+2010,NSA,Lawrence Park South,4,4,0,4,3,0
+2010,NSA,Leaside-Bennington,4,4,0,4,1,0
+2010,NSA,Little Portugal,2,2,0,2,0,2
+2010,NSA,Malvern East,3,3,0,4,2,0
+2010,NSA,Maple Leaf,1,1,0,1,0,0
+2010,NSA,Markland Wood,1,1,0,1,1,0
+2010,NSA,Milliken,5,5,0,6,2,0
+2010,NSA,Mimico-Queensway,6,6,0,6,4,0
+2010,NSA,Morningside,2,2,1,1,0,0
+2010,NSA,Morningside Heights,3,3,0,3,0,0
+2010,NSA,Moss Park,6,6,1,5,1,0
+2010,NSA,Mount Dennis,2,2,0,2,2,0
+2010,NSA,Mount Olive-Silverstone-Jamestown,4,4,1,3,3,0
+2010,NSA,Mount Pleasant East,3,3,1,3,2,1
+2010,NSA,NSA,5,5,1,4,4,0
+2010,NSA,New Toronto,2,2,0,3,1,0
+2010,NSA,Newtonbrook East,2,2,0,2,1,1
+2010,NSA,Newtonbrook West,3,3,1,4,0,0
+2010,NSA,North Riverdale,4,4,2,3,2,1
+2010,NSA,North St.James Town,1,1,0,1,0,0
+2010,NSA,O'Connor-Parkview,1,1,0,1,0,1
+2010,NSA,Oakdale-Beverley Heights,3,3,0,3,1,0
+2010,NSA,Oakwood Village,2,2,0,2,2,0
+2010,NSA,Old East York,4,4,0,4,4,0
+2010,NSA,Palmerston-Little Italy,4,4,0,5,4,0
+2010,NSA,Parkwoods-O'Connor Hills,1,1,0,1,1,0
+2010,NSA,Pelmo Park-Humberlea,2,2,0,2,1,0
+2010,NSA,Playter Estates-Danforth,3,3,0,3,1,1
+2010,NSA,Regent Park,3,3,0,3,1,1
+2010,NSA,Rockcliffe-Smythe,3,3,0,3,1,0
+2010,NSA,Roncesvalles,3,3,1,2,3,0
+2010,NSA,Rosedale-Moore Park,5,5,0,6,1,0
+2010,NSA,Runnymede-Bloor West Village,1,1,2,1,0,0
+2010,NSA,Rustic,1,1,0,1,0,0
+2010,NSA,Scarborough Village,2,2,0,3,1,0
+2010,NSA,South Eglinton-Davisville,3,3,0,3,1,0
+2010,NSA,South Parkdale,9,9,1,8,1,2
+2010,NSA,South Riverdale,8,8,3,5,4,1
+2010,NSA,St Lawrence-East Bayfront-The Islands,4,4,0,4,1,0
+2010,NSA,St.Andrew-Windfields,3,3,1,2,1,1
+2010,NSA,Steeles,4,4,1,5,2,0
+2010,NSA,Stonegate-Queensway,2,2,0,3,1,0
+2010,NSA,Tam O'Shanter-Sullivan,3,3,0,5,1,0
+2010,NSA,Taylor-Massey,3,3,0,5,1,0
+2010,NSA,The Beaches,4,4,0,4,1,1
+2010,NSA,Thistletown-Beaumond Heights,3,3,0,4,2,0
+2010,NSA,Thorncliffe Park,3,3,0,3,2,0
+2010,NSA,Trinity-Bellwoods,1,1,0,1,1,0
+2010,NSA,University,4,4,0,4,2,1
+2010,NSA,Wellington Place,7,7,1,6,2,1
+2010,NSA,West Hill,4,4,0,4,1,0
+2010,NSA,West Humber-Clairville,12,12,2,12,4,0
+2010,NSA,West Queen West,1,1,0,1,1,0
+2010,NSA,West Rouge,3,3,0,3,1,1
+2010,NSA,Westminster-Branson,1,1,0,1,1,0
+2010,NSA,Weston,2,2,1,1,0,0
+2010,NSA,Weston-Pelham Park,2,2,1,1,1,0
+2010,NSA,Wexford/Maryvale,7,7,1,11,3,0
+2010,NSA,Willowdale West,2,2,0,2,0,0
+2010,NSA,Willowridge-Martingrove-Richview,2,2,0,2,2,0
+2010,NSA,Woburn North,4,4,1,4,2,0
+2010,NSA,Woodbine Corridor,1,1,0,1,0,1
+2010,NSA,Woodbine-Lumsden,1,1,0,1,0,1
+2010,NSA,Wychwood,2,2,0,2,1,0
+2010,NSA,Yonge-Bay Corridor,11,11,1,11,8,3
+2010,NSA,Yonge-Doris,1,1,1,0,1,0
+2010,NSA,Yonge-St.Clair,2,2,0,2,0,1
+2010,NSA,York University Heights,6,6,0,7,3,0
+2010,NSA,Yorkdale-Glen Park,1,1,0,1,1,0
+2011,NSA,Agincourt North,6,6,1,5,3,0
+2011,NSA,Agincourt South-Malvern West,2,2,0,2,1,0
+2011,NSA,Alderwood,1,1,0,2,0,0
+2011,NSA,Annex,8,8,0,10,3,2
+2011,NSA,Banbury-Don Mills,4,4,0,4,1,2
+2011,NSA,Bathurst Manor,3,3,0,3,1,0
+2011,NSA,Bay-Cloverhill,3,3,0,3,2,1
+2011,NSA,Bayview Village,2,2,0,6,1,0
+2011,NSA,Bayview Woods-Steeles,1,1,0,1,1,0
+2011,NSA,Bedford Park-Nortown,6,6,0,6,4,1
+2011,NSA,Beechborough-Greenbrook,3,3,0,3,2,0
+2011,NSA,Bendale South,2,2,0,2,2,0
+2011,NSA,Bendale-Glen Andrew,2,2,0,2,1,0
+2011,NSA,Birchcliffe-Cliffside,1,1,0,1,1,0
+2011,NSA,Black Creek,3,3,1,2,1,1
+2011,NSA,Blake-Jones,1,1,0,1,0,1
+2011,NSA,Briar Hill-Belgravia,1,1,0,1,1,0
+2011,NSA,Bridle Path-Sunnybrook-York Mills,1,1,0,1,0,0
+2011,NSA,Broadview North,1,1,1,0,0,0
+2011,NSA,Brookhaven-Amesbury,3,3,1,2,1,0
+2011,NSA,Cabbagetown-South St.James Town,2,2,0,2,0,2
+2011,NSA,Casa Loma,3,3,0,3,1,0
+2011,NSA,Centennial Scarborough,2,2,0,3,0,1
+2011,NSA,Church-Wellesley,3,3,0,3,2,1
+2011,NSA,Clairlea-Birchmount,2,2,0,2,1,0
+2011,NSA,Clanton Park,2,2,1,1,2,0
+2011,NSA,Cliffcrest,1,1,0,1,1,0
+2011,NSA,Corso Italia-Davenport,4,4,1,4,1,1
+2011,NSA,Danforth,2,2,0,2,1,0
+2011,NSA,Danforth East York,1,1,0,1,1,0
+2011,NSA,Don Valley Village,2,2,0,2,1,0
+2011,NSA,Dorset Park,1,1,0,1,0,0
+2011,NSA,Dovercourt Village,2,2,1,1,1,0
+2011,NSA,Downsview,1,1,0,1,0,0
+2011,NSA,Downtown Yonge East,6,6,0,6,3,1
+2011,NSA,Dufferin Grove,5,5,1,4,2,2
+2011,NSA,East End-Danforth,4,4,0,4,3,0
+2011,NSA,East L'Amoreaux,5,5,2,3,1,0
+2011,NSA,East Willowdale,4,4,0,4,4,0
+2011,NSA,Edenbridge-Humber Valley,2,2,1,1,1,0
+2011,NSA,Eglinton East,1,1,0,1,1,0
+2011,NSA,Englemount-Lawrence,1,1,0,1,0,0
+2011,NSA,Eringate-Centennial-West Deane,3,3,0,3,1,0
+2011,NSA,Etobicoke City Centre,6,6,1,5,2,0
+2011,NSA,Fenside-Parkwoods,2,2,0,2,0,1
+2011,NSA,Flemingdon Park,3,3,0,4,2,0
+2011,NSA,Forest Hill North,1,1,1,0,1,0
+2011,NSA,Forest Hill South,2,2,0,2,0,0
+2011,NSA,Fort York-Liberty Village,2,2,0,2,1,1
+2011,NSA,Glenfield-Jane Heights,5,5,0,5,4,0
+2011,NSA,Golfdale-Cedarbrae-Woburn,3,3,0,5,0,0
+2011,NSA,Greenwood-Coxwell,1,1,0,1,0,0
+2011,NSA,Harbourfront-CityPlace,4,4,0,4,0,2
+2011,NSA,Henry Farm,2,2,0,2,1,0
+2011,NSA,High Park North,1,1,0,1,1,0
+2011,NSA,High Park-Swansea,3,3,0,3,0,2
+2011,NSA,Hillcrest Village,1,1,0,1,1,0
+2011,NSA,Humber Bay Shores,1,1,0,1,0,0
+2011,NSA,Humber Heights-Westmount,2,2,1,2,1,0
+2011,NSA,Humber Summit,3,3,0,3,0,1
+2011,NSA,Humbermede,2,2,0,2,0,0
+2011,NSA,Ionview,1,1,0,1,0,0
+2011,NSA,Junction Area,4,4,0,4,1,1
+2011,NSA,Junction-Wallace Emerson,5,5,0,5,2,0
+2011,NSA,Keelesdale-Eglinton West,6,6,0,6,2,2
+2011,NSA,Kennedy Park,1,1,0,1,1,0
+2011,NSA,Kensington-Chinatown,9,9,1,8,8,1
+2011,NSA,Kingsview Village-The Westway,3,3,1,3,0,0
+2011,NSA,Kingsway South,2,2,0,3,0,0
+2011,NSA,L'Amoreaux West,1,1,0,1,0,0
+2011,NSA,Lansing-Westgate,4,4,0,4,3,0
+2011,NSA,Leaside-Bennington,1,1,0,1,0,0
+2011,NSA,Little Portugal,6,6,1,5,1,3
+2011,NSA,Malvern East,3,3,1,2,1,0
+2011,NSA,Malvern West,1,1,0,1,1,0
+2011,NSA,Markland Wood,2,2,1,1,2,0
+2011,NSA,Milliken,2,2,0,2,1,1
+2011,NSA,Mimico-Queensway,6,6,0,7,1,0
+2011,NSA,Morningside,1,1,0,1,0,0
+2011,NSA,Morningside Heights,9,9,0,10,3,0
+2011,NSA,Moss Park,4,4,0,4,3,0
+2011,NSA,Mount Olive-Silverstone-Jamestown,3,3,0,3,1,0
+2011,NSA,Mount Pleasant East,2,2,0,2,1,0
+2011,NSA,NSA,3,3,2,1,1,0
+2011,NSA,New Toronto,4,4,1,3,2,1
+2011,NSA,Newtonbrook East,3,3,1,2,2,0
+2011,NSA,Newtonbrook West,6,6,2,4,4,1
+2011,NSA,North Toronto,1,1,0,1,0,0
+2011,NSA,O'Connor-Parkview,2,2,0,2,2,0
+2011,NSA,Oakdale-Beverley Heights,3,3,0,3,2,0
+2011,NSA,Oakridge,1,1,0,1,1,0
+2011,NSA,Oakwood Village,3,3,0,3,1,0
+2011,NSA,Old East York,5,5,1,4,3,1
+2011,NSA,Palmerston-Little Italy,1,1,0,1,0,0
+2011,NSA,Pelmo Park-Humberlea,3,3,0,3,2,0
+2011,NSA,Princess-Rosethorn,1,1,0,1,1,0
+2011,NSA,Rexdale-Kipling,4,4,0,5,2,0
+2011,NSA,Rockcliffe-Smythe,8,8,0,11,5,0
+2011,NSA,Roncesvalles,2,2,0,2,1,1
+2011,NSA,Rosedale-Moore Park,1,1,0,1,1,0
+2011,NSA,Runnymede-Bloor West Village,1,1,0,1,1,0
+2011,NSA,Rustic,1,1,1,0,0,0
+2011,NSA,Scarborough Village,2,2,0,2,1,0
+2011,NSA,South Eglinton-Davisville,2,2,0,2,1,0
+2011,NSA,South Parkdale,4,4,0,4,1,1
+2011,NSA,South Riverdale,10,10,0,10,5,1
+2011,NSA,St Lawrence-East Bayfront-The Islands,5,5,1,4,0,0
+2011,NSA,St.Andrew-Windfields,1,1,0,1,0,0
+2011,NSA,Steeles,1,1,0,1,1,0
+2011,NSA,Stonegate-Queensway,1,1,0,1,0,0
+2011,NSA,Tam O'Shanter-Sullivan,7,7,0,8,3,1
+2011,NSA,The Beaches,1,1,0,1,1,0
+2011,NSA,Thistletown-Beaumond Heights,2,2,0,2,2,0
+2011,NSA,Thorncliffe Park,3,3,0,3,1,0
+2011,NSA,Trinity-Bellwoods,3,3,0,3,2,0
+2011,NSA,University,2,2,0,3,0,1
+2011,NSA,Victoria Village,4,4,2,2,0,0
+2011,NSA,Wellington Place,6,6,1,5,5,1
+2011,NSA,West Hill,4,4,1,4,1,2
+2011,NSA,West Humber-Clairville,8,8,1,7,4,0
+2011,NSA,West Queen West,4,4,0,4,4,0
+2011,NSA,West Rouge,1,1,0,1,0,1
+2011,NSA,Westminster-Branson,1,1,1,1,1,0
+2011,NSA,Weston,2,2,0,3,1,0
+2011,NSA,Wexford/Maryvale,4,4,1,3,3,0
+2011,NSA,Woburn North,6,6,0,7,1,1
+2011,NSA,Woodbine Corridor,2,2,0,2,1,0
+2011,NSA,Woodbine-Lumsden,2,2,0,2,2,0
+2011,NSA,Wychwood,1,1,0,1,0,1
+2011,NSA,Yonge-Bay Corridor,10,10,0,10,4,5
+2011,NSA,Yonge-Doris,2,2,0,2,1,0
+2011,NSA,Yonge-Eglinton,4,4,0,4,3,0
+2011,NSA,Yonge-St.Clair,4,4,0,4,2,2
+2011,NSA,York University Heights,4,4,0,4,3,0
+2011,NSA,Yorkdale-Glen Park,1,1,0,1,1,0
+2012,NSA,Agincourt North,3,3,0,3,2,0
+2012,NSA,Agincourt South-Malvern West,3,3,1,2,1,0
+2012,NSA,Annex,5,5,0,6,2,3
+2012,NSA,Banbury-Don Mills,4,4,1,3,2,0
+2012,NSA,Bayview Village,3,3,2,1,2,0
+2012,NSA,Bayview Woods-Steeles,1,1,0,1,0,0
+2012,NSA,Bedford Park-Nortown,4,4,1,3,4,0
+2012,NSA,Beechborough-Greenbrook,4,4,0,4,0,0
+2012,NSA,Bendale-Glen Andrew,2,2,0,3,0,0
+2012,NSA,Birchcliffe-Cliffside,2,2,0,2,1,0
+2012,NSA,Blake-Jones,2,2,0,2,2,0
+2012,NSA,Briar Hill-Belgravia,2,2,0,2,2,0
+2012,NSA,Bridle Path-Sunnybrook-York Mills,2,2,0,2,0,1
+2012,NSA,Broadview North,2,2,0,2,1,0
+2012,NSA,Brookhaven-Amesbury,2,2,0,2,1,0
+2012,NSA,Cabbagetown-South St.James Town,9,9,0,10,4,1
+2012,NSA,Casa Loma,2,2,0,2,1,1
+2012,NSA,Church-Wellesley,4,4,0,6,1,2
+2012,NSA,Clairlea-Birchmount,7,7,0,7,4,0
+2012,NSA,Clanton Park,4,4,1,3,2,1
+2012,NSA,Cliffcrest,1,1,0,1,1,0
+2012,NSA,Corso Italia-Davenport,6,6,0,6,4,1
+2012,NSA,Danforth,1,1,0,1,1,0
+2012,NSA,Danforth East York,1,1,0,1,1,0
+2012,NSA,Don Valley Village,3,3,1,6,1,0
+2012,NSA,Dorset Park,6,6,0,6,1,0
+2012,NSA,Dovercourt Village,2,2,0,2,1,0
+2012,NSA,Downsview,2,2,0,2,1,0
+2012,NSA,Downtown Yonge East,9,9,0,9,3,4
+2012,NSA,Dufferin Grove,3,3,0,3,0,2
+2012,NSA,East End-Danforth,2,2,0,2,1,0
+2012,NSA,East Willowdale,1,1,0,1,1,0
+2012,NSA,Edenbridge-Humber Valley,1,1,0,1,0,0
+2012,NSA,Eglinton East,4,4,0,4,4,0
+2012,NSA,Elms-Old Rexdale,1,1,0,1,1,0
+2012,NSA,Eringate-Centennial-West Deane,4,4,0,4,1,1
+2012,NSA,Etobicoke City Centre,3,3,0,3,1,0
+2012,NSA,Fenside-Parkwoods,1,1,0,1,1,0
+2012,NSA,Flemingdon Park,4,4,1,4,0,0
+2012,NSA,Forest Hill North,3,3,0,3,2,0
+2012,NSA,Fort York-Liberty Village,1,1,0,1,0,0
+2012,NSA,Glenfield-Jane Heights,4,4,1,3,2,0
+2012,NSA,Golfdale-Cedarbrae-Woburn,2,2,0,2,0,0
+2012,NSA,Greenwood-Coxwell,2,2,0,2,1,0
+2012,NSA,Harbourfront-CityPlace,4,4,0,4,2,0
+2012,NSA,Henry Farm,2,2,0,2,1,0
+2012,NSA,High Park North,1,1,0,1,1,0
+2012,NSA,Highland Creek,1,1,0,1,0,0
+2012,NSA,Hillcrest Village,3,3,0,3,3,0
+2012,NSA,Humber Bay Shores,1,1,0,1,0,0
+2012,NSA,Humber Heights-Westmount,1,1,0,1,0,0
+2012,NSA,Humber Summit,3,3,1,2,2,0
+2012,NSA,Humbermede,3,3,0,3,2,1
+2012,NSA,Humewood-Cedarvale,1,1,0,1,1,0
+2012,NSA,Ionview,2,2,1,1,1,0
+2012,NSA,Islington,1,1,0,1,0,0
+2012,NSA,Junction Area,3,3,0,3,1,0
+2012,NSA,Junction-Wallace Emerson,5,5,1,5,1,2
+2012,NSA,Keelesdale-Eglinton West,4,4,1,3,1,0
+2012,NSA,Kennedy Park,5,5,1,4,2,1
+2012,NSA,Kensington-Chinatown,5,5,1,4,0,4
+2012,NSA,Kingsview Village-The Westway,1,1,1,0,0,0
+2012,NSA,Kingsway South,2,2,0,2,2,0
+2012,NSA,L'Amoreaux West,1,1,0,1,0,0
+2012,NSA,Lansing-Westgate,1,1,0,1,1,0
+2012,NSA,Lawrence Park North,1,1,1,0,1,0
+2012,NSA,Lawrence Park South,1,1,0,1,0,0
+2012,NSA,Leaside-Bennington,4,4,0,4,2,1
+2012,NSA,Little Portugal,1,1,0,1,0,1
+2012,NSA,Malvern East,5,5,2,3,3,0
+2012,NSA,Malvern West,3,3,1,2,2,0
+2012,NSA,Markland Wood,1,1,0,3,0,0
+2012,NSA,Milliken,5,5,1,4,3,1
+2012,NSA,Mimico-Queensway,7,7,0,7,3,0
+2012,NSA,Morningside,1,1,1,0,0,0
+2012,NSA,Morningside Heights,4,4,0,4,1,0
+2012,NSA,Moss Park,11,11,1,11,5,0
+2012,NSA,Mount Dennis,4,4,1,3,1,1
+2012,NSA,Mount Olive-Silverstone-Jamestown,3,3,0,3,0,0
+2012,NSA,Mount Pleasant East,1,1,1,0,0,0
+2012,NSA,NSA,6,6,1,5,2,0
+2012,NSA,New Toronto,1,1,0,1,0,1
+2012,NSA,Newtonbrook East,3,3,0,3,2,0
+2012,NSA,Newtonbrook West,1,1,0,2,1,0
+2012,NSA,North Riverdale,5,5,1,4,2,2
+2012,NSA,North St.James Town,2,2,0,2,1,0
+2012,NSA,North Toronto,3,3,0,3,3,0
+2012,NSA,O'Connor-Parkview,2,2,0,2,0,1
+2012,NSA,Oakdale-Beverley Heights,3,3,0,5,1,0
+2012,NSA,Oakridge,2,2,0,2,0,0
+2012,NSA,Oakwood Village,4,4,0,4,3,0
+2012,NSA,Old East York,2,2,0,2,1,0
+2012,NSA,Palmerston-Little Italy,4,4,0,4,0,4
+2012,NSA,Pelmo Park-Humberlea,1,1,0,1,1,0
+2012,NSA,Playter Estates-Danforth,1,1,0,1,1,0
+2012,NSA,Princess-Rosethorn,3,3,0,3,0,1
+2012,NSA,Regent Park,3,3,0,3,1,1
+2012,NSA,Rexdale-Kipling,2,2,0,2,1,0
+2012,NSA,Rockcliffe-Smythe,2,2,2,0,0,0
+2012,NSA,Roncesvalles,8,8,0,8,5,2
+2012,NSA,Rosedale-Moore Park,3,3,0,3,0,1
+2012,NSA,Runnymede-Bloor West Village,1,1,0,1,1,0
+2012,NSA,South Eglinton-Davisville,1,1,0,1,0,0
+2012,NSA,South Parkdale,6,6,2,4,3,0
+2012,NSA,South Riverdale,11,11,0,12,3,1
+2012,NSA,St Lawrence-East Bayfront-The Islands,5,5,0,5,2,1
+2012,NSA,St.Andrew-Windfields,1,1,0,1,0,0
+2012,NSA,Steeles,7,7,2,5,4,1
+2012,NSA,Stonegate-Queensway,3,3,0,3,1,0
+2012,NSA,Tam O'Shanter-Sullivan,12,12,1,11,4,2
+2012,NSA,Taylor-Massey,1,1,0,1,1,0
+2012,NSA,The Beaches,2,2,0,2,2,0
+2012,NSA,Thistletown-Beaumond Heights,3,3,0,3,0,1
+2012,NSA,Thorncliffe Park,1,1,0,1,1,0
+2012,NSA,Trinity-Bellwoods,7,7,0,7,1,5
+2012,NSA,University,1,1,0,1,0,1
+2012,NSA,Victoria Village,3,3,0,3,2,0
+2012,NSA,Wellington Place,13,13,1,12,7,6
+2012,NSA,West Hill,6,6,2,5,4,1
+2012,NSA,West Humber-Clairville,6,6,2,4,5,0
+2012,NSA,West Queen West,2,2,0,2,0,1
+2012,NSA,West Rouge,2,2,0,2,0,0
+2012,NSA,Weston,6,6,0,7,2,2
+2012,NSA,Weston-Pelham Park,1,1,0,1,0,0
+2012,NSA,Wexford/Maryvale,6,6,0,6,2,1
+2012,NSA,Willowdale West,2,2,1,1,2,0
+2012,NSA,Willowridge-Martingrove-Richview,1,1,0,1,1,0
+2012,NSA,Woburn North,9,9,0,9,5,1
+2012,NSA,Woodbine Corridor,1,1,0,1,0,0
+2012,NSA,Woodbine-Lumsden,3,3,0,3,3,0
+2012,NSA,Wychwood,5,5,0,5,3,1
+2012,NSA,Yonge-Bay Corridor,12,12,1,11,3,4
+2012,NSA,Yonge-Doris,2,2,0,2,2,0
+2012,NSA,Yonge-Eglinton,3,3,1,2,3,0
+2012,NSA,Yonge-St.Clair,3,3,0,3,3,1
+2012,NSA,York University Heights,6,6,0,7,2,0
+2012,NSA,Yorkdale-Glen Park,2,2,2,0,1,0
+2013,NSA,Agincourt North,5,5,2,3,5,0
+2013,NSA,Agincourt South-Malvern West,5,5,2,3,2,1
+2013,NSA,Alderwood,1,1,0,1,0,0
+2013,NSA,Annex,6,6,0,6,1,1
+2013,NSA,Banbury-Don Mills,3,3,0,3,0,1
+2013,NSA,Bathurst Manor,5,5,0,6,1,0
+2013,NSA,Bay-Cloverhill,1,1,0,1,1,0
+2013,NSA,Bayview Village,1,1,0,1,1,0
+2013,NSA,Bayview Woods-Steeles,2,2,0,2,1,0
+2013,NSA,Bedford Park-Nortown,3,3,1,2,2,0
+2013,NSA,Beechborough-Greenbrook,1,1,0,1,1,0
+2013,NSA,Bendale South,4,4,2,3,2,1
+2013,NSA,Bendale-Glen Andrew,2,2,0,2,0,0
+2013,NSA,Birchcliffe-Cliffside,6,6,2,6,5,0
+2013,NSA,Black Creek,3,3,1,2,2,0
+2013,NSA,Briar Hill-Belgravia,2,2,0,2,2,0
+2013,NSA,Bridle Path-Sunnybrook-York Mills,2,2,1,1,1,1
+2013,NSA,Broadview North,1,1,0,1,0,0
+2013,NSA,Brookhaven-Amesbury,2,2,0,2,2,0
+2013,NSA,Cabbagetown-South St.James Town,2,2,1,1,1,0
+2013,NSA,Caledonia-Fairbank,2,2,0,2,2,0
+2013,NSA,Casa Loma,2,2,0,2,2,0
+2013,NSA,Centennial Scarborough,1,1,1,0,1,0
+2013,NSA,Church-Wellesley,1,1,0,1,1,0
+2013,NSA,Clairlea-Birchmount,9,9,3,7,6,0
+2013,NSA,Clanton Park,5,5,0,6,3,0
+2013,NSA,Cliffcrest,2,2,0,2,1,0
+2013,NSA,Corso Italia-Davenport,2,2,0,2,1,1
+2013,NSA,Don Valley Village,4,4,1,3,3,0
+2013,NSA,Dorset Park,3,3,1,3,1,1
+2013,NSA,Dovercourt Village,3,3,0,3,0,1
+2013,NSA,Downsview,9,9,1,13,2,1
+2013,NSA,Downtown Yonge East,4,4,0,4,4,0
+2013,NSA,Dufferin Grove,3,3,0,3,0,2
+2013,NSA,East End-Danforth,4,4,0,4,2,0
+2013,NSA,East L'Amoreaux,3,3,0,3,1,0
+2013,NSA,East Willowdale,2,2,1,1,0,0
+2013,NSA,Edenbridge-Humber Valley,1,1,0,1,1,0
+2013,NSA,Eglinton East,1,1,1,0,0,0
+2013,NSA,Eringate-Centennial-West Deane,1,1,0,1,0,0
+2013,NSA,Etobicoke City Centre,7,7,1,6,2,1
+2013,NSA,Etobicoke West Mall,2,2,0,2,1,1
+2013,NSA,Fenside-Parkwoods,1,1,0,1,0,0
+2013,NSA,Flemingdon Park,3,3,0,3,1,0
+2013,NSA,Forest Hill North,3,3,0,3,2,0
+2013,NSA,Forest Hill South,1,1,0,1,1,0
+2013,NSA,Fort York-Liberty Village,1,1,0,1,0,0
+2013,NSA,Glenfield-Jane Heights,1,1,0,1,1,0
+2013,NSA,Golfdale-Cedarbrae-Woburn,2,2,0,3,2,0
+2013,NSA,Greenwood-Coxwell,4,4,0,4,2,2
+2013,NSA,Harbourfront-CityPlace,10,10,0,11,6,3
+2013,NSA,Henry Farm,2,2,0,2,0,0
+2013,NSA,High Park-Swansea,1,1,0,1,0,0
+2013,NSA,Hillcrest Village,2,2,0,2,1,0
+2013,NSA,Humber Bay Shores,1,1,0,1,1,0
+2013,NSA,Humber Heights-Westmount,4,4,1,3,3,0
+2013,NSA,Humber Summit,3,3,1,3,0,1
+2013,NSA,Humewood-Cedarvale,1,1,1,0,1,0
+2013,NSA,Ionview,3,3,1,2,2,1
+2013,NSA,Islington,2,2,0,2,1,0
+2013,NSA,Junction Area,4,4,0,4,1,0
+2013,NSA,Junction-Wallace Emerson,6,6,0,7,1,2
+2013,NSA,Keelesdale-Eglinton West,5,5,0,5,3,0
+2013,NSA,Kennedy Park,3,3,0,3,3,0
+2013,NSA,Kensington-Chinatown,9,9,2,7,4,4
+2013,NSA,Kingsview Village-The Westway,1,1,0,1,1,0
+2013,NSA,Kingsway South,1,1,0,1,0,0
+2013,NSA,L'Amoreaux West,3,3,0,3,2,0
+2013,NSA,Lansing-Westgate,2,2,0,2,2,0
+2013,NSA,Lawrence Park South,3,3,1,2,2,0
+2013,NSA,Leaside-Bennington,2,2,0,2,0,1
+2013,NSA,Little Portugal,2,2,1,1,2,0
+2013,NSA,Long Branch,1,1,0,1,0,0
+2013,NSA,Malvern East,2,2,1,1,0,0
+2013,NSA,Malvern West,1,1,0,2,0,0
+2013,NSA,Maple Leaf,2,2,0,3,2,0
+2013,NSA,Markland Wood,5,5,2,3,3,0
+2013,NSA,Milliken,12,12,2,13,5,2
+2013,NSA,Mimico-Queensway,7,7,0,7,1,0
+2013,NSA,Morningside,2,2,0,3,0,0
+2013,NSA,Morningside Heights,7,7,0,7,1,1
+2013,NSA,Moss Park,3,3,0,3,2,1
+2013,NSA,Mount Dennis,1,1,0,1,1,0
+2013,NSA,Mount Pleasant East,1,1,0,1,0,0
+2013,NSA,NSA,2,2,0,2,1,1
+2013,NSA,New Toronto,2,2,1,1,1,1
+2013,NSA,Newtonbrook East,2,2,1,1,2,0
+2013,NSA,Newtonbrook West,3,3,2,1,3,0
+2013,NSA,North Riverdale,3,3,1,2,1,1
+2013,NSA,North St.James Town,2,2,0,2,0,1
+2013,NSA,O'Connor-Parkview,2,2,1,1,1,0
+2013,NSA,Oakdale-Beverley Heights,1,1,0,1,1,0
+2013,NSA,Oakridge,5,5,0,6,0,2
+2013,NSA,Oakwood Village,3,3,0,3,0,2
+2013,NSA,Old East York,3,3,0,6,0,1
+2013,NSA,Palmerston-Little Italy,2,2,0,2,0,1
+2013,NSA,Parkwoods-O'Connor Hills,1,1,0,1,1,0
+2013,NSA,Pelmo Park-Humberlea,1,1,0,1,0,0
+2013,NSA,Playter Estates-Danforth,2,2,0,2,2,1
+2013,NSA,Princess-Rosethorn,1,1,0,1,0,0
+2013,NSA,Regent Park,2,2,0,2,1,0
+2013,NSA,Rexdale-Kipling,1,1,0,1,0,0
+2013,NSA,Rockcliffe-Smythe,6,6,1,5,1,2
+2013,NSA,Rosedale-Moore Park,1,1,1,0,1,0
+2013,NSA,Runnymede-Bloor West Village,2,2,0,2,2,0
+2013,NSA,Scarborough Village,1,1,0,1,0,0
+2013,NSA,South Eglinton-Davisville,2,2,0,3,1,0
+2013,NSA,South Parkdale,13,13,5,8,6,1
+2013,NSA,South Riverdale,5,5,1,4,2,1
+2013,NSA,St Lawrence-East Bayfront-The Islands,9,9,2,10,6,1
+2013,NSA,St.Andrew-Windfields,1,1,0,1,0,0
+2013,NSA,Steeles,2,2,0,2,1,1
+2013,NSA,Stonegate-Queensway,8,8,0,8,4,1
+2013,NSA,Tam O'Shanter-Sullivan,2,2,0,2,2,0
+2013,NSA,Taylor-Massey,2,2,0,2,2,0
+2013,NSA,The Beaches,2,2,1,1,2,0
+2013,NSA,Thistletown-Beaumond Heights,1,1,0,2,0,0
+2013,NSA,Thorncliffe Park,1,1,0,1,0,0
+2013,NSA,Trinity-Bellwoods,6,6,1,5,2,2
+2013,NSA,University,5,5,1,4,2,1
+2013,NSA,Victoria Village,2,2,1,1,1,0
+2013,NSA,Wellington Place,5,5,0,6,2,4
+2013,NSA,West Hill,7,7,1,6,5,1
+2013,NSA,West Humber-Clairville,9,9,3,6,3,1
+2013,NSA,West Queen West,3,3,0,3,0,0
+2013,NSA,West Rouge,2,2,0,2,1,0
+2013,NSA,Westminster-Branson,1,1,1,0,1,0
+2013,NSA,Weston,4,4,0,4,3,0
+2013,NSA,Weston-Pelham Park,3,3,0,3,3,0
+2013,NSA,Wexford/Maryvale,2,2,0,2,0,0
+2013,NSA,Willowdale West,1,1,0,1,1,0
+2013,NSA,Woburn North,2,2,0,2,1,0
+2013,NSA,Woodbine Corridor,2,2,0,2,2,0
+2013,NSA,Woodbine-Lumsden,1,1,0,1,0,1
+2013,NSA,Wychwood,6,6,0,6,0,5
+2013,NSA,Yonge-Bay Corridor,9,9,1,9,6,2
+2013,NSA,Yonge-Eglinton,3,3,0,3,1,0
+2013,NSA,Yonge-St.Clair,1,1,1,0,1,0
+2013,NSA,York University Heights,3,3,1,2,2,0
+2014,NSA,Agincourt North,1,1,0,1,0,0
+2014,NSA,Agincourt South-Malvern West,2,2,1,1,1,0
+2014,NSA,Alderwood,1,1,0,1,0,0
+2014,NSA,Annex,3,3,0,3,3,0
+2014,NSA,Avondale,1,1,1,0,1,0
+2014,NSA,Banbury-Don Mills,6,6,1,6,1,0
+2014,NSA,Bathurst Manor,2,2,0,2,0,0
+2014,NSA,Bayview Village,3,3,0,4,0,0
+2014,NSA,Bayview Woods-Steeles,1,1,0,1,0,0
+2014,NSA,Bedford Park-Nortown,6,6,0,6,2,0
+2014,NSA,Bendale South,3,3,0,3,0,0
+2014,NSA,Bendale-Glen Andrew,2,2,0,2,1,0
+2014,NSA,Birchcliffe-Cliffside,4,4,0,4,1,0
+2014,NSA,Black Creek,2,2,0,2,0,1
+2014,NSA,Broadview North,1,1,0,1,0,0
+2014,NSA,Brookhaven-Amesbury,1,1,0,1,0,0
+2014,NSA,Cabbagetown-South St.James Town,3,3,0,3,1,2
+2014,NSA,Casa Loma,1,1,0,1,1,0
+2014,NSA,Centennial Scarborough,2,2,0,2,1,1
+2014,NSA,Church-Wellesley,1,1,0,1,1,0
+2014,NSA,Clairlea-Birchmount,11,11,4,9,4,2
+2014,NSA,Clanton Park,2,2,0,2,0,2
+2014,NSA,Corso Italia-Davenport,3,3,1,2,2,0
+2014,NSA,Danforth East York,1,1,1,0,1,0
+2014,NSA,Don Valley Village,1,1,0,1,1,0
+2014,NSA,Dorset Park,1,1,0,1,0,0
+2014,NSA,Downsview,5,5,0,5,1,0
+2014,NSA,Downtown Yonge East,3,3,1,2,3,0
+2014,NSA,East End-Danforth,1,1,0,1,0,0
+2014,NSA,East L'Amoreaux,1,1,0,1,1,0
+2014,NSA,East Willowdale,2,2,1,2,1,0
+2014,NSA,Edenbridge-Humber Valley,3,3,0,3,1,1
+2014,NSA,Eglinton East,3,3,1,2,3,0
+2014,NSA,Elms-Old Rexdale,1,1,1,0,0,0
+2014,NSA,Englemount-Lawrence,2,2,1,1,1,0
+2014,NSA,Eringate-Centennial-West Deane,1,1,1,0,0,0
+2014,NSA,Etobicoke City Centre,4,4,0,4,2,0
+2014,NSA,Etobicoke West Mall,1,1,0,1,0,0
+2014,NSA,Flemingdon Park,2,2,0,2,1,0
+2014,NSA,Forest Hill South,2,2,0,3,1,0
+2014,NSA,Glenfield-Jane Heights,3,3,1,2,2,1
+2014,NSA,Golfdale-Cedarbrae-Woburn,3,3,0,3,1,0
+2014,NSA,Greenwood-Coxwell,1,1,0,1,0,0
+2014,NSA,Guildwood,1,1,0,1,0,0
+2014,NSA,Harbourfront-CityPlace,3,3,0,4,1,1
+2014,NSA,Henry Farm,3,3,2,1,0,0
+2014,NSA,High Park North,2,2,2,0,2,0
+2014,NSA,High Park-Swansea,4,4,0,4,2,0
+2014,NSA,Hillcrest Village,3,3,1,2,2,0
+2014,NSA,Humber Bay Shores,2,2,0,2,0,0
+2014,NSA,Humber Heights-Westmount,1,1,0,3,0,0
+2014,NSA,Humber Summit,2,2,0,2,0,1
+2014,NSA,Ionview,1,1,1,0,0,0
+2014,NSA,Islington,2,2,0,3,0,0
+2014,NSA,Junction Area,6,6,2,5,4,2
+2014,NSA,Junction-Wallace Emerson,2,2,0,2,1,0
+2014,NSA,Keelesdale-Eglinton West,5,5,0,5,2,2
+2014,NSA,Kennedy Park,5,5,0,5,4,0
+2014,NSA,Kensington-Chinatown,4,4,2,2,4,0
+2014,NSA,Kingsview Village-The Westway,1,1,0,1,1,0
+2014,NSA,Kingsway South,2,2,1,1,0,0
+2014,NSA,L'Amoreaux West,2,2,0,5,0,0
+2014,NSA,Lansing-Westgate,3,3,0,3,2,0
+2014,NSA,Lawrence Park South,1,1,0,1,1,0
+2014,NSA,Leaside-Bennington,3,3,1,2,2,0
+2014,NSA,Little Portugal,3,3,0,3,0,3
+2014,NSA,Long Branch,1,1,0,1,0,0
+2014,NSA,Malvern East,4,4,1,8,1,1
+2014,NSA,Malvern West,1,1,1,0,1,0
+2014,NSA,Markland Wood,2,2,0,3,0,0
+2014,NSA,Milliken,3,3,0,3,2,0
+2014,NSA,Mimico-Queensway,4,4,0,4,0,0
+2014,NSA,Morningside,4,4,2,2,2,0
+2014,NSA,Moss Park,4,4,1,3,2,1
+2014,NSA,Mount Dennis,1,1,0,2,0,0
+2014,NSA,Mount Olive-Silverstone-Jamestown,2,2,0,2,1,0
+2014,NSA,Mount Pleasant East,4,4,0,4,3,1
+2014,NSA,NSA,1,1,0,1,0,0
+2014,NSA,New Toronto,2,2,0,2,1,0
+2014,NSA,Newtonbrook East,4,4,1,4,1,0
+2014,NSA,Newtonbrook West,4,4,1,3,2,1
+2014,NSA,North Riverdale,2,2,1,1,1,0
+2014,NSA,North Toronto,1,1,0,1,1,0
+2014,NSA,Oakdale-Beverley Heights,2,2,0,2,1,0
+2014,NSA,Oakwood Village,1,1,1,0,1,0
+2014,NSA,Old East York,4,4,1,3,1,0
+2014,NSA,Palmerston-Little Italy,3,3,0,3,1,1
+2014,NSA,Parkwoods-O'Connor Hills,1,1,0,1,1,0
+2014,NSA,Pelmo Park-Humberlea,3,3,0,3,0,0
+2014,NSA,Princess-Rosethorn,1,1,0,1,0,0
+2014,NSA,Rexdale-Kipling,2,2,1,3,1,0
+2014,NSA,Rockcliffe-Smythe,4,4,0,4,4,0
+2014,NSA,Roncesvalles,2,2,0,2,1,0
+2014,NSA,Rosedale-Moore Park,1,1,0,2,1,0
+2014,NSA,Scarborough Village,2,2,1,1,1,0
+2014,NSA,South Eglinton-Davisville,2,2,0,2,1,0
+2014,NSA,South Parkdale,3,3,2,1,3,0
+2014,NSA,South Riverdale,8,8,0,8,5,2
+2014,NSA,St Lawrence-East Bayfront-The Islands,8,8,0,8,6,0
+2014,NSA,St.Andrew-Windfields,1,1,0,1,0,1
+2014,NSA,Steeles,3,3,1,3,1,0
+2014,NSA,Stonegate-Queensway,1,1,0,1,0,0
+2014,NSA,Tam O'Shanter-Sullivan,5,5,1,6,1,0
+2014,NSA,Taylor-Massey,2,2,1,1,1,0
+2014,NSA,The Beaches,6,6,0,6,2,3
+2014,NSA,Thistletown-Beaumond Heights,4,4,0,4,2,0
+2014,NSA,Thorncliffe Park,1,1,0,1,0,0
+2014,NSA,Trinity-Bellwoods,4,4,1,3,1,2
+2014,NSA,University,2,2,0,2,1,1
+2014,NSA,Victoria Village,1,1,0,1,1,0
+2014,NSA,Wellington Place,4,4,0,5,2,0
+2014,NSA,West Hill,3,3,0,3,2,1
+2014,NSA,West Humber-Clairville,12,12,2,10,1,2
+2014,NSA,West Queen West,1,1,0,1,1,0
+2014,NSA,West Rouge,1,1,0,1,0,0
+2014,NSA,Westminster-Branson,3,3,0,3,0,0
+2014,NSA,Weston-Pelham Park,3,3,0,3,1,1
+2014,NSA,Wexford/Maryvale,11,11,2,9,6,1
+2014,NSA,Willowdale West,1,1,0,1,0,0
+2014,NSA,Willowridge-Martingrove-Richview,1,1,0,1,0,0
+2014,NSA,Woburn North,6,6,0,8,2,1
+2014,NSA,Woodbine Corridor,3,3,0,3,1,1
+2014,NSA,Woodbine-Lumsden,1,1,0,1,0,1
+2014,NSA,Wychwood,1,1,0,1,0,1
+2014,NSA,Yonge-Bay Corridor,4,4,0,4,1,2
+2014,NSA,Yonge-Doris,3,3,0,3,1,0
+2014,NSA,Yonge-St.Clair,1,1,1,0,1,0
+2014,NSA,York University Heights,4,4,0,4,1,1
+2014,NSA,Yorkdale-Glen Park,2,2,0,2,2,0
+2015,NSA,Agincourt North,7,7,1,7,2,1
+2015,NSA,Agincourt South-Malvern West,3,3,0,3,3,0
+2015,NSA,Alderwood,1,1,0,1,0,0
+2015,NSA,Annex,4,4,1,3,1,3
+2015,NSA,Avondale,1,1,0,1,1,0
+2015,NSA,Banbury-Don Mills,3,3,1,2,1,1
+2015,NSA,Bathurst Manor,2,2,1,2,0,0
+2015,NSA,Bayview Village,8,8,0,11,1,2
+2015,NSA,Bayview Woods-Steeles,1,1,0,2,0,0
+2015,NSA,Bedford Park-Nortown,4,4,1,3,3,0
+2015,NSA,Beechborough-Greenbrook,1,1,0,1,0,0
+2015,NSA,Bendale South,1,1,1,0,1,0
+2015,NSA,Bendale-Glen Andrew,2,2,1,3,0,0
+2015,NSA,Birchcliffe-Cliffside,2,2,0,2,0,2
+2015,NSA,Black Creek,1,1,0,1,0,0
+2015,NSA,Blake-Jones,2,2,0,2,2,0
+2015,NSA,Bridle Path-Sunnybrook-York Mills,1,1,1,0,0,0
+2015,NSA,Broadview North,1,1,0,1,0,0
+2015,NSA,Brookhaven-Amesbury,7,7,2,6,2,0
+2015,NSA,Cabbagetown-South St.James Town,6,6,1,7,1,3
+2015,NSA,Caledonia-Fairbank,1,1,1,0,1,0
+2015,NSA,Casa Loma,1,1,0,1,0,1
+2015,NSA,Centennial Scarborough,1,1,1,0,0,0
+2015,NSA,Church-Wellesley,1,1,0,1,0,1
+2015,NSA,Clairlea-Birchmount,5,5,1,4,2,0
+2015,NSA,Clanton Park,3,3,1,3,1,0
+2015,NSA,Cliffcrest,1,1,1,0,0,0
+2015,NSA,Danforth East York,4,4,1,3,1,0
+2015,NSA,Don Valley Village,3,3,0,3,2,0
+2015,NSA,Dorset Park,2,2,1,2,1,0
+2015,NSA,Dovercourt Village,1,1,0,2,1,0
+2015,NSA,Downsview,4,4,1,4,1,1
+2015,NSA,Downtown Yonge East,4,4,0,5,1,1
+2015,NSA,Dufferin Grove,1,1,1,0,1,0
+2015,NSA,East End-Danforth,2,2,0,2,1,0
+2015,NSA,East L'Amoreaux,4,4,0,4,1,0
+2015,NSA,East Willowdale,1,1,0,1,0,0
+2015,NSA,Edenbridge-Humber Valley,3,3,0,3,0,1
+2015,NSA,Eglinton East,2,2,1,1,2,0
+2015,NSA,Englemount-Lawrence,2,2,1,1,1,0
+2015,NSA,Etobicoke City Centre,6,6,1,6,3,1
+2015,NSA,Fenside-Parkwoods,1,1,0,1,1,0
+2015,NSA,Flemingdon Park,1,1,0,1,0,0
+2015,NSA,Forest Hill South,3,3,2,1,3,0
+2015,NSA,Fort York-Liberty Village,5,5,1,4,1,0
+2015,NSA,Glenfield-Jane Heights,3,3,1,2,2,1
+2015,NSA,Golfdale-Cedarbrae-Woburn,7,7,1,8,3,0
+2015,NSA,Greenwood-Coxwell,3,3,2,1,1,0
+2015,NSA,Harbourfront-CityPlace,1,1,0,1,0,1
+2015,NSA,Henry Farm,1,1,0,1,0,0
+2015,NSA,High Park North,2,2,0,2,1,1
+2015,NSA,High Park-Swansea,7,7,2,5,4,2
+2015,NSA,Hillcrest Village,1,1,0,1,0,0
+2015,NSA,Humber Bay Shores,2,2,1,1,1,1
+2015,NSA,Humber Heights-Westmount,1,1,0,1,0,0
+2015,NSA,Humber Summit,2,2,1,1,1,0
+2015,NSA,Humbermede,2,2,0,2,1,0
+2015,NSA,Humewood-Cedarvale,1,1,0,1,1,0
+2015,NSA,Islington,2,2,2,2,0,0
+2015,NSA,Junction Area,5,5,0,5,2,2
+2015,NSA,Junction-Wallace Emerson,4,4,0,4,2,1
+2015,NSA,Keelesdale-Eglinton West,4,4,1,3,3,0
+2015,NSA,Kennedy Park,5,5,1,5,3,0
+2015,NSA,Kensington-Chinatown,3,3,0,3,0,2
+2015,NSA,Kingsview Village-The Westway,1,1,0,1,0,0
+2015,NSA,Kingsway South,1,1,0,1,1,0
+2015,NSA,L'Amoreaux West,3,3,0,3,0,0
+2015,NSA,Lambton Baby Point,1,1,0,1,0,0
+2015,NSA,Lansing-Westgate,2,2,0,2,2,0
+2015,NSA,Lawrence Park South,2,2,1,1,1,1
+2015,NSA,Leaside-Bennington,2,2,0,2,0,0
+2015,NSA,Little Portugal,2,2,1,1,1,1
+2015,NSA,Long Branch,1,1,0,1,0,0
+2015,NSA,Malvern East,5,5,1,4,1,0
+2015,NSA,Malvern West,3,3,1,2,3,0
+2015,NSA,Maple Leaf,1,1,1,0,0,0
+2015,NSA,Milliken,5,5,1,4,2,0
+2015,NSA,Mimico-Queensway,3,3,1,2,1,0
+2015,NSA,Morningside Heights,3,3,1,3,1,0
+2015,NSA,Moss Park,6,6,2,5,3,2
+2015,NSA,Mount Olive-Silverstone-Jamestown,4,4,0,4,1,0
+2015,NSA,Mount Pleasant East,3,3,0,3,2,0
+2015,NSA,New Toronto,1,1,0,1,0,1
+2015,NSA,Newtonbrook East,3,3,1,2,1,0
+2015,NSA,Newtonbrook West,1,1,0,1,0,0
+2015,NSA,North Riverdale,4,4,2,2,2,0
+2015,NSA,North St.James Town,1,1,0,1,1,0
+2015,NSA,O'Connor-Parkview,1,1,0,1,1,0
+2015,NSA,Oakdale-Beverley Heights,3,3,1,2,0,0
+2015,NSA,Oakridge,2,2,0,2,0,0
+2015,NSA,Oakwood Village,2,2,0,2,1,1
+2015,NSA,Old East York,4,4,1,4,3,0
+2015,NSA,Palmerston-Little Italy,1,1,0,1,1,0
+2015,NSA,Parkwoods-O'Connor Hills,3,3,0,3,0,0
+2015,NSA,Pelmo Park-Humberlea,2,2,0,3,0,1
+2015,NSA,Pleasant View,3,3,0,3,2,1
+2015,NSA,Princess-Rosethorn,2,2,0,2,1,0
+2015,NSA,Regent Park,1,1,0,2,0,0
+2015,NSA,Rexdale-Kipling,1,1,0,1,0,0
+2015,NSA,Rockcliffe-Smythe,1,1,0,1,1,0
+2015,NSA,Roncesvalles,1,1,0,1,0,1
+2015,NSA,Rosedale-Moore Park,2,2,1,2,0,1
+2015,NSA,Runnymede-Bloor West Village,2,2,0,2,2,0
+2015,NSA,Rustic,1,1,0,1,0,0
+2015,NSA,Scarborough Village,3,3,1,2,1,0
+2015,NSA,South Eglinton-Davisville,1,1,0,1,1,0
+2015,NSA,South Parkdale,5,5,1,4,1,1
+2015,NSA,South Riverdale,6,6,1,5,3,1
+2015,NSA,St Lawrence-East Bayfront-The Islands,3,3,0,3,1,1
+2015,NSA,Steeles,1,1,0,1,0,0
+2015,NSA,Stonegate-Queensway,2,2,1,1,1,0
+2015,NSA,Tam O'Shanter-Sullivan,2,2,0,2,1,0
+2015,NSA,Taylor-Massey,1,1,0,1,1,0
+2015,NSA,The Beaches,1,1,0,1,0,0
+2015,NSA,Thistletown-Beaumond Heights,2,2,0,2,0,0
+2015,NSA,Trinity-Bellwoods,4,4,0,4,0,2
+2015,NSA,University,3,3,0,3,2,0
+2015,NSA,Victoria Village,2,2,0,2,2,0
+2015,NSA,Wellington Place,5,5,0,5,3,2
+2015,NSA,West Hill,1,1,0,1,0,0
+2015,NSA,West Humber-Clairville,5,5,1,5,1,1
+2015,NSA,West Queen West,4,4,0,4,2,1
+2015,NSA,West Rouge,1,1,0,1,1,0
+2015,NSA,Westminster-Branson,1,1,1,0,1,0
+2015,NSA,Weston,2,2,0,2,2,0
+2015,NSA,Wexford/Maryvale,7,7,0,10,5,0
+2015,NSA,Willowridge-Martingrove-Richview,4,4,2,2,1,0
+2015,NSA,Woburn North,4,4,0,4,2,1
+2015,NSA,Woodbine Corridor,2,2,0,2,1,1
+2015,NSA,Wychwood,1,1,1,0,1,0
+2015,NSA,Yonge-Bay Corridor,2,2,0,2,1,1
+2015,NSA,Yonge-Doris,2,2,1,3,1,0
+2015,NSA,Yonge-Eglinton,1,1,1,1,1,0
+2015,NSA,York University Heights,2,2,0,2,0,0
+2015,NSA,Yorkdale-Glen Park,4,4,0,4,3,0
+2016,NSA,Agincourt North,3,3,1,2,1,0
+2016,NSA,Agincourt South-Malvern West,4,4,1,3,1,1
+2016,NSA,Alderwood,1,1,0,1,1,0
+2016,NSA,Annex,3,3,0,3,2,0
+2016,NSA,Avondale,1,1,0,1,1,0
+2016,NSA,Banbury-Don Mills,6,6,1,6,4,0
+2016,NSA,Bathurst Manor,5,5,0,7,1,0
+2016,NSA,Bayview Village,3,3,0,3,3,0
+2016,NSA,Bayview Woods-Steeles,2,2,0,2,1,0
+2016,NSA,Bedford Park-Nortown,2,2,1,1,1,0
+2016,NSA,Beechborough-Greenbrook,1,1,0,1,0,0
+2016,NSA,Bendale South,4,4,2,4,3,0
+2016,NSA,Bendale-Glen Andrew,1,1,0,1,1,0
+2016,NSA,Birchcliffe-Cliffside,2,2,0,2,0,0
+2016,NSA,Black Creek,1,1,0,1,0,1
+2016,NSA,Briar Hill-Belgravia,1,1,0,1,0,0
+2016,NSA,Broadview North,2,2,0,2,1,0
+2016,NSA,Brookhaven-Amesbury,3,3,0,3,0,1
+2016,NSA,Cabbagetown-South St.James Town,4,4,1,4,1,2
+2016,NSA,Caledonia-Fairbank,2,2,1,1,2,0
+2016,NSA,Casa Loma,2,2,0,2,1,0
+2016,NSA,Centennial Scarborough,2,2,0,2,0,0
+2016,NSA,Church-Wellesley,1,1,0,2,0,0
+2016,NSA,Clairlea-Birchmount,6,6,2,4,4,0
+2016,NSA,Corso Italia-Davenport,1,1,0,1,1,0
+2016,NSA,Danforth East York,3,3,0,3,2,1
+2016,NSA,Don Valley Village,7,7,3,4,4,0
+2016,NSA,Dorset Park,3,3,1,2,2,0
+2016,NSA,Dovercourt Village,3,3,2,1,1,1
+2016,NSA,Downsview,2,2,0,2,1,0
+2016,NSA,Downtown Yonge East,4,4,0,4,3,0
+2016,NSA,Dufferin Grove,2,2,0,2,0,2
+2016,NSA,East L'Amoreaux,4,4,1,5,1,0
+2016,NSA,East Willowdale,1,1,0,1,1,0
+2016,NSA,Edenbridge-Humber Valley,1,1,1,1,0,0
+2016,NSA,Eglinton East,2,2,0,2,1,0
+2016,NSA,Englemount-Lawrence,1,1,0,1,0,0
+2016,NSA,Eringate-Centennial-West Deane,3,3,0,3,2,0
+2016,NSA,Etobicoke City Centre,10,10,2,11,4,2
+2016,NSA,Fenside-Parkwoods,2,2,0,2,0,1
+2016,NSA,Forest Hill North,1,1,1,0,0,0
+2016,NSA,Forest Hill South,1,1,0,1,1,0
+2016,NSA,Fort York-Liberty Village,5,5,0,5,0,0
+2016,NSA,Glenfield-Jane Heights,5,5,3,6,1,0
+2016,NSA,Golfdale-Cedarbrae-Woburn,8,8,0,9,4,1
+2016,NSA,Greenwood-Coxwell,1,1,0,1,1,0
+2016,NSA,Guildwood,3,3,1,2,1,0
+2016,NSA,Harbourfront-CityPlace,5,5,1,4,3,0
+2016,NSA,Henry Farm,3,3,0,3,2,0
+2016,NSA,High Park-Swansea,1,1,0,1,1,0
+2016,NSA,Hillcrest Village,1,1,0,1,1,0
+2016,NSA,Humber Bay Shores,1,1,0,1,1,0
+2016,NSA,Humber Summit,2,2,1,1,1,0
+2016,NSA,Humbermede,2,2,0,2,1,1
+2016,NSA,Humewood-Cedarvale,2,2,1,1,2,0
+2016,NSA,Islington,4,4,0,4,2,1
+2016,NSA,Junction Area,4,4,1,4,1,0
+2016,NSA,Keelesdale-Eglinton West,4,4,2,2,1,1
+2016,NSA,Kennedy Park,8,8,4,4,5,1
+2016,NSA,Kensington-Chinatown,1,1,0,1,0,1
+2016,NSA,Kingsview Village-The Westway,3,3,0,4,2,0
+2016,NSA,L'Amoreaux West,2,2,1,1,1,0
+2016,NSA,Lansing-Westgate,2,2,1,1,2,0
+2016,NSA,Lawrence Park South,2,2,0,2,0,0
+2016,NSA,Leaside-Bennington,6,6,2,4,3,0
+2016,NSA,Little Portugal,5,5,0,5,2,2
+2016,NSA,Long Branch,4,4,1,3,1,0
+2016,NSA,Malvern East,3,3,0,4,2,0
+2016,NSA,Malvern West,3,3,0,3,0,1
+2016,NSA,Markland Wood,1,1,0,1,1,0
+2016,NSA,Milliken,4,4,1,3,1,1
+2016,NSA,Mimico-Queensway,3,3,0,3,2,0
+2016,NSA,Morningside,2,2,0,2,0,0
+2016,NSA,Morningside Heights,5,5,1,4,1,0
+2016,NSA,Moss Park,11,11,3,9,6,3
+2016,NSA,Mount Olive-Silverstone-Jamestown,1,1,0,1,1,0
+2016,NSA,Mount Pleasant East,1,1,0,1,1,0
+2016,NSA,NSA,1,1,0,1,0,0
+2016,NSA,New Toronto,3,3,2,1,0,0
+2016,NSA,Newtonbrook East,3,3,2,1,1,0
+2016,NSA,Newtonbrook West,1,1,0,1,0,0
+2016,NSA,North Riverdale,2,2,0,2,0,0
+2016,NSA,O'Connor-Parkview,1,1,0,1,0,0
+2016,NSA,Oakdale-Beverley Heights,4,4,1,3,1,1
+2016,NSA,Oakridge,2,2,0,2,1,0
+2016,NSA,Oakwood Village,4,4,0,4,2,0
+2016,NSA,Old East York,1,1,0,1,0,0
+2016,NSA,Parkwoods-O'Connor Hills,1,1,1,0,1,0
+2016,NSA,Pelmo Park-Humberlea,1,1,0,1,0,0
+2016,NSA,Pleasant View,2,2,0,2,0,0
+2016,NSA,Regent Park,2,2,1,1,1,1
+2016,NSA,Rexdale-Kipling,2,2,1,1,2,0
+2016,NSA,Rockcliffe-Smythe,2,2,0,2,0,1
+2016,NSA,Roncesvalles,2,2,1,1,2,0
+2016,NSA,Rosedale-Moore Park,2,2,1,1,1,0
+2016,NSA,Runnymede-Bloor West Village,2,2,1,2,1,0
+2016,NSA,Rustic,3,3,0,3,0,0
+2016,NSA,Scarborough Village,4,4,1,3,4,0
+2016,NSA,South Eglinton-Davisville,2,2,0,2,1,0
+2016,NSA,South Parkdale,7,7,1,6,3,1
+2016,NSA,South Riverdale,3,3,1,2,1,0
+2016,NSA,St Lawrence-East Bayfront-The Islands,7,7,2,6,1,1
+2016,NSA,St.Andrew-Windfields,1,1,0,1,0,0
+2016,NSA,Steeles,4,4,1,3,3,0
+2016,NSA,Stonegate-Queensway,6,6,1,7,2,0
+2016,NSA,Tam O'Shanter-Sullivan,3,3,2,1,2,1
+2016,NSA,Taylor-Massey,1,1,1,0,1,0
+2016,NSA,The Beaches,1,1,1,0,1,0
+2016,NSA,Thistletown-Beaumond Heights,1,1,1,0,1,0
+2016,NSA,Thorncliffe Park,2,2,0,2,1,0
+2016,NSA,Trinity-Bellwoods,4,4,1,3,2,1
+2016,NSA,University,3,3,0,3,1,2
+2016,NSA,Victoria Village,4,4,0,4,1,0
+2016,NSA,Wellington Place,3,3,0,3,0,2
+2016,NSA,West Hill,1,1,0,1,0,0
+2016,NSA,West Humber-Clairville,14,14,2,12,3,0
+2016,NSA,West Queen West,2,2,0,2,1,0
+2016,NSA,West Rouge,2,2,0,2,1,0
+2016,NSA,Weston,2,2,0,2,1,0
+2016,NSA,Weston-Pelham Park,1,1,0,1,1,0
+2016,NSA,Wexford/Maryvale,5,5,0,5,2,1
+2016,NSA,Willowdale West,2,2,1,1,2,0
+2016,NSA,Willowridge-Martingrove-Richview,2,2,0,3,1,0
+2016,NSA,Woodbine Corridor,1,1,0,1,1,0
+2016,NSA,Woodbine-Lumsden,1,1,1,0,1,0
+2016,NSA,Wychwood,5,5,2,3,3,1
+2016,NSA,Yonge-Bay Corridor,7,7,0,9,3,1
+2016,NSA,Yonge-Eglinton,2,2,0,2,1,1
+2016,NSA,Yonge-St.Clair,1,1,0,1,0,1
+2016,NSA,York University Heights,7,7,3,4,4,0
+2016,NSA,Yorkdale-Glen Park,3,3,0,3,1,0
+2017,NSA,Agincourt North,3,3,0,3,0,1
+2017,NSA,Agincourt South-Malvern West,4,4,1,4,2,0
+2017,NSA,Alderwood,2,2,0,4,0,0
+2017,NSA,Annex,3,3,0,3,2,1
+2017,NSA,Avondale,2,2,0,2,0,1
+2017,NSA,Banbury-Don Mills,4,4,1,3,2,0
+2017,NSA,Bathurst Manor,4,4,1,3,3,0
+2017,NSA,Bay-Cloverhill,2,2,0,2,0,1
+2017,NSA,Bayview Village,3,3,1,3,3,0
+2017,NSA,Bayview Woods-Steeles,2,2,1,2,1,0
+2017,NSA,Bedford Park-Nortown,2,2,0,2,0,0
+2017,NSA,Beechborough-Greenbrook,2,2,0,2,0,1
+2017,NSA,Bendale South,1,1,0,1,1,0
+2017,NSA,Bendale-Glen Andrew,2,2,0,3,1,0
+2017,NSA,Birchcliffe-Cliffside,3,3,3,0,2,0
+2017,NSA,Black Creek,4,4,0,4,1,0
+2017,NSA,Blake-Jones,1,1,0,1,0,1
+2017,NSA,Briar Hill-Belgravia,3,3,0,3,1,1
+2017,NSA,Bridle Path-Sunnybrook-York Mills,3,3,1,2,0,1
+2017,NSA,Broadview North,3,3,1,2,3,0
+2017,NSA,Brookhaven-Amesbury,1,1,0,1,0,0
+2017,NSA,Cabbagetown-South St.James Town,1,1,0,1,1,0
+2017,NSA,Caledonia-Fairbank,3,3,0,3,1,0
+2017,NSA,Casa Loma,5,5,0,6,3,0
+2017,NSA,Centennial Scarborough,1,1,0,1,0,0
+2017,NSA,Church-Wellesley,1,1,0,1,1,0
+2017,NSA,Clairlea-Birchmount,8,8,1,7,4,0
+2017,NSA,Clanton Park,5,5,2,3,1,1
+2017,NSA,Cliffcrest,1,1,1,0,0,0
+2017,NSA,Corso Italia-Davenport,1,1,0,1,0,1
+2017,NSA,Danforth East York,2,2,0,2,1,1
+2017,NSA,Don Valley Village,2,2,1,2,1,0
+2017,NSA,Dorset Park,4,4,2,2,3,0
+2017,NSA,Dovercourt Village,2,2,0,2,0,0
+2017,NSA,Downsview,1,1,0,1,1,0
+2017,NSA,Downtown Yonge East,4,4,0,4,1,1
+2017,NSA,Dufferin Grove,2,2,0,2,2,0
+2017,NSA,East End-Danforth,3,3,0,3,0,3
+2017,NSA,East L'Amoreaux,1,1,0,1,1,0
+2017,NSA,East Willowdale,1,1,0,1,0,1
+2017,NSA,Edenbridge-Humber Valley,1,1,0,1,0,0
+2017,NSA,Eglinton East,4,4,1,3,0,0
+2017,NSA,Englemount-Lawrence,1,1,0,1,1,0
+2017,NSA,Etobicoke City Centre,8,8,1,7,4,1
+2017,NSA,Etobicoke West Mall,3,3,0,4,1,0
+2017,NSA,Flemingdon Park,1,1,0,1,0,0
+2017,NSA,Forest Hill North,1,1,0,1,1,0
+2017,NSA,Forest Hill South,2,2,0,2,1,0
+2017,NSA,Fort York-Liberty Village,1,1,0,1,0,1
+2017,NSA,Glenfield-Jane Heights,5,5,1,4,1,0
+2017,NSA,Golfdale-Cedarbrae-Woburn,3,3,1,2,1,0
+2017,NSA,Greenwood-Coxwell,1,1,0,1,1,0
+2017,NSA,Guildwood,1,1,1,0,0,0
+2017,NSA,Harbourfront-CityPlace,4,4,1,3,4,0
+2017,NSA,Henry Farm,2,2,0,2,1,0
+2017,NSA,High Park-Swansea,3,3,2,1,1,0
+2017,NSA,Highland Creek,3,3,1,2,2,1
+2017,NSA,Hillcrest Village,2,2,0,2,0,0
+2017,NSA,Humber Heights-Westmount,1,1,0,1,1,0
+2017,NSA,Humber Summit,4,4,0,5,1,0
+2017,NSA,Humbermede,6,6,1,6,3,0
+2017,NSA,Humewood-Cedarvale,1,1,0,1,1,0
+2017,NSA,Islington,4,4,0,4,1,0
+2017,NSA,Junction Area,4,4,0,4,3,0
+2017,NSA,Junction-Wallace Emerson,2,2,0,2,0,0
+2017,NSA,Keelesdale-Eglinton West,1,1,0,1,0,0
+2017,NSA,Kennedy Park,8,8,1,9,4,1
+2017,NSA,Kensington-Chinatown,9,9,1,8,5,3
+2017,NSA,Kingsview Village-The Westway,1,1,0,1,0,0
+2017,NSA,L'Amoreaux West,3,3,0,3,3,0
+2017,NSA,Lambton Baby Point,1,1,0,1,0,0
+2017,NSA,Lansing-Westgate,3,3,0,3,0,1
+2017,NSA,Lawrence Park North,1,1,1,0,1,0
+2017,NSA,Leaside-Bennington,2,2,0,2,0,1
+2017,NSA,Little Portugal,6,6,1,5,4,1
+2017,NSA,Long Branch,2,2,1,1,0,0
+2017,NSA,Malvern East,4,4,1,3,1,0
+2017,NSA,Malvern West,4,4,0,5,2,0
+2017,NSA,Milliken,7,7,2,5,5,0
+2017,NSA,Mimico-Queensway,1,1,1,0,0,0
+2017,NSA,Morningside Heights,7,7,2,5,2,0
+2017,NSA,Moss Park,7,7,2,6,5,0
+2017,NSA,Mount Dennis,1,1,1,0,1,0
+2017,NSA,Mount Olive-Silverstone-Jamestown,4,4,0,4,2,0
+2017,NSA,Mount Pleasant East,3,3,0,3,1,1
+2017,NSA,New Toronto,1,1,0,1,1,0
+2017,NSA,Newtonbrook East,5,5,0,6,2,1
+2017,NSA,Newtonbrook West,2,2,0,2,1,0
+2017,NSA,North Riverdale,2,2,0,2,1,1
+2017,NSA,North St.James Town,1,1,1,0,1,0
+2017,NSA,North Toronto,2,2,0,3,1,0
+2017,NSA,Oakdale-Beverley Heights,1,1,0,1,0,0
+2017,NSA,Oakwood Village,2,2,0,2,1,0
+2017,NSA,Old East York,1,1,0,1,1,0
+2017,NSA,Palmerston-Little Italy,1,1,0,1,0,0
+2017,NSA,Parkwoods-O'Connor Hills,1,1,0,1,1,0
+2017,NSA,Playter Estates-Danforth,1,1,0,1,0,0
+2017,NSA,Princess-Rosethorn,1,1,0,1,0,0
+2017,NSA,Regent Park,1,1,0,1,1,0
+2017,NSA,Rexdale-Kipling,2,2,0,2,0,1
+2017,NSA,Rockcliffe-Smythe,6,6,1,6,2,1
+2017,NSA,Roncesvalles,1,1,0,1,1,0
+2017,NSA,Rosedale-Moore Park,3,3,2,1,1,0
+2017,NSA,Scarborough Village,1,1,0,1,1,0
+2017,NSA,South Eglinton-Davisville,2,2,0,2,2,0
+2017,NSA,South Parkdale,8,8,3,5,2,3
+2017,NSA,South Riverdale,8,8,0,9,2,2
+2017,NSA,St Lawrence-East Bayfront-The Islands,6,6,2,4,3,1
+2017,NSA,St.Andrew-Windfields,2,2,0,2,1,0
+2017,NSA,Steeles,4,4,0,4,1,2
+2017,NSA,Tam O'Shanter-Sullivan,3,3,1,2,2,0
+2017,NSA,The Beaches,1,1,0,1,0,1
+2017,NSA,Thistletown-Beaumond Heights,2,2,0,2,0,1
+2017,NSA,Thorncliffe Park,1,1,0,1,0,1
+2017,NSA,Trinity-Bellwoods,1,1,1,0,0,1
+2017,NSA,University,6,6,0,6,1,5
+2017,NSA,Victoria Village,2,2,0,2,0,1
+2017,NSA,Wellington Place,3,3,0,3,1,0
+2017,NSA,West Hill,1,1,0,1,1,0
+2017,NSA,West Humber-Clairville,13,13,2,12,1,1
+2017,NSA,West Queen West,3,3,0,3,2,1
+2017,NSA,West Rouge,1,1,0,1,0,0
+2017,NSA,Weston,3,3,0,3,2,0
+2017,NSA,Wexford/Maryvale,8,8,5,4,6,0
+2017,NSA,Willowdale West,1,1,0,2,0,0
+2017,NSA,Willowridge-Martingrove-Richview,2,2,0,2,0,0
+2017,NSA,Woburn North,7,7,0,7,4,0
+2017,NSA,Woodbine Corridor,1,1,0,1,0,1
+2017,NSA,Wychwood,2,2,0,2,0,1
+2017,NSA,Yonge-Bay Corridor,6,6,1,5,4,1
+2017,NSA,Yonge-Doris,3,3,0,3,3,0
+2017,NSA,Yonge-Eglinton,3,3,1,2,1,0
+2017,NSA,Yonge-St.Clair,1,1,0,1,0,1
+2017,NSA,York University Heights,4,4,2,3,2,0
+2017,NSA,Yorkdale-Glen Park,4,4,0,4,2,0
+2018,NSA,Agincourt North,2,2,1,1,1,1
+2018,NSA,Agincourt South-Malvern West,1,1,0,1,1,0
+2018,NSA,Alderwood,2,2,0,2,1,0
+2018,NSA,Annex,3,3,1,3,2,1
+2018,NSA,Avondale,5,5,1,4,3,0
+2018,NSA,Banbury-Don Mills,6,6,1,5,2,0
+2018,NSA,Bathurst Manor,1,1,0,1,1,0
+2018,NSA,Bay-Cloverhill,2,2,0,2,1,0
+2018,NSA,Bayview Village,1,1,0,1,0,0
+2018,NSA,Bayview Woods-Steeles,2,2,1,1,1,0
+2018,NSA,Bedford Park-Nortown,3,3,1,2,2,0
+2018,NSA,Beechborough-Greenbrook,1,1,0,1,0,0
+2018,NSA,Bendale South,2,2,0,3,1,0
+2018,NSA,Bendale-Glen Andrew,5,5,1,4,3,0
+2018,NSA,Birchcliffe-Cliffside,5,5,1,4,2,0
+2018,NSA,Black Creek,2,2,0,3,1,0
+2018,NSA,Blake-Jones,2,2,0,3,0,1
+2018,NSA,Briar Hill-Belgravia,3,3,2,1,3,0
+2018,NSA,Bridle Path-Sunnybrook-York Mills,3,3,0,4,1,0
+2018,NSA,Broadview North,1,1,0,1,1,0
+2018,NSA,Brookhaven-Amesbury,3,3,0,3,2,0
+2018,NSA,Cabbagetown-South St.James Town,1,1,0,1,1,0
+2018,NSA,Caledonia-Fairbank,2,2,0,3,0,1
+2018,NSA,Centennial Scarborough,4,4,1,3,1,0
+2018,NSA,Church-Wellesley,1,1,0,1,0,0
+2018,NSA,Clairlea-Birchmount,7,7,2,6,3,1
+2018,NSA,Clanton Park,1,1,1,3,0,0
+2018,NSA,Cliffcrest,1,1,1,0,1,0
+2018,NSA,Corso Italia-Davenport,3,3,0,3,3,0
+2018,NSA,Danforth East York,1,1,0,1,0,0
+2018,NSA,Don Valley Village,4,4,0,4,2,0
+2018,NSA,Dorset Park,4,4,1,3,3,0
+2018,NSA,Dovercourt Village,3,3,1,2,3,0
+2018,NSA,Downsview,6,6,1,5,2,1
+2018,NSA,Downtown Yonge East,5,5,0,5,4,1
+2018,NSA,Dufferin Grove,2,2,0,2,1,0
+2018,NSA,East End-Danforth,4,4,0,5,3,1
+2018,NSA,East L'Amoreaux,1,1,1,0,1,0
+2018,NSA,East Willowdale,2,2,0,2,1,0
+2018,NSA,Edenbridge-Humber Valley,7,7,1,6,4,0
+2018,NSA,Eglinton East,1,1,1,0,1,0
+2018,NSA,Englemount-Lawrence,1,1,0,1,1,0
+2018,NSA,Eringate-Centennial-West Deane,3,3,0,3,0,1
+2018,NSA,Etobicoke City Centre,2,2,2,0,1,0
+2018,NSA,Etobicoke West Mall,1,1,0,1,0,0
+2018,NSA,Forest Hill North,2,2,0,2,2,0
+2018,NSA,Forest Hill South,2,2,1,1,1,0
+2018,NSA,Fort York-Liberty Village,2,2,1,1,1,0
+2018,NSA,Glenfield-Jane Heights,4,4,0,4,4,0
+2018,NSA,Golfdale-Cedarbrae-Woburn,5,5,1,5,2,0
+2018,NSA,Greenwood-Coxwell,2,2,0,2,1,1
+2018,NSA,Harbourfront-CityPlace,4,4,0,4,3,0
+2018,NSA,Henry Farm,3,3,0,3,3,0
+2018,NSA,High Park North,2,2,0,2,1,1
+2018,NSA,High Park-Swansea,6,6,2,5,3,1
+2018,NSA,Hillcrest Village,1,1,0,1,0,0
+2018,NSA,Humber Heights-Westmount,3,3,1,2,1,0
+2018,NSA,Humber Summit,3,3,0,3,2,0
+2018,NSA,Humbermede,4,4,2,2,1,0
+2018,NSA,Humewood-Cedarvale,1,1,0,1,0,0
+2018,NSA,Ionview,2,2,1,1,2,0
+2018,NSA,Islington,1,1,0,1,0,0
+2018,NSA,Junction Area,4,4,0,4,3,0
+2018,NSA,Junction-Wallace Emerson,4,4,0,4,0,1
+2018,NSA,Keelesdale-Eglinton West,4,4,1,3,1,1
+2018,NSA,Kennedy Park,1,1,0,3,0,0
+2018,NSA,Kensington-Chinatown,7,7,1,6,5,1
+2018,NSA,Kingsview Village-The Westway,1,1,0,1,0,0
+2018,NSA,L'Amoreaux West,3,3,0,3,3,0
+2018,NSA,Lansing-Westgate,1,1,0,1,1,0
+2018,NSA,Lawrence Park North,1,1,0,1,1,0
+2018,NSA,Lawrence Park South,2,2,1,1,1,0
+2018,NSA,Leaside-Bennington,2,2,1,1,0,1
+2018,NSA,Little Portugal,1,1,0,1,0,0
+2018,NSA,Long Branch,1,1,1,0,1,0
+2018,NSA,Malvern East,5,5,1,6,2,0
+2018,NSA,Malvern West,5,5,0,5,1,0
+2018,NSA,Milliken,7,7,0,7,4,3
+2018,NSA,Mimico-Queensway,6,6,1,5,2,1
+2018,NSA,Morningside,2,2,1,1,1,0
+2018,NSA,Morningside Heights,6,6,1,5,2,0
+2018,NSA,Moss Park,9,9,1,8,6,1
+2018,NSA,Mount Dennis,4,4,0,4,1,0
+2018,NSA,Mount Olive-Silverstone-Jamestown,6,6,2,4,3,0
+2018,NSA,New Toronto,3,3,2,1,2,0
+2018,NSA,Newtonbrook East,4,4,0,5,1,0
+2018,NSA,Newtonbrook West,4,4,0,4,1,0
+2018,NSA,North Riverdale,1,1,0,1,0,0
+2018,NSA,North Toronto,1,1,0,1,1,0
+2018,NSA,Oakdale-Beverley Heights,6,6,2,4,2,0
+2018,NSA,Oakridge,1,1,0,1,1,0
+2018,NSA,Oakwood Village,3,3,1,2,2,0
+2018,NSA,Old East York,2,2,0,3,1,0
+2018,NSA,Palmerston-Little Italy,2,2,0,2,0,1
+2018,NSA,Pelmo Park-Humberlea,2,2,0,2,0,0
+2018,NSA,Pleasant View,1,1,0,1,1,0
+2018,NSA,Princess-Rosethorn,1,1,0,2,0,0
+2018,NSA,Regent Park,1,1,0,1,0,1
+2018,NSA,Roncesvalles,2,2,0,2,1,0
+2018,NSA,Rosedale-Moore Park,4,4,1,3,0,0
+2018,NSA,Runnymede-Bloor West Village,2,2,0,2,2,0
+2018,NSA,Rustic,1,1,0,1,0,0
+2018,NSA,Scarborough Village,1,1,0,1,0,0
+2018,NSA,South Eglinton-Davisville,1,1,0,1,1,0
+2018,NSA,South Parkdale,5,5,1,4,2,1
+2018,NSA,South Riverdale,9,9,2,7,4,4
+2018,NSA,St Lawrence-East Bayfront-The Islands,3,3,0,3,1,1
+2018,NSA,Steeles,7,7,3,4,3,1
+2018,NSA,Stonegate-Queensway,4,4,0,4,2,0
+2018,NSA,Tam O'Shanter-Sullivan,6,6,1,5,4,1
+2018,NSA,The Beaches,3,3,0,3,1,0
+2018,NSA,Thistletown-Beaumond Heights,1,1,0,1,0,0
+2018,NSA,Thorncliffe Park,1,1,0,1,0,1
+2018,NSA,Trinity-Bellwoods,3,3,0,3,2,0
+2018,NSA,University,3,3,1,2,1,1
+2018,NSA,Victoria Village,2,2,0,2,0,0
+2018,NSA,Wellington Place,3,3,0,3,2,0
+2018,NSA,West Hill,5,5,0,6,4,0
+2018,NSA,West Humber-Clairville,14,14,2,13,7,0
+2018,NSA,West Queen West,4,4,0,4,3,1
+2018,NSA,West Rouge,1,1,0,1,0,0
+2018,NSA,Westminster-Branson,4,4,0,4,1,1
+2018,NSA,Weston,6,6,0,7,3,1
+2018,NSA,Weston-Pelham Park,2,2,0,2,1,1
+2018,NSA,Wexford/Maryvale,2,2,1,2,1,0
+2018,NSA,Willowdale West,1,1,1,0,1,0
+2018,NSA,Willowridge-Martingrove-Richview,2,2,0,2,0,1
+2018,NSA,Woburn North,4,4,1,4,1,0
+2018,NSA,Woodbine Corridor,4,4,0,4,2,0
+2018,NSA,Wychwood,5,5,0,5,3,2
+2018,NSA,Yonge-Bay Corridor,7,7,1,6,5,1
+2018,NSA,Yonge-Doris,1,1,1,0,0,0
+2018,NSA,Yonge-Eglinton,2,2,0,2,0,0
+2018,NSA,Yonge-St.Clair,1,1,0,1,0,0
+2018,NSA,York University Heights,7,7,0,8,4,2
+2018,NSA,Yorkdale-Glen Park,6,6,1,5,4,1
+2019,NSA,Agincourt North,6,6,2,4,2,1
+2019,NSA,Agincourt South-Malvern West,2,2,1,2,2,0
+2019,NSA,Alderwood,2,2,0,3,0,0
+2019,NSA,Annex,3,3,0,3,1,1
+2019,NSA,Banbury-Don Mills,4,4,1,3,0,1
+2019,NSA,Bathurst Manor,3,3,0,3,1,0
+2019,NSA,Bay-Cloverhill,3,3,0,3,0,2
+2019,NSA,Bayview Woods-Steeles,3,3,2,1,2,0
+2019,NSA,Bedford Park-Nortown,1,1,0,1,0,0
+2019,NSA,Beechborough-Greenbrook,1,1,0,1,1,0
+2019,NSA,Bendale South,2,2,1,1,1,0
+2019,NSA,Bendale-Glen Andrew,2,2,1,1,1,0
+2019,NSA,Birchcliffe-Cliffside,5,5,0,7,2,1
+2019,NSA,Black Creek,2,2,1,2,2,0
+2019,NSA,Blake-Jones,2,2,0,2,1,0
+2019,NSA,Bridle Path-Sunnybrook-York Mills,1,1,1,0,0,0
+2019,NSA,Brookhaven-Amesbury,5,5,1,5,2,0
+2019,NSA,Cabbagetown-South St.James Town,1,1,0,1,0,0
+2019,NSA,Caledonia-Fairbank,2,2,1,1,2,0
+2019,NSA,Casa Loma,2,2,0,2,1,0
+2019,NSA,Centennial Scarborough,3,3,0,3,2,0
+2019,NSA,Church-Wellesley,1,1,0,1,1,0
+2019,NSA,Clairlea-Birchmount,7,7,1,6,5,0
+2019,NSA,Clanton Park,2,2,1,1,0,0
+2019,NSA,Cliffcrest,4,3,0,4,2,0
+2019,NSA,Corso Italia-Davenport,3,3,0,3,3,0
+2019,NSA,Don Valley Village,3,3,0,3,2,1
+2019,NSA,Dorset Park,5,5,0,5,2,0
+2019,NSA,Downsview,4,4,1,4,1,0
+2019,NSA,Downtown Yonge East,3,3,1,2,3,0
+2019,NSA,East End-Danforth,1,1,0,2,0,0
+2019,NSA,East L'Amoreaux,2,2,0,2,1,0
+2019,NSA,Edenbridge-Humber Valley,2,2,0,2,0,0
+2019,NSA,Eglinton East,3,3,0,3,0,0
+2019,NSA,Englemount-Lawrence,2,2,0,2,1,0
+2019,NSA,Eringate-Centennial-West Deane,1,1,0,1,0,0
+2019,NSA,Etobicoke City Centre,5,5,1,5,2,1
+2019,NSA,Etobicoke West Mall,4,4,0,4,1,0
+2019,NSA,Flemingdon Park,3,3,1,2,1,1
+2019,NSA,Forest Hill South,1,1,0,1,1,0
+2019,NSA,Fort York-Liberty Village,3,3,0,3,1,1
+2019,NSA,Glenfield-Jane Heights,4,4,0,4,2,0
+2019,NSA,Golfdale-Cedarbrae-Woburn,2,2,2,0,1,0
+2019,NSA,Harbourfront-CityPlace,5,5,0,5,1,2
+2019,NSA,Henry Farm,2,2,1,1,1,0
+2019,NSA,High Park-Swansea,6,6,0,7,3,1
+2019,NSA,Highland Creek,2,2,0,2,1,0
+2019,NSA,Hillcrest Village,4,4,1,3,3,0
+2019,NSA,Humber Bay Shores,1,1,0,1,0,0
+2019,NSA,Humber Heights-Westmount,1,1,0,1,0,1
+2019,NSA,Humber Summit,3,3,2,1,2,0
+2019,NSA,Humbermede,2,2,1,1,2,0
+2019,NSA,Humewood-Cedarvale,1,1,0,1,0,0
+2019,NSA,Islington,1,1,0,1,1,0
+2019,NSA,Junction Area,3,3,0,3,0,3
+2019,NSA,Junction-Wallace Emerson,3,3,0,3,1,0
+2019,NSA,Keelesdale-Eglinton West,1,1,0,1,0,0
+2019,NSA,Kennedy Park,2,2,0,2,0,1
+2019,NSA,Kensington-Chinatown,4,4,0,4,4,0
+2019,NSA,Kingsview Village-The Westway,1,1,1,0,1,0
+2019,NSA,Kingsway South,3,3,1,2,0,0
+2019,NSA,L'Amoreaux West,2,2,1,1,1,0
+2019,NSA,Lansing-Westgate,4,4,1,4,1,0
+2019,NSA,Lawrence Park South,1,1,1,0,1,0
+2019,NSA,Leaside-Bennington,2,2,1,1,1,0
+2019,NSA,Little Portugal,2,2,0,2,1,1
+2019,NSA,Long Branch,1,1,0,1,0,1
+2019,NSA,Malvern East,5,5,0,5,5,0
+2019,NSA,Malvern West,1,1,0,1,1,0
+2019,NSA,Markland Wood,1,1,0,1,0,0
+2019,NSA,Milliken,8,8,2,8,5,0
+2019,NSA,Mimico-Queensway,2,2,0,3,0,1
+2019,NSA,Morningside,1,1,0,1,0,0
+2019,NSA,Morningside Heights,5,5,0,7,2,0
+2019,NSA,Moss Park,7,7,0,7,2,4
+2019,NSA,Mount Dennis,2,2,0,2,2,0
+2019,NSA,Mount Olive-Silverstone-Jamestown,1,1,0,1,0,1
+2019,NSA,Mount Pleasant East,1,1,0,1,0,0
+2019,NSA,New Toronto,2,2,0,2,2,0
+2019,NSA,Newtonbrook East,3,3,0,3,1,1
+2019,NSA,Newtonbrook West,1,1,0,1,1,0
+2019,NSA,North Riverdale,3,3,0,3,1,0
+2019,NSA,North St.James Town,1,1,1,0,1,0
+2019,NSA,North Toronto,1,1,1,0,1,0
+2019,NSA,O'Connor-Parkview,3,3,1,2,1,0
+2019,NSA,Oakdale-Beverley Heights,3,3,0,3,0,1
+2019,NSA,Oakridge,4,4,1,3,2,0
+2019,NSA,Oakwood Village,3,3,1,2,2,0
+2019,NSA,Old East York,1,1,0,1,1,0
+2019,NSA,Palmerston-Little Italy,2,2,0,2,1,0
+2019,NSA,Pleasant View,1,1,0,1,1,0
+2019,NSA,Princess-Rosethorn,2,2,0,2,0,1
+2019,NSA,Regent Park,2,2,1,1,1,0
+2019,NSA,Rockcliffe-Smythe,4,4,1,4,2,0
+2019,NSA,Rosedale-Moore Park,2,2,0,2,2,0
+2019,NSA,South Parkdale,7,7,1,6,4,1
+2019,NSA,South Riverdale,7,7,0,8,3,2
+2019,NSA,St Lawrence-East Bayfront-The Islands,5,5,0,5,2,0
+2019,NSA,St.Andrew-Windfields,1,1,0,1,0,0
+2019,NSA,Steeles,3,3,2,2,2,0
+2019,NSA,Stonegate-Queensway,5,5,1,4,1,1
+2019,NSA,Tam O'Shanter-Sullivan,5,5,1,4,3,1
+2019,NSA,Taylor-Massey,1,1,0,1,0,0
+2019,NSA,The Beaches,1,1,0,1,0,0
+2019,NSA,Thistletown-Beaumond Heights,2,2,1,1,0,0
+2019,NSA,Thorncliffe Park,2,2,0,2,1,0
+2019,NSA,Trinity-Bellwoods,1,1,0,1,0,1
+2019,NSA,University,1,1,1,0,1,0
+2019,NSA,Victoria Village,3,3,1,2,0,1
+2019,NSA,Wellington Place,5,5,0,5,3,2
+2019,NSA,West Hill,2,2,1,1,2,0
+2019,NSA,West Humber-Clairville,8,8,3,6,3,0
+2019,NSA,West Queen West,2,2,0,2,1,1
+2019,NSA,West Rouge,2,2,1,1,0,0
+2019,NSA,Weston-Pelham Park,4,4,0,4,3,0
+2019,NSA,Wexford/Maryvale,16,16,3,16,5,0
+2019,NSA,Willowridge-Martingrove-Richview,1,1,0,1,0,0
+2019,NSA,Woburn North,3,3,2,3,2,0
+2019,NSA,Woodbine Corridor,2,2,0,2,1,1
+2019,NSA,Woodbine-Lumsden,1,1,0,1,0,0
+2019,NSA,Wychwood,4,4,1,3,2,2
+2019,NSA,Yonge-Bay Corridor,17,17,1,18,12,3
+2019,NSA,Yonge-Doris,1,1,1,0,1,0
+2019,NSA,York University Heights,2,2,1,1,2,0
+2019,NSA,Yorkdale-Glen Park,4,4,2,2,1,1
+2020,NSA,Agincourt North,2,1,0,5,1,0
+2020,NSA,Agincourt South-Malvern West,4,4,1,3,2,0
+2020,NSA,Alderwood,1,1,0,1,0,0
+2020,NSA,Annex,1,1,1,0,1,0
+2020,NSA,Avondale,1,1,0,1,0,0
+2020,NSA,Banbury-Don Mills,4,4,1,3,1,0
+2020,NSA,Bathurst Manor,3,3,0,3,3,0
+2020,NSA,Bay-Cloverhill,2,2,0,2,1,0
+2020,NSA,Bayview Village,2,2,1,1,1,0
+2020,NSA,Bedford Park-Nortown,4,4,1,3,3,0
+2020,NSA,Bendale South,1,1,0,1,1,0
+2020,NSA,Bendale-Glen Andrew,1,1,0,1,0,0
+2020,NSA,Birchcliffe-Cliffside,4,4,1,3,3,1
+2020,NSA,Black Creek,2,2,0,2,2,0
+2020,NSA,Blake-Jones,2,2,0,2,2,0
+2020,NSA,Briar Hill-Belgravia,1,1,0,1,1,0
+2020,NSA,Broadview North,3,3,0,3,0,0
+2020,NSA,Brookhaven-Amesbury,3,3,0,3,1,0
+2020,NSA,Cabbagetown-South St.James Town,1,1,0,1,1,0
+2020,NSA,Caledonia-Fairbank,2,2,0,2,1,0
+2020,NSA,Church-Wellesley,2,2,0,3,1,0
+2020,NSA,Clairlea-Birchmount,7,7,1,7,0,1
+2020,NSA,Clanton Park,2,2,1,1,1,1
+2020,NSA,Cliffcrest,6,6,1,5,0,3
+2020,NSA,Corso Italia-Davenport,2,2,0,2,2,0
+2020,NSA,Dorset Park,5,5,1,4,2,0
+2020,NSA,Dovercourt Village,1,1,0,1,1,0
+2020,NSA,Downsview,5,5,1,5,4,0
+2020,NSA,Downtown Yonge East,5,5,1,5,4,0
+2020,NSA,Dufferin Grove,6,6,1,5,0,5
+2020,NSA,East End-Danforth,4,4,0,4,3,0
+2020,NSA,Edenbridge-Humber Valley,3,3,0,3,1,1
+2020,NSA,Eglinton East,2,2,0,2,0,0
+2020,NSA,Englemount-Lawrence,1,1,0,1,0,1
+2020,NSA,Eringate-Centennial-West Deane,2,2,0,2,0,0
+2020,NSA,Etobicoke City Centre,2,2,0,2,0,0
+2020,NSA,Etobicoke West Mall,1,1,0,1,1,0
+2020,NSA,Flemingdon Park,2,2,0,2,1,0
+2020,NSA,Forest Hill South,1,1,0,1,1,0
+2020,NSA,Glenfield-Jane Heights,3,3,1,3,1,1
+2020,NSA,Golfdale-Cedarbrae-Woburn,2,2,0,3,0,0
+2020,NSA,Guildwood,1,1,0,1,1,0
+2020,NSA,Harbourfront-CityPlace,5,5,0,5,3,0
+2020,NSA,High Park-Swansea,2,2,0,2,0,1
+2020,NSA,Highland Creek,1,1,0,1,1,0
+2020,NSA,Humber Bay Shores,1,1,0,1,0,1
+2020,NSA,Humber Summit,3,3,0,3,2,0
+2020,NSA,Islington,1,1,1,0,1,0
+2020,NSA,Junction Area,2,2,0,2,1,0
+2020,NSA,Junction-Wallace Emerson,2,2,0,3,0,0
+2020,NSA,Kensington-Chinatown,3,3,1,2,0,2
+2020,NSA,Kingsway South,3,3,1,4,0,0
+2020,NSA,L'Amoreaux West,3,3,1,2,2,0
+2020,NSA,Lambton Baby Point,1,1,1,0,1,0
+2020,NSA,Lawrence Park South,2,2,0,2,0,1
+2020,NSA,Leaside-Bennington,1,1,0,1,1,0
+2020,NSA,Little Portugal,3,3,1,2,1,0
+2020,NSA,Long Branch,1,1,0,1,1,0
+2020,NSA,Malvern West,4,4,2,2,3,0
+2020,NSA,Markland Wood,2,2,1,1,0,0
+2020,NSA,Milliken,1,1,0,1,1,0
+2020,NSA,Mimico-Queensway,3,3,2,1,1,2
+2020,NSA,Morningside,2,2,1,1,1,0
+2020,NSA,Morningside Heights,2,2,0,2,1,0
+2020,NSA,Moss Park,7,7,0,7,3,1
+2020,NSA,Mount Dennis,2,2,0,2,1,0
+2020,NSA,Mount Olive-Silverstone-Jamestown,3,3,2,2,2,0
+2020,NSA,New Toronto,1,1,0,1,0,0
+2020,NSA,Newtonbrook East,2,2,0,2,1,0
+2020,NSA,Newtonbrook West,3,3,0,3,1,1
+2020,NSA,North Riverdale,1,1,0,1,0,0
+2020,NSA,North St.James Town,2,2,0,2,1,1
+2020,NSA,Oakdale-Beverley Heights,6,6,0,6,4,0
+2020,NSA,Oakwood Village,2,2,0,2,0,1
+2020,NSA,Old East York,1,1,0,1,0,0
+2020,NSA,Palmerston-Little Italy,1,1,0,1,0,1
+2020,NSA,Parkwoods-O'Connor Hills,1,1,0,1,0,0
+2020,NSA,Playter Estates-Danforth,1,1,0,1,1,0
+2020,NSA,Pleasant View,1,1,0,1,1,0
+2020,NSA,Regent Park,1,1,0,1,1,0
+2020,NSA,Rexdale-Kipling,1,1,0,1,0,1
+2020,NSA,Rockcliffe-Smythe,3,3,0,3,1,0
+2020,NSA,Roncesvalles,1,1,0,1,0,0
+2020,NSA,Scarborough Village,2,2,0,2,1,0
+2020,NSA,South Eglinton-Davisville,3,3,0,3,1,1
+2020,NSA,South Parkdale,1,1,0,2,0,0
+2020,NSA,South Riverdale,8,8,0,8,3,0
+2020,NSA,St Lawrence-East Bayfront-The Islands,8,8,2,6,4,1
+2020,NSA,Steeles,2,2,0,2,2,0
+2020,NSA,Stonegate-Queensway,5,5,0,6,1,0
+2020,NSA,Tam O'Shanter-Sullivan,4,4,2,2,1,0
+2020,NSA,The Beaches,1,1,0,1,0,1
+2020,NSA,Thorncliffe Park,1,1,0,1,0,0
+2020,NSA,Trinity-Bellwoods,1,1,0,1,1,0
+2020,NSA,Victoria Village,1,1,0,1,1,0
+2020,NSA,West Hill,8,8,2,6,5,1
+2020,NSA,West Humber-Clairville,5,5,1,4,2,0
+2020,NSA,West Queen West,1,1,0,1,1,0
+2020,NSA,Weston-Pelham Park,2,2,0,2,2,0
+2020,NSA,Wexford/Maryvale,4,4,2,2,2,0
+2020,NSA,Willowdale West,1,1,0,1,0,1
+2020,NSA,Willowridge-Martingrove-Richview,1,1,0,1,0,0
+2020,NSA,Woburn North,3,3,0,3,1,1
+2020,NSA,Wychwood,2,2,0,2,1,0
+2020,NSA,Yonge-Bay Corridor,3,3,0,3,2,0
+2020,NSA,Yonge-Doris,1,1,0,2,1,0
+2020,NSA,Yonge-Eglinton,1,1,0,1,0,0
+2020,NSA,York University Heights,2,2,1,1,2,0
+2020,NSA,Yorkdale-Glen Park,2,2,2,0,2,0
+2021,NSA,Agincourt North,3,3,0,3,1,0
+2021,NSA,Agincourt South-Malvern West,2,2,0,2,2,0
+2021,NSA,Alderwood,1,1,0,1,0,0
+2021,NSA,Annex,4,4,0,4,4,0
+2021,NSA,Banbury-Don Mills,2,2,1,1,2,0
+2021,NSA,Bathurst Manor,1,1,0,1,0,0
+2021,NSA,Bay-Cloverhill,2,2,1,1,0,1
+2021,NSA,Bayview Village,1,1,0,1,0,0
+2021,NSA,Bayview Woods-Steeles,1,1,0,1,1,0
+2021,NSA,Bedford Park-Nortown,1,1,0,1,0,0
+2021,NSA,Beechborough-Greenbrook,1,1,0,1,0,0
+2021,NSA,Bendale South,1,1,0,1,0,0
+2021,NSA,Birchcliffe-Cliffside,3,3,2,1,3,0
+2021,NSA,Blake-Jones,1,1,0,1,0,0
+2021,NSA,Briar Hill-Belgravia,1,1,0,1,1,0
+2021,NSA,Broadview North,1,1,1,0,0,0
+2021,NSA,Brookhaven-Amesbury,1,1,0,1,0,1
+2021,NSA,Cabbagetown-South St.James Town,1,1,0,1,0,0
+2021,NSA,Caledonia-Fairbank,1,1,0,1,1,0
+2021,NSA,Casa Loma,1,1,0,1,0,1
+2021,NSA,Centennial Scarborough,2,2,1,1,0,0
+2021,NSA,Church-Wellesley,1,1,0,1,1,0
+2021,NSA,Clairlea-Birchmount,1,1,0,1,0,0
+2021,NSA,Clanton Park,2,2,0,5,0,0
+2021,NSA,Cliffcrest,2,2,1,1,2,0
+2021,NSA,Corso Italia-Davenport,4,4,0,4,3,0
+2021,NSA,Danforth,2,2,0,2,1,1
+2021,NSA,Don Valley Village,2,2,1,1,2,0
+2021,NSA,Dorset Park,2,2,1,1,1,0
+2021,NSA,Dovercourt Village,1,1,0,1,0,0
+2021,NSA,Downsview,4,4,2,3,1,0
+2021,NSA,Downtown Yonge East,2,2,1,3,1,1
+2021,NSA,East End-Danforth,2,2,1,1,1,0
+2021,NSA,East L'Amoreaux,1,1,0,1,0,0
+2021,NSA,East Willowdale,1,1,0,1,1,0
+2021,NSA,Edenbridge-Humber Valley,1,1,0,1,0,1
+2021,NSA,Eglinton East,2,2,1,1,2,0
+2021,NSA,Englemount-Lawrence,1,1,0,1,1,0
+2021,NSA,Eringate-Centennial-West Deane,1,1,1,1,0,0
+2021,NSA,Etobicoke City Centre,6,6,1,5,2,0
+2021,NSA,Fenside-Parkwoods,1,1,0,1,0,0
+2021,NSA,Flemingdon Park,2,2,0,2,1,0
+2021,NSA,Fort York-Liberty Village,5,5,1,4,4,0
+2021,NSA,Glenfield-Jane Heights,3,3,0,4,0,0
+2021,NSA,Golfdale-Cedarbrae-Woburn,5,5,0,5,2,0
+2021,NSA,Greenwood-Coxwell,4,4,1,3,0,1
+2021,NSA,Harbourfront-CityPlace,3,3,0,4,2,0
+2021,NSA,Henry Farm,1,1,0,1,1,0
+2021,NSA,High Park-Swansea,6,6,3,5,1,0
+2021,NSA,Humber Bay Shores,2,2,0,2,1,0
+2021,NSA,Humber Heights-Westmount,1,1,0,1,1,0
+2021,NSA,Humber Summit,4,4,0,5,2,0
+2021,NSA,Humbermede,2,2,1,1,0,0
+2021,NSA,Islington,3,3,1,2,0,0
+2021,NSA,Keelesdale-Eglinton West,2,2,0,2,1,0
+2021,NSA,Kennedy Park,3,3,1,3,1,0
+2021,NSA,Kensington-Chinatown,6,6,1,6,2,2
+2021,NSA,Kingsview Village-The Westway,1,1,0,1,1,0
+2021,NSA,Kingsway South,1,1,0,1,1,0
+2021,NSA,L'Amoreaux West,2,2,1,1,1,1
+2021,NSA,Lawrence Park South,1,1,0,1,1,0
+2021,NSA,Little Portugal,1,1,0,1,1,0
+2021,NSA,Long Branch,1,1,1,0,0,0
+2021,NSA,Malvern East,1,1,0,1,0,0
+2021,NSA,Malvern West,1,1,0,1,0,0
+2021,NSA,Markland Wood,1,1,0,1,0,0
+2021,NSA,Milliken,1,1,1,0,0,0
+2021,NSA,Mimico-Queensway,6,6,1,6,0,0
+2021,NSA,Morningside,1,1,1,0,1,0
+2021,NSA,Morningside Heights,3,3,0,3,0,0
+2021,NSA,Moss Park,5,5,2,4,2,1
+2021,NSA,Mount Dennis,1,1,0,1,1,0
+2021,NSA,Mount Olive-Silverstone-Jamestown,2,2,0,2,0,1
+2021,NSA,Mount Pleasant East,2,2,0,2,2,0
+2021,NSA,NSA,1,1,0,1,0,0
+2021,NSA,New Toronto,2,2,1,1,1,0
+2021,NSA,Newtonbrook East,1,1,0,1,0,0
+2021,NSA,Newtonbrook West,1,1,0,1,1,0
+2021,NSA,North Riverdale,1,1,0,1,1,0
+2021,NSA,O'Connor-Parkview,2,2,0,2,1,0
+2021,NSA,Oakdale-Beverley Heights,4,4,1,3,2,0
+2021,NSA,Oakridge,1,1,0,1,1,0
+2021,NSA,Oakwood Village,1,1,0,1,0,0
+2021,NSA,Old East York,4,4,2,5,2,1
+2021,NSA,Pelmo Park-Humberlea,2,2,0,2,0,0
+2021,NSA,Princess-Rosethorn,3,3,1,2,1,0
+2021,NSA,Regent Park,2,2,0,2,1,0
+2021,NSA,Rexdale-Kipling,1,1,0,1,1,0
+2021,NSA,Rockcliffe-Smythe,1,1,0,1,0,0
+2021,NSA,Roncesvalles,2,2,0,2,1,0
+2021,NSA,Runnymede-Bloor West Village,1,1,0,1,1,0
+2021,NSA,Scarborough Village,1,1,0,1,0,0
+2021,NSA,South Parkdale,4,4,0,4,3,0
+2021,NSA,South Riverdale,7,7,2,5,3,1
+2021,NSA,St Lawrence-East Bayfront-The Islands,10,10,2,10,4,0
+2021,NSA,St.Andrew-Windfields,2,2,0,2,0,1
+2021,NSA,Steeles,2,2,1,1,2,0
+2021,NSA,Stonegate-Queensway,3,3,2,2,1,0
+2021,NSA,Tam O'Shanter-Sullivan,7,7,3,4,4,2
+2021,NSA,The Beaches,3,3,0,3,1,1
+2021,NSA,Thistletown-Beaumond Heights,1,1,1,0,1,0
+2021,NSA,Thorncliffe Park,1,1,0,1,0,0
+2021,NSA,University,1,1,0,1,1,0
+2021,NSA,Victoria Village,1,1,0,1,1,0
+2021,NSA,Wellington Place,3,3,0,3,2,1
+2021,NSA,West Hill,3,3,0,5,1,0
+2021,NSA,West Humber-Clairville,9,9,3,8,2,0
+2021,NSA,West Queen West,1,1,0,1,1,0
+2021,NSA,West Rouge,1,1,0,1,1,0
+2021,NSA,Weston,3,3,1,2,2,0
+2021,NSA,Weston-Pelham Park,1,1,0,1,1,0
+2021,NSA,Wexford/Maryvale,2,2,2,2,0,0
+2021,NSA,Willowdale West,1,1,0,1,1,0
+2021,NSA,Willowridge-Martingrove-Richview,1,1,0,2,0,0
+2021,NSA,Woburn North,1,1,0,1,0,0
+2021,NSA,Woodbine-Lumsden,1,1,0,1,0,1
+2021,NSA,Yonge-Bay Corridor,3,3,1,2,1,0
+2021,NSA,Yonge-Doris,3,3,2,2,1,1
+2021,NSA,Yonge-Eglinton,3,3,0,3,1,0
+2021,NSA,Yonge-St.Clair,2,2,0,3,0,0
+2021,NSA,York University Heights,2,2,1,1,1,0
+2021,NSA,Yorkdale-Glen Park,3,3,2,1,1,0
+2022,NSA,Agincourt North,4,4,1,3,2,0
+2022,NSA,Alderwood,4,4,0,4,1,1
+2022,NSA,Annex,2,2,0,2,1,0
+2022,NSA,Avondale,1,1,0,1,1,0
+2022,NSA,Banbury-Don Mills,4,4,1,3,2,0
+2022,NSA,Bathurst Manor,3,2,1,2,0,0
+2022,NSA,Bayview Village,1,1,0,1,0,0
+2022,NSA,Bayview Woods-Steeles,2,2,1,1,2,0
+2022,NSA,Bedford Park-Nortown,1,1,0,1,1,0
+2022,NSA,Beechborough-Greenbrook,2,2,1,1,1,0
+2022,NSA,Bendale South,2,2,1,1,1,0
+2022,NSA,Bendale-Glen Andrew,4,4,1,3,1,0
+2022,NSA,Birchcliffe-Cliffside,1,1,0,1,1,0
+2022,NSA,Black Creek,2,2,0,2,1,0
+2022,NSA,Blake-Jones,1,1,0,1,1,0
+2022,NSA,Briar Hill-Belgravia,1,1,1,0,0,0
+2022,NSA,Bridle Path-Sunnybrook-York Mills,2,2,0,2,0,1
+2022,NSA,Broadview North,2,2,1,1,1,0
+2022,NSA,Brookhaven-Amesbury,5,5,0,5,0,0
+2022,NSA,Cabbagetown-South St.James Town,1,1,0,1,1,0
+2022,NSA,Caledonia-Fairbank,2,2,0,2,1,1
+2022,NSA,Centennial Scarborough,2,2,1,1,1,0
+2022,NSA,Clairlea-Birchmount,2,2,1,1,2,0
+2022,NSA,Clanton Park,5,5,0,5,3,1
+2022,NSA,Corso Italia-Davenport,1,1,0,1,1,0
+2022,NSA,Danforth East York,2,2,0,2,1,0
+2022,NSA,Don Valley Village,1,1,0,1,0,0
+2022,NSA,Dovercourt Village,1,0,0,1,0,0
+2022,NSA,Downsview,7,7,2,5,2,1
+2022,NSA,Downtown Yonge East,6,6,2,4,3,1
+2022,NSA,Dufferin Grove,2,2,0,2,1,1
+2022,NSA,East End-Danforth,1,1,0,1,0,0
+2022,NSA,East Willowdale,1,1,0,1,0,0
+2022,NSA,Edenbridge-Humber Valley,4,4,0,5,0,1
+2022,NSA,Eglinton East,2,2,0,2,1,0
+2022,NSA,Eringate-Centennial-West Deane,2,2,0,2,0,0
+2022,NSA,Etobicoke City Centre,4,4,2,2,2,0
+2022,NSA,Etobicoke West Mall,1,1,0,1,0,0
+2022,NSA,Flemingdon Park,2,2,0,2,1,1
+2022,NSA,Fort York-Liberty Village,5,5,1,5,0,0
+2022,NSA,Glenfield-Jane Heights,5,5,0,5,3,0
+2022,NSA,Golfdale-Cedarbrae-Woburn,3,3,2,1,1,0
+2022,NSA,Guildwood,2,2,1,1,0,0
+2022,NSA,Harbourfront-CityPlace,2,2,0,2,1,1
+2022,NSA,High Park North,1,1,0,1,0,0
+2022,NSA,High Park-Swansea,2,2,0,2,2,0
+2022,NSA,Highland Creek,1,1,0,1,0,0
+2022,NSA,Hillcrest Village,1,1,0,1,1,0
+2022,NSA,Humber Bay Shores,3,3,3,3,2,0
+2022,NSA,Humber Heights-Westmount,2,2,0,2,0,0
+2022,NSA,Humber Summit,5,5,0,5,2,0
+2022,NSA,Humbermede,2,2,1,1,2,0
+2022,NSA,Humewood-Cedarvale,2,2,0,2,1,1
+2022,NSA,Islington,3,3,1,2,0,1
+2022,NSA,Junction Area,4,4,0,4,0,0
+2022,NSA,Junction-Wallace Emerson,2,2,1,1,2,0
+2022,NSA,Kennedy Park,9,9,1,9,4,0
+2022,NSA,Kensington-Chinatown,5,5,1,4,2,1
+2022,NSA,Lawrence Park South,1,0,0,1,1,0
+2022,NSA,Leaside-Bennington,1,1,0,1,1,0
+2022,NSA,Little Portugal,3,3,0,3,2,1
+2022,NSA,Long Branch,1,1,0,1,1,0
+2022,NSA,Malvern East,2,2,0,2,0,0
+2022,NSA,Malvern West,2,2,0,2,1,0
+2022,NSA,Milliken,4,4,0,4,2,1
+2022,NSA,Mimico-Queensway,5,5,2,3,1,1
+2022,NSA,Morningside,1,1,0,1,1,0
+2022,NSA,Morningside Heights,4,4,2,3,1,0
+2022,NSA,Moss Park,2,2,0,2,1,0
+2022,NSA,Mount Dennis,2,2,0,2,0,0
+2022,NSA,Mount Olive-Silverstone-Jamestown,3,3,1,2,2,0
+2022,NSA,Mount Pleasant East,1,1,0,1,1,0
+2022,NSA,Newtonbrook East,4,4,0,4,0,1
+2022,NSA,Newtonbrook West,1,1,1,2,0,0
+2022,NSA,North Riverdale,2,2,0,2,1,0
+2022,NSA,North Toronto,1,1,0,1,1,0
+2022,NSA,Oakdale-Beverley Heights,4,4,1,3,2,1
+2022,NSA,Oakridge,2,2,1,3,0,0
+2022,NSA,Oakwood Village,2,2,1,1,0,1
+2022,NSA,Old East York,4,4,1,5,1,0
+2022,NSA,Palmerston-Little Italy,4,4,0,4,3,2
+2022,NSA,Parkwoods-O'Connor Hills,1,1,0,1,0,0
+2022,NSA,Pelmo Park-Humberlea,3,3,2,2,1,0
+2022,NSA,Rexdale-Kipling,1,1,0,2,0,0
+2022,NSA,Rockcliffe-Smythe,2,2,0,2,1,0
+2022,NSA,Roncesvalles,1,1,0,1,0,1
+2022,NSA,Rosedale-Moore Park,1,1,1,0,0,1
+2022,NSA,Scarborough Village,1,1,0,1,0,0
+2022,NSA,South Eglinton-Davisville,1,1,0,1,0,0
+2022,NSA,South Parkdale,9,9,1,9,5,0
+2022,NSA,South Riverdale,1,1,0,1,0,0
+2022,NSA,St Lawrence-East Bayfront-The Islands,6,6,0,7,0,2
+2022,NSA,Steeles,1,1,0,2,1,0
+2022,NSA,Stonegate-Queensway,3,3,0,3,1,0
+2022,NSA,The Beaches,3,3,1,2,1,0
+2022,NSA,Thistletown-Beaumond Heights,1,0,0,1,1,0
+2022,NSA,Thorncliffe Park,2,2,0,2,1,1
+2022,NSA,Trinity-Bellwoods,3,3,0,3,0,3
+2022,NSA,University,2,2,0,2,1,0
+2022,NSA,Victoria Village,2,2,0,2,1,0
+2022,NSA,Wellington Place,5,5,1,4,2,3
+2022,NSA,West Hill,1,1,0,1,1,0
+2022,NSA,West Humber-Clairville,10,10,2,8,4,0
+2022,NSA,West Queen West,2,2,0,2,1,1
+2022,NSA,West Rouge,3,3,0,3,0,2
+2022,NSA,Westminster-Branson,2,1,0,2,2,0
+2022,NSA,Weston-Pelham Park,2,2,0,2,1,0
+2022,NSA,Wexford/Maryvale,3,3,1,2,1,0
+2022,NSA,Willowridge-Martingrove-Richview,1,1,0,1,1,0
+2022,NSA,Woburn North,3,3,0,3,0,0
+2022,NSA,Woodbine Corridor,1,1,0,1,0,0
+2022,NSA,Yonge-Bay Corridor,3,3,2,2,3,0
+2022,NSA,Yonge-St.Clair,1,1,0,1,0,0
+2022,NSA,York University Heights,4,4,0,4,2,2
+2022,NSA,Yorkdale-Glen Park,2,2,0,2,0,0
+2023,NSA,Agincourt North,2,2,0,2,0,0
+2023,NSA,Agincourt South-Malvern West,5,5,1,4,3,0
+2023,NSA,Alderwood,4,4,2,2,2,0
+2023,NSA,Annex,4,4,0,4,1,1
+2023,NSA,Avondale,2,2,0,2,2,0
+2023,NSA,Banbury-Don Mills,5,5,1,4,3,0
+2023,NSA,Bathurst Manor,2,2,0,2,2,0
+2023,NSA,Bay-Cloverhill,2,2,0,2,1,0
+2023,NSA,Bayview Village,1,1,0,1,0,0
+2023,NSA,Bayview Woods-Steeles,2,2,1,1,0,1
+2023,NSA,Bedford Park-Nortown,2,2,0,3,1,0
+2023,NSA,Beechborough-Greenbrook,3,3,0,3,1,0
+2023,NSA,Bendale South,1,1,1,1,0,0
+2023,NSA,Birchcliffe-Cliffside,3,3,0,3,3,0
+2023,NSA,Black Creek,3,3,0,3,2,1
+2023,NSA,Blake-Jones,1,1,0,1,1,0
+2023,NSA,Briar Hill-Belgravia,3,3,1,2,2,0
+2023,NSA,Broadview North,2,2,0,2,1,0
+2023,NSA,Brookhaven-Amesbury,4,4,0,4,3,0
+2023,NSA,Cabbagetown-South St.James Town,1,1,0,1,0,0
+2023,NSA,Caledonia-Fairbank,1,1,0,1,0,1
+2023,NSA,Casa Loma,2,2,0,2,0,1
+2023,NSA,Centennial Scarborough,1,1,0,1,0,0
+2023,NSA,Church-Wellesley,1,1,0,1,1,0
+2023,NSA,Clairlea-Birchmount,3,3,0,3,2,0
+2023,NSA,Clanton Park,4,4,0,4,3,0
+2023,NSA,Cliffcrest,3,3,1,2,2,0
+2023,NSA,Corso Italia-Davenport,2,2,0,3,0,0
+2023,NSA,Danforth,1,1,0,1,0,0
+2023,NSA,Don Valley Village,3,3,0,3,2,1
+2023,NSA,Dorset Park,3,3,0,3,2,0
+2023,NSA,Downsview,4,4,0,4,2,0
+2023,NSA,Downtown Yonge East,5,5,1,4,2,2
+2023,NSA,Dufferin Grove,4,4,0,4,3,1
+2023,NSA,East End-Danforth,4,4,0,4,1,2
+2023,NSA,East L'Amoreaux,3,3,1,2,2,0
+2023,NSA,Edenbridge-Humber Valley,1,1,0,1,1,0
+2023,NSA,Eglinton East,4,4,0,4,2,0
+2023,NSA,Elms-Old Rexdale,2,2,0,2,2,0
+2023,NSA,Englemount-Lawrence,2,2,1,1,0,0
+2023,NSA,Eringate-Centennial-West Deane,1,1,0,1,1,0
+2023,NSA,Etobicoke City Centre,4,4,0,4,1,0
+2023,NSA,Etobicoke West Mall,2,2,1,1,2,0
+2023,NSA,Flemingdon Park,1,1,0,1,1,0
+2023,NSA,Forest Hill North,1,1,0,1,0,0
+2023,NSA,Forest Hill South,1,0,1,0,0,0
+2023,NSA,Fort York-Liberty Village,1,1,0,1,1,0
+2023,NSA,Glenfield-Jane Heights,4,4,0,4,2,0
+2023,NSA,Golfdale-Cedarbrae-Woburn,5,5,1,5,1,0
+2023,NSA,Harbourfront-CityPlace,3,3,0,3,2,2
+2023,NSA,High Park North,1,0,0,1,1,0
+2023,NSA,Highland Creek,1,1,0,1,0,0
+2023,NSA,Humber Bay Shores,1,1,0,1,0,1
+2023,NSA,Humber Heights-Westmount,1,1,1,0,0,1
+2023,NSA,Humber Summit,2,2,0,2,1,0
+2023,NSA,Humbermede,2,2,0,2,0,1
+2023,NSA,Ionview,1,1,0,1,1,0
+2023,NSA,Islington,2,2,0,2,1,0
+2023,NSA,Junction Area,2,2,1,1,2,0
+2023,NSA,Junction-Wallace Emerson,1,1,0,1,0,1
+2023,NSA,Keelesdale-Eglinton West,4,4,0,4,1,1
+2023,NSA,Kennedy Park,1,1,0,1,0,0
+2023,NSA,Kensington-Chinatown,4,4,0,4,2,1
+2023,NSA,Kingsview Village-The Westway,2,2,0,2,0,1
+2023,NSA,Kingsway South,2,2,1,1,0,0
+2023,NSA,L'Amoreaux West,1,1,0,2,1,0
+2023,NSA,Lambton Baby Point,1,1,0,1,1,0
+2023,NSA,Lansing-Westgate,1,1,0,1,0,0
+2023,NSA,Lawrence Park North,2,2,0,2,1,0
+2023,NSA,Lawrence Park South,1,1,0,1,0,1
+2023,NSA,Leaside-Bennington,2,2,0,2,2,0
+2023,NSA,Little Portugal,3,3,1,2,1,2
+2023,NSA,Long Branch,1,1,0,1,1,0
+2023,NSA,Malvern East,3,3,1,2,3,0
+2023,NSA,Malvern West,1,1,0,1,1,0
+2023,NSA,Maple Leaf,1,1,0,1,1,0
+2023,NSA,Markland Wood,1,1,0,1,1,0
+2023,NSA,Milliken,3,3,0,3,1,1
+2023,NSA,Mimico-Queensway,4,4,0,4,0,2
+2023,NSA,Morningside,1,1,0,1,0,0
+2023,NSA,Moss Park,3,3,0,3,3,0
+2023,NSA,Mount Dennis,3,3,0,3,3,0
+2023,NSA,Mount Olive-Silverstone-Jamestown,2,2,1,1,0,0
+2023,NSA,Mount Pleasant East,4,4,2,2,2,0
+2023,NSA,NSA,2,2,0,4,1,0
+2023,NSA,New Toronto,3,3,1,2,1,0
+2023,NSA,Newtonbrook West,4,4,0,4,2,0
+2023,NSA,North Riverdale,1,1,0,1,0,0
+2023,NSA,North St.James Town,3,3,0,3,1,2
+2023,NSA,Oakdale-Beverley Heights,4,4,2,3,3,0
+2023,NSA,Oakridge,3,3,0,3,1,2
+2023,NSA,Oakwood Village,4,4,2,2,3,0
+2023,NSA,Old East York,1,1,0,1,0,0
+2023,NSA,Parkwoods-O'Connor Hills,1,1,0,1,0,0
+2023,NSA,Pelmo Park-Humberlea,2,2,0,2,1,1
+2023,NSA,Pleasant View,1,1,0,1,0,0
+2023,NSA,Princess-Rosethorn,2,2,0,2,0,0
+2023,NSA,Regent Park,1,1,0,1,0,1
+2023,NSA,Rexdale-Kipling,1,1,0,1,1,0
+2023,NSA,Rockcliffe-Smythe,1,1,0,2,0,0
+2023,NSA,Rosedale-Moore Park,4,4,1,3,1,2
+2023,NSA,Rustic,2,2,0,2,1,1
+2023,NSA,Scarborough Village,3,3,1,2,2,0
+2023,NSA,South Eglinton-Davisville,4,4,2,2,3,0
+2023,NSA,South Parkdale,3,3,1,3,2,0
+2023,NSA,South Riverdale,7,7,1,6,3,3
+2023,NSA,St Lawrence-East Bayfront-The Islands,8,8,1,7,4,2
+2023,NSA,St.Andrew-Windfields,1,1,0,1,1,0
+2023,NSA,Steeles,1,1,1,0,1,0
+2023,NSA,Stonegate-Queensway,4,4,1,4,3,0
+2023,NSA,Taylor-Massey,3,3,1,2,1,2
+2023,NSA,The Beaches,2,2,0,2,0,1
+2023,NSA,Thorncliffe Park,1,1,0,1,1,0
+2023,NSA,University,1,1,0,1,0,1
+2023,NSA,Wellington Place,8,8,0,9,5,2
+2023,NSA,West Hill,2,2,0,2,1,0
+2023,NSA,West Humber-Clairville,11,11,2,9,7,0
+2023,NSA,West Queen West,2,2,0,2,0,0
+2023,NSA,West Rouge,2,2,0,2,1,0
+2023,NSA,Westminster-Branson,1,1,0,1,0,0
+2023,NSA,Weston,4,4,0,4,3,0
+2023,NSA,Weston-Pelham Park,1,1,0,1,1,0
+2023,NSA,Wexford/Maryvale,9,9,3,6,4,1
+2023,NSA,Willowridge-Martingrove-Richview,5,5,1,4,2,0
+2023,NSA,Woburn North,4,4,0,4,2,0
+2023,NSA,Woodbine Corridor,1,1,0,1,1,0
+2023,NSA,Woodbine-Lumsden,1,1,0,1,0,0
+2023,NSA,Wychwood,1,1,1,0,1,0
+2023,NSA,Yonge-Bay Corridor,3,3,0,3,2,0
+2023,NSA,Yonge-St.Clair,1,1,0,1,0,0
+2023,NSA,York University Heights,4,4,1,3,1,0
+2023,NSA,Yorkdale-Glen Park,3,3,0,3,2,0
+2024,NSA,Agincourt North,2,2,0,2,2,0
+2024,NSA,Agincourt South-Malvern West,4,4,2,2,1,0
+2024,NSA,Alderwood,1,1,0,1,1,0
+2024,NSA,Annex,7,7,2,5,2,4
+2024,NSA,Banbury-Don Mills,3,3,0,3,2,1
+2024,NSA,Bathurst Manor,1,1,0,1,1,0
+2024,NSA,Bayview Village,2,2,1,1,1,1
+2024,NSA,Bedford Park-Nortown,4,4,1,3,2,1
+2024,NSA,Beechborough-Greenbrook,2,2,0,2,1,0
+2024,NSA,Bendale South,1,1,1,0,1,0
+2024,NSA,Bendale-Glen Andrew,3,3,0,3,2,0
+2024,NSA,Birchcliffe-Cliffside,1,1,0,1,1,0
+2024,NSA,Briar Hill-Belgravia,2,2,0,2,0,0
+2024,NSA,Bridle Path-Sunnybrook-York Mills,3,3,0,3,2,0
+2024,NSA,Broadview North,3,3,1,2,1,1
+2024,NSA,Brookhaven-Amesbury,2,2,0,2,0,1
+2024,NSA,Cabbagetown-South St.James Town,2,2,0,2,0,1
+2024,NSA,Caledonia-Fairbank,1,1,0,1,1,0
+2024,NSA,Church-Wellesley,3,3,0,3,2,1
+2024,NSA,Clairlea-Birchmount,3,3,1,2,1,1
+2024,NSA,Clanton Park,4,4,0,7,2,0
+2024,NSA,Cliffcrest,2,2,0,2,1,0
+2024,NSA,Corso Italia-Davenport,1,1,1,0,0,0
+2024,NSA,Danforth East York,1,1,0,1,1,0
+2024,NSA,Don Valley Village,2,2,0,2,1,0
+2024,NSA,Dorset Park,2,2,0,2,0,0
+2024,NSA,Dovercourt Village,1,1,1,0,1,0
+2024,NSA,Downsview,1,1,0,1,0,0
+2024,NSA,Downtown Yonge East,2,2,0,2,2,0
+2024,NSA,East End-Danforth,5,5,1,4,3,1
+2024,NSA,East L'Amoreaux,1,1,0,1,1,0
+2024,NSA,East Willowdale,2,2,1,1,2,0
+2024,NSA,Edenbridge-Humber Valley,2,2,0,2,0,0
+2024,NSA,Eglinton East,4,4,1,4,1,0
+2024,NSA,Elms-Old Rexdale,2,2,1,2,2,0
+2024,NSA,Englemount-Lawrence,2,2,2,0,1,0
+2024,NSA,Etobicoke City Centre,8,8,1,8,1,0
+2024,NSA,Fenside-Parkwoods,2,2,0,2,0,0
+2024,NSA,Flemingdon Park,6,6,0,6,3,2
+2024,NSA,Forest Hill North,2,2,0,2,1,0
+2024,NSA,Forest Hill South,1,1,0,1,1,0
+2024,NSA,Fort York-Liberty Village,3,3,1,2,0,1
+2024,NSA,Glenfield-Jane Heights,3,3,1,2,3,0
+2024,NSA,Golfdale-Cedarbrae-Woburn,3,3,0,3,2,0
+2024,NSA,Greenwood-Coxwell,1,1,1,0,1,0
+2024,NSA,Harbourfront-CityPlace,3,3,0,5,1,0
+2024,NSA,Henry Farm,3,3,1,2,1,1
+2024,NSA,High Park North,2,2,0,2,1,0
+2024,NSA,High Park-Swansea,2,2,0,2,0,1
+2024,NSA,Highland Creek,1,1,0,1,0,0
+2024,NSA,Hillcrest Village,2,2,0,2,1,0
+2024,NSA,Humber Bay Shores,3,3,1,2,2,0
+2024,NSA,Humber Heights-Westmount,1,1,0,1,0,0
+2024,NSA,Humber Summit,3,3,1,2,1,0
+2024,NSA,Humbermede,1,1,0,1,1,0
+2024,NSA,Humewood-Cedarvale,3,3,0,3,2,0
+2024,NSA,Ionview,1,1,0,1,0,0
+2024,NSA,Islington,4,4,1,3,2,1
+2024,NSA,Junction Area,2,2,1,1,1,0
+2024,NSA,Junction-Wallace Emerson,1,1,0,1,0,1
+2024,NSA,Keelesdale-Eglinton West,3,3,1,2,0,0
+2024,NSA,Kennedy Park,1,1,0,1,1,0
+2024,NSA,Kensington-Chinatown,2,2,0,2,1,1
+2024,NSA,Kingsview Village-The Westway,1,1,0,1,0,0
+2024,NSA,Lambton Baby Point,2,2,0,2,0,1
+2024,NSA,Lansing-Westgate,1,1,0,1,0,0
+2024,NSA,Lawrence Park South,2,2,0,2,2,0
+2024,NSA,Leaside-Bennington,2,2,1,1,0,1
+2024,NSA,Little Portugal,2,2,0,2,1,0
+2024,NSA,Malvern East,1,1,0,1,0,0
+2024,NSA,Malvern West,1,1,0,1,1,0
+2024,NSA,Maple Leaf,3,3,0,4,1,0
+2024,NSA,Milliken,3,3,2,1,0,2
+2024,NSA,Mimico-Queensway,1,1,0,1,0,0
+2024,NSA,Morningside Heights,4,4,1,3,1,0
+2024,NSA,Moss Park,2,2,0,2,1,1
+2024,NSA,Mount Dennis,2,2,0,2,0,0
+2024,NSA,Mount Olive-Silverstone-Jamestown,1,1,0,1,0,1
+2024,NSA,Mount Pleasant East,2,2,0,2,0,0
+2024,NSA,NSA,6,6,0,6,5,0
+2024,NSA,Newtonbrook East,4,4,0,5,2,1
+2024,NSA,Newtonbrook West,1,1,0,1,1,0
+2024,NSA,North Riverdale,3,3,0,3,0,3
+2024,NSA,North Toronto,1,1,0,1,1,0
+2024,NSA,O'Connor-Parkview,1,1,0,1,0,0
+2024,NSA,Oakdale-Beverley Heights,2,2,0,2,0,1
+2024,NSA,Oakridge,3,3,1,2,3,0
+2024,NSA,Oakwood Village,1,1,0,1,1,0
+2024,NSA,Old East York,4,4,0,4,2,1
+2024,NSA,Palmerston-Little Italy,1,1,0,1,1,0
+2024,NSA,Parkwoods-O'Connor Hills,3,3,1,3,1,0
+2024,NSA,Pelmo Park-Humberlea,2,2,0,2,1,0
+2024,NSA,Princess-Rosethorn,2,2,0,3,1,0
+2024,NSA,Regent Park,2,2,2,1,1,1
+2024,NSA,Rexdale-Kipling,1,1,0,1,1,0
+2024,NSA,Rockcliffe-Smythe,2,2,1,1,1,0
+2024,NSA,Roncesvalles,2,2,2,0,2,0
+2024,NSA,Rosedale-Moore Park,3,3,0,3,1,2
+2024,NSA,Rustic,1,1,0,1,0,0
+2024,NSA,Scarborough Village,2,2,0,2,1,0
+2024,NSA,South Eglinton-Davisville,1,1,0,2,1,0
+2024,NSA,South Parkdale,1,1,0,1,1,0
+2024,NSA,South Riverdale,6,6,1,5,3,1
+2024,NSA,St Lawrence-East Bayfront-The Islands,6,6,5,5,2,0
+2024,NSA,St.Andrew-Windfields,1,1,0,1,0,0
+2024,NSA,Steeles,2,2,1,1,2,0
+2024,NSA,Stonegate-Queensway,3,3,0,3,2,0
+2024,NSA,Tam O'Shanter-Sullivan,5,5,2,3,4,0
+2024,NSA,Thistletown-Beaumond Heights,2,2,0,2,1,0
+2024,NSA,Thorncliffe Park,2,2,0,2,1,0
+2024,NSA,Trinity-Bellwoods,2,2,0,3,1,0
+2024,NSA,University,3,3,0,4,1,2
+2024,NSA,Wellington Place,4,4,0,4,2,1
+2024,NSA,West Hill,2,2,0,2,2,0
+2024,NSA,West Humber-Clairville,9,9,2,7,2,0
+2024,NSA,West Queen West,3,3,0,3,1,2
+2024,NSA,West Rouge,1,1,1,0,0,0
+2024,NSA,Weston,1,1,0,1,1,0
+2024,NSA,Wexford/Maryvale,5,5,0,5,3,1
+2024,NSA,Willowridge-Martingrove-Richview,1,1,0,1,0,0
+2024,NSA,Wychwood,1,1,0,1,1,0
+2024,NSA,Yonge-Bay Corridor,3,3,0,3,1,2
+2024,NSA,Yonge-Doris,1,1,0,1,0,0
+2024,NSA,York University Heights,3,3,0,3,2,0
+2025,NSA,Agincourt North,3,3,1,2,2,0
+2025,NSA,Agincourt South-Malvern West,5,5,0,5,1,0
+2025,NSA,Alderwood,2,2,0,2,1,0
+2025,NSA,Annex,8,8,0,8,5,0
+2025,NSA,Banbury-Don Mills,2,2,0,3,0,0
+2025,NSA,Bathurst Manor,1,1,1,0,0,0
+2025,NSA,Bayview Woods-Steeles,2,2,0,2,2,0
+2025,NSA,Bedford Park-Nortown,1,1,0,1,1,0
+2025,NSA,Beechborough-Greenbrook,1,1,0,1,0,0
+2025,NSA,Bendale South,2,2,0,3,1,0
+2025,NSA,Bendale-Glen Andrew,1,1,0,1,0,0
+2025,NSA,Birchcliffe-Cliffside,1,1,0,1,0,1
+2025,NSA,Black Creek,2,2,0,2,1,0
+2025,NSA,Blake-Jones,1,1,0,1,0,1
+2025,NSA,Briar Hill-Belgravia,1,1,0,1,1,0
+2025,NSA,Broadview North,1,1,0,1,0,0
+2025,NSA,Brookhaven-Amesbury,1,1,0,1,0,0
+2025,NSA,Casa Loma,2,2,0,2,2,0
+2025,NSA,Church-Wellesley,5,5,0,5,2,0
+2025,NSA,Clairlea-Birchmount,2,2,1,1,1,0
+2025,NSA,Clanton Park,4,4,2,2,3,0
+2025,NSA,Cliffcrest,3,3,0,3,2,0
+2025,NSA,Danforth,1,1,0,1,1,0
+2025,NSA,Danforth East York,1,1,0,1,1,0
+2025,NSA,Don Valley Village,1,1,0,1,0,0
+2025,NSA,Downsview,2,2,0,2,0,0
+2025,NSA,Downtown Yonge East,3,3,1,2,2,1
+2025,NSA,Dufferin Grove,2,2,0,2,1,1
+2025,NSA,East End-Danforth,4,4,0,4,3,0
+2025,NSA,East Willowdale,1,1,0,1,0,1
+2025,NSA,Eglinton East,3,3,2,1,1,0
+2025,NSA,Eringate-Centennial-West Deane,3,3,3,4,0,0
+2025,NSA,Etobicoke City Centre,5,5,1,4,2,1
+2025,NSA,Flemingdon Park,2,2,1,3,0,0
+2025,NSA,Forest Hill North,1,1,0,1,0,0
+2025,NSA,Forest Hill South,1,1,0,1,1,0
+2025,NSA,Fort York-Liberty Village,3,3,0,3,1,0
+2025,NSA,Glenfield-Jane Heights,4,4,0,4,3,1
+2025,NSA,Golfdale-Cedarbrae-Woburn,5,5,1,4,3,1
+2025,NSA,Greenwood-Coxwell,2,2,0,2,1,0
+2025,NSA,Harbourfront-CityPlace,3,3,0,3,1,0
+2025,NSA,High Park-Swansea,1,1,0,1,0,0
+2025,NSA,Highland Creek,1,1,0,1,0,0
+2025,NSA,Humber Bay Shores,1,1,0,2,1,0
+2025,NSA,Humber Summit,4,4,1,3,1,0
+2025,NSA,Humbermede,2,2,0,2,1,0
+2025,NSA,Junction-Wallace Emerson,2,2,1,1,1,0
+2025,NSA,Keelesdale-Eglinton West,2,2,1,2,0,0
+2025,NSA,Kennedy Park,2,2,1,1,2,0
+2025,NSA,Kensington-Chinatown,4,4,0,4,1,2
+2025,NSA,Kingsview Village-The Westway,3,3,0,3,1,1
+2025,NSA,Lambton Baby Point,1,1,0,1,1,0
+2025,NSA,Lansing-Westgate,1,1,0,1,1,0
+2025,NSA,Lawrence Park North,1,1,0,1,1,0
+2025,NSA,Leaside-Bennington,1,1,0,1,0,0
+2025,NSA,Little Portugal,1,1,0,1,0,0
+2025,NSA,Long Branch,2,2,0,2,0,2
+2025,NSA,Malvern East,2,2,1,1,1,0
+2025,NSA,Malvern West,2,2,1,1,1,0
+2025,NSA,Maple Leaf,1,1,1,0,1,0
+2025,NSA,Milliken,4,4,1,5,3,0
+2025,NSA,Mimico-Queensway,5,5,1,4,3,1
+2025,NSA,Morningside,1,1,0,1,1,0
+2025,NSA,Morningside Heights,2,2,0,2,0,0
+2025,NSA,Moss Park,6,6,1,5,5,1
+2025,NSA,Mount Olive-Silverstone-Jamestown,3,3,1,2,2,0
+2025,NSA,Mount Pleasant East,2,2,0,2,1,0
+2025,NSA,New Toronto,1,1,0,1,0,0
+2025,NSA,Newtonbrook East,1,1,0,1,1,0
+2025,NSA,O'Connor-Parkview,1,1,0,1,1,0
+2025,NSA,Oakdale-Beverley Heights,1,1,0,1,0,1
+2025,NSA,Oakridge,3,3,0,3,0,2
+2025,NSA,Oakwood Village,2,2,0,2,1,0
+2025,NSA,Old East York,1,1,0,1,0,0
+2025,NSA,Palmerston-Little Italy,1,1,0,1,0,1
+2025,NSA,Parkwoods-O'Connor Hills,1,1,0,1,0,0
+2025,NSA,Pelmo Park-Humberlea,1,1,0,1,0,0
+2025,NSA,Playter Estates-Danforth,2,2,1,1,1,0
+2025,NSA,Pleasant View,1,1,0,1,0,0
+2025,NSA,Princess-Rosethorn,2,2,0,2,0,0
+2025,NSA,Rexdale-Kipling,2,2,1,1,0,0
+2025,NSA,Rockcliffe-Smythe,1,1,0,1,1,0
+2025,NSA,Rosedale-Moore Park,1,1,0,1,0,1
+2025,NSA,Runnymede-Bloor West Village,1,1,0,1,0,0
+2025,NSA,Scarborough Village,2,2,1,1,0,0
+2025,NSA,South Eglinton-Davisville,1,1,1,0,1,0
+2025,NSA,South Parkdale,5,5,1,4,0,0
+2025,NSA,South Riverdale,7,7,0,7,1,5
+2025,NSA,St Lawrence-East Bayfront-The Islands,4,4,1,4,3,1
+2025,NSA,St.Andrew-Windfields,1,1,0,1,0,1
+2025,NSA,Stonegate-Queensway,1,1,0,1,1,0
+2025,NSA,Tam O'Shanter-Sullivan,2,2,1,1,1,1
+2025,NSA,The Beaches,1,1,0,1,1,0
+2025,NSA,University,2,2,0,2,0,1
+2025,NSA,Wellington Place,3,3,0,3,0,2
+2025,NSA,West Hill,5,5,4,2,2,0
+2025,NSA,West Humber-Clairville,12,12,0,13,3,0
+2025,NSA,West Queen West,1,1,1,0,1,0
+2025,NSA,West Rouge,2,2,1,1,1,0
+2025,NSA,Westminster-Branson,1,1,0,1,1,0
+2025,NSA,Weston,3,3,0,3,1,0
+2025,NSA,Wexford/Maryvale,5,5,0,5,3,1
+2025,NSA,Willowdale West,1,1,1,2,1,0
+2025,NSA,Willowridge-Martingrove-Richview,2,2,1,1,1,0
+2025,NSA,Woburn North,3,3,0,3,0,0
+2025,NSA,Woodbine Corridor,1,1,0,2,1,0
+2025,NSA,Wychwood,3,3,0,3,3,0
+2025,NSA,Yonge-Bay Corridor,3,3,0,3,2,1
+2025,NSA,Yonge-St.Clair,2,2,0,2,2,0
+2025,NSA,York University Heights,4,4,0,4,2,1
+2025,NSA,Yorkdale-Glen Park,1,1,0,1,0,0
+2026,NSA,Agincourt South-Malvern West,3,3,1,2,1,0
+2026,NSA,Alderwood,2,2,0,2,0,1
+2026,NSA,Annex,3,3,1,2,2,1
+2026,NSA,Banbury-Don Mills,2,2,0,2,0,0
+2026,NSA,Bay-Cloverhill,1,1,0,1,1,0
+2026,NSA,Bayview Village,1,1,0,1,0,1
+2026,NSA,Beechborough-Greenbrook,4,4,0,4,1,0
+2026,NSA,Bendale South,2,2,0,2,0,0
+2026,NSA,Bendale-Glen Andrew,3,3,0,3,0,0
+2026,NSA,Black Creek,3,3,0,3,2,0
+2026,NSA,Blake-Jones,2,2,0,2,0,2
+2026,NSA,Briar Hill-Belgravia,1,1,0,1,1,0
+2026,NSA,Brookhaven-Amesbury,2,2,1,1,1,0
+2026,NSA,Cabbagetown-South St.James Town,1,1,0,1,1,0
+2026,NSA,Casa Loma,1,1,0,1,1,0
+2026,NSA,Centennial Scarborough,3,3,1,3,0,0
+2026,NSA,Church-Wellesley,1,1,0,1,1,0
+2026,NSA,Clairlea-Birchmount,2,2,0,2,1,1
+2026,NSA,Clanton Park,1,1,1,0,0,0
+2026,NSA,Cliffcrest,2,2,1,1,1,0
+2026,NSA,Corso Italia-Davenport,3,3,0,3,1,1
+2026,NSA,Danforth East York,2,2,0,2,2,0
+2026,NSA,Don Valley Village,1,1,0,1,0,0
+2026,NSA,Dorset Park,1,1,0,1,0,0
+2026,NSA,Dovercourt Village,1,1,0,1,0,0
+2026,NSA,Downsview,1,1,1,0,1,0
+2026,NSA,Downtown Yonge East,4,4,0,4,3,0
+2026,NSA,Dufferin Grove,2,2,1,1,0,0
+2026,NSA,East End-Danforth,1,1,0,1,0,1
+2026,NSA,Edenbridge-Humber Valley,1,1,0,1,0,0
+2026,NSA,Eglinton East,3,3,1,2,1,0
+2026,NSA,Englemount-Lawrence,1,1,0,1,1,0
+2026,NSA,Eringate-Centennial-West Deane,1,1,0,2,0,0
+2026,NSA,Etobicoke City Centre,5,4,2,4,1,1
+2026,NSA,Etobicoke West Mall,1,1,0,1,1,0
+2026,NSA,Forest Hill North,1,1,1,0,1,0
+2026,NSA,Forest Hill South,2,2,1,1,2,0
+2026,NSA,Fort York-Liberty Village,1,1,0,1,0,0
+2026,NSA,Glenfield-Jane Heights,2,2,0,2,1,0
+2026,NSA,Golfdale-Cedarbrae-Woburn,4,4,1,5,3,0
+2026,NSA,Harbourfront-CityPlace,3,3,0,3,0,1
+2026,NSA,High Park North,2,2,0,2,0,1
+2026,NSA,Humber Heights-Westmount,3,3,0,3,1,0
+2026,NSA,Humber Summit,1,1,0,2,0,0
+2026,NSA,Humewood-Cedarvale,1,1,0,2,1,0
+2026,NSA,Ionview,1,1,0,1,0,1
+2026,NSA,Islington,1,1,0,1,1,0
+2026,NSA,Junction-Wallace Emerson,1,1,0,1,1,0
+2026,NSA,Keelesdale-Eglinton West,2,2,0,3,0,1
+2026,NSA,Kennedy Park,1,1,0,1,1,0
+2026,NSA,Kensington-Chinatown,1,1,0,1,0,0
+2026,NSA,Kingsview Village-The Westway,3,3,1,2,1,0
+2026,NSA,L'Amoreaux West,1,1,1,0,1,0
+2026,NSA,Lansing-Westgate,1,1,0,1,0,0
+2026,NSA,Lawrence Park South,1,1,0,1,0,0
+2026,NSA,Leaside-Bennington,2,2,1,2,0,0
+2026,NSA,Long Branch,2,2,1,1,2,0
+2026,NSA,Malvern East,1,1,1,0,0,0
+2026,NSA,Milliken,4,4,2,2,2,1
+2026,NSA,Mimico-Queensway,1,1,0,1,0,0
+2026,NSA,Morningside,1,1,1,0,0,0
+2026,NSA,Morningside Heights,1,1,0,1,1,0
+2026,NSA,Moss Park,7,7,1,6,5,1
+2026,NSA,Mount Olive-Silverstone-Jamestown,2,2,0,2,1,0
+2026,NSA,Mount Pleasant East,1,1,0,1,0,0
+2026,NSA,Newtonbrook East,1,1,1,0,1,0
+2026,NSA,Newtonbrook West,1,1,0,1,0,0
+2026,NSA,Oakdale-Beverley Heights,2,2,0,2,1,0
+2026,NSA,Oakridge,2,2,1,1,0,0
+2026,NSA,Oakwood Village,1,1,0,1,0,1
+2026,NSA,Princess-Rosethorn,1,1,1,0,1,0
+2026,NSA,Regent Park,2,2,1,1,2,0
+2026,NSA,Rockcliffe-Smythe,3,3,0,3,2,1
+2026,NSA,Roncesvalles,3,3,1,2,1,0
+2026,NSA,Runnymede-Bloor West Village,1,1,0,1,0,1
+2026,NSA,Rustic,1,1,0,1,0,0
+2026,NSA,Scarborough Village,1,1,0,1,1,0
+2026,NSA,South Parkdale,6,6,1,6,1,1
+2026,NSA,South Riverdale,4,4,1,3,2,0
+2026,NSA,St Lawrence-East Bayfront-The Islands,3,3,0,3,0,1
+2026,NSA,St.Andrew-Windfields,2,2,0,2,2,0
+2026,NSA,Steeles,2,2,1,1,0,0
+2026,NSA,Stonegate-Queensway,4,4,0,4,1,2
+2026,NSA,Tam O'Shanter-Sullivan,2,2,0,2,2,0
+2026,NSA,Taylor-Massey,1,1,0,1,1,0
+2026,NSA,The Beaches,1,1,0,1,1,1
+2026,NSA,Thistletown-Beaumond Heights,2,2,0,2,1,0
+2026,NSA,Victoria Village,2,2,1,1,1,0
+2026,NSA,Wellington Place,2,2,0,2,2,0
+2026,NSA,West Hill,2,2,0,2,2,0
+2026,NSA,West Humber-Clairville,7,7,0,9,5,0
+2026,NSA,West Queen West,3,3,0,3,2,0
+2026,NSA,West Rouge,4,4,3,4,0,1
+2026,NSA,Westminster-Branson,1,1,0,1,1,0
+2026,NSA,Weston,3,3,0,3,2,0
+2026,NSA,Wexford/Maryvale,6,6,3,4,3,1
+2026,NSA,Willowridge-Martingrove-Richview,1,1,0,1,0,0
+2026,NSA,Woburn North,5,5,0,5,0,0
+2026,NSA,Woodbine Corridor,1,1,0,1,1,0
+2026,NSA,Yonge-Bay Corridor,2,2,0,2,1,1
+2026,NSA,Yonge-Eglinton,1,1,0,1,1,0
+2026,NSA,York University Heights,5,5,4,2,3,0
+2026,NSA,Yorkdale-Glen Park,2,2,0,4,1,0
