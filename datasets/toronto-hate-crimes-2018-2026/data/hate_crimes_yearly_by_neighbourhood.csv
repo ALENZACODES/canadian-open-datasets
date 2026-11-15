@@ -1,0 +1,768 @@
+reported_year,neighbourhood_id,neighbourhood_name,events,disability_bias,race_bias,religion_bias,ethnicity_bias,sexual_orientation_bias,gender_bias,age_bias,language_bias,arrest_made
+2018,001,West Humber-Clairville,1,0,0,0,0,1,0,0,0,0
+2018,009,Edenbridge-Humber Valley,2,0,0,1,1,0,0,0,0,0
+2018,013,Etobicoke West Mall,2,0,0,2,0,0,0,0,0,0
+2018,015,Kingsway South,1,0,0,0,1,0,0,0,0,0
+2018,018,New Toronto,2,0,2,0,0,0,0,0,0,0
+2018,021,Humber Summit,1,0,0,1,0,0,0,0,0,1
+2018,027,York University Heights,8,0,3,3,2,1,0,0,0,0
+2018,028,Rustic,1,0,0,1,0,0,0,0,0,0
+2018,032,Englemount-Lawrence,3,0,0,3,0,0,0,0,0,0
+2018,034,Bathurst Manor,3,0,0,3,0,0,0,0,0,1
+2018,035,Westminster-Branson,2,0,1,2,0,0,0,0,0,0
+2018,036,Newtonbrook West,1,0,0,0,0,1,0,0,0,0
+2018,037,Willowdale West,1,0,0,1,0,0,0,0,0,0
+2018,039,Bedford Park-Nortown,2,0,0,2,0,0,0,0,0,0
+2018,043,Victoria Village,2,0,2,0,0,0,0,0,0,1
+2018,044,Flemingdon Park,1,0,0,1,0,0,0,0,0,1
+2018,048,Hillcrest Village,1,0,1,1,1,0,0,0,0,0
+2018,050,Newtonbrook East,1,0,0,0,1,0,0,0,0,1
+2018,054,O'Connor-Parkview,1,0,1,0,0,1,0,0,0,0
+2018,058,Old East York,1,0,0,1,0,0,0,0,0,0
+2018,060,Woodbine-Lumsden,1,0,0,1,0,0,0,0,0,0
+2018,062,East End-Danforth,1,0,0,1,0,0,0,0,0,0
+2018,065,Greenwood-Coxwell,1,0,0,1,0,0,0,0,0,0
+2018,067,Playter Estates-Danforth,1,0,0,1,0,0,0,0,0,0
+2018,070,South Riverdale,1,0,0,1,0,1,0,0,0,0
+2018,073,Moss Park,6,0,4,0,2,1,0,0,0,1
+2018,078,Kensington-Chinatown,3,0,1,2,0,0,0,0,0,0
+2018,079,University,1,0,0,1,0,0,0,0,0,0
+2018,083,Dufferin Grove,1,0,0,1,0,0,0,0,0,0
+2018,084,Little Portugal,1,0,0,0,0,1,0,0,0,0
+2018,085,South Parkdale,1,0,0,1,0,0,0,0,0,0
+2018,087,High Park-Swansea,1,0,0,1,0,0,0,0,0,0
+2018,089,Runnymede-Bloor West Village,1,0,0,1,0,1,0,0,0,0
+2018,090,Junction Area,1,0,0,0,0,0,1,0,0,0
+2018,094,Wychwood,3,0,0,3,0,0,0,0,0,0
+2018,095,Annex,3,0,1,1,0,1,0,0,0,0
+2018,098,Rosedale-Moore Park,2,0,0,2,0,0,0,0,0,0
+2018,099,Mount Pleasant East,3,0,0,3,0,0,0,0,0,2
+2018,100,Yonge-Eglinton,1,0,0,1,0,0,0,0,0,0
+2018,101,Forest Hill South,1,0,0,1,0,0,0,0,0,0
+2018,102,Forest Hill North,2,0,0,2,0,0,0,0,0,0
+2018,103,Lawrence Park South,1,0,0,1,0,0,0,0,0,1
+2018,105,Lawrence Park North,1,0,1,1,0,0,0,0,0,0
+2018,106,Humewood-Cedarvale,3,0,0,2,0,1,0,0,0,0
+2018,107,Oakwood Village,1,0,0,0,1,0,0,0,0,0
+2018,108,Briar Hill-Belgravia,1,0,0,1,0,0,0,0,0,0
+2018,111,Rockcliffe-Smythe,1,0,0,1,0,0,0,0,0,0
+2018,113,Weston,1,0,0,0,0,1,0,0,0,0
+2018,115,Mount Dennis,1,0,1,0,0,0,0,0,0,0
+2018,122,Birchcliffe-Cliffside,1,0,1,1,0,0,0,0,0,0
+2018,128,Agincourt South-Malvern West,2,0,0,2,0,0,0,0,0,1
+2018,134,Highland Creek,3,0,2,1,1,0,0,0,0,0
+2018,138,Eglinton East,1,0,0,1,0,0,0,0,0,0
+2018,146,Malvern East,1,0,0,0,1,0,0,0,0,0
+2018,152,East Willowdale,1,0,0,0,1,0,0,0,0,0
+2018,154,Oakdale-Beverley Heights,8,0,1,6,0,1,4,0,0,4
+2018,159,Etobicoke City Centre,2,0,1,2,0,0,0,0,0,0
+2018,160,Mimico-Queensway,1,0,0,0,0,0,1,0,0,0
+2018,162,West Queen West,1,0,1,0,0,0,0,0,0,0
+2018,163,Fort York-Liberty Village,1,0,1,0,0,0,0,0,0,0
+2018,164,Wellington Place,3,0,0,1,0,1,1,0,0,1
+2018,166,St Lawrence-East Bayfront-The Islands,2,0,0,2,0,0,0,0,0,1
+2018,167,Church-Wellesley,6,0,0,2,1,3,2,0,0,3
+2018,168,Downtown Yonge East,5,0,0,2,0,2,1,0,0,2
+2018,169,Bay-Cloverhill,2,0,0,1,0,0,1,0,0,1
+2018,170,Yonge-Bay Corridor,4,0,1,2,0,0,1,0,0,2
+2018,172,Dovercourt Village,3,0,0,3,0,0,0,0,0,0
+2018,173,North Toronto,3,0,1,3,1,0,0,0,0,0
+2018,174,South Eglinton-Davisville,1,0,0,1,0,0,0,0,0,0
+2018,NSA,NSA,3,0,2,1,1,1,0,0,0,0
+2019,001,West Humber-Clairville,2,0,1,1,0,0,0,0,0,1
+2019,011,Eringate-Centennial-West Deane,1,0,0,1,0,0,0,0,0,0
+2019,013,Etobicoke West Mall,2,0,1,1,1,0,0,0,0,0
+2019,015,Kingsway South,1,0,0,0,1,0,0,0,0,0
+2019,016,Stonegate-Queensway,1,0,0,0,0,0,1,0,0,0
+2019,018,New Toronto,1,0,1,0,0,0,0,0,0,0
+2019,019,Long Branch,1,0,0,1,0,0,0,0,0,0
+2019,024,Black Creek,1,0,0,1,0,0,0,0,0,1
+2019,025,Glenfield-Jane Heights,1,0,1,0,0,0,0,0,0,0
+2019,027,York University Heights,6,0,2,4,1,2,0,0,0,1
+2019,028,Rustic,2,0,0,1,0,1,0,0,0,0
+2019,032,Englemount-Lawrence,3,0,0,3,0,0,0,0,0,0
+2019,034,Bathurst Manor,1,0,0,1,0,0,0,0,0,1
+2019,035,Westminster-Branson,1,0,0,1,0,0,0,0,0,0
+2019,038,Lansing-Westgate,1,0,0,1,0,0,0,0,0,0
+2019,042,Banbury-Don Mills,1,0,0,1,0,0,0,0,0,0
+2019,048,Hillcrest Village,1,0,0,1,0,0,0,0,0,0
+2019,050,Newtonbrook East,5,0,0,4,1,0,0,0,0,0
+2019,059,Danforth East York,1,0,0,1,0,0,0,0,0,0
+2019,060,Woodbine-Lumsden,1,0,0,0,0,1,0,0,0,1
+2019,062,East End-Danforth,3,0,0,0,0,3,0,0,0,1
+2019,066,Danforth,1,0,1,0,0,1,0,0,0,0
+2019,067,Playter Estates-Danforth,1,0,0,1,0,0,0,0,0,0
+2019,068,North Riverdale,2,0,0,2,0,0,0,0,0,0
+2019,069,Blake-Jones,1,0,1,0,0,0,0,0,0,0
+2019,070,South Riverdale,2,0,0,0,1,1,0,0,0,0
+2019,072,Regent Park,2,0,1,0,1,0,0,0,0,1
+2019,073,Moss Park,2,0,2,0,0,0,0,0,0,1
+2019,074,North St.James Town,4,0,3,1,0,1,0,0,0,1
+2019,078,Kensington-Chinatown,3,0,0,3,0,0,0,0,0,0
+2019,079,University,1,0,0,0,1,0,0,0,0,0
+2019,080,Palmerston-Little Italy,2,0,0,1,0,0,1,0,0,1
+2019,081,Trinity-Bellwoods,1,0,0,1,1,0,0,0,0,0
+2019,085,South Parkdale,2,0,1,0,0,0,1,0,0,0
+2019,089,Runnymede-Bloor West Village,1,0,1,0,0,0,1,0,0,0
+2019,095,Annex,3,0,0,2,0,1,0,0,0,0
+2019,099,Mount Pleasant East,1,0,1,0,0,0,0,0,0,0
+2019,100,Yonge-Eglinton,1,0,0,1,0,0,0,0,0,0
+2019,103,Lawrence Park South,1,0,0,1,0,0,0,0,0,0
+2019,105,Lawrence Park North,1,0,0,1,0,0,0,0,0,0
+2019,107,Oakwood Village,2,0,0,2,0,0,0,0,0,0
+2019,119,Wexford/Maryvale,1,0,0,0,1,0,0,0,0,0
+2019,120,Clairlea-Birchmount,2,0,2,1,0,0,0,0,0,0
+2019,121,Oakridge,1,0,0,1,0,0,0,0,0,0
+2019,123,Cliffcrest,2,0,1,2,0,0,0,0,0,0
+2019,124,Kennedy Park,3,0,0,0,1,1,2,0,0,1
+2019,126,Dorset Park,2,0,0,1,0,1,0,0,0,0
+2019,128,Agincourt South-Malvern West,1,0,0,1,0,0,0,0,0,0
+2019,133,Centennial Scarborough,1,0,1,0,0,0,0,0,0,1
+2019,136,West Hill,3,0,0,2,0,2,1,0,0,0
+2019,138,Eglinton East,1,0,0,1,0,0,0,0,0,0
+2019,144,Morningside Heights,1,0,0,0,0,1,0,0,0,0
+2019,147,L'Amoreaux West,1,0,0,1,0,0,0,0,0,0
+2019,148,East L'Amoreaux,1,0,0,1,0,0,0,0,0,0
+2019,151,Yonge-Doris,1,0,0,1,0,0,0,0,0,0
+2019,152,East Willowdale,1,0,0,1,0,0,0,0,0,0
+2019,155,Downsview,3,0,0,2,1,0,0,0,0,0
+2019,159,Etobicoke City Centre,1,0,1,0,0,0,0,0,0,0
+2019,163,Fort York-Liberty Village,3,0,0,2,0,1,0,0,0,1
+2019,164,Wellington Place,2,0,0,1,1,0,0,0,0,0
+2019,165,Harbourfront-CityPlace,1,0,0,1,0,0,0,0,0,0
+2019,166,St Lawrence-East Bayfront-The Islands,1,0,0,1,0,0,0,0,0,0
+2019,167,Church-Wellesley,7,0,0,3,0,3,3,0,0,2
+2019,168,Downtown Yonge East,5,0,2,1,1,0,1,0,0,2
+2019,169,Bay-Cloverhill,2,0,1,1,0,0,0,0,0,0
+2019,170,Yonge-Bay Corridor,6,0,3,3,0,2,0,0,0,2
+2019,171,Junction-Wallace Emerson,2,0,0,1,0,0,1,0,0,0
+2019,172,Dovercourt Village,1,0,0,1,0,0,0,0,0,0
+2019,173,North Toronto,1,0,1,0,0,0,0,0,0,0
+2019,NSA,NSA,10,0,3,3,2,2,0,0,0,2
+2020,001,West Humber-Clairville,2,0,2,0,0,0,0,0,0,0
+2020,010,Princess-Rosethorn,1,0,0,0,0,1,0,0,0,1
+2020,011,Eringate-Centennial-West Deane,1,0,1,0,0,0,0,0,0,0
+2020,012,Markland Wood,2,0,1,2,0,0,0,0,0,0
+2020,016,Stonegate-Queensway,3,0,0,1,2,0,0,0,0,2
+2020,018,New Toronto,2,0,1,2,0,0,0,0,0,0
+2020,019,Long Branch,5,0,4,0,1,0,0,0,0,0
+2020,025,Glenfield-Jane Heights,1,0,1,0,0,0,0,0,0,0
+2020,027,York University Heights,6,0,2,4,0,0,0,0,0,0
+2020,031,Yorkdale-Glen Park,1,1,0,0,0,0,0,0,0,0
+2020,032,Englemount-Lawrence,2,0,0,2,0,0,0,0,0,0
+2020,033,Clanton Park,1,0,0,1,0,0,0,0,0,0
+2020,034,Bathurst Manor,4,0,2,2,0,0,0,0,0,1
+2020,035,Westminster-Branson,1,0,0,1,0,0,0,0,0,0
+2020,037,Willowdale West,4,0,1,2,1,0,0,0,0,0
+2020,039,Bedford Park-Nortown,3,0,0,2,1,0,0,0,0,0
+2020,040,St.Andrew-Windfields,6,0,0,6,0,0,0,0,0,0
+2020,042,Banbury-Don Mills,1,0,1,0,0,0,0,0,0,0
+2020,053,Henry Farm,1,0,0,1,0,0,0,0,0,0
+2020,054,O'Connor-Parkview,6,0,4,1,2,0,0,0,0,0
+2020,055,Thorncliffe Park,1,0,0,0,0,1,0,0,0,0
+2020,056,Leaside-Bennington,1,0,0,0,1,0,0,0,0,0
+2020,057,Broadview North,2,0,1,2,0,0,0,0,0,0
+2020,059,Danforth East York,5,1,5,1,0,0,0,0,0,1
+2020,062,East End-Danforth,2,0,1,1,0,0,1,0,0,0
+2020,063,The Beaches,2,0,0,0,0,2,0,0,0,0
+2020,065,Greenwood-Coxwell,3,0,0,1,1,1,0,0,0,1
+2020,067,Playter Estates-Danforth,3,0,2,1,0,0,0,0,0,2
+2020,068,North Riverdale,2,0,1,1,0,0,0,0,0,1
+2020,069,Blake-Jones,2,0,0,1,0,1,0,0,0,0
+2020,070,South Riverdale,2,0,0,0,2,0,0,0,0,0
+2020,071,Cabbagetown-South St.James Town,4,0,0,1,1,2,0,0,0,0
+2020,072,Regent Park,2,0,1,0,1,0,0,0,0,0
+2020,073,Moss Park,7,0,3,1,2,1,0,0,0,4
+2020,074,North St.James Town,3,0,1,0,0,0,2,0,0,0
+2020,078,Kensington-Chinatown,4,0,2,1,1,0,0,0,0,3
+2020,079,University,2,0,0,2,0,0,0,0,0,0
+2020,080,Palmerston-Little Italy,2,0,0,1,1,0,0,0,0,0
+2020,081,Trinity-Bellwoods,1,0,0,1,0,0,0,0,0,0
+2020,085,South Parkdale,2,0,0,2,1,0,0,0,0,0
+2020,086,Roncesvalles,1,0,0,1,0,0,0,0,0,0
+2020,087,High Park-Swansea,1,0,1,0,0,0,0,0,0,1
+2020,088,High Park North,3,0,3,0,0,0,0,0,0,0
+2020,090,Junction Area,1,0,0,0,0,0,1,0,0,0
+2020,091,Weston-Pelham Park,1,0,1,1,0,0,0,0,0,0
+2020,094,Wychwood,1,0,0,0,0,1,0,0,0,1
+2020,095,Annex,6,0,1,4,1,1,0,0,0,4
+2020,096,Casa Loma,2,0,0,2,0,0,0,0,0,0
+2020,097,Yonge-St.Clair,1,0,1,0,0,0,0,0,0,0
+2020,098,Rosedale-Moore Park,1,0,0,0,1,0,0,0,0,1
+2020,099,Mount Pleasant East,1,0,0,1,0,0,0,0,0,0
+2020,100,Yonge-Eglinton,1,0,1,0,0,0,0,0,0,0
+2020,105,Lawrence Park North,2,0,0,2,0,0,0,0,0,0
+2020,106,Humewood-Cedarvale,2,0,0,1,0,1,0,0,0,1
+2020,107,Oakwood Village,1,0,0,1,0,0,0,0,0,0
+2020,109,Caledonia-Fairbank,1,0,0,1,0,0,0,0,0,0
+2020,111,Rockcliffe-Smythe,1,0,0,0,0,1,0,0,0,0
+2020,118,Tam O'Shanter-Sullivan,2,0,1,2,1,0,0,0,0,0
+2020,119,Wexford/Maryvale,3,0,2,1,0,0,0,0,0,1
+2020,120,Clairlea-Birchmount,1,0,0,0,1,0,0,0,0,0
+2020,122,Birchcliffe-Cliffside,1,0,0,1,0,0,0,0,0,0
+2020,123,Cliffcrest,1,0,0,1,0,0,0,0,0,0
+2020,124,Kennedy Park,1,0,0,0,1,0,0,0,0,1
+2020,128,Agincourt South-Malvern West,1,0,0,0,1,0,0,0,0,0
+2020,133,Centennial Scarborough,1,0,1,0,0,0,0,0,0,1
+2020,134,Highland Creek,3,0,2,1,0,0,0,0,0,0
+2020,136,West Hill,1,0,0,0,1,0,0,0,0,1
+2020,145,Malvern West,1,0,0,0,1,0,0,0,0,0
+2020,147,L'Amoreaux West,2,0,1,0,1,0,0,0,0,1
+2020,151,Yonge-Doris,2,0,0,1,1,0,0,0,0,0
+2020,152,East Willowdale,3,0,3,3,0,0,0,0,0,0
+2020,153,Avondale,2,0,0,2,0,0,0,0,0,0
+2020,154,Oakdale-Beverley Heights,2,0,2,0,0,0,0,0,0,0
+2020,155,Downsview,3,0,1,2,0,0,0,0,0,0
+2020,158,Islington,1,0,1,0,0,0,0,0,0,0
+2020,159,Etobicoke City Centre,1,0,0,1,0,0,0,0,0,0
+2020,160,Mimico-Queensway,4,0,0,2,2,0,0,0,0,1
+2020,161,Humber Bay Shores,2,0,0,2,0,0,0,0,0,0
+2020,162,West Queen West,1,0,0,1,0,0,0,0,0,0
+2020,163,Fort York-Liberty Village,1,0,0,1,0,0,0,0,0,0
+2020,164,Wellington Place,5,0,1,1,1,1,0,0,1,3
+2020,165,Harbourfront-CityPlace,2,0,0,1,0,1,0,0,0,1
+2020,166,St Lawrence-East Bayfront-The Islands,3,0,0,2,1,0,0,0,0,1
+2020,167,Church-Wellesley,6,0,1,3,0,3,0,0,0,3
+2020,168,Downtown Yonge East,4,0,2,1,1,0,0,0,0,2
+2020,169,Bay-Cloverhill,1,0,0,1,0,0,0,0,0,0
+2020,170,Yonge-Bay Corridor,9,0,5,4,1,0,0,0,0,1
+2020,171,Junction-Wallace Emerson,2,0,0,1,0,1,0,0,0,0
+2020,172,Dovercourt Village,1,0,0,0,0,0,1,0,0,1
+2020,173,North Toronto,1,0,0,1,0,0,0,0,0,0
+2020,NSA,NSA,4,0,1,2,2,1,0,0,0,1
+2021,001,West Humber-Clairville,1,0,0,1,0,0,0,0,0,0
+2021,005,Elms-Old Rexdale,1,0,1,1,0,1,0,0,0,0
+2021,006,Kingsview Village-The Westway,1,0,0,1,0,0,0,0,0,0
+2021,008,Humber Heights-Westmount,1,0,1,0,0,0,0,0,0,0
+2021,009,Edenbridge-Humber Valley,1,0,1,0,0,0,0,0,0,0
+2021,015,Kingsway South,1,0,0,1,0,0,0,0,0,0
+2021,016,Stonegate-Queensway,2,0,0,1,0,1,0,0,0,0
+2021,018,New Toronto,2,0,2,1,0,0,0,0,0,0
+2021,019,Long Branch,1,0,1,0,0,0,0,0,0,0
+2021,021,Humber Summit,1,0,1,0,0,0,0,0,0,0
+2021,022,Humbermede,1,0,1,1,0,0,0,0,0,0
+2021,024,Black Creek,1,0,1,1,0,0,0,0,0,0
+2021,025,Glenfield-Jane Heights,2,0,0,2,0,0,0,0,0,0
+2021,027,York University Heights,4,0,2,2,1,2,0,0,0,0
+2021,028,Rustic,1,0,0,0,1,0,0,0,0,1
+2021,031,Yorkdale-Glen Park,2,0,1,1,0,0,0,0,0,0
+2021,033,Clanton Park,2,1,0,1,1,1,0,0,0,0
+2021,034,Bathurst Manor,2,0,1,1,0,0,0,0,0,0
+2021,035,Westminster-Branson,3,0,0,2,1,0,0,0,0,0
+2021,036,Newtonbrook West,1,0,1,0,0,0,0,0,0,0
+2021,037,Willowdale West,2,0,1,0,0,1,0,0,0,1
+2021,038,Lansing-Westgate,1,0,1,0,0,0,0,0,0,0
+2021,039,Bedford Park-Nortown,3,0,0,2,1,0,0,0,0,0
+2021,040,St.Andrew-Windfields,3,0,0,3,0,0,0,0,0,0
+2021,041,Bridle Path-Sunnybrook-York Mills,3,0,2,0,1,0,0,0,0,0
+2021,043,Victoria Village,1,0,1,0,0,0,0,0,0,0
+2021,047,Don Valley Village,1,0,1,0,0,0,0,0,0,0
+2021,048,Hillcrest Village,1,0,0,1,0,0,0,0,0,0
+2021,049,Bayview Woods-Steeles,1,0,1,0,0,0,0,0,0,0
+2021,050,Newtonbrook East,2,0,1,0,0,1,0,0,0,0
+2021,052,Bayview Village,1,0,0,1,0,0,0,0,0,0
+2021,053,Henry Farm,1,0,0,0,0,0,1,0,0,0
+2021,054,O'Connor-Parkview,1,0,0,1,0,0,0,0,0,0
+2021,058,Old East York,1,0,0,0,0,1,0,0,0,0
+2021,059,Danforth East York,3,0,1,2,0,0,0,0,0,1
+2021,060,Woodbine-Lumsden,1,0,1,0,0,0,0,0,0,0
+2021,061,Taylor-Massey,1,0,1,0,0,0,0,0,0,0
+2021,063,The Beaches,1,0,0,1,0,0,0,0,0,0
+2021,064,Woodbine Corridor,1,0,1,1,0,0,0,0,0,0
+2021,065,Greenwood-Coxwell,2,0,1,2,0,0,0,0,0,0
+2021,066,Danforth,2,0,2,0,0,1,0,0,0,1
+2021,068,North Riverdale,3,0,2,0,0,2,0,0,0,0
+2021,069,Blake-Jones,2,0,0,1,0,1,0,0,0,0
+2021,070,South Riverdale,3,0,1,1,0,0,1,0,0,0
+2021,071,Cabbagetown-South St.James Town,2,0,0,2,1,0,0,0,0,1
+2021,072,Regent Park,2,0,1,1,0,0,0,0,0,0
+2021,073,Moss Park,7,0,4,0,2,1,0,0,0,2
+2021,074,North St.James Town,4,0,4,0,0,0,0,0,0,1
+2021,078,Kensington-Chinatown,5,0,2,3,0,0,0,0,0,1
+2021,079,University,3,0,1,1,0,1,0,0,0,1
+2021,083,Dufferin Grove,3,0,0,1,0,2,0,0,0,0
+2021,086,Roncesvalles,3,0,1,1,0,1,0,0,0,2
+2021,087,High Park-Swansea,1,0,0,1,0,0,0,0,0,0
+2021,088,High Park North,2,0,0,0,1,0,1,0,0,1
+2021,091,Weston-Pelham Park,2,0,0,0,1,0,1,0,0,1
+2021,092,Corso Italia-Davenport,1,0,0,1,0,0,0,0,0,0
+2021,094,Wychwood,3,0,1,0,1,1,0,0,0,1
+2021,095,Annex,5,0,2,2,1,0,2,0,0,2
+2021,096,Casa Loma,1,0,0,1,0,0,0,0,0,1
+2021,098,Rosedale-Moore Park,4,0,2,2,0,0,0,0,0,2
+2021,099,Mount Pleasant East,1,0,1,0,0,0,0,0,0,1
+2021,100,Yonge-Eglinton,3,0,0,2,1,0,0,0,0,0
+2021,101,Forest Hill South,1,0,0,0,0,0,1,0,0,0
+2021,103,Lawrence Park South,3,0,1,1,1,0,0,0,0,1
+2021,105,Lawrence Park North,5,0,0,4,0,1,0,0,0,1
+2021,107,Oakwood Village,2,0,1,1,0,0,0,0,0,0
+2021,108,Briar Hill-Belgravia,2,0,2,0,0,0,0,0,0,0
+2021,110,Keelesdale-Eglinton West,2,0,1,1,0,0,0,0,0,1
+2021,111,Rockcliffe-Smythe,1,0,0,0,0,1,0,0,0,0
+2021,113,Weston,1,0,1,0,0,0,0,0,0,0
+2021,115,Mount Dennis,1,0,1,0,0,0,0,0,0,1
+2021,116,Steeles,3,0,1,0,1,1,0,0,0,0
+2021,119,Wexford/Maryvale,1,0,0,1,0,0,0,0,0,1
+2021,120,Clairlea-Birchmount,2,0,2,0,0,0,0,0,0,1
+2021,122,Birchcliffe-Cliffside,1,0,0,1,0,1,0,0,0,0
+2021,123,Cliffcrest,1,0,1,0,0,0,0,0,0,0
+2021,126,Dorset Park,1,0,0,0,1,0,0,0,0,1
+2021,129,Agincourt North,2,0,2,0,0,0,0,0,0,0
+2021,130,Milliken,2,0,1,0,1,0,0,0,0,0
+2021,135,Morningside,2,0,1,1,0,0,0,0,0,1
+2021,136,West Hill,3,0,1,0,0,0,3,0,0,1
+2021,139,Scarborough Village,1,0,1,0,0,0,0,0,0,1
+2021,142,Woburn North,1,0,0,0,0,1,0,0,0,0
+2021,144,Morningside Heights,1,0,0,1,1,0,0,0,0,1
+2021,145,Malvern West,1,0,0,1,0,0,0,0,0,1
+2021,146,Malvern East,1,0,0,0,0,1,0,0,0,0
+2021,148,East L'Amoreaux,2,0,2,0,0,1,0,0,0,0
+2021,150,Fenside-Parkwoods,3,0,1,2,1,0,0,0,0,1
+2021,153,Avondale,3,0,2,1,0,0,0,0,0,1
+2021,154,Oakdale-Beverley Heights,2,0,0,2,0,0,0,0,0,1
+2021,155,Downsview,3,0,0,3,0,0,0,0,0,1
+2021,156,Bendale-Glen Andrew,2,0,0,1,1,0,0,0,0,1
+2021,158,Islington,3,0,1,1,0,1,0,0,0,0
+2021,159,Etobicoke City Centre,2,0,1,1,0,0,0,0,0,0
+2021,160,Mimico-Queensway,4,0,2,2,0,1,1,0,0,2
+2021,161,Humber Bay Shores,2,0,1,1,0,1,0,0,0,1
+2021,162,West Queen West,1,0,0,1,0,0,0,0,0,1
+2021,163,Fort York-Liberty Village,1,0,0,1,0,0,1,0,0,0
+2021,164,Wellington Place,9,0,6,2,0,1,0,0,0,1
+2021,165,Harbourfront-CityPlace,9,0,3,5,1,0,1,0,0,1
+2021,166,St Lawrence-East Bayfront-The Islands,6,0,4,2,0,1,1,0,0,2
+2021,167,Church-Wellesley,11,0,6,0,1,3,2,0,0,3
+2021,168,Downtown Yonge East,7,0,4,0,2,0,1,0,0,3
+2021,169,Bay-Cloverhill,3,0,2,1,0,0,0,0,0,1
+2021,170,Yonge-Bay Corridor,7,0,3,3,1,0,0,0,0,3
+2021,171,Junction-Wallace Emerson,3,0,2,1,0,0,0,0,0,2
+2021,172,Dovercourt Village,4,0,1,0,1,2,0,0,0,2
+2021,173,North Toronto,2,0,1,0,0,0,0,0,1,1
+2021,174,South Eglinton-Davisville,1,0,1,0,0,0,0,0,0,0
+2021,NSA,NSA,2,0,0,1,0,0,2,0,0,1
+2022,006,Kingsview Village-The Westway,2,0,0,2,0,0,0,0,0,0
+2022,009,Edenbridge-Humber Valley,3,0,2,1,0,1,0,0,0,0
+2022,010,Princess-Rosethorn,2,0,1,1,0,0,0,0,0,0
+2022,011,Eringate-Centennial-West Deane,1,0,1,1,0,1,0,0,0,0
+2022,012,Markland Wood,3,0,1,2,0,0,0,0,0,0
+2022,016,Stonegate-Queensway,4,0,2,1,1,0,0,0,0,0
+2022,019,Long Branch,1,0,1,0,0,0,0,0,0,0
+2022,027,York University Heights,12,0,2,9,0,1,0,0,0,8
+2022,029,Maple Leaf,1,0,1,1,0,0,0,0,0,0
+2022,031,Yorkdale-Glen Park,1,0,1,1,0,0,0,0,0,0
+2022,032,Englemount-Lawrence,2,0,1,2,0,0,1,0,0,2
+2022,033,Clanton Park,1,0,0,1,0,0,0,0,0,1
+2022,034,Bathurst Manor,4,0,0,2,2,0,0,0,0,1
+2022,035,Westminster-Branson,2,0,0,1,1,0,0,0,0,1
+2022,036,Newtonbrook West,1,0,0,1,0,0,0,0,0,0
+2022,037,Willowdale West,2,0,2,0,0,0,0,0,0,0
+2022,039,Bedford Park-Nortown,3,0,1,3,0,1,0,0,0,0
+2022,040,St.Andrew-Windfields,1,0,1,0,0,0,0,0,0,0
+2022,042,Banbury-Don Mills,3,0,1,2,0,1,0,0,0,0
+2022,043,Victoria Village,2,0,0,1,0,0,1,0,0,0
+2022,044,Flemingdon Park,1,0,1,1,0,0,0,0,0,0
+2022,047,Don Valley Village,2,0,0,0,0,2,0,0,0,0
+2022,048,Hillcrest Village,1,0,1,0,0,0,0,0,0,0
+2022,050,Newtonbrook East,1,0,1,0,0,0,0,0,0,0
+2022,052,Bayview Village,2,0,0,1,1,0,0,0,0,1
+2022,057,Broadview North,1,0,0,0,0,1,0,0,0,0
+2022,058,Old East York,2,0,0,2,0,0,0,0,0,0
+2022,061,Taylor-Massey,2,0,1,0,0,1,0,0,0,0
+2022,062,East End-Danforth,6,0,1,2,1,2,1,0,0,1
+2022,063,The Beaches,3,0,0,1,1,1,0,0,0,0
+2022,064,Woodbine Corridor,1,0,0,0,0,1,1,0,0,0
+2022,065,Greenwood-Coxwell,6,0,2,2,0,3,0,0,0,0
+2022,066,Danforth,2,0,1,0,1,1,0,0,0,1
+2022,067,Playter Estates-Danforth,1,0,0,0,0,0,1,0,0,0
+2022,068,North Riverdale,3,0,2,2,0,0,0,0,0,2
+2022,069,Blake-Jones,1,0,0,1,0,0,0,0,0,0
+2022,070,South Riverdale,4,0,2,1,0,2,0,0,0,2
+2022,071,Cabbagetown-South St.James Town,4,0,1,2,0,2,0,0,0,0
+2022,072,Regent Park,1,0,0,0,0,0,1,0,0,1
+2022,073,Moss Park,5,0,3,0,0,2,0,0,0,1
+2022,074,North St.James Town,4,0,1,1,1,2,1,0,0,1
+2022,078,Kensington-Chinatown,5,0,2,2,1,0,0,0,0,1
+2022,079,University,7,0,2,5,0,0,1,0,0,0
+2022,081,Trinity-Bellwoods,3,0,0,2,1,0,0,0,0,1
+2022,086,Roncesvalles,2,0,1,1,0,0,0,0,0,0
+2022,088,High Park North,2,0,2,0,0,0,0,0,0,0
+2022,092,Corso Italia-Davenport,1,0,0,1,0,0,0,0,0,0
+2022,094,Wychwood,1,0,0,1,0,0,0,0,0,0
+2022,095,Annex,9,0,1,5,2,0,1,0,0,1
+2022,096,Casa Loma,1,0,1,0,0,0,0,0,0,0
+2022,097,Yonge-St.Clair,1,0,0,1,0,0,0,0,0,0
+2022,098,Rosedale-Moore Park,2,0,1,0,1,0,0,0,0,1
+2022,099,Mount Pleasant East,1,0,1,0,0,1,0,0,0,0
+2022,100,Yonge-Eglinton,2,0,1,0,0,0,0,0,1,0
+2022,106,Humewood-Cedarvale,2,0,2,0,0,0,0,0,0,0
+2022,108,Briar Hill-Belgravia,1,0,0,0,0,1,0,0,0,1
+2022,118,Tam O'Shanter-Sullivan,2,0,1,0,1,0,0,0,0,1
+2022,119,Wexford/Maryvale,2,0,0,0,0,2,0,0,0,1
+2022,120,Clairlea-Birchmount,2,0,1,2,0,0,0,0,0,0
+2022,122,Birchcliffe-Cliffside,3,0,0,3,0,0,0,0,0,1
+2022,124,Kennedy Park,1,0,0,1,0,0,0,0,0,0
+2022,125,Ionview,1,0,0,1,0,0,0,0,0,0
+2022,126,Dorset Park,1,0,1,1,0,0,0,0,0,0
+2022,129,Agincourt North,2,0,1,0,0,0,1,0,0,1
+2022,134,Highland Creek,1,0,0,1,0,0,0,0,0,0
+2022,135,Morningside,1,0,0,1,0,0,0,0,0,0
+2022,136,West Hill,1,0,0,0,1,0,0,0,0,1
+2022,139,Scarborough Village,1,0,0,0,0,1,0,0,0,0
+2022,141,Golfdale-Cedarbrae-Woburn,1,0,1,0,0,0,0,0,0,1
+2022,142,Woburn North,1,0,1,0,0,0,0,0,0,0
+2022,145,Malvern West,2,0,2,0,0,0,0,0,0,0
+2022,146,Malvern East,2,0,1,0,1,1,0,0,0,0
+2022,151,Yonge-Doris,3,0,3,2,0,0,0,0,0,0
+2022,152,East Willowdale,3,0,2,3,0,0,0,0,0,0
+2022,153,Avondale,1,0,0,1,0,0,0,0,0,0
+2022,154,Oakdale-Beverley Heights,2,0,1,1,0,0,0,0,0,0
+2022,155,Downsview,1,0,0,1,0,0,0,0,0,0
+2022,156,Bendale-Glen Andrew,2,0,1,1,0,0,0,0,0,0
+2022,157,Bendale South,2,0,2,0,0,1,0,0,0,1
+2022,158,Islington,1,0,1,0,0,0,0,0,0,0
+2022,159,Etobicoke City Centre,9,0,1,2,6,0,1,0,0,5
+2022,160,Mimico-Queensway,3,0,1,0,2,0,0,0,0,0
+2022,161,Humber Bay Shores,1,0,0,0,1,0,0,0,0,0
+2022,164,Wellington Place,4,0,3,1,0,0,0,0,0,2
+2022,165,Harbourfront-CityPlace,4,0,2,2,0,1,0,0,0,0
+2022,166,St Lawrence-East Bayfront-The Islands,4,0,1,2,1,0,1,0,0,2
+2022,167,Church-Wellesley,10,0,7,0,0,2,2,0,0,6
+2022,168,Downtown Yonge East,9,0,4,3,1,1,1,0,0,4
+2022,169,Bay-Cloverhill,1,0,1,0,0,0,0,0,0,0
+2022,170,Yonge-Bay Corridor,9,0,7,0,0,2,1,0,0,2
+2022,172,Dovercourt Village,4,0,1,2,0,1,0,0,0,0
+2022,173,North Toronto,1,0,0,0,0,1,0,0,0,0
+2022,174,South Eglinton-Davisville,1,0,1,1,0,0,0,0,0,0
+2022,NSA,NSA,5,0,1,2,1,0,1,0,0,0
+2023,001,West Humber-Clairville,1,0,1,0,0,0,0,0,0,0
+2023,005,Elms-Old Rexdale,1,0,0,1,0,0,0,0,0,0
+2023,011,Eringate-Centennial-West Deane,5,0,1,3,0,1,0,0,0,0
+2023,012,Markland Wood,2,0,0,0,2,0,0,0,0,0
+2023,016,Stonegate-Queensway,3,0,0,1,0,2,0,0,0,0
+2023,018,New Toronto,2,0,1,0,1,1,0,0,0,0
+2023,021,Humber Summit,1,0,1,0,0,0,0,0,0,0
+2023,022,Humbermede,1,0,1,0,0,0,0,0,0,0
+2023,023,Pelmo Park-Humberlea,2,0,1,0,0,1,0,0,0,0
+2023,025,Glenfield-Jane Heights,2,0,1,1,0,0,0,0,0,0
+2023,027,York University Heights,5,0,1,1,0,3,0,0,0,0
+2023,028,Rustic,1,0,0,1,0,0,0,0,0,0
+2023,031,Yorkdale-Glen Park,5,0,2,1,1,2,0,0,0,1
+2023,032,Englemount-Lawrence,7,0,0,5,1,0,0,0,0,1
+2023,033,Clanton Park,6,0,1,6,0,0,0,0,0,1
+2023,034,Bathurst Manor,5,0,0,4,1,0,0,0,0,1
+2023,035,Westminster-Branson,3,0,0,3,0,0,0,0,0,1
+2023,036,Newtonbrook West,18,0,1,16,1,0,0,0,0,1
+2023,037,Willowdale West,5,0,3,1,1,1,0,0,0,1
+2023,038,Lansing-Westgate,6,0,1,4,0,0,0,0,0,0
+2023,039,Bedford Park-Nortown,7,0,1,4,2,0,0,0,0,1
+2023,040,St.Andrew-Windfields,4,0,0,4,0,0,0,0,0,0
+2023,041,Bridle Path-Sunnybrook-York Mills,1,0,1,0,0,0,0,0,0,0
+2023,042,Banbury-Don Mills,3,0,0,3,0,0,0,0,0,0
+2023,046,Pleasant View,2,0,2,0,0,0,0,0,0,0
+2023,047,Don Valley Village,3,0,0,1,0,2,0,0,0,0
+2023,048,Hillcrest Village,1,0,1,1,0,0,0,0,0,0
+2023,050,Newtonbrook East,1,0,1,0,0,0,0,0,0,0
+2023,052,Bayview Village,1,0,0,1,0,0,0,0,0,0
+2023,053,Henry Farm,1,0,0,0,0,0,1,0,0,0
+2023,055,Thorncliffe Park,7,0,0,1,1,4,0,0,0,0
+2023,056,Leaside-Bennington,3,0,0,2,0,1,0,0,0,0
+2023,057,Broadview North,1,0,0,0,0,1,0,0,0,0
+2023,060,Woodbine-Lumsden,2,0,0,0,0,2,0,0,0,2
+2023,061,Taylor-Massey,2,0,0,1,0,1,0,0,0,1
+2023,062,East End-Danforth,5,0,3,1,1,0,1,0,0,2
+2023,063,The Beaches,2,0,1,0,0,1,0,0,0,1
+2023,065,Greenwood-Coxwell,5,0,1,4,0,0,0,0,0,1
+2023,066,Danforth,5,0,3,1,1,1,0,0,0,2
+2023,067,Playter Estates-Danforth,1,0,1,0,0,0,0,0,0,1
+2023,069,Blake-Jones,4,0,1,4,0,0,0,0,0,2
+2023,070,South Riverdale,2,0,0,2,0,0,0,0,0,0
+2023,071,Cabbagetown-South St.James Town,3,0,1,0,1,1,0,0,0,2
+2023,072,Regent Park,2,0,1,1,0,0,0,0,0,0
+2023,073,Moss Park,7,0,4,2,0,0,1,0,0,3
+2023,074,North St.James Town,4,0,2,0,1,1,0,0,0,1
+2023,078,Kensington-Chinatown,5,0,2,1,2,0,0,0,0,0
+2023,079,University,8,0,0,3,3,2,0,0,0,1
+2023,080,Palmerston-Little Italy,1,0,1,1,1,0,0,0,0,0
+2023,084,Little Portugal,5,0,1,3,0,2,0,0,0,0
+2023,085,South Parkdale,4,0,1,1,0,2,0,0,0,0
+2023,087,High Park-Swansea,3,0,2,1,1,0,0,0,0,0
+2023,088,High Park North,6,0,2,0,2,2,0,0,0,0
+2023,089,Runnymede-Bloor West Village,7,0,1,5,0,1,0,0,0,1
+2023,091,Weston-Pelham Park,1,0,0,0,0,1,0,0,0,0
+2023,092,Corso Italia-Davenport,1,0,0,0,0,1,0,0,0,0
+2023,094,Wychwood,3,0,1,2,0,0,0,0,0,0
+2023,095,Annex,12,0,0,7,2,2,1,0,0,2
+2023,096,Casa Loma,1,0,0,1,0,0,0,0,0,0
+2023,097,Yonge-St.Clair,1,0,0,1,0,0,0,0,0,0
+2023,098,Rosedale-Moore Park,5,0,2,2,0,1,0,0,0,1
+2023,099,Mount Pleasant East,3,0,1,2,0,0,1,0,0,1
+2023,100,Yonge-Eglinton,4,0,1,1,2,0,1,0,0,1
+2023,101,Forest Hill South,1,0,0,0,0,1,0,0,0,0
+2023,102,Forest Hill North,4,0,0,4,0,0,0,0,0,1
+2023,103,Lawrence Park South,3,0,2,2,0,0,0,0,0,0
+2023,105,Lawrence Park North,3,0,0,2,0,1,0,0,0,0
+2023,106,Humewood-Cedarvale,4,0,0,3,0,1,0,0,0,2
+2023,107,Oakwood Village,1,0,0,1,0,0,0,0,0,0
+2023,111,Rockcliffe-Smythe,3,0,1,0,1,1,0,0,0,0
+2023,113,Weston,3,0,1,2,0,0,1,0,0,0
+2023,118,Tam O'Shanter-Sullivan,2,0,0,2,0,0,0,0,0,0
+2023,119,Wexford/Maryvale,3,0,3,1,0,0,1,0,0,0
+2023,120,Clairlea-Birchmount,2,0,1,1,0,0,0,0,0,0
+2023,121,Oakridge,1,0,1,0,0,0,0,0,0,0
+2023,122,Birchcliffe-Cliffside,3,0,1,1,1,1,0,0,0,0
+2023,123,Cliffcrest,2,0,1,1,0,0,0,0,0,0
+2023,124,Kennedy Park,3,0,1,0,0,1,1,0,0,0
+2023,128,Agincourt South-Malvern West,2,0,0,2,0,0,0,0,0,0
+2023,130,Milliken,2,0,0,2,0,0,0,0,0,0
+2023,136,West Hill,1,0,0,1,0,0,0,0,0,1
+2023,140,Guildwood,1,0,0,1,1,0,0,0,0,0
+2023,141,Golfdale-Cedarbrae-Woburn,3,0,0,3,1,0,0,0,0,1
+2023,142,Woburn North,1,0,0,1,0,0,0,0,0,0
+2023,143,West Rouge,3,0,1,2,0,0,0,0,0,0
+2023,144,Morningside Heights,1,0,1,0,0,0,0,0,0,0
+2023,146,Malvern East,1,0,1,1,0,0,0,0,0,0
+2023,147,L'Amoreaux West,1,0,0,1,0,0,0,0,0,0
+2023,148,East L'Amoreaux,4,0,0,1,0,3,0,0,0,1
+2023,150,Fenside-Parkwoods,1,0,1,0,0,0,0,0,0,1
+2023,151,Yonge-Doris,3,0,1,1,1,0,0,0,0,1
+2023,152,East Willowdale,2,0,0,1,1,0,0,0,0,0
+2023,153,Avondale,1,0,0,1,0,0,0,0,0,0
+2023,154,Oakdale-Beverley Heights,9,0,2,6,1,1,0,0,0,2
+2023,155,Downsview,1,0,0,0,0,0,1,0,0,0
+2023,156,Bendale-Glen Andrew,4,0,1,2,2,0,0,0,0,2
+2023,157,Bendale South,1,0,0,1,1,0,0,0,0,0
+2023,158,Islington,1,0,1,0,1,0,0,0,0,0
+2023,159,Etobicoke City Centre,1,0,0,1,0,0,0,0,0,0
+2023,162,West Queen West,2,0,0,1,0,1,0,0,0,0
+2023,164,Wellington Place,4,0,1,2,1,1,0,0,0,0
+2023,165,Harbourfront-CityPlace,2,0,1,0,1,0,0,0,0,1
+2023,166,St Lawrence-East Bayfront-The Islands,5,0,3,3,1,0,0,0,0,3
+2023,167,Church-Wellesley,7,0,1,2,0,2,2,0,0,6
+2023,168,Downtown Yonge East,7,0,1,3,1,2,0,0,0,4
+2023,169,Bay-Cloverhill,3,0,1,0,0,1,1,0,0,2
+2023,170,Yonge-Bay Corridor,16,0,4,7,4,2,0,0,0,2
+2023,171,Junction-Wallace Emerson,4,0,0,2,1,0,1,0,0,2
+2023,172,Dovercourt Village,4,0,1,4,0,1,0,0,0,0
+2023,173,North Toronto,2,0,1,1,0,0,0,0,0,0
+2023,174,South Eglinton-Davisville,1,0,0,1,0,0,0,0,0,0
+2023,NSA,NSA,3,0,1,2,0,0,0,0,0,0
+2024,001,West Humber-Clairville,2,0,1,1,0,0,0,0,0,0
+2024,002,Mount Olive-Silverstone-Jamestown,3,0,0,2,0,1,0,0,0,2
+2024,004,Rexdale-Kipling,2,0,1,0,0,1,0,0,0,0
+2024,005,Elms-Old Rexdale,1,0,1,0,0,0,0,0,0,0
+2024,006,Kingsview Village-The Westway,1,0,0,0,1,0,0,0,0,0
+2024,007,Willowridge-Martingrove-Richview,3,0,1,1,0,1,0,0,0,0
+2024,008,Humber Heights-Westmount,1,0,1,0,0,0,0,0,0,1
+2024,009,Edenbridge-Humber Valley,4,0,1,3,0,1,0,0,0,0
+2024,010,Princess-Rosethorn,2,0,0,2,0,1,0,0,0,0
+2024,015,Kingsway South,4,0,3,2,0,0,0,0,0,1
+2024,016,Stonegate-Queensway,4,0,3,0,0,1,0,0,0,0
+2024,018,New Toronto,2,0,1,1,0,0,0,0,0,0
+2024,023,Pelmo Park-Humberlea,3,0,1,0,0,1,1,0,0,0
+2024,024,Black Creek,1,0,1,0,0,0,0,0,0,1
+2024,027,York University Heights,9,0,3,1,4,1,0,0,0,2
+2024,028,Rustic,2,0,2,0,0,0,0,0,0,0
+2024,030,Brookhaven-Amesbury,2,0,1,0,0,1,0,0,0,2
+2024,031,Yorkdale-Glen Park,22,0,3,19,0,0,0,0,0,18
+2024,032,Englemount-Lawrence,4,0,2,2,1,0,0,0,0,2
+2024,033,Clanton Park,8,0,0,7,1,0,0,0,0,1
+2024,034,Bathurst Manor,13,0,0,9,3,1,0,0,0,5
+2024,035,Westminster-Branson,3,0,0,3,0,0,0,0,0,0
+2024,036,Newtonbrook West,6,0,1,4,1,0,0,0,0,0
+2024,037,Willowdale West,4,0,1,1,0,2,0,0,0,2
+2024,038,Lansing-Westgate,1,0,1,0,0,0,0,0,0,1
+2024,039,Bedford Park-Nortown,4,0,1,2,1,0,0,0,0,2
+2024,040,St.Andrew-Windfields,6,0,1,4,1,1,0,0,0,1
+2024,042,Banbury-Don Mills,1,0,0,1,0,0,0,0,0,1
+2024,046,Pleasant View,1,0,0,1,0,0,0,0,0,0
+2024,047,Don Valley Village,2,0,0,0,1,0,1,0,0,1
+2024,048,Hillcrest Village,1,0,1,0,0,0,0,0,0,0
+2024,049,Bayview Woods-Steeles,1,0,0,1,0,0,0,0,0,0
+2024,050,Newtonbrook East,1,0,0,0,0,0,1,0,0,1
+2024,052,Bayview Village,1,0,1,1,0,0,0,0,0,0
+2024,053,Henry Farm,1,0,0,0,0,1,0,0,0,0
+2024,054,O'Connor-Parkview,1,0,1,0,0,0,0,0,0,0
+2024,057,Broadview North,1,0,1,0,0,0,0,0,0,0
+2024,059,Danforth East York,1,0,1,0,0,0,0,0,0,0
+2024,061,Taylor-Massey,3,0,0,0,0,2,1,0,0,0
+2024,062,East End-Danforth,3,0,0,1,0,2,0,0,0,0
+2024,063,The Beaches,5,0,2,3,0,0,0,0,0,1
+2024,064,Woodbine Corridor,2,0,1,1,0,0,0,0,0,0
+2024,066,Danforth,3,0,3,0,0,0,0,0,0,1
+2024,068,North Riverdale,3,0,0,2,0,1,0,0,0,0
+2024,069,Blake-Jones,2,0,0,2,0,0,0,0,0,0
+2024,070,South Riverdale,8,0,1,4,1,0,2,0,0,2
+2024,071,Cabbagetown-South St.James Town,4,0,1,2,0,1,0,0,0,2
+2024,072,Regent Park,5,0,0,4,1,1,0,0,0,0
+2024,073,Moss Park,4,0,0,0,2,3,0,0,0,2
+2024,078,Kensington-Chinatown,7,0,0,6,0,0,0,0,0,3
+2024,079,University,13,0,0,9,3,0,0,0,0,2
+2024,080,Palmerston-Little Italy,4,0,1,0,0,3,0,0,0,0
+2024,081,Trinity-Bellwoods,5,0,0,2,2,0,1,0,0,1
+2024,083,Dufferin Grove,1,0,1,0,0,0,0,0,0,1
+2024,084,Little Portugal,1,0,0,1,0,0,0,0,0,0
+2024,085,South Parkdale,5,0,1,2,0,1,1,0,0,2
+2024,086,Roncesvalles,5,0,2,1,1,0,1,0,0,2
+2024,087,High Park-Swansea,3,0,1,2,0,0,0,0,0,2
+2024,088,High Park North,12,0,6,6,1,0,0,0,0,5
+2024,089,Runnymede-Bloor West Village,1,0,0,1,0,1,0,0,0,0
+2024,090,Junction Area,3,0,1,1,0,2,0,0,0,2
+2024,091,Weston-Pelham Park,1,0,0,0,0,1,0,0,0,0
+2024,094,Wychwood,1,0,0,0,1,0,0,0,0,0
+2024,095,Annex,13,0,4,4,0,3,2,0,0,3
+2024,096,Casa Loma,3,0,1,2,0,0,0,0,0,0
+2024,097,Yonge-St.Clair,4,0,0,2,2,0,0,0,0,2
+2024,098,Rosedale-Moore Park,11,0,5,2,1,3,0,0,0,5
+2024,099,Mount Pleasant East,2,0,0,2,0,0,0,0,0,1
+2024,100,Yonge-Eglinton,2,0,0,2,0,0,0,0,0,0
+2024,101,Forest Hill South,1,0,0,0,0,0,1,0,0,0
+2024,102,Forest Hill North,2,0,0,1,1,0,0,0,0,0
+2024,103,Lawrence Park South,1,0,0,0,0,1,0,0,0,0
+2024,105,Lawrence Park North,1,0,0,1,0,0,0,0,0,0
+2024,106,Humewood-Cedarvale,2,0,1,1,0,0,0,0,0,0
+2024,107,Oakwood Village,2,0,0,1,1,0,0,0,0,0
+2024,108,Briar Hill-Belgravia,2,0,1,1,0,0,0,0,0,0
+2024,111,Rockcliffe-Smythe,2,0,1,1,0,0,0,0,0,0
+2024,113,Weston,4,0,1,3,1,0,0,0,0,0
+2024,115,Mount Dennis,1,0,1,0,0,0,0,0,0,1
+2024,116,Steeles,1,0,0,1,0,0,0,0,0,0
+2024,119,Wexford/Maryvale,5,0,0,4,0,1,1,0,0,1
+2024,120,Clairlea-Birchmount,5,0,4,1,0,0,0,0,0,0
+2024,121,Oakridge,1,0,0,1,0,0,0,0,0,1
+2024,122,Birchcliffe-Cliffside,1,0,0,0,0,1,0,0,0,0
+2024,124,Kennedy Park,4,0,1,4,0,0,0,0,1,1
+2024,126,Dorset Park,2,0,0,1,0,1,0,0,0,2
+2024,128,Agincourt South-Malvern West,2,0,0,1,1,0,0,0,0,0
+2024,129,Agincourt North,1,0,0,0,0,1,0,0,0,0
+2024,133,Centennial Scarborough,1,0,0,1,0,0,0,0,0,1
+2024,135,Morningside,1,0,1,0,0,1,0,0,0,0
+2024,136,West Hill,2,0,1,1,0,0,0,0,0,0
+2024,138,Eglinton East,2,0,0,1,0,1,0,0,0,0
+2024,139,Scarborough Village,4,0,0,2,1,1,0,0,0,0
+2024,140,Guildwood,1,0,1,0,0,0,0,0,0,0
+2024,141,Golfdale-Cedarbrae-Woburn,1,0,0,1,0,0,0,0,0,1
+2024,142,Woburn North,1,0,0,0,0,1,0,0,0,0
+2024,143,West Rouge,1,0,0,1,0,0,0,0,0,0
+2024,145,Malvern West,1,0,1,0,0,0,0,0,0,0
+2024,149,Parkwoods-O'Connor Hills,1,0,0,1,0,0,0,0,0,1
+2024,151,Yonge-Doris,3,0,1,2,0,0,0,0,0,0
+2024,152,East Willowdale,2,0,0,1,0,0,0,0,0,0
+2024,154,Oakdale-Beverley Heights,2,0,1,0,0,0,1,0,0,0
+2024,155,Downsview,2,0,1,1,0,0,0,0,0,1
+2024,156,Bendale-Glen Andrew,1,0,0,0,0,0,1,0,0,1
+2024,157,Bendale South,1,0,1,0,0,0,0,0,0,0
+2024,158,Islington,4,0,2,0,0,1,1,0,0,1
+2024,159,Etobicoke City Centre,3,0,3,0,0,0,0,0,0,2
+2024,160,Mimico-Queensway,1,0,1,0,0,1,0,0,0,1
+2024,162,West Queen West,1,0,0,1,0,0,0,0,0,0
+2024,163,Fort York-Liberty Village,3,0,0,2,0,0,1,0,0,0
+2024,164,Wellington Place,4,0,1,3,1,0,0,0,0,1
+2024,165,Harbourfront-CityPlace,5,0,1,0,1,3,0,0,0,4
+2024,166,St Lawrence-East Bayfront-The Islands,11,0,3,5,2,1,0,0,0,6
+2024,167,Church-Wellesley,4,0,1,1,0,2,0,0,0,1
+2024,168,Downtown Yonge East,15,0,4,5,3,1,2,0,0,4
+2024,169,Bay-Cloverhill,18,0,3,12,2,1,0,0,0,2
+2024,170,Yonge-Bay Corridor,19,0,2,12,4,1,1,0,0,3
+2024,171,Junction-Wallace Emerson,10,0,3,6,0,2,0,0,0,2
+2024,172,Dovercourt Village,2,0,1,2,0,1,0,0,0,0
+2024,173,North Toronto,3,0,1,0,2,0,0,0,0,0
+2024,174,South Eglinton-Davisville,1,0,0,0,1,0,0,0,0,1
+2024,NSA,NSA,4,0,0,3,1,0,0,0,0,0
+2025,001,West Humber-Clairville,3,0,1,2,0,0,0,0,0,0
+2025,002,Mount Olive-Silverstone-Jamestown,1,0,0,1,0,0,0,0,0,0
+2025,006,Kingsview Village-The Westway,1,0,0,1,0,0,0,0,0,0
+2025,009,Edenbridge-Humber Valley,3,0,0,3,0,0,0,0,0,0
+2025,010,Princess-Rosethorn,2,0,2,0,0,0,0,0,0,1
+2025,011,Eringate-Centennial-West Deane,1,0,1,1,0,0,0,0,0,0
+2025,012,Markland Wood,1,0,1,0,0,0,0,0,0,0
+2025,015,Kingsway South,3,0,0,3,0,0,0,0,0,0
+2025,016,Stonegate-Queensway,2,0,1,1,1,0,0,0,0,0
+2025,019,Long Branch,1,0,0,1,0,0,0,0,0,0
+2025,021,Humber Summit,4,0,3,0,0,1,0,0,0,2
+2025,022,Humbermede,1,0,0,1,0,0,0,0,0,1
+2025,027,York University Heights,1,0,0,0,1,0,0,0,0,1
+2025,028,Rustic,1,0,0,1,0,0,0,0,0,0
+2025,030,Brookhaven-Amesbury,2,0,1,0,0,0,1,0,0,0
+2025,031,Yorkdale-Glen Park,2,0,1,0,0,1,0,0,0,1
+2025,032,Englemount-Lawrence,3,0,1,2,0,0,0,0,0,1
+2025,033,Clanton Park,4,0,1,3,0,0,0,0,0,0
+2025,034,Bathurst Manor,5,0,2,4,0,0,0,0,0,0
+2025,035,Westminster-Branson,2,0,1,2,0,0,0,0,0,0
+2025,036,Newtonbrook West,1,0,0,0,1,0,0,0,0,0
+2025,037,Willowdale West,7,0,1,4,2,1,1,0,0,2
+2025,038,Lansing-Westgate,1,0,0,1,0,0,0,0,0,1
+2025,040,St.Andrew-Windfields,1,0,0,1,0,0,0,0,0,0
+2025,042,Banbury-Don Mills,3,0,0,2,0,1,0,0,0,0
+2025,043,Victoria Village,1,0,0,0,0,0,1,0,0,1
+2025,047,Don Valley Village,3,0,2,1,0,0,0,0,0,0
+2025,059,Danforth East York,1,0,0,0,0,1,0,0,0,0
+2025,061,Taylor-Massey,2,0,1,0,0,1,0,0,0,0
+2025,062,East End-Danforth,2,0,1,1,0,0,0,0,0,0
+2025,063,The Beaches,5,0,0,3,0,1,0,0,0,2
+2025,064,Woodbine Corridor,4,0,1,3,0,0,1,0,0,2
+2025,066,Danforth,5,0,1,3,1,0,0,0,0,2
+2025,069,Blake-Jones,2,0,0,2,0,0,0,0,0,0
+2025,070,South Riverdale,4,0,2,0,0,2,0,0,0,2
+2025,071,Cabbagetown-South St.James Town,2,0,1,2,0,0,0,0,0,0
+2025,072,Regent Park,2,0,1,1,0,0,0,0,0,1
+2025,073,Moss Park,5,0,2,1,0,1,2,0,0,2
+2025,074,North St.James Town,1,0,0,1,0,0,0,0,0,0
+2025,078,Kensington-Chinatown,3,0,0,2,1,0,0,0,0,0
+2025,079,University,5,0,1,3,0,1,0,0,0,1
+2025,081,Trinity-Bellwoods,4,0,0,2,0,2,0,0,0,0
+2025,083,Dufferin Grove,1,0,0,0,0,1,0,0,0,0
+2025,084,Little Portugal,1,0,0,0,0,1,0,0,0,0
+2025,085,South Parkdale,1,0,0,0,0,1,0,0,0,1
+2025,086,Roncesvalles,1,0,0,1,0,0,0,0,0,1
+2025,087,High Park-Swansea,1,0,1,0,0,0,0,0,0,0
+2025,088,High Park North,5,0,2,0,2,1,0,0,0,2
+2025,090,Junction Area,2,0,0,0,1,0,1,0,0,0
+2025,092,Corso Italia-Davenport,2,0,0,0,0,2,0,0,0,1
+2025,094,Wychwood,1,0,0,1,0,0,0,0,0,0
+2025,095,Annex,12,0,2,8,2,0,0,0,0,2
+2025,096,Casa Loma,2,0,1,1,0,0,0,0,0,0
+2025,097,Yonge-St.Clair,1,0,0,1,0,0,0,0,0,0
+2025,098,Rosedale-Moore Park,2,0,0,1,1,0,0,0,0,1
+2025,099,Mount Pleasant East,2,0,0,1,1,0,0,0,0,0
+2025,100,Yonge-Eglinton,1,0,0,1,0,0,0,0,0,0
+2025,102,Forest Hill North,2,0,0,2,0,0,0,0,0,0
+2025,107,Oakwood Village,1,0,0,0,1,0,0,0,0,1
+2025,108,Briar Hill-Belgravia,1,0,0,1,0,0,0,0,0,0
+2025,114,Lambton Baby Point,1,0,0,1,0,0,0,0,0,0
+2025,115,Mount Dennis,1,0,1,0,0,0,0,0,0,0
+2025,118,Tam O'Shanter-Sullivan,1,0,0,1,0,0,0,0,0,0
+2025,119,Wexford/Maryvale,2,0,2,0,0,0,0,0,0,1
+2025,120,Clairlea-Birchmount,2,0,0,2,1,0,0,0,0,1
+2025,122,Birchcliffe-Cliffside,4,0,3,0,0,3,0,0,0,1
+2025,123,Cliffcrest,1,0,0,1,0,0,0,0,0,0
+2025,124,Kennedy Park,1,0,0,1,1,0,1,0,0,1
+2025,126,Dorset Park,2,0,1,1,0,0,0,0,0,1
+2025,129,Agincourt North,1,0,0,1,0,0,0,0,0,0
+2025,130,Milliken,1,0,0,1,0,0,0,0,0,0
+2025,133,Centennial Scarborough,2,0,1,0,0,1,0,0,0,1
+2025,138,Eglinton East,1,0,0,1,0,0,0,0,0,1
+2025,141,Golfdale-Cedarbrae-Woburn,2,0,1,1,0,0,0,0,0,1
+2025,143,West Rouge,2,0,2,1,0,0,0,0,0,0
+2025,144,Morningside Heights,1,0,0,0,1,0,0,0,0,0
+2025,145,Malvern West,1,0,0,0,0,1,0,0,0,0
+2025,146,Malvern East,3,0,3,2,0,0,0,0,0,1
+2025,148,East L'Amoreaux,1,0,1,0,0,0,0,0,0,0
+2025,149,Parkwoods-O'Connor Hills,1,0,0,1,0,0,0,0,0,1
+2025,155,Downsview,6,0,0,0,6,0,0,0,0,5
+2025,156,Bendale-Glen Andrew,2,0,0,0,0,0,2,0,0,0
+2025,158,Islington,1,0,0,0,1,0,0,0,0,0
+2025,159,Etobicoke City Centre,2,0,1,0,0,1,0,0,0,1
+2025,160,Mimico-Queensway,1,0,1,0,0,0,0,0,0,1
+2025,161,Humber Bay Shores,1,0,0,0,0,1,0,0,0,1
+2025,162,West Queen West,1,0,0,1,0,0,0,0,0,0
+2025,163,Fort York-Liberty Village,1,0,0,1,0,0,0,0,0,0
+2025,164,Wellington Place,4,0,1,2,0,1,0,0,0,0
+2025,165,Harbourfront-CityPlace,3,0,2,1,0,1,0,0,0,2
+2025,166,St Lawrence-East Bayfront-The Islands,3,0,2,1,0,1,1,0,0,2
+2025,167,Church-Wellesley,5,0,3,1,0,2,0,0,0,2
+2025,168,Downtown Yonge East,8,0,1,5,0,1,1,0,0,0
+2025,169,Bay-Cloverhill,7,0,1,6,0,1,0,0,0,0
+2025,170,Yonge-Bay Corridor,7,0,4,2,1,0,0,0,0,3
+2025,171,Junction-Wallace Emerson,3,0,0,2,0,0,1,0,0,1
+2025,172,Dovercourt Village,3,0,1,1,0,1,0,0,0,0
+2025,NSA,NSA,1,0,0,1,0,0,0,0,0,0

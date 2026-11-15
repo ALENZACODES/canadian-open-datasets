@@ -1,0 +1,72 @@
+column,file,type,description
+occurrence_year,hate_crime_events.csv,integer,"Year the occurrence took place, which can be earlier than the reported year."
+occurrence_date,hate_crime_events.csv,datetime,Occurrence date (YYYY-MM-DD).
+reported_year,hate_crime_events.csv,integer,Year the occurrence was reported to police.
+reported_date,hate_crime_events.csv,datetime,Reported date (YYYY-MM-DD).
+division,hate_crime_events.csv,string,Toronto Police Service division code.
+location_type,hate_crime_events.csv,string,"Type of location as published (for example a house, a school, or a place of worship)."
+primary_offence,hate_crime_events.csv,string,Primary offence as recorded by the Hate Crime Unit.
+multiple_bias,hate_crime_events.csv,string,Whether more than one bias category was recorded.
+arrest_made,hate_crime_events.csv,string,Whether an arrest was recorded.
+neighbourhood_id,hate_crime_events.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,hate_crime_events.csv,string,Neighbourhood name in the 158-neighbourhood model.
+neighbourhood_id_140,hate_crime_events.csv,string,Older 140-neighbourhood model number.
+neighbourhood_name_140,hate_crime_events.csv,string,Older 140-neighbourhood model name.
+bias_age,hate_crime_events.csv,string,Detail recorded for age bias. Empty when that bias was not recorded.
+has_age_bias,hate_crime_events.csv,boolean,True when a age bias was recorded on the event.
+bias_disability,hate_crime_events.csv,string,Detail recorded for mental or physical disability bias. Empty when that bias was not recorded.
+has_disability_bias,hate_crime_events.csv,boolean,True when a mental or physical disability bias was recorded on the event.
+bias_race,hate_crime_events.csv,string,Detail recorded for race bias. Empty when that bias was not recorded.
+has_race_bias,hate_crime_events.csv,boolean,True when a race bias was recorded on the event.
+bias_ethnicity,hate_crime_events.csv,string,Detail recorded for ethnicity bias. Empty when that bias was not recorded.
+has_ethnicity_bias,hate_crime_events.csv,boolean,True when a ethnicity bias was recorded on the event.
+bias_language,hate_crime_events.csv,string,Detail recorded for language bias. Empty when that bias was not recorded.
+has_language_bias,hate_crime_events.csv,boolean,True when a language bias was recorded on the event.
+bias_religion,hate_crime_events.csv,string,Detail recorded for religion bias. Empty when that bias was not recorded.
+has_religion_bias,hate_crime_events.csv,boolean,True when a religion bias was recorded on the event.
+bias_sexual_orientation,hate_crime_events.csv,string,Detail recorded for sexual orientation bias. Empty when that bias was not recorded.
+has_sexual_orientation_bias,hate_crime_events.csv,boolean,True when a sexual orientation bias was recorded on the event.
+bias_gender,hate_crime_events.csv,string,Detail recorded for gender bias. Empty when that bias was not recorded.
+has_gender_bias,hate_crime_events.csv,boolean,True when a gender bias was recorded on the event.
+reported_year,hate_crime_bias_mentions.csv,integer,Year the occurrence was reported.
+occurrence_year,hate_crime_bias_mentions.csv,integer,Year the occurrence took place.
+neighbourhood_id,hate_crime_bias_mentions.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,hate_crime_bias_mentions.csv,string,Neighbourhood name.
+division,hate_crime_bias_mentions.csv,string,Police division code.
+location_type,hate_crime_bias_mentions.csv,string,Type of location as published.
+primary_offence,hate_crime_bias_mentions.csv,string,Primary offence as recorded.
+bias_category,hate_crime_bias_mentions.csv,string,"Short bias category code (age, disability, race, ethnicity, language, religion, sexual_orientation, gender)."
+bias_label,hate_crime_bias_mentions.csv,string,Readable bias category name.
+bias_detail,hate_crime_bias_mentions.csv,string,"The specific bias recorded (for example Jewish, Black, or Gay). Yes when the source only flagged the category."
+multiple_bias,hate_crime_bias_mentions.csv,string,Whether more than one bias category was recorded on the event.
+arrest_made,hate_crime_bias_mentions.csv,string,Whether an arrest was recorded.
+reported_year,hate_crimes_yearly_by_neighbourhood.csv,integer,Year the occurrence was reported.
+neighbourhood_id,hate_crimes_yearly_by_neighbourhood.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,hate_crimes_yearly_by_neighbourhood.csv,string,Neighbourhood name.
+events,hate_crimes_yearly_by_neighbourhood.csv,integer,Number of hate crime occurrences reported in that neighbourhood and year.
+disability_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with a mental or physical disability bias recorded.
+race_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with a race bias recorded.
+religion_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with a religion bias recorded.
+ethnicity_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with an ethnicity bias recorded.
+sexual_orientation_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with a sexual orientation bias recorded.
+gender_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with a gender bias recorded.
+age_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with an age bias recorded.
+language_bias,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with a language bias recorded.
+arrest_made,hate_crimes_yearly_by_neighbourhood.csv,integer,Occurrences with an arrest recorded.
+reported_year,hate_crimes_citywide_by_year.csv,integer,Year the occurrence was reported.
+events,hate_crimes_citywide_by_year.csv,integer,Citywide count of verified hate crime occurrences.
+reported_year,hate_crimes_bias_by_year.csv,integer,Year the occurrence was reported.
+bias_category,hate_crimes_bias_by_year.csv,string,Short bias category code.
+bias_label,hate_crimes_bias_by_year.csv,string,Readable bias category name.
+mentions,hate_crimes_bias_by_year.csv,integer,Number of events in which that bias category was recorded. An event with more than one bias appears in more than one row.
+neighbourhood_id,neighbourhoods.csv,string,"Neighbourhood number, zero padded."
+neighbourhood_name,neighbourhoods.csv,string,Neighbourhood name.
+neighbourhood_label,neighbourhoods.csv,string,Name with the number in parentheses.
+classification,neighbourhoods.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+classification_code,neighbourhoods.csv,string,Short classification code.
+centroid_longitude,neighbourhoods.csv,number,"Longitude of the polygon centroid, WGS84."
+centroid_latitude,neighbourhoods.csv,number,"Latitude of the polygon centroid, WGS84."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, datetime, boolean, or string."
+description,data_dictionary.csv,string,What the column holds.

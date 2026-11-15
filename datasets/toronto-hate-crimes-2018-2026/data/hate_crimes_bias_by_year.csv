@@ -1,0 +1,47 @@
+reported_year,bias_category,bias_label,mentions
+2018,ethnicity,Ethnicity,15
+2018,gender,Gender,12
+2018,race,Race,29
+2018,religion,Religion,84
+2018,sexual_orientation,Sexual orientation,19
+2019,ethnicity,Ethnicity,15
+2019,gender,Gender,12
+2019,race,Race,32
+2019,religion,Religion,72
+2019,sexual_orientation,Sexual orientation,24
+2020,disability,Mental or physical disability,2
+2020,ethnicity,Ethnicity,36
+2020,gender,Gender,5
+2020,language,Language,1
+2020,race,Race,69
+2020,religion,Religion,96
+2020,sexual_orientation,Sexual orientation,20
+2021,disability,Mental or physical disability,1
+2021,ethnicity,Ethnicity,27
+2021,gender,Gender,19
+2021,language,Language,1
+2021,race,Race,111
+2021,religion,Religion,94
+2021,sexual_orientation,Sexual orientation,35
+2022,ethnicity,Ethnicity,29
+2022,gender,Gender,17
+2022,language,Language,1
+2022,race,Race,98
+2022,religion,Religion,100
+2022,sexual_orientation,Sexual orientation,40
+2023,ethnicity,Ethnicity,48
+2023,gender,Gender,14
+2023,race,Race,91
+2023,religion,Religion,188
+2023,sexual_orientation,Sexual orientation,60
+2024,ethnicity,Ethnicity,51
+2024,gender,Gender,20
+2024,language,Language,1
+2024,race,Race,111
+2024,religion,Religion,218
+2024,sexual_orientation,Sexual orientation,61
+2025,ethnicity,Ethnicity,26
+2025,gender,Gender,13
+2025,race,Race,68
+2025,religion,Religion,116
+2025,sexual_orientation,Sexual orientation,34
