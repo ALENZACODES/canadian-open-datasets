@@ -1,0 +1,82 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"International merchandise trade for all countries and by Principal Trading Partners, monthly","12100011","228-0069","https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1210001101",1;2;3;4;6,"CURRENT - a cube available to the public and that is current","Monthly","1997-01-01","2026-09-01","5",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",,""
+"2","Trade",,""
+"3","Basis",,""
+"4","Seasonal adjustment",,""
+"5","Principal trading partners",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Canada","[11124]","1","","",,
+"2","Import","","1","","",,
+"2","Export","","2","","",,
+"2","Trade Balance","","3","","",,
+"3","Customs","","1","","",,
+"3","Balance of payments","","2","","",,
+"4","Unadjusted","","1","","",,
+"4","Seasonally adjusted","","2","","",,
+"5","All countries","","1","","",,
+"5","United States","","2","1","",,
+"5","European Union","","3","1","",5,
+"5","Germany","","5","3","",,
+"5","Netherlands","","6","3","",,
+"5","France","","7","3","",,
+"5","Italy","","8","3","",,
+"5","Belgium","","9","3","",,
+"5","Spain","","10","3","",,
+"5","China","","11","1","",,
+"5","United Kingdom","","4","1","",,
+"5","Mexico","","12","1","",,
+"5","Japan","","13","1","",,
+"5","South Korea","","14","1","",,
+"5","Hong Kong","","15","1","",,
+"5","Brazil","","16","1","",,
+"5","Algeria","","17","1","",,
+"5","Norway","","18","1","",,
+"5","India","","19","1","",,
+"5","Switzerland","","20","1","",,
+"5","Saudi Arabia","","21","1","",,
+"5","Türkiye","","22","1","",,
+"5","Taiwan","","23","1","",,
+"5","Peru","","24","1","",,
+"5","Australia","","25","1","",,
+"5","Iraq","","26","1","",,
+"5","Indonesia","","27","1","",,
+"5","Singapore","","28","1","",,
+"5","Russian Federation","","29","1","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"2201","Canadian International Merchandise Trade (Customs Basis)"
+"2202","Canadian International Merchandise Trade (Balance of Payments Basis)"
+
+"Subject Code","Subject Name"
+"12","International trade"
+
+"Note ID",Note
+1,"This table replaces archived table 12-10-0070."
+2,"Totals are not equal to the sum of their components."
+3,"Countries listed are the top 27 principal trading partners of Canada based on annual 2012 total merchandise trade data."
+4,"The concept of Trade Balance exists only on a Balance of Payments seasonally adjusted basis."
+5,"Data for the European Union includes the United Kingdom through December 2020 reference month. Beginning January 2021, the United Kingdom ceased to be covered by trade agreements negotiated by the European Union, and is therefore not included in trade totals for the European Union effective reference month January 2021."
+6,"On December 7th, 2023, with the implementation of the North American Product Classification System (NAPCS) 2022, historical adjustments were made to all reference years prior to 2016 in balance of payments basis data to introduce estimates for illicit cannabis trade."
+
+"Correction ID","Correction Date","Correction Note"
