@@ -1,0 +1,115 @@
+column,file,type,description
+layer,accessibility_facilities.csv,string,"Facility layer: accessible_parking_stall, park_washroom, civic_building_washroom, library_branch, or ttc_station."
+source_dataset,accessibility_facilities.csv,string,City catalogue slug of the source file.
+facility_id,accessibility_facilities.csv,string,Identifier from the source file.
+name,accessibility_facilities.csv,string,Facility or branch name.
+address,accessibility_facilities.csv,string,"Street address as published, when the source has one."
+accessible_detail,accessibility_facilities.csv,string,"Accessibility detail as published (AODA stall type, washroom features, Yes/No, or TTC wheelchair boarding class)."
+status,accessibility_facilities.csv,string,"Status or hours note as published, when present."
+notes,accessibility_facilities.csv,string,Other published attributes kept for context.
+source_date_note,accessibility_facilities.csv,string,Date or source note from the originating file.
+longitude,accessibility_facilities.csv,number,"Longitude in WGS84, from the official facility or stop location. These are public civic locations, not offset crime points."
+latitude,accessibility_facilities.csv,number,"Latitude in WGS84, from the official facility or stop location."
+neighbourhood_id,accessibility_facilities.csv,string,"158-neighbourhood model number assigned by point-in-polygon, or NSA."
+neighbourhood_name,accessibility_facilities.csv,string,Neighbourhood name.
+is_accessible,accessibility_facilities.csv,boolean,"True when the source marks the facility accessible, False when it marks it not accessible, empty when the source does not say."
+layer,accessible_parking_stalls.csv,string,"Facility layer: accessible_parking_stall, park_washroom, civic_building_washroom, library_branch, or ttc_station."
+source_dataset,accessible_parking_stalls.csv,string,City catalogue slug of the source file.
+facility_id,accessible_parking_stalls.csv,string,Identifier from the source file.
+name,accessible_parking_stalls.csv,string,Facility or branch name.
+address,accessible_parking_stalls.csv,string,"Street address as published, when the source has one."
+accessible_detail,accessible_parking_stalls.csv,string,"Accessibility detail as published (AODA stall type, washroom features, Yes/No, or TTC wheelchair boarding class)."
+status,accessible_parking_stalls.csv,string,"Status or hours note as published, when present."
+notes,accessible_parking_stalls.csv,string,Other published attributes kept for context.
+source_date_note,accessible_parking_stalls.csv,string,Date or source note from the originating file.
+longitude,accessible_parking_stalls.csv,number,"Longitude in WGS84, from the official facility or stop location. These are public civic locations, not offset crime points."
+latitude,accessible_parking_stalls.csv,number,"Latitude in WGS84, from the official facility or stop location."
+neighbourhood_id,accessible_parking_stalls.csv,string,"158-neighbourhood model number assigned by point-in-polygon, or NSA."
+neighbourhood_name,accessible_parking_stalls.csv,string,Neighbourhood name.
+layer,park_washrooms.csv,string,"Facility layer: accessible_parking_stall, park_washroom, civic_building_washroom, library_branch, or ttc_station."
+source_dataset,park_washrooms.csv,string,City catalogue slug of the source file.
+facility_id,park_washrooms.csv,string,Identifier from the source file.
+name,park_washrooms.csv,string,Facility or branch name.
+address,park_washrooms.csv,string,"Street address as published, when the source has one."
+accessible_detail,park_washrooms.csv,string,"Accessibility detail as published (AODA stall type, washroom features, Yes/No, or TTC wheelchair boarding class)."
+status,park_washrooms.csv,string,"Status or hours note as published, when present."
+notes,park_washrooms.csv,string,Other published attributes kept for context.
+source_date_note,park_washrooms.csv,string,Date or source note from the originating file.
+longitude,park_washrooms.csv,number,"Longitude in WGS84, from the official facility or stop location. These are public civic locations, not offset crime points."
+latitude,park_washrooms.csv,number,"Latitude in WGS84, from the official facility or stop location."
+neighbourhood_id,park_washrooms.csv,string,"158-neighbourhood model number assigned by point-in-polygon, or NSA."
+neighbourhood_name,park_washrooms.csv,string,Neighbourhood name.
+is_accessible,park_washrooms.csv,boolean,"True when the source marks the facility accessible, False when it marks it not accessible, empty when the source does not say."
+layer,civic_building_washrooms.csv,string,"Facility layer: accessible_parking_stall, park_washroom, civic_building_washroom, library_branch, or ttc_station."
+source_dataset,civic_building_washrooms.csv,string,City catalogue slug of the source file.
+facility_id,civic_building_washrooms.csv,string,Identifier from the source file.
+name,civic_building_washrooms.csv,string,Facility or branch name.
+address,civic_building_washrooms.csv,string,"Street address as published, when the source has one."
+accessible_detail,civic_building_washrooms.csv,string,"Accessibility detail as published (AODA stall type, washroom features, Yes/No, or TTC wheelchair boarding class)."
+status,civic_building_washrooms.csv,string,"Status or hours note as published, when present."
+notes,civic_building_washrooms.csv,string,Other published attributes kept for context.
+source_date_note,civic_building_washrooms.csv,string,Date or source note from the originating file.
+longitude,civic_building_washrooms.csv,number,"Longitude in WGS84, from the official facility or stop location. These are public civic locations, not offset crime points."
+latitude,civic_building_washrooms.csv,number,"Latitude in WGS84, from the official facility or stop location."
+neighbourhood_id,civic_building_washrooms.csv,string,"158-neighbourhood model number assigned by point-in-polygon, or NSA."
+neighbourhood_name,civic_building_washrooms.csv,string,Neighbourhood name.
+is_accessible,civic_building_washrooms.csv,boolean,"True when the source marks the facility accessible, False when it marks it not accessible, empty when the source does not say."
+layer,library_branches.csv,string,"Facility layer: accessible_parking_stall, park_washroom, civic_building_washroom, library_branch, or ttc_station."
+source_dataset,library_branches.csv,string,City catalogue slug of the source file.
+facility_id,library_branches.csv,string,Identifier from the source file.
+name,library_branches.csv,string,Facility or branch name.
+address,library_branches.csv,string,"Street address as published, when the source has one."
+accessible_detail,library_branches.csv,string,"Accessibility detail as published (AODA stall type, washroom features, Yes/No, or TTC wheelchair boarding class)."
+status,library_branches.csv,string,"Status or hours note as published, when present."
+notes,library_branches.csv,string,Other published attributes kept for context.
+source_date_note,library_branches.csv,string,Date or source note from the originating file.
+longitude,library_branches.csv,number,"Longitude in WGS84, from the official facility or stop location. These are public civic locations, not offset crime points."
+latitude,library_branches.csv,number,"Latitude in WGS84, from the official facility or stop location."
+neighbourhood_id,library_branches.csv,string,"158-neighbourhood model number assigned by point-in-polygon, or NSA."
+neighbourhood_name,library_branches.csv,string,Neighbourhood name.
+is_accessible,library_branches.csv,boolean,"True when the source marks the facility accessible, False when it marks it not accessible, empty when the source does not say."
+layer,ttc_stops_accessibility.csv,string,"ttc_station or ttc_stop, from the GTFS location_type field."
+source_dataset,ttc_stops_accessibility.csv,string,ttc-routes-and-schedules.
+facility_id,ttc_stops_accessibility.csv,string,GTFS stop_id.
+name,ttc_stops_accessibility.csv,string,Stop or station name.
+address,ttc_stops_accessibility.csv,string,Stop description when published.
+accessible_detail,ttc_stops_accessibility.csv,string,"accessible, not_accessible, or no_information, from GTFS wheelchair_boarding (1, 2, or 0)."
+status,ttc_stops_accessibility.csv,string,Unused for this layer.
+notes,ttc_stops_accessibility.csv,string,"GTFS location type and parent station, when present."
+source_date_note,ttc_stops_accessibility.csv,string,GTFS catalogue last modified date.
+longitude,ttc_stops_accessibility.csv,number,"Stop longitude, WGS84."
+latitude,ttc_stops_accessibility.csv,number,"Stop latitude, WGS84."
+neighbourhood_id,ttc_stops_accessibility.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,ttc_stops_accessibility.csv,string,Neighbourhood name.
+is_accessible,ttc_stops_accessibility.csv,boolean,True when wheelchair_boarding is 1.
+neighbourhood_id,ttc_stop_accessibility_by_neighbourhood.csv,string,"158-neighbourhood model number, or NSA."
+neighbourhood_name,ttc_stop_accessibility_by_neighbourhood.csv,string,Neighbourhood name.
+stops,ttc_stop_accessibility_by_neighbourhood.csv,integer,Number of TTC stops in the neighbourhood.
+accessible_stops,ttc_stop_accessibility_by_neighbourhood.csv,integer,Stops with wheelchair_boarding = 1.
+not_accessible_stops,ttc_stop_accessibility_by_neighbourhood.csv,integer,Stops with wheelchair_boarding = 2.
+unknown_stops,ttc_stop_accessibility_by_neighbourhood.csv,integer,Stops with wheelchair_boarding = 0 or missing.
+neighbourhood_id,accessibility_by_neighbourhood.csv,string,Value for neighbourhood_id. Counts of facilities or accessible facilities in the neighbourhood.
+neighbourhood_name,accessibility_by_neighbourhood.csv,string,Value for neighbourhood_name. Counts of facilities or accessible facilities in the neighbourhood.
+facilities,accessibility_by_neighbourhood.csv,integer,Value for facilities. Counts of facilities or accessible facilities in the neighbourhood.
+accessible_parking_stall_count,accessibility_by_neighbourhood.csv,integer,Value for accessible_parking_stall_count. Counts of facilities or accessible facilities in the neighbourhood.
+accessible_parking_stall_accessible,accessibility_by_neighbourhood.csv,integer,Value for accessible_parking_stall_accessible. Counts of facilities or accessible facilities in the neighbourhood.
+library_branch_count,accessibility_by_neighbourhood.csv,integer,Value for library_branch_count. Counts of facilities or accessible facilities in the neighbourhood.
+park_washroom_count,accessibility_by_neighbourhood.csv,integer,Value for park_washroom_count. Counts of facilities or accessible facilities in the neighbourhood.
+park_washroom_accessible,accessibility_by_neighbourhood.csv,integer,Value for park_washroom_accessible. Counts of facilities or accessible facilities in the neighbourhood.
+civic_building_washroom_count,accessibility_by_neighbourhood.csv,integer,Value for civic_building_washroom_count. Counts of facilities or accessible facilities in the neighbourhood.
+civic_building_washroom_accessible,accessibility_by_neighbourhood.csv,integer,Value for civic_building_washroom_accessible. Counts of facilities or accessible facilities in the neighbourhood.
+stops,accessibility_by_neighbourhood.csv,integer,Value for stops. Counts of facilities or accessible facilities in the neighbourhood.
+accessible_stops,accessibility_by_neighbourhood.csv,integer,Value for accessible_stops. Counts of facilities or accessible facilities in the neighbourhood.
+not_accessible_stops,accessibility_by_neighbourhood.csv,integer,Value for not_accessible_stops. Counts of facilities or accessible facilities in the neighbourhood.
+unknown_stops,accessibility_by_neighbourhood.csv,integer,Value for unknown_stops. Counts of facilities or accessible facilities in the neighbourhood.
+neighbourhood_id,neighbourhoods.csv,string,"Neighbourhood number, zero padded."
+neighbourhood_name,neighbourhoods.csv,string,Neighbourhood name.
+neighbourhood_label,neighbourhoods.csv,string,Name with the number in parentheses.
+classification,neighbourhoods.csv,string,"Neighbourhood Improvement Area, Emerging Neighbourhood, or neither."
+classification_code,neighbourhoods.csv,string,Short classification code.
+centroid_longitude,neighbourhoods.csv,number,"Longitude of the polygon centroid, WGS84."
+centroid_latitude,neighbourhoods.csv,number,"Latitude of the polygon centroid, WGS84."
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,"integer, number, boolean, or string."
+description,data_dictionary.csv,string,What the column holds.
