@@ -1,0 +1,15 @@
+column,file,type,description
+series_label,insolvency_annual_long.csv,string,Insolvency series label from the OSB workbook (English portion of bilingual labels).
+geography,insolvency_annual_long.csv,string,"Canada, province or territory (English portion of bilingual labels)."
+year,insolvency_annual_long.csv,integer,Calendar year.
+ref_date,insolvency_annual_long.csv,datetime,"January 1 of the year, for time series convenience."
+volume,insolvency_annual_long.csv,numeric,Number of insolvency filings.
+assets_cad,insolvency_annual_long.csv,numeric,Reported assets in Canadian dollars.
+liabilities_cad,insolvency_annual_long.csv,numeric,Reported liabilities in Canadian dollars.
+series_label,canada_total_insolvencies_annual.csv,string,Insolvency series label from the OSB workbook (English portion of bilingual labels).
+geography,canada_total_insolvencies_annual.csv,string,"Canada, province or territory (English portion of bilingual labels)."
+year,canada_total_insolvencies_annual.csv,integer,Calendar year.
+ref_date,canada_total_insolvencies_annual.csv,datetime,"January 1 of the year, for time series convenience."
+volume,canada_total_insolvencies_annual.csv,numeric,Number of insolvency filings.
+assets_cad,canada_total_insolvencies_annual.csv,numeric,Reported assets in Canadian dollars.
+liabilities_cad,canada_total_insolvencies_annual.csv,numeric,Reported liabilities in Canadian dollars.
