@@ -1,0 +1,1323 @@
+year,industry_en,naics,releases_to_air_tonnes,facility_count
+2015,Aerospace product and parts manufacturing,3364,1106.3738965,33
+2015,Agricultural supplies merchant wholesalers,4183,672.631458,33
+2015,"Agricultural, construction and mining machinery manufacturing",3331,1575.8616,9
+2015,Alumina and aluminum production and processing,3313,452169.563078892,29
+2015,Animal food manufacturing,3111,2279.8929111,68
+2015,Architectural and structural metals manufacturing,3323,1019.630639,17
+2015,"Architectural, engineering and related services",5413,0.0167129,1
+2015,Automotive repair and maintenance,8111,0.2053,6
+2015,Bakeries and tortilla manufacturing,3118,2299.8415,50
+2015,Basic chemical manufacturing,3251,43811.371025416,92
+2015,Beverage manufacturing,3121,10206.1562,18
+2015,"Boiler, tank and shipping container manufacturing",3324,229.488,4
+2015,Cement and concrete product manufacturing,3273,66038.987227303,93
+2015,Chemical (except agricultural) and allied product merchant wholesalers,4184,29.72411,12
+2015,Clay product and refractory manufacturing,3271,599.3736,6
+2015,Clothing accessories and other clothing manufacturing,3159,0.24,1
+2015,Coal mining,2121,84638.965252,16
+2015,"Coating, engraving, cold and heat treating and allied activities",3328,1336.5896099,65
+2015,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,12.857,1
+2015,Commercial and service industry machinery manufacturing,3333,29.624028,1
+2015,Communications equipment manufacturing,3342,0.0080911,4
+2015,Community colleges and C.E.G.E.P.s,6112,4.983,1
+2015,Computer and peripheral equipment manufacturing,3341,8.185842,1
+2015,Converted paper product manufacturing,3222,1475.794755,16
+2015,Cutlery and hand tool manufacturing,3322,60.5054237,2
+2015,Dairy product manufacturing,3115,185.427,15
+2015,"Deep sea, coastal and Great Lakes water transportation",4831,4.5903,1
+2015,Defence services,9111,4282.437505129,25
+2015,Dry cleaning and laundry services,8123,79.3662,13
+2015,Electric lighting equipment manufacturing,3351,0.00402,1
+2015,"Electric power generation, transmission and distribution",2211,475764.455813122,256
+2015,Electrical equipment manufacturing,3353,19.933128,4
+2015,"Engine, turbine and power transmission equipment manufacturing",3336,14.079,2
+2015,Facilities support services,5612,0.7724,1
+2015,Farm product merchant wholesalers,4111,467.598506,23
+2015,"Fibre, yarn and thread mills",3131,0.374,1
+2015,Footwear manufacturing,3162,24.03,1
+2015,Forging and stamping,3321,581.368485622,10
+2015,"Foundation, structure, and building exterior contractors",2381,0.316,1
+2015,Foundries,3315,16769.531682456,53
+2015,Fruit and vegetable preserving and specialty food manufacturing,3114,667.762,13
+2015,Funeral services,8122,4e-09,1
+2015,General medical and surgical hospitals,6221,588.5591598,11
+2015,Glass and glass product manufacturing,3272,2355.1702234,11
+2015,Grain and oilseed milling,3112,8063.269,38
+2015,"Greenhouse, nursery and floriculture production",1114,17.551,2
+2015,Hardware manufacturing,3325,1e-05,2
+2015,"Highway, street and bridge construction",2373,253.4544,12
+2015,Household and institutional furniture and kitchen cabinet manufacturing,3371,2921.6953,33
+2015,Household appliance manufacturing,3352,0.6511,2
+2015,Industrial machinery manufacturing,3332,13.2943488,2
+2015,Iron and steel mills and ferro-alloy manufacturing,3311,62488.701767463,21
+2015,Lessors of real estate,5311,4.459,3
+2015,Lime and gypsum product manufacturing,3274,10331.4056833,19
+2015,Logging,1133,77.121,1
+2015,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,48.7956619,9
+2015,Meat product manufacturing,3116,1394.7699,21
+2015,Medical equipment and supplies manufacturing,3391,10.495033,3
+2015,Metal ore mining,2122,274815.844311568,93
+2015,Metal service centres,4162,0.0905,7
+2015,Metalworking machinery manufacturing,3335,0.425,2
+2015,Motor vehicle body and trailer manufacturing,3362,321.4640828,7
+2015,Motor vehicle manufacturing,3361,8301.291899999,10
+2015,Motor vehicle parts manufacturing,3363,2666.0674338,79
+2015,Natural gas distribution,2212,1351.1131,8
+2015,"Navigational, measuring, medical and control instruments manufacturing",3345,0.000244,2
+2015,"Newspaper, periodical, book and directory publishers",5111,11.149,1
+2015,Non-ferrous metal (except aluminum) production and processing,3314,224533.574678579,24
+2015,Non-metallic mineral mining and quarrying,2123,35949.944031397,139
+2015,Non-residential building construction,2362,68.738,2
+2015,Office furniture (including fixtures) manufacturing,3372,489.4983,16
+2015,Oil and gas extraction,2111,774274.460183799,3130
+2015,Oilseed and grain farming,1111,27.928,1
+2015,Other chemical product manufacturing,3259,1953.5602088,40
+2015,Other electrical equipment and component manufacturing,3359,1.8842018,4
+2015,Other fabricated metal product manufacturing,3329,1239.0668203,38
+2015,Other federal government public administration,9119,70.6,2
+2015,Other food manufacturing,3119,1789.788,31
+2015,Other general-purpose machinery manufacturing,3339,454.2232055,9
+2015,Other leather and allied product manufacturing,3169,37.55,1
+2015,"Other local, municipal and regional public administration",9139,0.223,1
+2015,"Other machinery, equipment and supplies merchant wholesalers",4179,1.47e-05,1
+2015,Other miscellaneous manufacturing,3399,2431.698522502,35
+2015,Other miscellaneous merchant wholesalers,4189,0.095,1
+2015,Other non-metallic mineral product manufacturing,3279,3124.043600714,22
+2015,Other pipeline transportation,4869,57.5052,2
+2015,"Other professional, scientific and technical services",5419,325.4418952,6
+2015,Other specialty trade contractors,2389,46.3200022,2
+2015,Other support activities for transportation,4889,28.8,1
+2015,Other transportation equipment manufacturing,3369,943.5365018,11
+2015,Other wood product manufacturing,3219,4048.24908,47
+2015,"Paint, coating and adhesive manufacturing",3255,924.140255,38
+2015,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,24400.347443,39
+2015,Petroleum and coal product manufacturing,3241,109082.9701828,92
+2015,Petroleum and petroleum products merchant wholesalers,4121,10080.0481271,64
+2015,Pharmaceutical and medicine manufacturing,3254,579.646,23
+2015,Pipeline transportation of crude oil,4861,7709.911,31
+2015,Pipeline transportation of natural gas,4862,19579.6699,123
+2015,Plastic product manufacturing,3261,12973.1523953,132
+2015,Printing and related support activities,3231,6168.522328,54
+2015,"Pulp, paper and paperboard mills",3221,166990.300972259,85
+2015,Rail transportation,4821,32.0586,2
+2015,Railroad rolling stock manufacturing,3365,106.31821,1
+2015,Recyclable material merchant wholesalers,4181,131.559300011,13
+2015,Remediation and other waste management services,5629,582.9647523,12
+2015,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,5349.0832827,24
+2015,Rooming and boarding houses,7213,52.6616,1
+2015,Rubber product manufacturing,3262,1810.1226003,25
+2015,Sawmills and wood preservation,3211,37968.163572713,158
+2015,Scheduled air transportation,4811,73.803,2
+2015,Scientific research and development services,5417,19.9585,2
+2015,Seafood product preparation and packaging,3117,44.146,1
+2015,Semiconductor and other electronic component manufacturing,3344,22.7860891,9
+2015,Ship and boat building,3366,144.6934,6
+2015,"Soap, cleaning compound and toilet preparation manufacturing",3256,68.74998,8
+2015,Spring and wire product manufacturing,3326,1.012,1
+2015,Steel product manufacturing from purchased steel,3312,1178.8846759,27
+2015,Sugar and confectionery product manufacturing,3113,1397.1851,14
+2015,Support activities for air transportation,4881,217.772413,5
+2015,Support activities for animal production,1152,71.9,2
+2015,Support activities for crop production,1151,537.185,35
+2015,"Support activities for mining, and oil and gas extraction",2131,4314.2256,46
+2015,Support activities for rail transportation,4882,40.1837,3
+2015,Support activities for water transportation,4883,515.8718097,4
+2015,Technical and trade schools,6115,20.118,1
+2015,Textile and fabric finishing and fabric coating,3133,765.0696,5
+2015,Textile furnishings mills,3141,26.447,1
+2015,Tobacco manufacturing,3122,2.56,1
+2015,Universities,6113,1789.410832,21
+2015,Urban transit systems,4851,19.0,1
+2015,Utility system construction,2371,27.0,1
+2015,"Veneer, plywood and engineered wood product manufacturing",3212,40504.661818003,59
+2015,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,52.155,2
+2015,Warehousing and storage,4931,5810.391824,101
+2015,Waste collection,5621,45.486,9
+2015,Waste treatment and disposal,5622,7607.476267675,101
+2015,"Water, sewage and other systems",2213,8584.133621067,112
+2016,Aerospace product and parts manufacturing,3364,1090.6314931,35
+2016,Agricultural supplies merchant wholesalers,4183,711.495073,32
+2016,"Agricultural, construction and mining machinery manufacturing",3331,1517.8056,9
+2016,Alumina and aluminum production and processing,3313,498717.677666247,30
+2016,Animal food manufacturing,3111,2556.7999942,75
+2016,Architectural and structural metals manufacturing,3323,632.3439363,16
+2016,"Architectural, engineering and related services",5413,0.013554,1
+2016,Automotive repair and maintenance,8111,0.1984,6
+2016,Bakeries and tortilla manufacturing,3118,2194.2093,45
+2016,Basic chemical manufacturing,3251,42556.614112421,101
+2016,Beverage manufacturing,3121,10353.717,20
+2016,"Boiler, tank and shipping container manufacturing",3324,209.314,4
+2016,Cement and concrete product manufacturing,3273,65429.263538621,112
+2016,Chemical (except agricultural) and allied product merchant wholesalers,4184,94.6196,13
+2016,Clay product and refractory manufacturing,3271,774.1383,6
+2016,Clothing accessories and other clothing manufacturing,3159,0.3309,1
+2016,Coal mining,2121,76562.9788475,16
+2016,"Coating, engraving, cold and heat treating and allied activities",3328,1141.0640645,68
+2016,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,62.247,2
+2016,Commercial and service industry machinery manufacturing,3333,22.489131,1
+2016,Communications equipment manufacturing,3342,0.0095204,3
+2016,Community colleges and C.E.G.E.P.s,6112,4.5679,1
+2016,Computer and peripheral equipment manufacturing,3341,0.380311,1
+2016,Converted paper product manufacturing,3222,1778.19609,17
+2016,Cutlery and hand tool manufacturing,3322,42.3420166,2
+2016,Dairy product manufacturing,3115,189.306,17
+2016,"Deep sea, coastal and Great Lakes water transportation",4831,5.1581,1
+2016,Defence services,9111,1063.390031104,27
+2016,Dry cleaning and laundry services,8123,111.4822,11
+2016,Electric lighting equipment manufacturing,3351,0.01498,1
+2016,"Electric power generation, transmission and distribution",2211,471767.502429556,250
+2016,Electrical equipment manufacturing,3353,17.945511,4
+2016,"Engine, turbine and power transmission equipment manufacturing",3336,39.247,3
+2016,Facilities support services,5612,0.4105,1
+2016,Farm product merchant wholesalers,4111,557.586602,31
+2016,"Fibre, yarn and thread mills",3131,0.365,1
+2016,Footwear manufacturing,3162,24.7271,1
+2016,Forging and stamping,3321,499.904794145,11
+2016,Foundries,3315,18756.68608902,54
+2016,Fruit and vegetable preserving and specialty food manufacturing,3114,810.3418,13
+2016,Funeral services,8122,4e-09,1
+2016,General medical and surgical hospitals,6221,550.8597069,11
+2016,Glass and glass product manufacturing,3272,2171.2653001,10
+2016,Grain and oilseed milling,3112,7291.0972,39
+2016,"Greenhouse, nursery and floriculture production",1114,49.155,2
+2016,"Highway, street and bridge construction",2373,156.6911,14
+2016,Household and institutional furniture and kitchen cabinet manufacturing,3371,2719.9541,32
+2016,Household appliance manufacturing,3352,0.0386,1
+2016,Industrial machinery manufacturing,3332,11.883342,3
+2016,Iron and steel mills and ferro-alloy manufacturing,3311,57173.700896198,21
+2016,Lessors of real estate,5311,4.459,3
+2016,Lime and gypsum product manufacturing,3274,11726.229053,19
+2016,Logging,1133,64.313,1
+2016,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,21.0319253,9
+2016,Meat product manufacturing,3116,1192.2868,19
+2016,Medical equipment and supplies manufacturing,3391,11.090036,3
+2016,Metal ore mining,2122,265570.586125924,89
+2016,Metal service centres,4162,0.0003,2
+2016,Metalworking machinery manufacturing,3335,0.8084,2
+2016,Motor vehicle body and trailer manufacturing,3362,211.8997591,7
+2016,Motor vehicle manufacturing,3361,9295.596,11
+2016,Motor vehicle parts manufacturing,3363,3262.9190786,83
+2016,Natural gas distribution,2212,1062.7269,7
+2016,"Navigational, measuring, medical and control instruments manufacturing",3345,0.34434,2
+2016,"Newspaper, periodical, book and directory publishers",5111,12.657,1
+2016,Non-ferrous metal (except aluminum) production and processing,3314,229863.660898676,25
+2016,Non-metallic mineral mining and quarrying,2123,35188.174247011,136
+2016,Non-residential building construction,2362,67.335,2
+2016,Non-scheduled air transportation,4812,0.419,1
+2016,Office furniture (including fixtures) manufacturing,3372,506.7969,15
+2016,Oil and gas extraction,2111,717535.375797103,2875
+2016,Oilseed and grain farming,1111,17.07,1
+2016,Other animal production,1129,0.001,1
+2016,Other chemical product manufacturing,3259,1440.5276723,43
+2016,Other electrical equipment and component manufacturing,3359,1.8812,3
+2016,Other fabricated metal product manufacturing,3329,1229.4659863,41
+2016,Other federal government public administration,9119,59.54,2
+2016,Other food manufacturing,3119,1736.0284,30
+2016,Other general-purpose machinery manufacturing,3339,235.0902075,10
+2016,Other leather and allied product manufacturing,3169,44.51,1
+2016,"Other local, municipal and regional public administration",9139,4.667,2
+2016,"Other machinery, equipment and supplies merchant wholesalers",4179,2.46e-05,1
+2016,Other miscellaneous manufacturing,3399,1297.651093702,37
+2016,Other non-metallic mineral product manufacturing,3279,3293.630534213,22
+2016,Other pipeline transportation,4869,58.5939,2
+2016,"Other professional, scientific and technical services",5419,386.9554995,6
+2016,Other specialty trade contractors,2389,52.1680001,2
+2016,Other support activities for transportation,4889,49.8,1
+2016,Other transportation equipment manufacturing,3369,526.6698019,10
+2016,Other wood product manufacturing,3219,3287.6438,47
+2016,"Paint, coating and adhesive manufacturing",3255,874.9609484,42
+2016,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,25449.8461121,37
+2016,Petroleum and coal product manufacturing,3241,108311.360761,85
+2016,Petroleum and petroleum products merchant wholesalers,4121,10222.5113161,69
+2016,Pharmaceutical and medicine manufacturing,3254,633.9745,24
+2016,Pipeline transportation of crude oil,4861,7821.5336,34
+2016,Pipeline transportation of natural gas,4862,22962.7066,132
+2016,Plastic product manufacturing,3261,12463.3506337,135
+2016,Printing and related support activities,3231,5014.179428,46
+2016,"Pulp, paper and paperboard mills",3221,166388.684651946,82
+2016,Rail transportation,4821,44.5658,4
+2016,Railroad rolling stock manufacturing,3365,104.22415,1
+2016,Recyclable material merchant wholesalers,4181,104.897400009,12
+2016,Remediation and other waste management services,5629,616.8875881,16
+2016,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,5568.787749,26
+2016,Rooming and boarding houses,7213,50.8599,1
+2016,Rubber product manufacturing,3262,1774.2863626,24
+2016,Sawmills and wood preservation,3211,35633.818211208,165
+2016,Scheduled air transportation,4811,87.673,2
+2016,Scientific research and development services,5417,26.413,3
+2016,Seafood product preparation and packaging,3117,56.524,1
+2016,Semiconductor and other electronic component manufacturing,3344,21.3630027,7
+2016,Ship and boat building,3366,166.1096,6
+2016,"Soap, cleaning compound and toilet preparation manufacturing",3256,59.28234,10
+2016,Spring and wire product manufacturing,3326,0.904,1
+2016,Steel product manufacturing from purchased steel,3312,863.659601,25
+2016,Sugar and confectionery product manufacturing,3113,1387.0092,13
+2016,Support activities for air transportation,4881,203.255413,5
+2016,Support activities for animal production,1152,76.413,2
+2016,Support activities for crop production,1151,616.167,35
+2016,"Support activities for mining, and oil and gas extraction",2131,2370.8416466,30
+2016,Support activities for rail transportation,4882,18.9611,2
+2016,Support activities for water transportation,4883,623.9677641,7
+2016,Technical and trade schools,6115,7.468,1
+2016,Textile and fabric finishing and fabric coating,3133,807.304,5
+2016,Textile furnishings mills,3141,29.665,1
+2016,Tobacco manufacturing,3122,2.899,1
+2016,Universities,6113,1688.594026,22
+2016,Urban transit systems,4851,9.4,1
+2016,Utility system construction,2371,26.6,1
+2016,"Veneer, plywood and engineered wood product manufacturing",3212,36869.728733404,62
+2016,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,37.009,2
+2016,Warehousing and storage,4931,5634.116314,99
+2016,Waste collection,5621,69.7505019,13
+2016,Waste treatment and disposal,5622,7855.388222794,104
+2016,"Water, sewage and other systems",2213,9479.651600562,112
+2017,Aerospace product and parts manufacturing,3364,897.0774259,36
+2017,Agricultural supplies merchant wholesalers,4183,736.588169,33
+2017,"Agricultural, construction and mining machinery manufacturing",3331,2684.8984,12
+2017,Alumina and aluminum production and processing,3313,510466.133295969,31
+2017,Animal food manufacturing,3111,2155.559613,80
+2017,Architectural and structural metals manufacturing,3323,382.114042,12
+2017,"Architectural, engineering and related services",5413,3.6e-06,1
+2017,Automotive repair and maintenance,8111,0.1853,6
+2017,Bakeries and tortilla manufacturing,3118,2085.441,51
+2017,Basic chemical manufacturing,3251,40003.123807853,99
+2017,Beverage manufacturing,3121,10307.5365,19
+2017,"Boiler, tank and shipping container manufacturing",3324,200.431,4
+2017,Cement and concrete product manufacturing,3273,67575.413268427,103
+2017,Chemical (except agricultural) and allied product merchant wholesalers,4184,55.52792,12
+2017,Clay product and refractory manufacturing,3271,660.8746,5
+2017,Clothing accessories and other clothing manufacturing,3159,0.4609,1
+2017,Coal mining,2121,128595.2405167,20
+2017,"Coating, engraving, cold and heat treating and allied activities",3328,1174.6680653,68
+2017,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,62.338,2
+2017,Commercial and service industry machinery manufacturing,3333,16.673987,2
+2017,Communications equipment manufacturing,3342,0.0107693,3
+2017,Community colleges and C.E.G.E.P.s,6112,4.7805,1
+2017,Computer and peripheral equipment manufacturing,3341,0.365811,1
+2017,Converted paper product manufacturing,3222,908.431685,15
+2017,Cutlery and hand tool manufacturing,3322,18.7815501,2
+2017,Dairy product manufacturing,3115,188.999,16
+2017,Defence services,9111,4534.075741115,26
+2017,Dry cleaning and laundry services,8123,89.4192,21
+2017,Electric lighting equipment manufacturing,3351,0.01145,1
+2017,"Electric power generation, transmission and distribution",2211,459380.75477703,242
+2017,Electrical equipment manufacturing,3353,17.3155005,5
+2017,"Engine, turbine and power transmission equipment manufacturing",3336,9.618,2
+2017,Facilities support services,5612,0.337,1
+2017,Farm product merchant wholesalers,4111,522.112296,30
+2017,"Fibre, yarn and thread mills",3131,0.353,1
+2017,Footwear manufacturing,3162,23.4804,1
+2017,Forging and stamping,3321,691.189341483,10
+2017,Foundries,3315,21357.883418434,51
+2017,Fruit and vegetable preserving and specialty food manufacturing,3114,842.4129,12
+2017,Funeral services,8122,4e-09,1
+2017,General freight trucking,4841,44.059,1
+2017,General medical and surgical hospitals,6221,547.2877513,12
+2017,Glass and glass product manufacturing,3272,2117.867348,9
+2017,Grain and oilseed milling,3112,6865.3763,39
+2017,"Greenhouse, nursery and floriculture production",1114,45.727,2
+2017,"Highway, street and bridge construction",2373,213.4394,14
+2017,Household and institutional furniture and kitchen cabinet manufacturing,3371,3238.1756,32
+2017,Household appliance manufacturing,3352,0.066,1
+2017,Industrial machinery manufacturing,3332,11.342039,3
+2017,Iron and steel mills and ferro-alloy manufacturing,3311,63867.464042161,19
+2017,Lessors of real estate,5311,4.462,3
+2017,Lime and gypsum product manufacturing,3274,11981.813739,19
+2017,Logging,1133,65.883,1
+2017,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,13.1022063,7
+2017,Meat product manufacturing,3116,1450.182,21
+2017,Medical equipment and supplies manufacturing,3391,10.838012,3
+2017,Metal ore mining,2122,258299.969662645,96
+2017,Metal service centres,4162,0.0062,6
+2017,Metalworking machinery manufacturing,3335,1.1887,3
+2017,Motor vehicle body and trailer manufacturing,3362,251.7038988,7
+2017,Motor vehicle manufacturing,3361,8183.418199999,11
+2017,Motor vehicle parts manufacturing,3363,3098.032262,86
+2017,Natural gas distribution,2212,892.5144,8
+2017,"Navigational, measuring, medical and control instruments manufacturing",3345,0.00066,1
+2017,Non-ferrous metal (except aluminum) production and processing,3314,156842.498731823,25
+2017,Non-metallic mineral mining and quarrying,2123,36250.141547113,137
+2017,Non-residential building construction,2362,66.987,2
+2017,Non-scheduled air transportation,4812,1.262,1
+2017,Office furniture (including fixtures) manufacturing,3372,354.196,14
+2017,Oil and gas extraction,2111,759493.010619998,2838
+2017,Oilseed and grain farming,1111,10.72,1
+2017,Other animal production,1129,0.001,1
+2017,Other chemical product manufacturing,3259,1435.331626,48
+2017,Other electrical equipment and component manufacturing,3359,24.3242018,5
+2017,Other fabricated metal product manufacturing,3329,1114.1328367,35
+2017,Other federal government public administration,9119,57.8,2
+2017,Other food manufacturing,3119,1800.0291,35
+2017,Other general-purpose machinery manufacturing,3339,293.3758027,8
+2017,Other leather and allied product manufacturing,3169,49.2956,1
+2017,"Other local, municipal and regional public administration",9139,3.445,2
+2017,"Other machinery, equipment and supplies merchant wholesalers",4179,0.000114,1
+2017,Other miscellaneous manufacturing,3399,1343.137084402,34
+2017,Other non-metallic mineral product manufacturing,3279,2445.192519014,22
+2017,Other pipeline transportation,4869,62.3165,2
+2017,"Other professional, scientific and technical services",5419,336.498022,6
+2017,Other specialty trade contractors,2389,79.3090004,2
+2017,Other support activities for transportation,4889,77.14,2
+2017,Other transportation equipment manufacturing,3369,398.1817019,10
+2017,Other wood product manufacturing,3219,3250.8107,43
+2017,"Paint, coating and adhesive manufacturing",3255,702.025629299,42
+2017,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,25219.9615473,35
+2017,Petroleum and coal product manufacturing,3241,109683.7276811,82
+2017,Petroleum and petroleum products merchant wholesalers,4121,11425.117929,69
+2017,Pharmaceutical and medicine manufacturing,3254,563.3376,25
+2017,Pipeline transportation of crude oil,4861,9705.0572,37
+2017,Pipeline transportation of natural gas,4862,25184.9279,140
+2017,Plastic product manufacturing,3261,11852.1409525,134
+2017,Printing and related support activities,3231,4976.892828,48
+2017,"Pulp, paper and paperboard mills",3221,174164.326943092,81
+2017,Rail transportation,4821,63.5679,4
+2017,Railroad rolling stock manufacturing,3365,132.73717,1
+2017,Recyclable material merchant wholesalers,4181,101.948000009,11
+2017,Remediation and other waste management services,5629,613.8854635,15
+2017,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,5565.9671481,27
+2017,Rooming and boarding houses,7213,32.6912,1
+2017,Rubber product manufacturing,3262,1764.6289643,24
+2017,Sawmills and wood preservation,3211,37849.897238588,158
+2017,Scheduled air transportation,4811,28.47,1
+2017,Scientific research and development services,5417,27.484,4
+2017,Seafood product preparation and packaging,3117,53.903,2
+2017,Semiconductor and other electronic component manufacturing,3344,20.0127996,8
+2017,Ship and boat building,3366,146.9469,8
+2017,"Soap, cleaning compound and toilet preparation manufacturing",3256,29.664605,11
+2017,Steel product manufacturing from purchased steel,3312,1123.7704157,27
+2017,Sugar and confectionery product manufacturing,3113,1413.5976,13
+2017,Support activities for air transportation,4881,182.376413,5
+2017,Support activities for animal production,1152,80.596,2
+2017,Support activities for crop production,1151,356.186,35
+2017,"Support activities for mining, and oil and gas extraction",2131,1382.29,23
+2017,Support activities for rail transportation,4882,18.6118,2
+2017,Support activities for water transportation,4883,670.0845526,8
+2017,Technical and trade schools,6115,8.163,1
+2017,Textile and fabric finishing and fabric coating,3133,1450.886,5
+2017,Textile furnishings mills,3141,27.72,1
+2017,Tobacco manufacturing,3122,2.444,1
+2017,Universities,6113,2755.959247,23
+2017,Utility system construction,2371,4059.02,2
+2017,"Veneer, plywood and engineered wood product manufacturing",3212,35113.239924204,62
+2017,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,43.4384,2
+2017,Warehousing and storage,4931,6336.571714,101
+2017,Waste collection,5621,63.5372,12
+2017,Waste treatment and disposal,5622,7865.62293104,110
+2017,"Water, sewage and other systems",2213,9736.74645553,113
+2018,Aerospace product and parts manufacturing,3364,1023.8397498,37
+2018,Agricultural supplies merchant wholesalers,4183,517.765112,28
+2018,"Agricultural, construction and mining machinery manufacturing",3331,2771.3606,11
+2018,Alumina and aluminum production and processing,3313,452754.869959829,30
+2018,Animal food manufacturing,3111,1691.0506914,75
+2018,Architectural and structural metals manufacturing,3323,502.0588954,18
+2018,"Architectural, engineering and related services",5413,0.0,1
+2018,Automotive repair and maintenance,8111,0.1948,6
+2018,Bakeries and tortilla manufacturing,3118,3247.633,50
+2018,Basic chemical manufacturing,3251,45202.56561343,99
+2018,Beverage manufacturing,3121,11189.5049,18
+2018,"Boiler, tank and shipping container manufacturing",3324,234.011,5
+2018,Cement and concrete product manufacturing,3273,71097.608626568,93
+2018,Chemical (except agricultural) and allied product merchant wholesalers,4184,40.0793702,16
+2018,Clay product and refractory manufacturing,3271,421.4593,4
+2018,Clothing accessories and other clothing manufacturing,3159,1.5293,1
+2018,Coal mining,2121,116351.991184751,19
+2018,"Coating, engraving, cold and heat treating and allied activities",3328,822.065175323,92
+2018,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,51.9200389,3
+2018,Commercial and service industry machinery manufacturing,3333,15.612406,3
+2018,Communications equipment manufacturing,3342,0.013803,2
+2018,Community colleges and C.E.G.E.P.s,6112,5.1346,1
+2018,Computer and peripheral equipment manufacturing,3341,0.240784,2
+2018,Converted paper product manufacturing,3222,1863.114381,19
+2018,Cutlery and hand tool manufacturing,3322,5.3834762,2
+2018,Dairy product manufacturing,3115,185.949,16
+2018,Defence services,9111,4373.611423727,27
+2018,Dry cleaning and laundry services,8123,75.0974,19
+2018,Electric lighting equipment manufacturing,3351,0.0078,1
+2018,"Electric power generation, transmission and distribution",2211,408444.145159964,257
+2018,Electrical equipment manufacturing,3353,11.7513263,6
+2018,"Engine, turbine and power transmission equipment manufacturing",3336,12.841,3
+2018,Facilities support services,5612,0.7013,1
+2018,Farm product merchant wholesalers,4111,663.590654,31
+2018,"Fibre, yarn and thread mills",3131,0.328,1
+2018,Footwear manufacturing,3162,31.0676,1
+2018,Forging and stamping,3321,668.054850418,12
+2018,Foundries,3315,15070.715067418,50
+2018,Fruit and vegetable preserving and specialty food manufacturing,3114,842.579,11
+2018,Funeral services,8122,3e-09,1
+2018,General freight trucking,4841,73.841,1
+2018,General medical and surgical hospitals,6221,669.3882495,10
+2018,Glass and glass product manufacturing,3272,2055.3376627,9
+2018,Grain and oilseed milling,3112,7340.1025,41
+2018,"Greenhouse, nursery and floriculture production",1114,33.984,2
+2018,Hardware manufacturing,3325,3.5218,2
+2018,"Highway, street and bridge construction",2373,191.8029,12
+2018,Household and institutional furniture and kitchen cabinet manufacturing,3371,2793.7696,32
+2018,Household appliance manufacturing,3352,0.0,1
+2018,Industrial machinery manufacturing,3332,9.891283,7
+2018,Iron and steel mills and ferro-alloy manufacturing,3311,69746.755030502,19
+2018,Lessors of real estate,5311,4.462,3
+2018,Lime and gypsum product manufacturing,3274,11502.549418,19
+2018,Logging,1133,61.977,1
+2018,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,12.04600104,11
+2018,Meat product manufacturing,3116,1746.8513,23
+2018,Medical equipment and supplies manufacturing,3391,6.463028,2
+2018,Metal ore mining,2122,165705.836541388,96
+2018,Metal service centres,4162,0.004,6
+2018,Metalworking machinery manufacturing,3335,1.6181508,8
+2018,Motor vehicle body and trailer manufacturing,3362,276.090764,7
+2018,Motor vehicle manufacturing,3361,7292.1874,12
+2018,Motor vehicle parts manufacturing,3363,3763.8892382,87
+2018,Natural gas distribution,2212,692.6223,6
+2018,"Newspaper, periodical, book and directory publishers",5111,12.295,1
+2018,Non-ferrous metal (except aluminum) production and processing,3314,112141.896525651,24
+2018,Non-metallic mineral mining and quarrying,2123,34904.484408867,135
+2018,Non-residential building construction,2362,68.5756,2
+2018,Non-scheduled air transportation,4812,317.934,1
+2018,Office furniture (including fixtures) manufacturing,3372,406.3941,14
+2018,Oil and gas extraction,2111,840413.101042301,3073
+2018,Oilseed and grain farming,1111,9.237,1
+2018,Other amusement and recreation industries,7139,0.0,1
+2018,Other chemical product manufacturing,3259,7213.8001409,49
+2018,Other electrical equipment and component manufacturing,3359,1.4652036,4
+2018,Other fabricated metal product manufacturing,3329,1567.091724616,39
+2018,Other federal government public administration,9119,57.8,2
+2018,Other food manufacturing,3119,1865.3029,35
+2018,Other general-purpose machinery manufacturing,3339,177.1329487,8
+2018,Other leather and allied product manufacturing,3169,42.4442,1
+2018,"Other local, municipal and regional public administration",9139,0.26,2
+2018,"Other machinery, equipment and supplies merchant wholesalers",4179,0.0005454,1
+2018,Other miscellaneous manufacturing,3399,1080.628582603,34
+2018,Other non-metallic mineral product manufacturing,3279,2559.596423014,24
+2018,Other pipeline transportation,4869,7.3025,1
+2018,"Other professional, scientific and technical services",5419,106.261448,6
+2018,Other specialty trade contractors,2389,89.2320004,2
+2018,Other support activities for transportation,4889,83.09,2
+2018,Other transportation equipment manufacturing,3369,407.7810018,12
+2018,Other wood product manufacturing,3219,3366.8414,42
+2018,"Paint, coating and adhesive manufacturing",3255,843.4273389,37
+2018,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,24555.9694617,28
+2018,Petroleum and coal product manufacturing,3241,123076.9497004,88
+2018,Petroleum and petroleum products merchant wholesalers,4121,9959.6048597,69
+2018,Pharmaceutical and medicine manufacturing,3254,909.4423,22
+2018,Pipeline transportation of crude oil,4861,20275.1207,59
+2018,Pipeline transportation of natural gas,4862,26905.571701,143
+2018,Plastic product manufacturing,3261,12212.0159133,130
+2018,Printing and related support activities,3231,4828.104578,44
+2018,"Pulp, paper and paperboard mills",3221,176450.709536515,80
+2018,Rail transportation,4821,90.1828,4
+2018,Railroad rolling stock manufacturing,3365,124.0795,1
+2018,Recyclable material merchant wholesalers,4181,127.261000011,12
+2018,Remediation and other waste management services,5629,671.4504062,18
+2018,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,6022.053169,28
+2018,Rooming and boarding houses,7213,30.5083,1
+2018,Rubber product manufacturing,3262,1789.352519,21
+2018,Sawmills and wood preservation,3211,35611.798308416,158
+2018,Scheduled air transportation,4811,44.35,1
+2018,Scientific research and development services,5417,16.2741,4
+2018,Seafood product preparation and packaging,3117,0.437,1
+2018,Semiconductor and other electronic component manufacturing,3344,20.5101562,8
+2018,Ship and boat building,3366,138.2216,7
+2018,"Soap, cleaning compound and toilet preparation manufacturing",3256,89.7973,12
+2018,Steel product manufacturing from purchased steel,3312,1323.7521243,31
+2018,Sugar and confectionery product manufacturing,3113,1284.3283,13
+2018,Support activities for air transportation,4881,201.1626756,7
+2018,Support activities for animal production,1152,84.259,2
+2018,Support activities for crop production,1151,394.006,37
+2018,"Support activities for mining, and oil and gas extraction",2131,1547.0393,23
+2018,Support activities for rail transportation,4882,25.565,2
+2018,Support activities for water transportation,4883,610.5173032,8
+2018,Technical and trade schools,6115,7.499,1
+2018,Textile and fabric finishing and fabric coating,3133,957.424,4
+2018,Textile furnishings mills,3141,27.478,1
+2018,Tobacco manufacturing,3122,2.366,1
+2018,Universities,6113,2559.608045,22
+2018,Utility system construction,2371,29.4,1
+2018,"Veneer, plywood and engineered wood product manufacturing",3212,32352.375522203,63
+2018,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,64.2276,2
+2018,Warehousing and storage,4931,7492.455134,112
+2018,Waste collection,5621,41.879,11
+2018,Waste treatment and disposal,5622,8365.223407134,116
+2018,"Water, sewage and other systems",2213,8499.421045272,112
+2019,Aerospace product and parts manufacturing,3364,1056.15044824,36
+2019,Agricultural supplies merchant wholesalers,4183,678.200858,28
+2019,"Agricultural, construction and mining machinery manufacturing",3331,3323.2991,11
+2019,Alumina and aluminum production and processing,3313,428696.616709795,31
+2019,Animal food manufacturing,3111,1627.713808624,76
+2019,Architectural and structural metals manufacturing,3323,574.2084204,16
+2019,Automotive repair and maintenance,8111,0.1904,6
+2019,Bakeries and tortilla manufacturing,3118,2632.272435,47
+2019,Basic chemical manufacturing,3251,40905.63987033,98
+2019,Beverage manufacturing,3121,11312.4613,18
+2019,"Boiler, tank and shipping container manufacturing",3324,243.2120012,5
+2019,Cement and concrete product manufacturing,3273,67946.009081386,93
+2019,Chemical (except agricultural) and allied product merchant wholesalers,4184,25.23851,13
+2019,Clay product and refractory manufacturing,3271,289.493,3
+2019,Clothing accessories and other clothing manufacturing,3159,1.032,1
+2019,Coal mining,2121,188100.532274578,19
+2019,"Coating, engraving, cold and heat treating and allied activities",3328,1287.820810511,92
+2019,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,52.3201359,4
+2019,Commercial and service industry machinery manufacturing,3333,22.819919,4
+2019,Communications equipment manufacturing,3342,0.0145,1
+2019,Community colleges and C.E.G.E.P.s,6112,5.0243,1
+2019,Computer and peripheral equipment manufacturing,3341,0.00056,1
+2019,Converted paper product manufacturing,3222,1183.316098,19
+2019,Cutlery and hand tool manufacturing,3322,5.5568095,2
+2019,Dairy product manufacturing,3115,213.099,16
+2019,Defence services,9111,4887.595955223,30
+2019,Dry cleaning and laundry services,8123,101.113555,31
+2019,"Electric power generation, transmission and distribution",2211,380451.461186208,255
+2019,Electrical equipment manufacturing,3353,17.7624793,8
+2019,"Engine, turbine and power transmission equipment manufacturing",3336,31.429,4
+2019,Facilities support services,5612,0.8473,1
+2019,Farm product merchant wholesalers,4111,375.513488,32
+2019,"Fibre, yarn and thread mills",3131,0.3019,1
+2019,Footwear manufacturing,3162,26.832,1
+2019,Forging and stamping,3321,538.869745614,11
+2019,Foundries,3315,1813.125691957,45
+2019,Fruit and vegetable preserving and specialty food manufacturing,3114,725.407148,10
+2019,Funeral services,8122,4e-09,1
+2019,General freight trucking,4841,125.027,1
+2019,General medical and surgical hospitals,6221,713.13921854,8
+2019,Glass and glass product manufacturing,3272,2031.22780306,9
+2019,Grain and oilseed milling,3112,8767.037,43
+2019,"Greenhouse, nursery and floriculture production",1114,51.798,2
+2019,Hardware manufacturing,3325,0.0028,1
+2019,"Highway, street and bridge construction",2373,76.68676,12
+2019,Household and institutional furniture and kitchen cabinet manufacturing,3371,2059.35504,32
+2019,Household appliance manufacturing,3352,0.0,1
+2019,Industrial machinery manufacturing,3332,13.2847903,5
+2019,Iron and steel mills and ferro-alloy manufacturing,3311,64505.724269626,20
+2019,Lime and gypsum product manufacturing,3274,17126.09354,20
+2019,Logging,1133,104.141,1
+2019,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,15.42741484,7
+2019,Meat product manufacturing,3116,1605.370766,23
+2019,Medical equipment and supplies manufacturing,3391,11.337024,3
+2019,Metal ore mining,2122,145527.019586828,98
+2019,Metal service centres,4162,0.006,5
+2019,Metalworking machinery manufacturing,3335,1.2144513,8
+2019,Motor vehicle body and trailer manufacturing,3362,314.90855057,8
+2019,Motor vehicle manufacturing,3361,7337.954018,12
+2019,Motor vehicle parts manufacturing,3363,2930.2587528,85
+2019,Natural gas distribution,2212,676.0187,6
+2019,"Newspaper, periodical, book and directory publishers",5111,10.9,1
+2019,Non-ferrous metal (except aluminum) production and processing,3314,93118.489225764,25
+2019,Non-metallic mineral mining and quarrying,2123,33906.746661586,143
+2019,Non-residential building construction,2362,65.1048,2
+2019,Non-scheduled air transportation,4812,777.973,1
+2019,Office furniture (including fixtures) manufacturing,3372,309.15613,16
+2019,Oil and gas extraction,2111,865189.985956345,3072
+2019,Oilseed and grain farming,1111,3.33816,1
+2019,Other amusement and recreation industries,7139,0.0,1
+2019,Other chemical product manufacturing,3259,7563.109417707,45
+2019,Other electrical equipment and component manufacturing,3359,2.7162036,5
+2019,Other fabricated metal product manufacturing,3329,1315.545939337,40
+2019,Other federal government public administration,9119,96.623,4
+2019,Other food manufacturing,3119,1576.28182,33
+2019,Other general-purpose machinery manufacturing,3339,101.4989064,8
+2019,Other leather and allied product manufacturing,3169,31.7128,1
+2019,"Other local, municipal and regional public administration",9139,0.208,1
+2019,"Other machinery, equipment and supplies merchant wholesalers",4179,0.000113091,1
+2019,Other miscellaneous manufacturing,3399,904.502204283,33
+2019,Other non-metallic mineral product manufacturing,3279,2246.264977012,24
+2019,Other pipeline transportation,4869,7.7955,1
+2019,"Other professional, scientific and technical services",5419,120.323386,6
+2019,Other specialty trade contractors,2389,117.42600011,2
+2019,Other support activities for transportation,4889,97.74,2
+2019,Other textile product mills,3149,12.9542,1
+2019,Other transportation equipment manufacturing,3369,377.919406718,14
+2019,Other wood product manufacturing,3219,4070.530139,44
+2019,"Paint, coating and adhesive manufacturing",3255,754.431290734,38
+2019,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,24169.9442379,26
+2019,Petroleum and coal product manufacturing,3241,107772.661546825,84
+2019,Petroleum and petroleum products merchant wholesalers,4121,10320.716844104,67
+2019,Pharmaceutical and medicine manufacturing,3254,483.631902,24
+2019,Pipeline transportation of crude oil,4861,13992.680052,60
+2019,Pipeline transportation of natural gas,4862,25097.463716,137
+2019,Plastic product manufacturing,3261,12314.83239358,138
+2019,Printing and related support activities,3231,4355.39542,38
+2019,"Pulp, paper and paperboard mills",3221,169484.324691024,81
+2019,Rail transportation,4821,100.7385,4
+2019,Railroad rolling stock manufacturing,3365,130.73968,1
+2019,Recyclable material merchant wholesalers,4181,78.072423007,12
+2019,Remediation and other waste management services,5629,686.23191571,17
+2019,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,4436.54755905,27
+2019,Rooming and boarding houses,7213,21.5378,1
+2019,Rubber product manufacturing,3262,1745.7103975,23
+2019,Sawmills and wood preservation,3211,44429.423339828,157
+2019,Scheduled air transportation,4811,47.854,1
+2019,Scientific research and development services,5417,2.024,1
+2019,Seafood product preparation and packaging,3117,0.437,1
+2019,Semiconductor and other electronic component manufacturing,3344,18.0505759,8
+2019,Ship and boat building,3366,188.83136,9
+2019,"Soap, cleaning compound and toilet preparation manufacturing",3256,76.27235,15
+2019,Specialized freight trucking,4842,0.0,1
+2019,Spring and wire product manufacturing,3326,63.085,1
+2019,Steel product manufacturing from purchased steel,3312,1234.8524682,29
+2019,Sugar and confectionery product manufacturing,3113,1323.1562,12
+2019,Support activities for air transportation,4881,188.137545,5
+2019,Support activities for animal production,1152,80.234,2
+2019,Support activities for crop production,1151,444.073,36
+2019,"Support activities for mining, and oil and gas extraction",2131,1743.0789,13
+2019,Support activities for rail transportation,4882,26.396,1
+2019,Support activities for water transportation,4883,737.6485801,8
+2019,Technical and trade schools,6115,7.912,1
+2019,Textile and fabric finishing and fabric coating,3133,692.519,4
+2019,Textile furnishings mills,3141,21.412,1
+2019,Tobacco manufacturing,3122,1.936,1
+2019,Universities,6113,2877.56679035,21
+2019,Utility system construction,2371,31.8,1
+2019,"Veneer, plywood and engineered wood product manufacturing",3212,36331.976774203,64
+2019,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,18.6144,2
+2019,Warehousing and storage,4931,7066.850461,107
+2019,Waste collection,5621,39.3182,9
+2019,Waste treatment and disposal,5622,7571.78144022,133
+2019,"Water, sewage and other systems",2213,8733.001195053,112
+2020,Aerospace product and parts manufacturing,3364,796.873664321,36
+2020,Agricultural supplies merchant wholesalers,4183,843.193319,27
+2020,"Agricultural, construction and mining machinery manufacturing",3331,241.9011,10
+2020,Alumina and aluminum production and processing,3313,461002.815615963,29
+2020,Animal food manufacturing,3111,1276.565008666,81
+2020,Architectural and structural metals manufacturing,3323,586.9219954,16
+2020,"Architectural, engineering and related services",5413,0.015665051,2
+2020,Automotive repair and maintenance,8111,0.1752,6
+2020,Bakeries and tortilla manufacturing,3118,2477.388335,48
+2020,Basic chemical manufacturing,3251,38280.656985969,95
+2020,Beverage manufacturing,3121,12314.4654,18
+2020,"Boiler, tank and shipping container manufacturing",3324,224.363,4
+2020,Cement and concrete product manufacturing,3273,62175.519213982,82
+2020,Chemical (except agricultural) and allied product merchant wholesalers,4184,21.049335,8
+2020,Clay product and refractory manufacturing,3271,386.992,3
+2020,Clothing accessories and other clothing manufacturing,3159,0.63417,1
+2020,Coal mining,2121,180374.826920844,19
+2020,"Coating, engraving, cold and heat treating and allied activities",3328,1386.480532095,92
+2020,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,12.9400389,2
+2020,Commercial and service industry machinery manufacturing,3333,20.136111,4
+2020,Communications equipment manufacturing,3342,0.0107,1
+2020,Computer and peripheral equipment manufacturing,3341,0.000556,1
+2020,Converted paper product manufacturing,3222,1095.820662,18
+2020,Cutlery and hand tool manufacturing,3322,5.3535418,2
+2020,Dairy product manufacturing,3115,237.134,17
+2020,Defence services,9111,4651.981591301,27
+2020,Dry cleaning and laundry services,8123,101.304402,30
+2020,"Electric power generation, transmission and distribution",2211,319035.965185631,251
+2020,Electrical equipment manufacturing,3353,15.707663991,9
+2020,"Engine, turbine and power transmission equipment manufacturing",3336,14.2784,3
+2020,Facilities support services,5612,0.4833,1
+2020,Farm product merchant wholesalers,4111,768.841936,43
+2020,"Fibre, yarn and thread mills",3131,0.3203,1
+2020,Footwear manufacturing,3162,28.225,1
+2020,Forging and stamping,3321,471.518540307,12
+2020,Foundries,3315,2075.854175755,45
+2020,Fruit and vegetable preserving and specialty food manufacturing,3114,775.685019,10
+2020,Funeral services,8122,4e-09,1
+2020,General freight trucking,4841,1084.099,2
+2020,General medical and surgical hospitals,6221,654.77786848,9
+2020,Glass and glass product manufacturing,3272,2025.090280064,9
+2020,Grain and oilseed milling,3112,9552.655573999,45
+2020,"Greenhouse, nursery and floriculture production",1114,46.266,2
+2020,Hardware manufacturing,3325,52.6453,2
+2020,"Highway, street and bridge construction",2373,108.22807,12
+2020,Household and institutional furniture and kitchen cabinet manufacturing,3371,2090.458013,30
+2020,Household appliance manufacturing,3352,0.0,1
+2020,Industrial machinery manufacturing,3332,15.8944664,5
+2020,Iron and steel mills and ferro-alloy manufacturing,3311,53401.277647004,19
+2020,Lime and gypsum product manufacturing,3274,10997.233384,19
+2020,Logging,1133,91.17,1
+2020,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,37.542991256,8
+2020,Meat product manufacturing,3116,1870.24696,23
+2020,Medical equipment and supplies manufacturing,3391,11.286056,3
+2020,Metal ore mining,2122,140965.594367314,98
+2020,Metal service centres,4162,0.004,4
+2020,Metalworking machinery manufacturing,3335,1.3802312,6
+2020,Motor vehicle body and trailer manufacturing,3362,198.122779079,8
+2020,Motor vehicle manufacturing,3361,5274.784551,12
+2020,Motor vehicle parts manufacturing,3363,3018.1130258,83
+2020,Natural gas distribution,2212,988.92843,6
+2020,Non-ferrous metal (except aluminum) production and processing,3314,97538.918766814,24
+2020,Non-metallic mineral mining and quarrying,2123,30482.261078086,143
+2020,Non-residential building construction,2362,70.874,2
+2020,Office furniture (including fixtures) manufacturing,3372,233.2101,14
+2020,Oil and gas extraction,2111,821394.03973507,3148
+2020,Oilseed and grain farming,1111,3.8087,1
+2020,Other amusement and recreation industries,7139,0.0,1
+2020,Other chemical product manufacturing,3259,5643.072633633,47
+2020,Other electrical equipment and component manufacturing,3359,16.8971018,5
+2020,Other fabricated metal product manufacturing,3329,1389.261192652,36
+2020,Other federal government public administration,9119,85.438,3
+2020,Other food manufacturing,3119,805.95597,31
+2020,Other general-purpose machinery manufacturing,3339,74.7689064,7
+2020,Other leather and allied product manufacturing,3169,7.3095,1
+2020,"Other local, municipal and regional public administration",9139,0.838,2
+2020,"Other machinery, equipment and supplies merchant wholesalers",4179,0.000113091,1
+2020,Other miscellaneous manufacturing,3399,906.722717772,27
+2020,Other non-metallic mineral product manufacturing,3279,2232.504494012,25
+2020,Other pipeline transportation,4869,91.1535,1
+2020,"Other professional, scientific and technical services",5419,109.608942853,6
+2020,Other specialty trade contractors,2389,69.508000002,1
+2020,Other support activities for transportation,4889,74.21,2
+2020,Other textile product mills,3149,10.0949,1
+2020,Other transportation equipment manufacturing,3369,245.7540318,13
+2020,Other wood product manufacturing,3219,5230.49613,43
+2020,"Paint, coating and adhesive manufacturing",3255,716.194440643,38
+2020,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,24437.8898745,23
+2020,Petroleum and coal product manufacturing,3241,89186.761600427,90
+2020,Petroleum and petroleum products merchant wholesalers,4121,8788.301087061,67
+2020,Pharmaceutical and medicine manufacturing,3254,757.61216,26
+2020,Pipeline transportation of crude oil,4861,12750.826804,59
+2020,Pipeline transportation of natural gas,4862,17725.9355,124
+2020,Plastic product manufacturing,3261,11796.708714531,137
+2020,Printing and related support activities,3231,4535.432,35
+2020,"Pulp, paper and paperboard mills",3221,152943.060148147,79
+2020,Rail transportation,4821,89.3206,4
+2020,Railroad rolling stock manufacturing,3365,76.29806,1
+2020,Recyclable material merchant wholesalers,4181,21.950334013,8
+2020,Remediation and other waste management services,5629,389.19491596,15
+2020,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,4013.186210009,29
+2020,Rubber product manufacturing,3262,1348.18341082,23
+2020,Sawmills and wood preservation,3211,34374.833847676,154
+2020,Scheduled air transportation,4811,38.05421,1
+2020,Scientific research and development services,5417,9.693147,3
+2020,Seafood product preparation and packaging,3117,0.407,1
+2020,Semiconductor and other electronic component manufacturing,3344,31.1721068,7
+2020,Ship and boat building,3366,129.7925,8
+2020,"Soap, cleaning compound and toilet preparation manufacturing",3256,159.463223,15
+2020,Spring and wire product manufacturing,3326,55.087,1
+2020,Steel product manufacturing from purchased steel,3312,860.4841275,27
+2020,Sugar and confectionery product manufacturing,3113,905.914596,12
+2020,Support activities for air transportation,4881,105.7747088,8
+2020,Support activities for animal production,1152,83.09,2
+2020,Support activities for crop production,1151,506.8351,29
+2020,"Support activities for mining, and oil and gas extraction",2131,2432.417092,10
+2020,Support activities for rail transportation,4882,13.407,2
+2020,Support activities for water transportation,4883,572.8894511,7
+2020,Technical and trade schools,6115,10.997,1
+2020,Textile and fabric finishing and fabric coating,3133,497.064,4
+2020,Tobacco manufacturing,3122,1.89,1
+2020,Universities,6113,1919.71880071,20
+2020,Utility system construction,2371,31.88,2
+2020,"Veneer, plywood and engineered wood product manufacturing",3212,35836.629997703,63
+2020,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,21.7412,2
+2020,Warehousing and storage,4931,6859.922909005,95
+2020,Waste collection,5621,46.445637,11
+2020,Waste treatment and disposal,5622,8176.948312664,115
+2020,"Water, sewage and other systems",2213,9355.233714939,116
+2021,Aerospace product and parts manufacturing,3364,729.27763481,34
+2021,Agricultural supplies merchant wholesalers,4183,420.130048,28
+2021,"Agricultural, construction and mining machinery manufacturing",3331,254.2581,12
+2021,Alumina and aluminum production and processing,3313,451278.533766896,30
+2021,Animal food manufacturing,3111,2483.89401509,79
+2021,Architectural and structural metals manufacturing,3323,769.230539361,17
+2021,"Architectural, engineering and related services",5413,0.025738125,1
+2021,Automotive repair and maintenance,8111,0.1798,6
+2021,Bakeries and tortilla manufacturing,3118,2445.164523,46
+2021,Basic chemical manufacturing,3251,46346.451739865,102
+2021,Beverage manufacturing,3121,12767.211514,18
+2021,"Boiler, tank and shipping container manufacturing",3324,242.93784,3
+2021,Cement and concrete product manufacturing,3273,64918.644870991,82
+2021,Chemical (except agricultural) and allied product merchant wholesalers,4184,28.21910813,17
+2021,Clay product and refractory manufacturing,3271,882.0415,6
+2021,Coal mining,2121,189942.223171747,20
+2021,"Coating, engraving, cold and heat treating and allied activities",3328,1694.869102397,93
+2021,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,12.6650389,2
+2021,Commercial and service industry machinery manufacturing,3333,39.228944,4
+2021,Communications equipment manufacturing,3342,0.0079,1
+2021,Computer and peripheral equipment manufacturing,3341,0.00056,1
+2021,Converted paper product manufacturing,3222,1313.935077,17
+2021,Cutlery and hand tool manufacturing,3322,3.441003,2
+2021,Dairy product manufacturing,3115,269.6,19
+2021,Defence services,9111,3957.2822153,27
+2021,Dry cleaning and laundry services,8123,103.017412,31
+2021,"Electric power generation, transmission and distribution",2211,327014.470811144,249
+2021,Electrical equipment manufacturing,3353,3.6041045,9
+2021,"Engine, turbine and power transmission equipment manufacturing",3336,26.8138,1
+2021,Facilities support services,5612,0.391,1
+2021,Farm product merchant wholesalers,4111,694.510852,46
+2021,Footwear manufacturing,3162,31.429,1
+2021,Forging and stamping,3321,664.085602517,11
+2021,Foundries,3315,1893.928402258,45
+2021,Fruit and vegetable preserving and specialty food manufacturing,3114,831.922368,10
+2021,Funeral services,8122,4e-09,1
+2021,General freight trucking,4841,365.249,2
+2021,General medical and surgical hospitals,6221,799.77731843,9
+2021,Glass and glass product manufacturing,3272,1943.288344,8
+2021,Grain and oilseed milling,3112,9741.135018,46
+2021,"Greenhouse, nursery and floriculture production",1114,45.593,2
+2021,Hardware manufacturing,3325,178.6461,2
+2021,"Highway, street and bridge construction",2373,161.696986,15
+2021,Household and institutional furniture and kitchen cabinet manufacturing,3371,2367.5282,31
+2021,Household appliance manufacturing,3352,3e-05,1
+2021,Industrial machinery manufacturing,3332,16.0495905,6
+2021,Iron and steel mills and ferro-alloy manufacturing,3311,53486.348867494,19
+2021,Lime and gypsum product manufacturing,3274,8719.356214,17
+2021,Logging,1133,82.15,1
+2021,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,41.420868357,7
+2021,Meat product manufacturing,3116,1359.30587,26
+2021,Medical equipment and supplies manufacturing,3391,6.233036,2
+2021,Metal ore mining,2122,153705.028619374,99
+2021,Metal service centres,4162,0.004,3
+2021,Metalworking machinery manufacturing,3335,0.734439226,8
+2021,Motor vehicle body and trailer manufacturing,3362,254.7211124,8
+2021,Motor vehicle manufacturing,3361,4128.0931525,11
+2021,Motor vehicle parts manufacturing,3363,3173.8479964,77
+2021,Natural gas distribution,2212,772.168078,5
+2021,Non-ferrous metal (except aluminum) production and processing,3314,70348.711031866,25
+2021,Non-metallic mineral mining and quarrying,2123,34866.603090215,156
+2021,Non-residential building construction,2362,68.4157,2
+2021,Office furniture (including fixtures) manufacturing,3372,208.29373,12
+2021,Oil and gas extraction,2111,829008.571209925,3135
+2021,Other chemical product manufacturing,3259,6702.826882941,46
+2021,Other electrical equipment and component manufacturing,3359,26.74041,6
+2021,Other fabricated metal product manufacturing,3329,1369.098825181,36
+2021,Other federal government public administration,9119,83.952,3
+2021,Other food manufacturing,3119,1000.09099,28
+2021,Other general-purpose machinery manufacturing,3339,46.8236064,7
+2021,Other heavy and civil engineering construction,2379,3.776,1
+2021,Other leather and allied product manufacturing,3169,6.0388,1
+2021,"Other local, municipal and regional public administration",9139,1.01,2
+2021,"Other machinery, equipment and supplies merchant wholesalers",4179,0.00097,1
+2021,Other miscellaneous manufacturing,3399,223.257488694,27
+2021,Other non-metallic mineral product manufacturing,3279,2185.077693512,23
+2021,Other pipeline transportation,4869,61.7385,1
+2021,"Other professional, scientific and technical services",5419,118.08068201,4
+2021,Other specialty trade contractors,2389,63.391,1
+2021,Other support activities for transportation,4889,112.61,2
+2021,Other textile product mills,3149,10.1178,1
+2021,Other transportation equipment manufacturing,3369,301.18187798,11
+2021,Other wood product manufacturing,3219,5141.03741,43
+2021,"Paint, coating and adhesive manufacturing",3255,760.413471386,38
+2021,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,24703.9222234,22
+2021,Petroleum and coal product manufacturing,3241,119549.649743042,88
+2021,Petroleum and petroleum products merchant wholesalers,4121,8575.667171009,67
+2021,Pharmaceutical and medicine manufacturing,3254,696.612355,27
+2021,Pipeline transportation of crude oil,4861,10960.558592554,65
+2021,Pipeline transportation of natural gas,4862,19313.164108,123
+2021,Plastic product manufacturing,3261,12723.79903253,140
+2021,Printing and related support activities,3231,4080.477074,34
+2021,"Pulp, paper and paperboard mills",3221,142651.135173369,76
+2021,Rail transportation,4821,111.6376,5
+2021,Railroad rolling stock manufacturing,3365,0.935182,1
+2021,Recyclable material merchant wholesalers,4181,17.412091002,7
+2021,Remediation and other waste management services,5629,1165.07505166,21
+2021,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,4052.721774929,27
+2021,Rubber product manufacturing,3262,1541.959537442,22
+2021,Sawmills and wood preservation,3211,28284.953221985,152
+2021,Scheduled air transportation,4811,33.693767,1
+2021,Scientific research and development services,5417,6.9809,3
+2021,Seafood product preparation and packaging,3117,0.398,1
+2021,Semiconductor and other electronic component manufacturing,3344,29.29228182,6
+2021,Ship and boat building,3366,189.4297,9
+2021,"Soap, cleaning compound and toilet preparation manufacturing",3256,84.2325827,11
+2021,Specialized freight trucking,4842,0.00209,1
+2021,Spring and wire product manufacturing,3326,64.572,1
+2021,Steel product manufacturing from purchased steel,3312,1410.9660818,26
+2021,Sugar and confectionery product manufacturing,3113,1065.329111,12
+2021,Support activities for air transportation,4881,127.1715678,8
+2021,Support activities for animal production,1152,83.769,2
+2021,Support activities for crop production,1151,440.1497,29
+2021,"Support activities for mining, and oil and gas extraction",2131,2610.768268,15
+2021,Support activities for rail transportation,4882,32.90654,3
+2021,Support activities for water transportation,4883,569.1562564,9
+2021,Technical and trade schools,6115,12.193,1
+2021,Textile and fabric finishing and fabric coating,3133,847.43833,4
+2021,Tobacco manufacturing,3122,1.58,1
+2021,Universities,6113,1886.72616,20
+2021,Utility system construction,2371,41.4,1
+2021,"Veneer, plywood and engineered wood product manufacturing",3212,36789.215198542,63
+2021,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,61.3266,2
+2021,Warehousing and storage,4931,7750.134127499,103
+2021,Waste collection,5621,40.801383003,12
+2021,Waste treatment and disposal,5622,8083.17053489,113
+2021,"Water, sewage and other systems",2213,8780.196477814,116
+2022,Aerospace product and parts manufacturing,3364,871.264505219,34
+2022,Agricultural supplies merchant wholesalers,4183,430.544158,27
+2022,"Agricultural, construction and mining machinery manufacturing",3331,335.1746,11
+2022,Alumina and aluminum production and processing,3313,438294.985588967,30
+2022,Animal food manufacturing,3111,2512.96537619,77
+2022,Architectural and structural metals manufacturing,3323,783.111103098,18
+2022,"Architectural, engineering and related services",5413,0.02190687,1
+2022,Automotive repair and maintenance,8111,0.1947,6
+2022,Bakeries and tortilla manufacturing,3118,2400.27832,47
+2022,Basic chemical manufacturing,3251,45353.13463944,99
+2022,Beverage manufacturing,3121,11401.829404,20
+2022,"Boiler, tank and shipping container manufacturing",3324,221.654198,3
+2022,Cement and concrete product manufacturing,3273,65824.127123031,93
+2022,Chemical (except agricultural) and allied product merchant wholesalers,4184,39.983212501,18
+2022,Clay product and refractory manufacturing,3271,744.7124,6
+2022,Coal mining,2121,164684.1854561,18
+2022,"Coating, engraving, cold and heat treating and allied activities",3328,1926.807859978,99
+2022,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,12.9441679,4
+2022,Commercial and service industry machinery manufacturing,3333,29.431662,4
+2022,Communications equipment manufacturing,3342,0.0109,2
+2022,Computer and peripheral equipment manufacturing,3341,0.00056,1
+2022,Converted paper product manufacturing,3222,1167.502351,18
+2022,Cutlery and hand tool manufacturing,3322,3.1140156,2
+2022,Dairy product manufacturing,3115,227.8801,19
+2022,Defence services,9111,3741.60200902,27
+2022,Dry cleaning and laundry services,8123,99.992144,30
+2022,Electric lighting equipment manufacturing,3351,0.00011,1
+2022,"Electric power generation, transmission and distribution",2211,306308.185718076,255
+2022,Electrical equipment manufacturing,3353,0.144821471,7
+2022,"Engine, turbine and power transmission equipment manufacturing",3336,15.7423,1
+2022,Facilities support services,5612,1.189,1
+2022,Farm product merchant wholesalers,4111,623.956698,37
+2022,Footwear manufacturing,3162,35.795,1
+2022,Forging and stamping,3321,396.136887105,12
+2022,Foundries,3315,1720.190648056,43
+2022,Fruit and vegetable preserving and specialty food manufacturing,3114,806.952001,10
+2022,Funeral services,8122,4e-09,1
+2022,General freight trucking,4841,719.257,2
+2022,General medical and surgical hospitals,6221,678.90709705,7
+2022,Glass and glass product manufacturing,3272,1881.6988232,7
+2022,Grain and oilseed milling,3112,10795.786011,46
+2022,"Greenhouse, nursery and floriculture production",1114,126.6988,3
+2022,Hardware manufacturing,3325,148.5979,2
+2022,"Highway, street and bridge construction",2373,94.967008,11
+2022,Household and institutional furniture and kitchen cabinet manufacturing,3371,2258.6358,31
+2022,Household appliance manufacturing,3352,48.44572,1
+2022,Industrial machinery manufacturing,3332,9.5317535,6
+2022,Iron and steel mills and ferro-alloy manufacturing,3311,56366.605710897,19
+2022,Lime and gypsum product manufacturing,3274,9862.412009,17
+2022,Logging,1133,54.46,1
+2022,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,31.56861175,8
+2022,Meat product manufacturing,3116,1305.7871,30
+2022,Medical equipment and supplies manufacturing,3391,10.642046,3
+2022,Metal ore mining,2122,165707.153599586,98
+2022,Metalworking machinery manufacturing,3335,0.74552524,7
+2022,Motor vehicle body and trailer manufacturing,3362,202.508991459,8
+2022,Motor vehicle manufacturing,3361,4837.0947444,12
+2022,Motor vehicle parts manufacturing,3363,3270.74491887,83
+2022,Natural gas distribution,2212,782.1092,3
+2022,Non-ferrous metal (except aluminum) production and processing,3314,80601.382499107,24
+2022,Non-metallic mineral mining and quarrying,2123,37510.728690887,155
+2022,Non-residential building construction,2362,69.7982,2
+2022,Office furniture (including fixtures) manufacturing,3372,217.7676,11
+2022,Oil and gas extraction,2111,852323.022895823,3313
+2022,Oilseed and grain farming,1111,23.161,1
+2022,Other amusement and recreation industries,7139,0.0,1
+2022,Other chemical product manufacturing,3259,1650.176208641,51
+2022,Other electrical equipment and component manufacturing,3359,28.61982,7
+2022,Other fabricated metal product manufacturing,3329,1291.599394131,40
+2022,Other federal government public administration,9119,99.758,3
+2022,Other food manufacturing,3119,1136.92202,28
+2022,Other general-purpose machinery manufacturing,3339,32.658806711,9
+2022,Other heavy and civil engineering construction,2379,6.806,2
+2022,Other leather and allied product manufacturing,3169,6.9139,1
+2022,"Other local, municipal and regional public administration",9139,0.886,1
+2022,"Other machinery, equipment and supplies merchant wholesalers",4179,9.7e-05,1
+2022,Other miscellaneous manufacturing,3399,209.104158624,27
+2022,Other non-metallic mineral product manufacturing,3279,2058.965210515,23
+2022,Other pipeline transportation,4869,13.2515,1
+2022,"Other professional, scientific and technical services",5419,244.169988,5
+2022,Other specialty trade contractors,2389,71.307,1
+2022,Other support activities for transportation,4889,79.01,2
+2022,Other textile product mills,3149,14.2133,1
+2022,Other transportation equipment manufacturing,3369,290.89484233,10
+2022,Other wood product manufacturing,3219,5177.840103,38
+2022,"Paint, coating and adhesive manufacturing",3255,629.024564631,34
+2022,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,24054.3561563,24
+2022,Petroleum and coal product manufacturing,3241,111467.40296254,88
+2022,"Petroleum, petroleum products, and other hydrocarbons merchant wholesalers",4121,9050.181242132,65
+2022,Pharmaceutical and medicine manufacturing,3254,528.73911002,28
+2022,Pipeline transportation of crude oil,4861,10386.262524,60
+2022,Pipeline transportation of natural gas,4862,21255.55067,126
+2022,Plastic product manufacturing,3261,12280.809389899,145
+2022,Printing and related support activities,3231,4470.655452,35
+2022,"Pulp, paper and paperboard mills",3221,136421.538913067,76
+2022,Rail transportation,4821,109.4569,4
+2022,Railroad rolling stock manufacturing,3365,32.705,1
+2022,Recyclable material merchant wholesalers,4181,16.404625001,7
+2022,Remediation and other waste management services,5629,1053.226673338,24
+2022,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,3647.076317645,30
+2022,Rubber product manufacturing,3262,1598.429268258,22
+2022,Sawmills and wood preservation,3211,30070.711010787,152
+2022,Scheduled air transportation,4811,63.20872,1
+2022,Scientific research and development services,5417,0.922,1
+2022,Seafood product preparation and packaging,3117,0.035,1
+2022,Semiconductor and other electronic component manufacturing,3344,53.70861092,7
+2022,Ship and boat building,3366,182.400452,7
+2022,"Soap, cleaning compound and toilet preparation manufacturing",3256,116.05558,13
+2022,Specialized freight trucking,4842,0.06531,1
+2022,Spring and wire product manufacturing,3326,44.815,1
+2022,Steel product manufacturing from purchased steel,3312,1295.9967828,27
+2022,Sugar and confectionery product manufacturing,3113,952.897933,12
+2022,Support activities for air transportation,4881,178.0983539,7
+2022,Support activities for animal production,1152,84.131,2
+2022,Support activities for crop production,1151,140.995,3
+2022,"Support activities for mining, and oil and gas extraction",2131,2193.334584025,13
+2022,Support activities for rail transportation,4882,38.109,2
+2022,Support activities for water transportation,4883,569.5229663,9
+2022,Technical and trade schools,6115,12.452,1
+2022,Textile and fabric finishing and fabric coating,3133,884.43029,4
+2022,Tobacco manufacturing,3122,1.17,1
+2022,Universities,6113,1890.130567,20
+2022,Utility system construction,2371,39.1,1
+2022,"Veneer, plywood and engineered wood product manufacturing",3212,39437.794318545,62
+2022,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,38.66457,3
+2022,Warehousing and storage,4931,6527.558469,83
+2022,Waste collection,5621,39.65073,9
+2022,Waste treatment and disposal,5622,8053.258755886,117
+2022,"Water, sewage and other systems",2213,9869.554103516,119
+2023,Aerospace product and parts manufacturing,3364,868.25455117,33
+2023,Agricultural supplies merchant wholesalers,4183,531.122985,28
+2023,"Agricultural, construction and mining machinery manufacturing",3331,319.7265,11
+2023,Alumina and aluminum production and processing,3313,465216.874941437,30
+2023,Animal food manufacturing,3111,2559.264919781,78
+2023,Architectural and structural metals manufacturing,3323,728.43846846,19
+2023,"Architectural, engineering and related services",5413,3.392376784,2
+2023,Automotive repair and maintenance,8111,0.1709,6
+2023,Bakeries and tortilla manufacturing,3118,2240.6289,45
+2023,Basic chemical manufacturing,3251,40697.440530841,103
+2023,Beverage manufacturing,3121,11237.317,21
+2023,"Boiler, tank and shipping container manufacturing",3324,198.41,3
+2023,Cement and concrete product manufacturing,3273,61055.186325212,108
+2023,Chemical (except agricultural) and allied product merchant wholesalers,4184,52.394089308,16
+2023,Clay product and refractory manufacturing,3271,696.96,6
+2023,Coal mining,2121,77385.0831645,19
+2023,"Coating, engraving, cold and heat treating and allied activities",3328,1512.278076043,93
+2023,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,12.825194055,3
+2023,Commercial and service industry machinery manufacturing,3333,16.17956,3
+2023,Communications equipment manufacturing,3342,0.0109,2
+2023,Computer and peripheral equipment manufacturing,3341,0.00912,1
+2023,Converted paper product manufacturing,3222,1158.976252,17
+2023,Cutlery and hand tool manufacturing,3322,8.204e-05,1
+2023,Dairy product manufacturing,3115,277.13148,19
+2023,Defence services,9111,408.1097609,29
+2023,Dry cleaning and laundry services,8123,68.815165,31
+2023,Electric lighting equipment manufacturing,3351,0.00011,1
+2023,"Electric power generation, transmission and distribution",2211,281008.446729686,255
+2023,Electrical equipment manufacturing,3353,0.14416308,7
+2023,"Engine, turbine and power transmission equipment manufacturing",3336,34.8958,1
+2023,Facilities support services,5612,0.838,1
+2023,Farm product merchant wholesalers,4111,693.177517,47
+2023,"Fibre, yarn and thread mills",3131,43.005,1
+2023,Footwear manufacturing,3162,33.799,1
+2023,Forging and stamping,3321,233.862115679,12
+2023,Foundries,3315,1798.520688106,40
+2023,Fruit and vegetable preserving and specialty food manufacturing,3114,779.842525,11
+2023,Funeral services,8122,4e-09,1
+2023,General freight trucking,4841,362.917,2
+2023,General medical and surgical hospitals,6221,93.33087096,6
+2023,Glass and glass product manufacturing,3272,1792.1684222,8
+2023,Grain and oilseed milling,3112,10226.954706,45
+2023,"Greenhouse, nursery and floriculture production",1114,111.9016,3
+2023,Hardware manufacturing,3325,82.8158106,2
+2023,"Highway, street and bridge construction",2373,32.149602,7
+2023,Household and institutional furniture and kitchen cabinet manufacturing,3371,1955.3662,28
+2023,Household appliance manufacturing,3352,2.5e-05,1
+2023,Industrial machinery manufacturing,3332,7.92068332,5
+2023,Iron and steel mills and ferro-alloy manufacturing,3311,60457.843231506,19
+2023,Lime and gypsum product manufacturing,3274,10163.818794,17
+2023,Logging,1133,58.88,1
+2023,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,4.410610717,8
+2023,Meat product manufacturing,3116,1329.4492,30
+2023,Medical equipment and supplies manufacturing,3391,6.656067,3
+2023,Metal ore mining,2122,178440.72814847,102
+2023,Metalworking machinery manufacturing,3335,1.059107155,8
+2023,"Mineral, ore and precious metal merchant wholesalers",4185,13.81,1
+2023,Motor vehicle body and trailer manufacturing,3362,396.705922255,8
+2023,Motor vehicle manufacturing,3361,5451.4049681,12
+2023,Motor vehicle parts manufacturing,3363,3553.08202941,81
+2023,Natural gas distribution,2212,3801.93786,6
+2023,"Newspaper, periodical, book and directory publishers",5131,10.343,1
+2023,Non-ferrous metal (except aluminum) production and processing,3314,66273.668680777,24
+2023,Non-metallic mineral mining and quarrying,2123,39484.489342142,151
+2023,Non-residential building construction,2362,72.4788,2
+2023,Office furniture (including fixtures) manufacturing,3372,193.5219,12
+2023,Oil and gas extraction,2111,864395.059219999,3636
+2023,Other amusement and recreation industries,7139,0.0001459,1
+2023,Other chemical product manufacturing,3259,1420.811537593,50
+2023,Other electrical equipment and component manufacturing,3359,1927.3718222,8
+2023,Other fabricated metal product manufacturing,3329,1113.384677831,40
+2023,Other federal government public administration,9119,83.2878,3
+2023,Other food manufacturing,3119,849.123,27
+2023,Other general-purpose machinery manufacturing,3339,81.5790813,12
+2023,Other heavy and civil engineering construction,2379,4.649,1
+2023,Other leather and allied product manufacturing,3169,10.096832,1
+2023,"Other local, municipal and regional public administration",9139,1.275,2
+2023,"Other machinery, equipment and supplies merchant wholesalers",4179,9.0249e-05,1
+2023,Other miscellaneous manufacturing,3399,244.531558533,27
+2023,Other non-metallic mineral product manufacturing,3279,1813.2143944,22
+2023,Other pipeline transportation,4869,13.8168,1
+2023,"Other professional, scientific and technical services",5419,11548.414226,5
+2023,Other specialty trade contractors,2389,54.771,1
+2023,Other support activities for transportation,4889,75.16,2
+2023,Other textile product mills,3149,29.1652,1
+2023,Other transportation equipment manufacturing,3369,371.39946,12
+2023,Other wood product manufacturing,3219,5038.4274,36
+2023,"Paint, coating and adhesive manufacturing",3255,503.233536495,33
+2023,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,22669.4148246,26
+2023,Petroleum and coal product manufacturing,3241,115031.991863733,68
+2023,"Petroleum, petroleum products, and other hydrocarbons merchant wholesalers",4121,9475.922745063,69
+2023,Pharmaceutical and medicine manufacturing,3254,1288.263182,27
+2023,Pipeline transportation of crude oil,4861,9408.668268,70
+2023,Pipeline transportation of natural gas,4862,18296.538845,125
+2023,Plastic product manufacturing,3261,15872.311759947,139
+2023,Printing and related support activities,3231,3960.9453,31
+2023,"Pulp, paper and paperboard mills",3221,131826.255125996,75
+2023,Rail transportation,4821,123.081556,6
+2023,Railroad rolling stock manufacturing,3365,29.1688,1
+2023,Recyclable material merchant wholesalers,4181,17.747618,6
+2023,Remediation and other waste management services,5629,867.222236838,21
+2023,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,3858.554731926,32
+2023,Rubber product manufacturing,3262,1913.8483459,19
+2023,Sawmills and wood preservation,3211,29208.191505763,152
+2023,Scheduled air transportation,4811,77.60782,2
+2023,Scientific research and development services,5417,0.922,1
+2023,Seafood product preparation and packaging,3117,0.375,1
+2023,Semiconductor and other electronic component manufacturing,3344,29.22730371,7
+2023,Ship and boat building,3366,169.8923,9
+2023,"Soap, cleaning compound and toilet preparation manufacturing",3256,66.283293118,11
+2023,Specialized freight trucking,4842,0.00301,1
+2023,Spring and wire product manufacturing,3326,58.917,1
+2023,Steel product manufacturing from purchased steel,3312,1156.3963437,25
+2023,Sugar and confectionery product manufacturing,3113,961.355294,14
+2023,Support activities for air transportation,4881,190.0983539,9
+2023,Support activities for animal production,1152,82.97,2
+2023,Support activities for crop production,1151,219.174,27
+2023,"Support activities for mining, and oil and gas extraction",2131,2308.014325989,12
+2023,Support activities for rail transportation,4882,86.83,3
+2023,Support activities for water transportation,4883,803.956200598,11
+2023,Technical and trade schools,6115,12.358,1
+2023,Textile and fabric finishing and fabric coating,3133,817.639,5
+2023,Tobacco manufacturing,3122,0.952,1
+2023,Universities,6113,1797.357409,19
+2023,Utility system construction,2371,36.6,1
+2023,"Veneer, plywood and engineered wood product manufacturing",3212,38956.184980181,62
+2023,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,0.019033,4
+2023,Warehousing and storage,4931,6839.683427,95
+2023,Waste collection,5621,41.8505,9
+2023,Waste treatment and disposal,5622,8128.038585371,118
+2023,"Water, sewage and other systems",2213,7736.101516664,121
+2024,Aerospace product and parts manufacturing,3364,12221.425998101,31
+2024,Agricultural supplies merchant wholesalers,4183,110.319616,5
+2024,"Agricultural, construction and mining machinery manufacturing",3331,194.458315,12
+2024,Alumina and aluminum production and processing,3313,453673.815360038,28
+2024,Animal food manufacturing,3111,2592.74191831,78
+2024,Architectural and structural metals manufacturing,3323,572.80199612,18
+2024,"Architectural, engineering and related services",5413,2.126496,2
+2024,Automotive repair and maintenance,8111,0.1596,6
+2024,Bakeries and tortilla manufacturing,3118,2844.41642,51
+2024,Basic chemical manufacturing,3251,40597.12895467,96
+2024,Beverage manufacturing,3121,11087.0198,20
+2024,"Boiler, tank and shipping container manufacturing",3324,225.42079,6
+2024,Cement and concrete product manufacturing,3273,57133.523618026,108
+2024,Chemical (except agricultural) and allied product merchant wholesalers,4184,41.558991,12
+2024,Clay product and refractory manufacturing,3271,639.692,6
+2024,Coal mining,2121,74045.90998518,19
+2024,"Coating, engraving, cold and heat treating and allied activities",3328,1468.415752546,94
+2024,Commercial and industrial machinery and equipment (except automotive and electronic) repair and maintenance,8113,12.945111021,4
+2024,Commercial and service industry machinery manufacturing,3333,40.362509,3
+2024,Communications equipment manufacturing,3342,0.002,1
+2024,Computer and peripheral equipment manufacturing,3341,0.00892,1
+2024,"Computing infrastructure providers, data processing, web hosting, and related services",5182,46.406,1
+2024,Converted paper product manufacturing,3222,1170.87718,18
+2024,Cutlery and hand tool manufacturing,3322,2.33704979,2
+2024,Dairy product manufacturing,3115,313.2585,19
+2024,Defence services,9111,459.909639919,34
+2024,Dry cleaning and laundry services,8123,66.118118,33
+2024,Electric lighting equipment manufacturing,3351,0.00011,1
+2024,"Electric power generation, transmission and distribution",2211,236390.468548493,255
+2024,Electrical equipment manufacturing,3353,63.465821423,9
+2024,"Engine, turbine and power transmission equipment manufacturing",3336,37.171,1
+2024,Facilities support services,5612,0.8925,1
+2024,Farm product merchant wholesalers,4111,823.190375,46
+2024,"Fibre, yarn and thread mills",3131,101.663,1
+2024,Footwear manufacturing,3162,27.053,1
+2024,Forging and stamping,3321,165.974704363,12
+2024,Foundries,3315,1862.680690587,38
+2024,Fruit and vegetable preserving and specialty food manufacturing,3114,780.894709,11
+2024,Funeral services,8122,4e-09,1
+2024,General freight trucking,4841,418.591,2
+2024,General medical and surgical hospitals,6221,90.69828,4
+2024,Glass and glass product manufacturing,3272,1842.8972619,8
+2024,Grain and oilseed milling,3112,12090.800047,46
+2024,"Greenhouse, nursery and floriculture production",1114,168.8814,4
+2024,Hardware manufacturing,3325,84.3903051,2
+2024,"Highway, street and bridge construction",2373,94.662508,7
+2024,Household and institutional furniture and kitchen cabinet manufacturing,3371,1755.61736,27
+2024,Household appliance manufacturing,3352,13.047519,1
+2024,Industrial machinery manufacturing,3332,19.75196088,7
+2024,Iron and steel mills and ferro-alloy manufacturing,3311,51715.473740549,19
+2024,Lime and gypsum product manufacturing,3274,10769.694845,17
+2024,Logging,1133,65.81,1
+2024,"Machine shops, turned product, and screw, nut and bolt manufacturing",3327,4.410532023,9
+2024,Meat product manufacturing,3116,1379.19693,30
+2024,Medical equipment and supplies manufacturing,3391,6.531,2
+2024,Metal ore mining,2122,191561.819682796,103
+2024,Metal service centres,4162,0.003,1
+2024,Metalworking machinery manufacturing,3335,1.01957196,7
+2024,"Mineral, ore and precious metal merchant wholesalers",4185,13.8,1
+2024,Motor vehicle body and trailer manufacturing,3362,344.597295547,8
+2024,Motor vehicle manufacturing,3361,4401.579189,11
+2024,Motor vehicle parts manufacturing,3363,3410.20912035,76
+2024,Natural gas distribution,2212,384.172,4
+2024,"Newspaper, periodical, book and directory publishers",5131,10.243,1
+2024,Non-ferrous metal (except aluminum) production and processing,3314,76444.671168606,26
+2024,Non-metallic mineral mining and quarrying,2123,42879.043059133,150
+2024,Non-residential building construction,2362,73.433,2
+2024,Office furniture (including fixtures) manufacturing,3372,149.042084,10
+2024,Oil and gas extraction,2111,888126.650310816,3410
+2024,Other amusement and recreation industries,7139,0.0001459,1
+2024,Other chemical product manufacturing,3259,1718.820114099,45
+2024,Other electrical equipment and component manufacturing,3359,23.7746222,9
+2024,Other fabricated metal product manufacturing,3329,1085.446441231,39
+2024,Other federal government public administration,9119,61.5863,3
+2024,Other food manufacturing,3119,793.29698,28
+2024,Other general-purpose machinery manufacturing,3339,102.4537904,11
+2024,Other heavy and civil engineering construction,2379,4.835,1
+2024,Other leather and allied product manufacturing,3169,11.6601,1
+2024,"Other local, municipal and regional public administration",9139,1.578,2
+2024,Other miscellaneous manufacturing,3399,241.935579174,27
+2024,Other non-metallic mineral product manufacturing,3279,1813.5390449,21
+2024,Other pipeline transportation,4869,16.70708,1
+2024,"Other professional, scientific and technical services",5419,177.98608005,5
+2024,Other specialty trade contractors,2389,52.294,1
+2024,Other support activities for transportation,4889,995.99136,3
+2024,Other textile product mills,3149,60.7238,1
+2024,Other transportation equipment manufacturing,3369,387.2953347,13
+2024,Other wood product manufacturing,3219,5098.41231,35
+2024,"Paint, coating and adhesive manufacturing",3255,448.763621622,33
+2024,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,22135.1432827,23
+2024,Petroleum and coal product manufacturing,3241,96374.995198242,77
+2024,"Petroleum, petroleum products, and other hydrocarbons merchant wholesalers",4121,9889.979892911,64
+2024,Pharmaceutical and medicine manufacturing,3254,1359.56859501,27
+2024,Pipeline transportation of crude oil,4861,5786.852403,71
+2024,Pipeline transportation of natural gas,4862,19588.017,133
+2024,Plastic product manufacturing,3261,12770.918320759,144
+2024,Printing and related support activities,3231,3271.63605,29
+2024,"Pulp, paper and paperboard mills",3221,119967.201416846,76
+2024,Rail transportation,4821,222.74109,6
+2024,Railroad rolling stock manufacturing,3365,15.299,1
+2024,Recyclable material merchant wholesalers,4181,20.45949,7
+2024,Remediation and other waste management services,5629,834.03421219,21
+2024,"Resin, synthetic rubber, and artificial and synthetic fibres and filaments manufacturing",3252,4623.727164595,31
+2024,Rubber product manufacturing,3262,1791.070853,18
+2024,Sawmills and wood preservation,3211,24432.744209146,147
+2024,Scheduled air transportation,4811,38.007,1
+2024,Scientific research and development services,5417,0.761,1
+2024,Seafood product preparation and packaging,3117,0.654,1
+2024,Semiconductor and other electronic component manufacturing,3344,38.080820574,6
+2024,Ship and boat building,3366,309.43931,9
+2024,"Soap, cleaning compound and toilet preparation manufacturing",3256,152.184464223,9
+2024,Specialized freight trucking,4842,0.00608,1
+2024,Spring and wire product manufacturing,3326,63.124,1
+2024,Steel product manufacturing from purchased steel,3312,1297.01533399,25
+2024,Sugar and confectionery product manufacturing,3113,1145.231935,14
+2024,Support activities for air transportation,4881,208.4373536,9
+2024,Support activities for animal production,1152,87.232,2
+2024,Support activities for crop production,1151,222.902,32
+2024,"Support activities for mining, and oil and gas extraction",2131,2641.136458733,15
+2024,Support activities for rail transportation,4882,33.88,3
+2024,Support activities for water transportation,4883,713.236929289,11
+2024,Technical and trade schools,6115,11.342,1
+2024,Textile and fabric finishing and fabric coating,3133,663.482,5
+2024,Tobacco manufacturing,3122,0.875,1
+2024,Universities,6113,1660.75811,18
+2024,Utility system construction,2371,40.6,1
+2024,"Veneer, plywood and engineered wood product manufacturing",3212,34181.66986899,61
+2024,"Ventilation, heating, air-conditioning and commercial refrigeration equipment manufacturing",3334,1.09027,4
+2024,Warehousing and storage,4931,6860.83246493,96
+2024,Waste collection,5621,49.0675,12
+2024,Waste treatment and disposal,5622,8376.438771825,124
+2024,"Water, sewage and other systems",2213,7922.636219263,123

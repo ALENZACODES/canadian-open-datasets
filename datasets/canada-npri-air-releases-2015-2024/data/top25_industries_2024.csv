@@ -1,0 +1,26 @@
+year,industry_en,naics,releases_to_air_tonnes,facility_count
+2024,Oil and gas extraction,2111,888126.650310816,3410
+2024,Alumina and aluminum production and processing,3313,453673.815360038,28
+2024,"Electric power generation, transmission and distribution",2211,236390.468548493,255
+2024,Metal ore mining,2122,191561.819682796,103
+2024,"Pulp, paper and paperboard mills",3221,119967.201416846,76
+2024,Petroleum and coal product manufacturing,3241,96374.995198242,77
+2024,Non-ferrous metal (except aluminum) production and processing,3314,76444.671168606,26
+2024,Coal mining,2121,74045.90998518,19
+2024,Cement and concrete product manufacturing,3273,57133.523618026,108
+2024,Iron and steel mills and ferro-alloy manufacturing,3311,51715.473740549,19
+2024,Non-metallic mineral mining and quarrying,2123,42879.043059133,150
+2024,Basic chemical manufacturing,3251,40597.12895467,96
+2024,"Veneer, plywood and engineered wood product manufacturing",3212,34181.66986899,61
+2024,Sawmills and wood preservation,3211,24432.744209146,147
+2024,"Pesticide, fertilizer and other agricultural chemical manufacturing",3253,22135.1432827,23
+2024,Pipeline transportation of natural gas,4862,19588.017,133
+2024,Plastic product manufacturing,3261,12770.918320759,144
+2024,Aerospace product and parts manufacturing,3364,12221.425998101,31
+2024,Grain and oilseed milling,3112,12090.800047,46
+2024,Beverage manufacturing,3121,11087.0198,20
+2024,Lime and gypsum product manufacturing,3274,10769.694845,17
+2024,"Petroleum, petroleum products, and other hydrocarbons merchant wholesalers",4121,9889.979892911,64
+2024,Waste treatment and disposal,5622,8376.438771825,124
+2024,"Water, sewage and other systems",2213,7922.636219263,123
+2024,Warehousing and storage,4931,6860.83246493,96

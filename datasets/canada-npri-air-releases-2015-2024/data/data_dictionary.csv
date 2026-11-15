@@ -1,0 +1,26 @@
+file,column,type,description
+air_releases_by_industry.csv,year,integer,NPRI reporting year.
+air_releases_by_industry.csv,industry_en,string,Industry name in English as published in the NPRI ten year industry table.
+air_releases_by_industry.csv,naics,string,North American Industry Classification System (NAICS) code as published.
+air_releases_by_industry.csv,releases_to_air_tonnes,numeric,Total reported releases to air in tonnes for that row.
+air_releases_by_industry.csv,facility_count,integer,Number of facilities contributing to the row as published.
+air_releases_by_province_substance.csv,year,integer,NPRI reporting year.
+air_releases_by_province_substance.csv,province,string,"Province or territory code or name as published (for example AB, ON, QC)."
+air_releases_by_province_substance.csv,cas_number,string,"Chemical Abstracts Service registry number for the substance, when published."
+air_releases_by_province_substance.csv,substance_en,string,Substance name in English as published.
+air_releases_by_province_substance.csv,releases_to_air_tonnes,numeric,Total reported releases to air in tonnes for that row.
+air_releases_by_province_substance.csv,facility_count,integer,Number of facilities contributing to the row as published.
+air_releases_by_substance.csv,year,integer,NPRI reporting year.
+air_releases_by_substance.csv,cas_number,string,"Chemical Abstracts Service registry number for the substance, when published."
+air_releases_by_substance.csv,substance_en,string,Substance name in English as published.
+air_releases_by_substance.csv,releases_to_air_tonnes,numeric,Total reported releases to air in tonnes for that row.
+air_releases_by_substance.csv,facility_count,integer,Number of facilities contributing to the row as published.
+air_releases_national_annual.csv,year,integer,NPRI reporting year.
+air_releases_national_annual.csv,total_releases_to_air_tonnes,numeric,Sum of substance level releases to air in tonnes for the year.
+air_releases_national_annual.csv,substance_count,integer,Number of distinct substances in the national annual rollup.
+air_releases_national_annual.csv,reporting_facility_rows,integer,Sum of facility_count across substance rows for the year (not a unique facility count).
+top25_industries_2024.csv,year,integer,NPRI reporting year.
+top25_industries_2024.csv,industry_en,string,Industry name in English as published in the NPRI ten year industry table.
+top25_industries_2024.csv,naics,string,North American Industry Classification System (NAICS) code as published.
+top25_industries_2024.csv,releases_to_air_tonnes,numeric,Total reported releases to air in tonnes for that row.
+top25_industries_2024.csv,facility_count,integer,Number of facilities contributing to the row as published.
