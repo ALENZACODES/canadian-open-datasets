@@ -1,0 +1,48 @@
+file,column,type,description
+stations.csv,climate_id,string,ECCC climate identifier.
+stations.csv,station_name,string,Climate station name as published (asterisk for WMO temperature and precipitation standards was removed).
+stations.csv,province,string,Two letter province or territory code.
+stations.csv,wmo_id,string,World Meteorological Organization station id when published.
+stations.csv,tc_id,string,Transport Canada station id when published.
+stations.csv,latitude,numeric,Station latitude in decimal degrees.
+stations.csv,longitude,numeric,Station longitude in decimal degrees.
+stations.csv,elevation_m,numeric,Station elevation in metres.
+climate_normals_long.csv,station_name,string,Climate station name as published (asterisk for WMO temperature and precipitation standards was removed).
+climate_normals_long.csv,province,string,Two letter province or territory code.
+climate_normals_long.csv,climate_id,string,ECCC climate identifier.
+climate_normals_long.csv,wmo_id,string,World Meteorological Organization station id when published.
+climate_normals_long.csv,tc_id,string,Transport Canada station id when published.
+climate_normals_long.csv,latitude,numeric,Station latitude in decimal degrees.
+climate_normals_long.csv,longitude,numeric,Station longitude in decimal degrees.
+climate_normals_long.csv,elevation_m,numeric,Station elevation in metres.
+climate_normals_long.csv,section,string,Section heading from the normals file (for example Temperature or Precipitation).
+climate_normals_long.csv,element,string,Climate element name as published (for example Daily Average (C)).
+climate_normals_long.csv,month,string,Month name or Year for the annual value.
+climate_normals_long.csv,month_num,integer,"Month number 1 to 12, or 0 for the Year column."
+climate_normals_long.csv,value,numeric,Normals value for that element and month. Blank when missing in the source.
+climate_normals_long.csv,data_code,string,"Normals completeness code A, B, C or D as published."
+station_annual_means.csv,climate_id,string,ECCC climate identifier.
+station_annual_means.csv,station_name,string,Climate station name as published (asterisk for WMO temperature and precipitation standards was removed).
+station_annual_means.csv,province,string,Two letter province or territory code.
+station_annual_means.csv,wmo_id,string,World Meteorological Organization station id when published.
+station_annual_means.csv,tc_id,string,Transport Canada station id when published.
+station_annual_means.csv,latitude,numeric,Station latitude in decimal degrees.
+station_annual_means.csv,longitude,numeric,Station longitude in decimal degrees.
+station_annual_means.csv,elevation_m,numeric,Station elevation in metres.
+station_annual_means.csv,mean_daily_temp_c,numeric,Annual mean of daily average temperature in degrees Celsius for 1981 to 2010.
+station_annual_means.csv,mean_annual_precip_mm,numeric,Mean annual precipitation in millimetres for 1981 to 2010.
+monthly_mean_temp_c.csv,climate_id,string,ECCC climate identifier.
+monthly_mean_temp_c.csv,station_name,string,Climate station name as published (asterisk for WMO temperature and precipitation standards was removed).
+monthly_mean_temp_c.csv,province,string,Two letter province or territory code.
+monthly_mean_temp_c.csv,Jan,numeric,Mean daily average temperature in degrees Celsius for Jan.
+monthly_mean_temp_c.csv,Feb,numeric,Mean daily average temperature in degrees Celsius for Feb.
+monthly_mean_temp_c.csv,Mar,numeric,Mean daily average temperature in degrees Celsius for Mar.
+monthly_mean_temp_c.csv,Apr,numeric,Mean daily average temperature in degrees Celsius for Apr.
+monthly_mean_temp_c.csv,May,numeric,Mean daily average temperature in degrees Celsius for May.
+monthly_mean_temp_c.csv,Jun,numeric,Mean daily average temperature in degrees Celsius for Jun.
+monthly_mean_temp_c.csv,Jul,numeric,Mean daily average temperature in degrees Celsius for Jul.
+monthly_mean_temp_c.csv,Aug,numeric,Mean daily average temperature in degrees Celsius for Aug.
+monthly_mean_temp_c.csv,Sep,numeric,Mean daily average temperature in degrees Celsius for Sep.
+monthly_mean_temp_c.csv,Oct,numeric,Mean daily average temperature in degrees Celsius for Oct.
+monthly_mean_temp_c.csv,Nov,numeric,Mean daily average temperature in degrees Celsius for Nov.
+monthly_mean_temp_c.csv,Dec,numeric,Mean daily average temperature in degrees Celsius for Dec.
