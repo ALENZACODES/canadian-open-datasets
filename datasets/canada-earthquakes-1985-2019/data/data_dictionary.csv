@@ -1,0 +1,26 @@
+file,column,type,description
+earthquakes_canada_1985_2019.csv,event_time_utc,string,Origin time in Coordinated Universal Time as published (ISO 8601 with +0000 offset).
+earthquakes_canada_1985_2019.csv,latitude,numeric,Epicentre latitude in decimal degrees.
+earthquakes_canada_1985_2019.csv,longitude,numeric,Epicentre longitude in decimal degrees.
+earthquakes_canada_1985_2019.csv,depth_km,numeric,Depth of the event below the surface in kilometres. Many values are nominal or poorly constrained.
+earthquakes_canada_1985_2019.csv,magnitude,numeric,Event magnitude as published. Negative values appear for very small events.
+earthquakes_canada_1985_2019.csv,magnitude_type,string,"Magnitude scale code (for example ML, MN, Mw, mb, MS)."
+earthquakes_canada_1985_2019.csv,place,string,"Distance and direction from the nearest named place, as published."
+earthquakes_canada_1985_2019.csv,region_or_note,string,"Province, territory, state or free text note that followed the place field in the source file (spellings vary by year)."
+earthquakes_canada_1985_2019.csv,event_date,datetime,"Calendar date of the event in UTC (YYYY-MM-DD), derived from event_time_utc."
+earthquakes_canada_1985_2019.csv,event_year,integer,"UTC calendar year of the event, derived from event_time_utc."
+earthquakes_annual_summary.csv,event_year,integer,"UTC calendar year of the event, derived from event_time_utc."
+earthquakes_annual_summary.csv,event_count,integer,"Number of events in the year after dropping rows missing latitude, longitude or magnitude."
+earthquakes_annual_summary.csv,max_magnitude,numeric,Largest magnitude recorded in that year.
+earthquakes_annual_summary.csv,median_magnitude,numeric,Median magnitude in that year.
+earthquakes_annual_summary.csv,mean_depth_km,numeric,Mean depth in kilometres for events in that year.
+earthquakes_magnitude_4_and_up.csv,event_time_utc,string,Origin time in Coordinated Universal Time as published (ISO 8601 with +0000 offset).
+earthquakes_magnitude_4_and_up.csv,latitude,numeric,Epicentre latitude in decimal degrees.
+earthquakes_magnitude_4_and_up.csv,longitude,numeric,Epicentre longitude in decimal degrees.
+earthquakes_magnitude_4_and_up.csv,depth_km,numeric,Depth of the event below the surface in kilometres. Many values are nominal or poorly constrained.
+earthquakes_magnitude_4_and_up.csv,magnitude,numeric,Event magnitude as published. Negative values appear for very small events.
+earthquakes_magnitude_4_and_up.csv,magnitude_type,string,"Magnitude scale code (for example ML, MN, Mw, mb, MS)."
+earthquakes_magnitude_4_and_up.csv,place,string,"Distance and direction from the nearest named place, as published."
+earthquakes_magnitude_4_and_up.csv,region_or_note,string,"Province, territory, state or free text note that followed the place field in the source file (spellings vary by year)."
+earthquakes_magnitude_4_and_up.csv,event_date,datetime,"Calendar date of the event in UTC (YYYY-MM-DD), derived from event_time_utc."
+earthquakes_magnitude_4_and_up.csv,event_year,integer,"UTC calendar year of the event, derived from event_time_utc."

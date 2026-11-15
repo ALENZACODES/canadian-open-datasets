@@ -1,0 +1,13 @@
+{
+  "slug": "canada-earthquakes-1985-2019",
+  "ok": true,
+  "msg": "ready",
+  "stats": {
+    "n": 101365,
+    "n4": 2605,
+    "mag_max": 7.7,
+    "y0": 1985,
+    "y1": 2019
+  },
+  "outdir": "/workspace/kaggle/science-gc-datasets/canada-earthquakes-1985-2019"
+}
