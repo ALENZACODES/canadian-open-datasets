@@ -1,0 +1,11 @@
+column,file,type,description
+category,montreal_criminal_acts.csv,string,Offence category as published by the Service de police de la Ville de Montreal.
+date,montreal_criminal_acts.csv,datetime,Date of the incident.
+shift,montreal_criminal_acts.csv,string,"Work shift / time of day quart as published (for example jour, soir, nuit)."
+police_district,montreal_criminal_acts.csv,string,Police district (PDQ) identifier.
+x,montreal_criminal_acts.csv,numeric,Projected X coordinate as published.
+y,montreal_criminal_acts.csv,numeric,Projected Y coordinate as published.
+longitude,montreal_criminal_acts.csv,numeric,Longitude in WGS84.
+latitude,montreal_criminal_acts.csv,numeric,Latitude in WGS84.
+ref_date,monthly_incident_counts.csv,datetime,Month start date for aggregated counts.
+incidents,monthly_incident_counts.csv,integer,Number of incident rows in that month.
