@@ -1,0 +1,76 @@
+id,label,description,date_format,source_group
+V122667724,"Residential mortgages, insured, Total",Mortgages - Funds advanced,monthly,A4_FUNDS_MONTHLY
+V122667725,Variable rate,"Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667726,"Fixed rate, <1 year","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667727,"Fixed rate, 1 to <3 years","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667728,"Fixed rate, 3 to <5 years","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667729,"Fixed rate, 5 years and over","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667730,"Residential mortgages, uninsured, Total",Mortgages - Funds advanced,monthly,A4_FUNDS_MONTHLY
+V122667731,Variable rate,"Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667732,"Fixed rate, <1 year","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667733,"Fixed rate, 1 to <3 years","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667734,"Fixed rate, 3 to <5 years","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667735,"Fixed rate, 5 years and over","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667736,"Residential mortgages, insured, Total",Mortgages - Outstanding balances,monthly,A4_FUNDS_MONTHLY
+V122667737,Variable rate,"Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667738,"Fixed rate, <1 year","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667739,"Fixed rate, 1 to <3 years","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667740,"Fixed rate, 3 to <5 years","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667741,"Fixed rate, 5 years and over","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_FUNDS_MONTHLY
+V122667742,"Residential mortgages, uninsured, Total",Mortgages - Outstanding balances,monthly,A4_FUNDS_MONTHLY
+V122667743,Variable rate,"Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667744,"Fixed rate, <1 year","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667745,"Fixed rate, 1 to <3 years","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667746,"Fixed rate, 3 to <5 years","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667747,"Fixed rate, 5 years and over","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_FUNDS_MONTHLY
+V122667748,"Total variable rate mortgages, Total",Residential variable rate mortgages - Funds advanced,monthly,A4_FUNDS_MONTHLY
+V122667749,Closed non-convertible variable rate mortgages,"Residential variable rate mortgages - Funds advanced - Total variable rate mortgages, Total",monthly,A4_FUNDS_MONTHLY
+V122667750,Closed convertible variable rate mortgages,"Residential variable rate mortgages - Funds advanced - Total variable rate mortgages, Total",monthly,A4_FUNDS_MONTHLY
+V122667751,Open variable rate mortgages,"Residential variable rate mortgages - Funds advanced - Total variable rate mortgages, Total",monthly,A4_FUNDS_MONTHLY
+V122667752,"Consumer credit, Total",Consumer credit - Funds advanced for non-mortgage loans,monthly,A4_FUNDS_MONTHLY
+V122667753,Personal loan plans,"Consumer credit - Funds advanced for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667754,Of which: Auto loans,"Consumer credit - Funds advanced for non-mortgage loans - Consumer credit, Total - Personal loan plans",monthly,A4_FUNDS_MONTHLY
+V122667755,"Personal lines of credit, secured","Consumer credit - Funds advanced for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667756,"Personal lines of credit, unsecured","Consumer credit - Funds advanced for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667757,Other personal,"Consumer credit - Funds advanced for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667758,"Consumer credit, Total",Consumer credit - Outstanding balances for non-mortgage loans,monthly,A4_FUNDS_MONTHLY
+V122667759,Personal loan plans,"Consumer credit - Outstanding balances for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667760,Of which: Auto loans,"Consumer credit - Outstanding balances for non-mortgage loans - Consumer credit, Total - Personal loan plans",monthly,A4_FUNDS_MONTHLY
+V122667761,Credit card loans,"Consumer credit - Outstanding balances for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667762,"Personal lines of credit, secured","Consumer credit - Outstanding balances for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667763,"Personal lines of credit, unsecured","Consumer credit - Outstanding balances for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667764,Other personal,"Consumer credit - Outstanding balances for non-mortgage loans - Consumer credit, Total",monthly,A4_FUNDS_MONTHLY
+V122667765,"Business loans, Total",Credit extended to corporate sector for mortgage loans - Funds advanced,monthly,A4_FUNDS_MONTHLY
+V122667766,To regulated non-bank financial institutions,"Credit extended to corporate sector - Funds advanced - Business loans, Total - non-mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667767,Lease receivables,"Credit extended to corporate sector - Funds advanced - Business loans, Total - non-mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667768,Loans to individuals and others for business purposes,"Credit extended to corporate sector - Funds advanced - Business loans, Total - non-mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667769,Non-residential mortgages,"Credit extended to corporate sector - Funds advanced - Business loans, Total - mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667770,"Business loans, Total",Credit extended to corporate sector - Outstanding balances,monthly,A4_FUNDS_MONTHLY
+V122667771,To regulated non-bank financial institutions,"Credit extended to corporate sector - Outstanding balances - Business loans, Total - non-mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667772,Lease receivables,"Credit extended to corporate sector - Outstanding balances - Business loans, Total - non-mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667773,Loans to individuals and others for business purposes,"Credit extended to corporate sector - Outstanding balances - Business loans, Total - non-mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667774,Non-residential mortgages,"Credit extended to corporate sector - Outstanding balances - Business loans, Total - mortgage loans",monthly,A4_FUNDS_MONTHLY
+V122667775,"Residential mortgages, insured, Total",Mortgages - Funds advanced,monthly,A4_RATES_MORTGAGES
+V122667776,Variable rate,"Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667777,"Fixed rate, <1 year","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667778,"Fixed rate, 1 to <3 years","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667779,"Fixed rate, 3 to <5 years","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667780,"Fixed rate, 5 years and over","Mortgages - Funds advanced - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667781,"Residential mortgages, uninsured, Total",Mortgages - Funds advanced,monthly,A4_RATES_MORTGAGES
+V122667782,Variable rate,"Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667783,"Fixed rate, <1 year","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667784,"Fixed rate, 1 to <3 years","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667785,"Fixed rate, 3 to <5 years","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667786,"Fixed rate, 5 years and over","Mortgages - Funds advanced - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667787,"Residential mortgages, insured, Total",Mortgages - Outstanding balances,monthly,A4_RATES_MORTGAGES
+V122667788,Variable rate,"Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667789,"Fixed rate, <1 year","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667790,"Fixed rate, 1 to <3 years","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667791,"Fixed rate, 3 to <5 years","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667792,"Fixed rate, 5 years and over","Mortgages - Outstanding balances - Residential mortgages, insured, Total",monthly,A4_RATES_MORTGAGES
+V122667793,"Residential mortgages, uninsured, Total",Mortgages - Outstanding balances,monthly,A4_RATES_MORTGAGES
+V122667794,Variable rate,"Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667795,"Fixed rate, <1 year","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667796,"Fixed rate, 1 to <3 years","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667797,"Fixed rate, 3 to <5 years","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES
+V122667798,"Fixed rate, 5 years and over","Mortgages - Outstanding balances - Residential mortgages, uninsured, Total",monthly,A4_RATES_MORTGAGES

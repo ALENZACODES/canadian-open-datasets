@@ -1,0 +1,24 @@
+column,file,type,description
+date,bank_lending_amounts.csv,datetime,"Observation date as published by the Bank of Canada, YYYY-MM-DD."
+series_id,bank_lending_amounts.csv,string,Bank of Canada Valet series identifier.
+series_label,bank_lending_amounts.csv,string,Short official label for the series.
+series_description,bank_lending_amounts.csv,string,Official Valet description of the series.
+value,bank_lending_amounts.csv,numeric,Observation value. Empty when the Bank did not publish a figure for that date.
+flow,bank_lending_amounts.csv,string,Whether the row is funds advanced (a flow) or outstanding balances (a stock).
+product_group,bank_lending_amounts.csv,string,"Lending group: residential mortgages, consumer credit, business loans, or variable-rate mortgages."
+insurance_status,bank_lending_amounts.csv,string,"Insured or uninsured, when the series is a residential mortgage aggregate."
+detail,bank_lending_amounts.csv,string,"Rate term or product detail, such as variable rate or fixed rate of five years and over."
+date,bank_mortgage_interest_rates.csv,datetime,"Observation date as published by the Bank of Canada, YYYY-MM-DD."
+series_id,bank_mortgage_interest_rates.csv,string,Bank of Canada Valet series identifier.
+series_label,bank_mortgage_interest_rates.csv,string,Short official label for the series.
+series_description,bank_mortgage_interest_rates.csv,string,Official Valet description of the series.
+value,bank_mortgage_interest_rates.csv,numeric,Observation value. Empty when the Bank did not publish a figure for that date.
+flow,bank_mortgage_interest_rates.csv,string,Whether the row is funds advanced (a flow) or outstanding balances (a stock).
+product_group,bank_mortgage_interest_rates.csv,string,"Lending group: residential mortgages, consumer credit, business loans, or variable-rate mortgages."
+insurance_status,bank_mortgage_interest_rates.csv,string,"Insured or uninsured, when the series is a residential mortgage aggregate."
+detail,bank_mortgage_interest_rates.csv,string,"Rate term or product detail, such as variable rate or fixed rate of five years and over."
+id,series_catalog.csv,string,Official Valet series metadata field (id).
+label,series_catalog.csv,string,Official Valet series metadata field (label).
+description,series_catalog.csv,string,Official Valet series metadata field (description).
+date_format,series_catalog.csv,string,Official Valet series metadata field (date_format).
+source_group,series_catalog.csv,string,Valet group the series was taken from.
