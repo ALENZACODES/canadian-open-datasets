@@ -1,0 +1,20 @@
+report_cycle,cycle_years,indicator,table_id,unit,value,relative_standard_error_percent,confidence_interval,estimate_source_file
+baseline,2000 to 2006,Forest land,t4,thousand hectares,347575.76,0.4,,t0/en/CA/csv/ca_t4_for_area_en.csv
+baseline,2000 to 2006,Other wooded land,t4,thousand hectares,40865.658,1.4,,t0/en/CA/csv/ca_t4_for_area_en.csv
+baseline,2000 to 2006,Other land with tree cover,t4,thousand hectares,8498.958,4.1,,t0/en/CA/csv/ca_t4_for_area_en.csv
+baseline,2000 to 2006,Other non-forest land,t4,thousand hectares,251413.182,0.6,,t0/en/CA/csv/ca_t4_for_area_en.csv
+baseline,2000 to 2006,Forest and non-forest land total,t4,thousand hectares,648353.558,,,t0/en/CA/csv/ca_t4_for_area_en.csv
+baseline,2000 to 2006,Above-ground carbon,t19,million tonnes,16353.268,0.3,,t0/en/CA/csv/ca_t19_carbon_en.csv
+baseline,2000 to 2006,Treed land cover,t1,thousand hectares,362109.862,0.4,,t0/en/CA/csv/ca_t1_lc_area_en.csv
+baseline,2000 to 2006,"Land cover total, including water",t1,thousand hectares,735778.651,,,t0/en/CA/csv/ca_t1_lc_area_en.csv
+first_remeasurement,2007 to 2017,Forest land,t4,thousand hectares,369019.352,0.41,3002.4430,t1/en/CA/csv/ca_t4_for_area_en.csv
+first_remeasurement,2007 to 2017,Other wooded land,t4,thousand hectares,35730.397,1.50,1054.8610,t1/en/CA/csv/ca_t4_for_area_en.csv
+first_remeasurement,2007 to 2017,Other land with tree cover,t4,thousand hectares,6830.004,4.72,633.9695,t1/en/CA/csv/ca_t4_for_area_en.csv
+first_remeasurement,2007 to 2017,Other non-forest land,t4,thousand hectares,236176.921,0.59,2758.3815,t1/en/CA/csv/ca_t4_for_area_en.csv
+first_remeasurement,2007 to 2017,Forest and non-forest land total,t4,thousand hectares,647756.674,0.33,4258.8710,t1/en/CA/csv/ca_t4_for_area_en.csv
+first_remeasurement,2007 to 2017,Above-ground carbon,t19,million tonnes,16290.412,0.92,293.1600,t1/en/CA/csv/ca_t19_carbon_en.csv
+first_remeasurement,2007 to 2017,Treed land cover,t1,thousand hectares,377210.243,0.40,2969.3970,t1/en/CA/csv/ca_t1_lc_area_en.csv
+first_remeasurement,2007 to 2017,"Land cover total, including water",t1,thousand hectares,735778.650,0.34,4890.4255,t1/en/CA/csv/ca_t1_lc_area_en.csv
+first_remeasurement,"annual change, first remeasurement reports",Annual change in forest land,t4,thousand hectares,512.608,4.86,70.7705,t1/en/CA/csv/ca_t4_for_area_change_en.csv
+first_remeasurement,"annual change, first remeasurement reports",Annual change in forest and non-forest land total,t4,thousand hectares,-49.344,2.47,129.2150,t1/en/CA/csv/ca_t4_for_area_change_en.csv
+first_remeasurement,"annual change, first remeasurement reports",Annual change in above-ground carbon,t19,million tonnes,-2.322,200.00,13.5685,t1/en/CA/csv/ca_t19_carbon_change_en.csv

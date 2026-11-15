@@ -1,0 +1,41 @@
+file,column,type,description
+nfi_standard_estimates.csv,report_cycle,string,Official report cycle: baseline (2000 to 2006) or first_remeasurement (2007 to 2017).
+nfi_standard_estimates.csv,cycle_years,string,Official years named on the NFI standard reports page for that cycle.
+nfi_standard_estimates.csv,report_family,string,"Official report family: baseline reports, first remeasurement reports, or forest change estimate reports."
+nfi_standard_estimates.csv,geography_type,string,"Geographic population of the official report: Canada, terrestrial ecozone, boreal zone, or managed forest region."
+nfi_standard_estimates.csv,geography,string,"Official geography label. Canada national tables are labelled Canada. Ecozone, boreal and managed-forest tables use the official row label, including a Canada total row when the official table has one."
+nfi_standard_estimates.csv,table_id,string,"Official NFI table number from the file name, such as t4 or t19."
+nfi_standard_estimates.csv,table_title,string,"Official English title from the first line of the source CSV, with HTML tags removed."
+nfi_standard_estimates.csv,unit,string,"Unit of value and of confidence_interval, taken from the official title: thousand hectares, million cubic metres, or million tonnes."
+nfi_standard_estimates.csv,measure,string,"estimate for a stock or area in that cycle, or annual_change for the official annual change reports."
+nfi_standard_estimates.csv,class_dimension,string,"Name of the official class column when present, such as Forest type, Species Group or IUCN category. Empty when the official table has no class column."
+nfi_standard_estimates.csv,class_value,string,"Official class label, when a class column is present."
+nfi_standard_estimates.csv,variable,string,"Official column header of the cell, such as an age class, ownership class, or Forest land."
+nfi_standard_estimates.csv,value,numeric,"Official published figure, copied as text from the source CSV. Official placeholders None and hyphen are stored blank."
+nfi_standard_estimates.csv,relative_standard_error_percent,numeric,"Official relative standard error in percent, when an official SE file exists for that table. Blank when no official SE file was published or the official cell was a placeholder."
+nfi_standard_estimates.csv,confidence_interval,numeric,"Official confidence interval half-width in the same unit as value, when an official CI file exists. This is the amount published in the NFI CI table, not a separately computed bound. Blank when no official CI file was published."
+nfi_standard_estimates.csv,estimate_source_file,string,Relative path of the official estimate CSV under the NFI summaries tree.
+nfi_standard_estimates.csv,se_source_file,string,"Relative path of the official relative standard error CSV, when present."
+nfi_standard_estimates.csv,ci_source_file,string,"Relative path of the official confidence interval CSV, when present."
+canada_national_highlights.csv,report_cycle,string,Official report cycle: baseline (2000 to 2006) or first_remeasurement (2007 to 2017).
+canada_national_highlights.csv,cycle_years,string,Official years named on the NFI standard reports page for that cycle.
+canada_national_highlights.csv,indicator,string,Short label for a selected official national figure.
+canada_national_highlights.csv,table_id,string,"Official NFI table number from the file name, such as t4 or t19."
+canada_national_highlights.csv,unit,string,"Unit of value and of confidence_interval, taken from the official title: thousand hectares, million cubic metres, or million tonnes."
+canada_national_highlights.csv,value,numeric,"Official published figure, copied as text from the source CSV. Official placeholders None and hyphen are stored blank."
+canada_national_highlights.csv,relative_standard_error_percent,numeric,"Official relative standard error in percent, when an official SE file exists for that table. Blank when no official SE file was published or the official cell was a placeholder."
+canada_national_highlights.csv,confidence_interval,numeric,"Official confidence interval half-width in the same unit as value, when an official CI file exists. This is the amount published in the NFI CI table, not a separately computed bound. Blank when no official CI file was published."
+canada_national_highlights.csv,estimate_source_file,string,Relative path of the official estimate CSV under the NFI summaries tree.
+source_files.csv,cycle,string,"NFI path cycle code, t0 or t1."
+source_files.csv,cycle_years,string,Official years named on the NFI standard reports page for that cycle.
+source_files.csv,geography_type,string,"Geographic population of the official report: Canada, terrestrial ecozone, boreal zone, or managed forest region."
+source_files.csv,table_id,string,"Official NFI table number from the file name, such as t4 or t19."
+source_files.csv,measure,string,"estimate for a stock or area in that cycle, or annual_change for the official annual change reports."
+source_files.csv,statistic,string,"Kind of official file: value, relative_standard_error_percent, or confidence_interval."
+source_files.csv,official_title,string,Official English title from the first line of that source CSV.
+source_files.csv,official_file,string,Relative path of the official CSV under the NFI summaries tree.
+source_files.csv,official_url,string,Direct official download URL on nfi.nfis.org.
+source_files.csv,n_cells,integer,Number of official data cells read from that file.
+source_files.csv,bytes,integer,File size in bytes as downloaded.
+source_files.csv,sha256,string,"SHA256 of the official file as downloaded on November 9, 2026. Empty for files that returned HTTP 404."
+source_files.csv,download_status,string,"ok if the official file was downloaded, or http_404 if the standard reports page linked to a file that was not available."
