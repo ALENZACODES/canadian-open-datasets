@@ -1,0 +1,493 @@
+year,month,division,requests
+2020,2020-01,311,2242
+2020,2020-01,City of Toronto,19
+2020,2020-01,Municipal Licensing & Standards,3963
+2020,2020-01,Solid Waste Management Services,11894
+2020,2020-01,Toronto Water,3177
+2020,2020-01,Transportation Services,12646
+2020,2020-01,Urban Forestry,600
+2020,2020-02,311,627
+2020,2020-02,City of Toronto,1
+2020,2020-02,Municipal Licensing & Standards,3627
+2020,2020-02,Solid Waste Management Services,9041
+2020,2020-02,Toronto Water,2288
+2020,2020-02,Transportation Services,7526
+2020,2020-02,Urban Forestry,453
+2020,2020-03,311,377
+2020,2020-03,City of Toronto,4
+2020,2020-03,Municipal Licensing & Standards,3640
+2020,2020-03,Solid Waste Management Services,7742
+2020,2020-03,Toronto Water,2109
+2020,2020-03,Transportation Services,5357
+2020,2020-03,Urban Forestry,639
+2020,2020-04,311,67
+2020,2020-04,Municipal Licensing & Standards,3303
+2020,2020-04,Solid Waste Management Services,6057
+2020,2020-04,Toronto Water,1447
+2020,2020-04,Transportation Services,1545
+2020,2020-04,Urban Forestry,447
+2020,2020-05,311,109
+2020,2020-05,Municipal Licensing & Standards,4341
+2020,2020-05,Solid Waste Management Services,9726
+2020,2020-05,Toronto Water,2338
+2020,2020-05,Transportation Services,3064
+2020,2020-05,Urban Forestry,1613
+2020,2020-06,311,254
+2020,2020-06,City of Toronto,4
+2020,2020-06,Municipal Licensing & Standards,5548
+2020,2020-06,Solid Waste Management Services,16088
+2020,2020-06,Toronto Water,3099
+2020,2020-06,Transportation Services,4606
+2020,2020-06,Urban Forestry,4836
+2020,2020-07,311,372
+2020,2020-07,City of Toronto,11
+2020,2020-07,Municipal Licensing & Standards,7064
+2020,2020-07,Solid Waste Management Services,17544
+2020,2020-07,Toronto Water,3875
+2020,2020-07,Transportation Services,5451
+2020,2020-07,Urban Forestry,6558
+2020,2020-08,311,305
+2020,2020-08,City of Toronto,17
+2020,2020-08,Municipal Licensing & Standards,8102
+2020,2020-08,Solid Waste Management Services,15585
+2020,2020-08,Toronto Water,3426
+2020,2020-08,Transportation Services,5580
+2020,2020-08,Urban Forestry,4507
+2020,2020-09,311,268
+2020,2020-09,City of Toronto,13
+2020,2020-09,Municipal Licensing & Standards,8761
+2020,2020-09,Solid Waste Management Services,15110
+2020,2020-09,Toronto Water,3231
+2020,2020-09,Transportation Services,5184
+2020,2020-09,Urban Forestry,3622
+2020,2020-10,311,256
+2020,2020-10,City of Toronto,4
+2020,2020-10,Municipal Licensing & Standards,8728
+2020,2020-10,Solid Waste Management Services,13452
+2020,2020-10,Toronto Water,2986
+2020,2020-10,Transportation Services,4089
+2020,2020-10,Urban Forestry,2413
+2020,2020-11,311,235
+2020,2020-11,City of Toronto,16
+2020,2020-11,Municipal Licensing & Standards,7037
+2020,2020-11,Solid Waste Management Services,12825
+2020,2020-11,Toronto Water,2768
+2020,2020-11,Transportation Services,4560
+2020,2020-11,Urban Forestry,2256
+2020,2020-12,311,205
+2020,2020-12,City of Toronto,5
+2020,2020-12,Municipal Licensing & Standards,5462
+2020,2020-12,Solid Waste Management Services,11828
+2020,2020-12,Toronto Water,2565
+2020,2020-12,Transportation Services,4324
+2020,2020-12,Urban Forestry,684
+2021,2021-01,311,1537
+2021,2021-01,City of Toronto,7
+2021,2021-01,Municipal Licensing & Standards,5019
+2021,2021-01,Solid Waste Management Services,11034
+2021,2021-01,Toronto Water,2244
+2021,2021-01,Transportation Services,3627
+2021,2021-01,Urban Forestry,592
+2021,2021-02,311,462
+2021,2021-02,City of Toronto,13
+2021,2021-02,Municipal Licensing & Standards,4397
+2021,2021-02,Solid Waste Management Services,9151
+2021,2021-02,Toronto Water,2428
+2021,2021-02,Transportation Services,5639
+2021,2021-02,Unknown,2
+2021,2021-02,Urban Forestry,530
+2021,2021-03,311,554
+2021,2021-03,City of Toronto,10
+2021,2021-03,Municipal Licensing & Standards,6844
+2021,2021-03,Solid Waste Management Services,12300
+2021,2021-03,Toronto Water,3067
+2021,2021-03,Transportation Services,5002
+2021,2021-03,Urban Forestry,1883
+2021,2021-04,311,401
+2021,2021-04,City of Toronto,6
+2021,2021-04,Municipal Licensing & Standards,6896
+2021,2021-04,Solid Waste Management Services,12749
+2021,2021-04,Toronto Water,2698
+2021,2021-04,Transportation Services,4597
+2021,2021-04,Urban Forestry,2275
+2021,2021-05,311,440
+2021,2021-05,City of Toronto,7
+2021,2021-05,Municipal Licensing & Standards,8486
+2021,2021-05,Solid Waste Management Services,14610
+2021,2021-05,Toronto Water,2989
+2021,2021-05,Transportation Services,5441
+2021,2021-05,Urban Forestry,4062
+2021,2021-06,311,390
+2021,2021-06,City of Toronto,14
+2021,2021-06,Municipal Licensing & Standards,8169
+2021,2021-06,Solid Waste Management Services,14970
+2021,2021-06,Toronto Water,3266
+2021,2021-06,Transportation Services,6318
+2021,2021-06,Urban Forestry,6092
+2021,2021-07,311,438
+2021,2021-07,City of Toronto,9
+2021,2021-07,Municipal Licensing & Standards,8533
+2021,2021-07,Solid Waste Management Services,14554
+2021,2021-07,Toronto Water,3267
+2021,2021-07,Transportation Services,6242
+2021,2021-07,Urban Forestry,4926
+2021,2021-08,311,430
+2021,2021-08,City of Toronto,9
+2021,2021-08,Municipal Licensing & Standards,8517
+2021,2021-08,Solid Waste Management Services,15942
+2021,2021-08,Toronto Water,3028
+2021,2021-08,Transportation Services,5787
+2021,2021-08,Urban Forestry,4363
+2021,2021-09,311,346
+2021,2021-09,City of Toronto,18
+2021,2021-09,Municipal Licensing & Standards,7453
+2021,2021-09,Solid Waste Management Services,15241
+2021,2021-09,Toronto Water,3262
+2021,2021-09,Transportation Services,6015
+2021,2021-09,Urban Forestry,3930
+2021,2021-10,311,295
+2021,2021-10,City of Toronto,7
+2021,2021-10,Municipal Licensing & Standards,6003
+2021,2021-10,Solid Waste Management Services,13399
+2021,2021-10,Toronto Water,2880
+2021,2021-10,Transportation Services,5465
+2021,2021-10,Urban Forestry,2303
+2022,2022-01,311,2495
+2022,2022-01,Municipal Licensing & Standards,4678
+2022,2022-01,Solid Waste Management Services,14189
+2022,2022-01,Toronto Water,2804
+2022,2022-01,Transportation Services,20224
+2022,2022-01,Unknown,2
+2022,2022-02,311,1042
+2022,2022-02,Municipal Licensing & Standards,4277
+2022,2022-02,Solid Waste Management Services,11011
+2022,2022-02,Toronto Water,2642
+2022,2022-02,Transportation Services,16633
+2022,2022-03,311,885
+2022,2022-03,Municipal Licensing & Standards,5771
+2022,2022-03,Solid Waste Management Services,12101
+2022,2022-03,Toronto Water,2794
+2022,2022-03,Transportation Services,9278
+2022,2022-03,Unknown,2
+2022,2022-04,311,681
+2022,2022-04,Municipal Licensing & Standards,7173
+2022,2022-04,Solid Waste Management Services,11712
+2022,2022-04,Toronto Water,2639
+2022,2022-04,Transportation Services,8002
+2022,2022-04,Unknown,1
+2022,2022-05,311,463
+2022,2022-05,Municipal Licensing & Standards,10764
+2022,2022-05,Solid Waste Management Services,13429
+2022,2022-05,Toronto Water,2961
+2022,2022-05,Transportation Services,7767
+2022,2022-05,Unknown,3
+2022,2022-06,311,468
+2022,2022-06,Municipal Licensing & Standards,12033
+2022,2022-06,Solid Waste Management Services,14171
+2022,2022-06,Toronto Water,3087
+2022,2022-06,Transportation Services,8325
+2022,2022-06,Unknown,37
+2022,2022-07,311,359
+2022,2022-07,Municipal Licensing & Standards,10336
+2022,2022-07,Solid Waste Management Services,12299
+2022,2022-07,Toronto Water,2853
+2022,2022-07,Transportation Services,5835
+2022,2022-07,Unknown,70
+2022,2022-08,311,417
+2022,2022-08,Municipal Licensing & Standards,11203
+2022,2022-08,Solid Waste Management Services,13980
+2022,2022-08,Toronto Water,3170
+2022,2022-08,Transportation Services,6642
+2022,2022-08,Unknown,49
+2022,2022-09,311,353
+2022,2022-09,Municipal Licensing & Standards,10735
+2022,2022-09,Solid Waste Management Services,13268
+2022,2022-09,Toronto Water,3244
+2022,2022-09,Transportation Services,5827
+2022,2022-09,Unknown,33
+2022,2022-10,311,360
+2022,2022-10,Municipal Licensing & Standards,10313
+2022,2022-10,Solid Waste Management Services,12568
+2022,2022-10,Toronto Water,3239
+2022,2022-10,Transportation Services,5835
+2022,2022-10,Unknown,32
+2022,2022-11,311,350
+2022,2022-11,Municipal Licensing & Standards,7825
+2022,2022-11,Solid Waste Management Services,13237
+2022,2022-11,Toronto Water,3226
+2022,2022-11,Transportation Services,6433
+2022,2022-11,Unknown,48
+2022,2022-12,311,608
+2022,2022-12,Municipal Licensing & Standards,5747
+2022,2022-12,Solid Waste Management Services,10867
+2022,2022-12,Toronto Water,2737
+2022,2022-12,Transportation Services,8705
+2022,2022-12,Unknown,22
+2023,2023-01,311,1951
+2023,2023-01,Municipal Licensing & Standards,5931
+2023,2023-01,Solid Waste Management Services,11871
+2023,2023-01,Toronto Water,2540
+2023,2023-01,Transportation Services,11176
+2023,2023-01,Unknown,22
+2023,2023-02,311,698
+2023,2023-02,Municipal Licensing & Standards,5762
+2023,2023-02,Solid Waste Management Services,9387
+2023,2023-02,Toronto Water,2461
+2023,2023-02,Transportation Services,11877
+2023,2023-02,Unknown,62
+2023,2023-03,311,662
+2023,2023-03,Municipal Licensing & Standards,6804
+2023,2023-03,Solid Waste Management Services,10472
+2023,2023-03,Toronto Water,2556
+2023,2023-03,Transportation Services,16550
+2023,2023-03,Unknown,79
+2023,2023-04,311,556
+2023,2023-04,Municipal Licensing & Standards,8818
+2023,2023-04,Solid Waste Management Services,10864
+2023,2023-04,Toronto Water,2642
+2023,2023-04,Transportation Services,10940
+2023,2023-04,Unknown,125
+2023,2023-05,311,484
+2023,2023-05,Municipal Licensing & Standards,12403
+2023,2023-05,Solid Waste Management Services,12470
+2023,2023-05,Toronto Water,2785
+2023,2023-05,Transportation Services,10455
+2023,2023-05,Unknown,126
+2023,2023-06,311,390
+2023,2023-06,Municipal Licensing & Standards,12919
+2023,2023-06,Solid Waste Management Services,11764
+2023,2023-06,Toronto Water,2643
+2023,2023-06,Transportation Services,8557
+2023,2023-06,Unknown,180
+2023,2023-07,311,379
+2023,2023-07,Municipal Licensing & Standards,12467
+2023,2023-07,Solid Waste Management Services,12171
+2023,2023-07,Toronto Water,2798
+2023,2023-07,Transportation Services,7559
+2023,2023-07,Unknown,291
+2023,2023-08,311,359
+2023,2023-08,Municipal Licensing & Standards,11539
+2023,2023-08,Solid Waste Management Services,11670
+2023,2023-08,Toronto Water,2410
+2023,2023-08,Transportation Services,6874
+2023,2023-08,Unknown,297
+2023,2023-09,311,358
+2023,2023-09,Municipal Licensing & Standards,10252
+2023,2023-09,Solid Waste Management Services,11435
+2023,2023-09,Toronto Water,2408
+2023,2023-09,Transportation Services,6177
+2023,2023-09,Unknown,383
+2023,2023-10,311,337
+2023,2023-10,Municipal Licensing & Standards,8785
+2023,2023-10,Solid Waste Management Services,10228
+2023,2023-10,Toronto Water,2642
+2023,2023-10,Transportation Services,5582
+2023,2023-10,Unknown,630
+2023,2023-11,311,311
+2023,2023-11,Municipal Licensing & Standards,6821
+2023,2023-11,Solid Waste Management Services,10530
+2023,2023-11,Toronto Water,2568
+2023,2023-11,Transportation Services,5466
+2023,2023-11,Unknown,585
+2023,2023-12,311,771
+2023,2023-12,Municipal Licensing & Standards,5422
+2023,2023-12,Solid Waste Management Services,8434
+2023,2023-12,Toronto Water,2213
+2023,2023-12,Transportation Services,4240
+2023,2023-12,Unknown,601
+2024,2024-01,311,2522
+2024,2024-01,Municipal Licensing & Standards,5519
+2024,2024-01,Solid Waste Management Services,12699
+2024,2024-01,Toronto Water,2774
+2024,2024-01,Transportation Services,6956
+2024,2024-01,Unknown,476
+2024,2024-02,311,625
+2024,2024-02,Municipal Licensing & Standards,5827
+2024,2024-02,Solid Waste Management Services,9493
+2024,2024-02,Toronto Water,2295
+2024,2024-02,Transportation Services,5176
+2024,2024-02,Unknown,358
+2024,2024-03,311,529
+2024,2024-03,Municipal Licensing & Standards,6589
+2024,2024-03,Solid Waste Management Services,9938
+2024,2024-03,Toronto Water,2315
+2024,2024-03,Transportation Services,5543
+2024,2024-03,Unknown,452
+2024,2024-04,311,385
+2024,2024-04,Municipal Licensing & Standards,7757
+2024,2024-04,Solid Waste Management Services,12138
+2024,2024-04,Toronto Water,2732
+2024,2024-04,Transportation Services,7449
+2024,2024-04,Unknown,638
+2024,2024-05,311,305
+2024,2024-05,Municipal Licensing & Standards,13380
+2024,2024-05,Solid Waste Management Services,14834
+2024,2024-05,Toronto Water,2956
+2024,2024-05,Transportation Services,8707
+2024,2024-05,Unknown,976
+2024,2024-06,311,315
+2024,2024-06,Municipal Licensing & Standards,12561
+2024,2024-06,Solid Waste Management Services,13651
+2024,2024-06,Toronto Water,3032
+2024,2024-06,Transportation Services,7689
+2024,2024-06,Unknown,860
+2024,2024-07,311,333
+2024,2024-07,Municipal Licensing & Standards,12383
+2024,2024-07,Solid Waste Management Services,15386
+2024,2024-07,Toronto Water,4391
+2024,2024-07,Transportation Services,8669
+2024,2024-07,Unknown,1017
+2024,2024-08,311,266
+2024,2024-08,Municipal Licensing & Standards,11828
+2024,2024-08,Solid Waste Management Services,14686
+2024,2024-08,Toronto Water,3351
+2024,2024-08,Transportation Services,7764
+2024,2024-08,Unknown,1005
+2024,2024-09,311,273
+2024,2024-09,Municipal Licensing & Standards,11909
+2024,2024-09,Solid Waste Management Services,14325
+2024,2024-09,Toronto Water,3057
+2024,2024-09,Transportation Services,7072
+2024,2024-09,Unknown,1300
+2024,2024-10,311,261
+2024,2024-10,Municipal Licensing & Standards,11034
+2024,2024-10,Solid Waste Management Services,13873
+2024,2024-10,Toronto Water,2975
+2024,2024-10,Transportation Services,5999
+2024,2024-10,Unknown,1428
+2024,2024-11,311,228
+2024,2024-11,Municipal Licensing & Standards,8793
+2024,2024-11,Solid Waste Management Services,12418
+2024,2024-11,Toronto Water,2749
+2024,2024-11,Transportation Services,5622
+2024,2024-11,Unknown,1198
+2024,2024-12,311,468
+2024,2024-12,Municipal Licensing & Standards,6463
+2024,2024-12,Solid Waste Management Services,10843
+2024,2024-12,Toronto Water,2674
+2024,2024-12,Transportation Services,5176
+2024,2024-12,Unknown,1156
+2025,2025-01,311,2447
+2025,2025-01,Municipal Licensing & Standards,6721
+2025,2025-01,Solid Waste Management Services,13714
+2025,2025-01,Toronto Water,3026
+2025,2025-01,Transportation Services,6152
+2025,2025-02,311,1628
+2025,2025-02,Municipal Licensing & Standards,5189
+2025,2025-02,Solid Waste Management Services,11167
+2025,2025-02,Toronto Water,2610
+2025,2025-02,Transportation Services,32674
+2025,2025-03,311,713
+2025,2025-03,Municipal Licensing & Standards,7701
+2025,2025-03,Solid Waste Management Services,12466
+2025,2025-03,Toronto Water,3347
+2025,2025-03,Transportation Services,11534
+2025,2025-04,311,506
+2025,2025-04,Municipal Licensing & Standards,9715
+2025,2025-04,Solid Waste Management Services,13166
+2025,2025-04,Toronto Water,3021
+2025,2025-04,Transportation Services,8762
+2025,2025-05,311,311
+2025,2025-05,Municipal Licensing & Standards,12237
+2025,2025-05,Solid Waste Management Services,15262
+2025,2025-05,Toronto Water,3209
+2025,2025-05,Transportation Services,9285
+2025,2025-06,311,301
+2025,2025-06,Municipal Licensing & Standards,13733
+2025,2025-06,Solid Waste Management Services,14371
+2025,2025-06,Toronto Water,3086
+2025,2025-06,Transportation Services,9529
+2025,2025-07,311,308
+2025,2025-07,Municipal Licensing & Standards,12857
+2025,2025-07,Solid Waste Management Services,16753
+2025,2025-07,Toronto Water,3306
+2025,2025-07,Transportation Services,8799
+2025,2025-08,311,262
+2025,2025-08,Municipal Licensing & Standards,12452
+2025,2025-08,Solid Waste Management Services,15477
+2025,2025-08,Toronto Water,3094
+2025,2025-08,Transportation Services,7828
+2025,2025-09,311,250
+2025,2025-09,Municipal Licensing & Standards,12424
+2025,2025-09,Parks and Recreation,274
+2025,2025-09,Solid Waste Management Services,15958
+2025,2025-09,Toronto Water,3173
+2025,2025-09,Transportation Services,8545
+2025,2025-10,311,194
+2025,2025-10,Municipal Licensing & Standards,10552
+2025,2025-10,Parks and Recreation,485
+2025,2025-10,Solid Waste Management Services,14161
+2025,2025-10,Toronto Water,3066
+2025,2025-10,Transportation Services,6584
+2025,2025-11,311,231
+2025,2025-11,Municipal Licensing & Standards,8027
+2025,2025-11,Parks and Recreation,392
+2025,2025-11,Solid Waste Management Services,13172
+2025,2025-11,Toronto Water,3024
+2025,2025-11,Transportation Services,6781
+2025,2025-12,311,539
+2025,2025-12,Municipal Licensing & Standards,6022
+2025,2025-12,Parks and Recreation,286
+2025,2025-12,Solid Waste Management Services,14761
+2025,2025-12,Toronto Water,2877
+2025,2025-12,Transportation Services,13583
+2026,2026-01,311,959
+2026,2026-01,Municipal Licensing & Standards,5576
+2026,2026-01,Parks and Recreation,244
+2026,2026-01,Solid Waste Management Services,15097
+2026,2026-01,Toronto Water,3119
+2026,2026-01,Transportation Services,33322
+2026,2026-02,311,332
+2026,2026-02,Municipal Licensing & Standards,5225
+2026,2026-02,Parks and Recreation,180
+2026,2026-02,Solid Waste Management Services,9284
+2026,2026-02,Toronto Water,3801
+2026,2026-02,Transportation Services,26442
+2026,2026-03,311,358
+2026,2026-03,Municipal Licensing & Standards,7704
+2026,2026-03,Parks and Recreation,433
+2026,2026-03,Solid Waste Management Services,10103
+2026,2026-03,Toronto Water,4036
+2026,2026-03,Transportation Services,17252
+2026,2026-04,311,382
+2026,2026-04,Municipal Licensing & Standards,10195
+2026,2026-04,Parks and Recreation,690
+2026,2026-04,Solid Waste Management Services,11007
+2026,2026-04,Toronto Water,3881
+2026,2026-04,Transportation Services,15312
+2026,2026-05,311,336
+2026,2026-05,Municipal Licensing & Standards,13434
+2026,2026-05,Parks and Recreation,1125
+2026,2026-05,Solid Waste Management Services,11281
+2026,2026-05,Toronto Water,3836
+2026,2026-05,Transportation Services,12681
+2026,2026-06,311,299
+2026,2026-06,Municipal Licensing & Standards,15243
+2026,2026-06,Parks and Recreation,1271
+2026,2026-06,Solid Waste Management Services,11576
+2026,2026-06,Toronto Water,3966
+2026,2026-06,Transportation Services,12116
+2026,2026-07,311,273
+2026,2026-07,Municipal Licensing & Standards,13692
+2026,2026-07,Parks and Recreation,1185
+2026,2026-07,Solid Waste Management Services,12085
+2026,2026-07,Toronto Water,3796
+2026,2026-07,Transportation Services,10204
+2026,2026-08,311,256
+2026,2026-08,Municipal Licensing & Standards,13305
+2026,2026-08,Parks and Recreation,1132
+2026,2026-08,Solid Waste Management Services,10848
+2026,2026-08,Toronto Water,3493
+2026,2026-08,Transportation Services,9714
+2026,2026-09,311,215
+2026,2026-09,Municipal Licensing & Standards,13146
+2026,2026-09,Parks and Recreation,942
+2026,2026-09,Solid Waste Management Services,11469
+2026,2026-09,Toronto Water,4277
+2026,2026-09,Transportation Services,10599
+2026,2026-10,311,239
+2026,2026-10,Municipal Licensing & Standards,13358
+2026,2026-10,Parks and Recreation,780
+2026,2026-10,Solid Waste Management Services,10071
+2026,2026-10,Toronto Water,3813
+2026,2026-10,Transportation Services,8134

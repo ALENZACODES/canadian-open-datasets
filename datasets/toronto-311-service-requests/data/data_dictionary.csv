@@ -1,0 +1,31 @@
+column,file,type,description
+year,sr311_monthly_detail.csv,integer,Year the request was created.
+month_num,sr311_monthly_detail.csv,integer,Month number from 1 to 12.
+month,sr311_monthly_detail.csv,string,Year and month (YYYY-MM).
+division,sr311_monthly_detail.csv,string,"City division that owns the request, as published."
+section,sr311_monthly_detail.csv,string,"Section within the division, as published."
+service_request_type,sr311_monthly_detail.csv,string,"Service request type, as published."
+status,sr311_monthly_detail.csv,string,Request status at the time of the extract.
+ward,sr311_monthly_detail.csv,string,City ward as published.
+fsa,sr311_monthly_detail.csv,string,First three characters of the postal code (forward sortation area).
+requests,sr311_monthly_detail.csv,integer,Number of customer-initiated requests in the group.
+year,sr311_citywide_monthly.csv,integer,Year the request was created.
+month_num,sr311_citywide_monthly.csv,integer,Month number from 1 to 12.
+month,sr311_citywide_monthly.csv,string,Year and month (YYYY-MM).
+requests,sr311_citywide_monthly.csv,integer,Citywide request count.
+year,sr311_monthly_by_division.csv,integer,Year the request was created.
+month,sr311_monthly_by_division.csv,string,Year and month (YYYY-MM).
+division,sr311_monthly_by_division.csv,string,City division.
+requests,sr311_monthly_by_division.csv,integer,Request count.
+year,sr311_monthly_by_request_type.csv,integer,Year the request was created.
+month,sr311_monthly_by_request_type.csv,string,Year and month (YYYY-MM).
+service_request_type,sr311_monthly_by_request_type.csv,string,Service request type.
+requests,sr311_monthly_by_request_type.csv,integer,Request count.
+year,sr311_monthly_by_ward.csv,integer,Year the request was created.
+month,sr311_monthly_by_ward.csv,string,Year and month (YYYY-MM).
+ward,sr311_monthly_by_ward.csv,string,City ward as published.
+requests,sr311_monthly_by_ward.csv,integer,Request count.
+column,data_dictionary.csv,string,Column name.
+file,data_dictionary.csv,string,File that contains the column.
+type,data_dictionary.csv,string,integer or string.
+description,data_dictionary.csv,string,What the column holds.
