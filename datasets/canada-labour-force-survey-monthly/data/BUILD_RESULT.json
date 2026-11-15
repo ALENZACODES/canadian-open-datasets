@@ -1,0 +1,16 @@
+{
+  "slug": "canada-labour-force-survey-monthly",
+  "url": "https://www.kaggle.com/datasets/johnnykhan1/canada-labour-force-survey-monthly",
+  "table_id": "14-10-0287-01",
+  "outdir": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-labour-force-survey-monthly",
+  "cover": "/workspace/kaggle/statcan-datasets-2026-11-09/canada-labour-force-survey-monthly/cover.png",
+  "published": true,
+  "http": 200,
+  "usability": 0.6470588235294118,
+  "facts": [
+    "The seasonally adjusted unemployment rate for Canada, 15 years and over, was 6.7% in 2026-10.",
+    "Employment for the same group was 21,100 (see scalar_factor for the scale) in 2026-10.",
+    "The long file starts in January 1976 for series that exist back that far, and runs through October 2026."
+  ],
+  "publish_msg": "ready"
+}

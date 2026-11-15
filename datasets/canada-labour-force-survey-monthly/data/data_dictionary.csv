@@ -1,0 +1,32 @@
+file,column,type,description
+lfs_seasonally_adjusted_estimates_long.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+lfs_seasonally_adjusted_estimates_long.csv,geo,string,Geography name as published by Statistics Canada.
+lfs_seasonally_adjusted_estimates_long.csv,dguid,string,Statistics Canada Dissemination Geography Unique Identifier for the geography.
+lfs_seasonally_adjusted_estimates_long.csv,labour_force_characteristic,string,"Labour force concept: population, labour force, employment, full-time employment, part-time employment, unemployment, unemployment rate, participation rate or employment rate."
+lfs_seasonally_adjusted_estimates_long.csv,gender,string,"Gender grouping published by the Labour Force Survey (Total - Gender, Men+ or Women+)."
+lfs_seasonally_adjusted_estimates_long.csv,age_group,string,Age group published by the Labour Force Survey.
+lfs_seasonally_adjusted_estimates_long.csv,statistic,string,The kind of figure. This file keeps official estimates only.
+lfs_seasonally_adjusted_estimates_long.csv,data_type,string,"Seasonally adjusted, trend-cycle or unadjusted, as published."
+lfs_seasonally_adjusted_estimates_long.csv,unit_of_measure,string,"Unit of measure for value, as published."
+lfs_seasonally_adjusted_estimates_long.csv,unit_of_measure_id,integer,Statistics Canada numeric code for the unit of measure.
+lfs_seasonally_adjusted_estimates_long.csv,scalar_factor,string,"Scale of value (for example units, thousands or millions). Value is already expressed at this scale."
+lfs_seasonally_adjusted_estimates_long.csv,scalar_id,integer,Statistics Canada numeric code for the scalar factor.
+lfs_seasonally_adjusted_estimates_long.csv,vector,string,Statistics Canada vector identifier for the series (for example v41690973). Useful if you want to pull the same series again.
+lfs_seasonally_adjusted_estimates_long.csv,coordinate,string,Statistics Canada coordinate string that locates the series inside the table.
+lfs_seasonally_adjusted_estimates_long.csv,value,numeric,The published value. Empty when Statistics Canada did not publish a figure for that period (see status and symbol).
+lfs_seasonally_adjusted_estimates_long.csv,status,string,Statistics Canada status symbol when a value is missing or qualified. Empty means a regular published value. See the symbol legend in statcan_table_metadata.csv.
+lfs_seasonally_adjusted_estimates_long.csv,symbol,string,"Additional Statistics Canada symbol when present, otherwise empty."
+lfs_seasonally_adjusted_estimates_long.csv,terminated,string,"t if Statistics Canada has terminated this series, otherwise empty."
+lfs_seasonally_adjusted_estimates_long.csv,decimals,integer,Number of decimal places Statistics Canada uses when displaying the value.
+unemployment_rate_15plus_by_province.csv,ref_date,datetime,Reference period as published by Statistics Canada (YYYY-MM-DD). For monthly tables this is the first day of the month. For quarterly tables it is the first day of the quarter. For annual tables it is January 1 of the year.
+unemployment_rate_15plus_by_province.csv,alberta,numeric,Published value for alberta. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,british_columbia,numeric,Published value for british columbia. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,canada,numeric,Published value for canada. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,manitoba,numeric,Published value for manitoba. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,new_brunswick,numeric,Published value for new brunswick. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,newfoundland_and_labrador,numeric,Published value for newfoundland and labrador. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,nova_scotia,numeric,Published value for nova scotia. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,ontario,numeric,Published value for ontario. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,prince_edward_island,numeric,Published value for prince edward island. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,quebec,numeric,Published value for quebec. See unit_of_measure and scalar_factor in the long file for the unit.
+unemployment_rate_15plus_by_province.csv,saskatchewan,numeric,Published value for saskatchewan. See unit_of_measure and scalar_factor in the long file for the unit.
