@@ -1,0 +1,10 @@
+id,label,description,date_format
+SLOS_BUS_LEND,Overall business lending conditions,"Business lending: overall lending conditions (average of price and non-price lending conditions for small business, commercial and corporate combined)",quarterly
+SLOS_BUS_LEND_PC,Business price lending conditions,"Price lending conditions for business lending (average of price lending conditions for small business, commercial and corporate)",quarterly
+SLOS_BUS_LEND_NP,Business non-price lending conditions,"Non-price lending conditions for business lending (average of non-price lending conditions for small business, commercial and corporate)",quarterly
+SLOS_ML_LEND,Mortgage lending conditions,"Mortgage lending: overall lending conditions (average of price and non-price lending conditions for insured mortgages, uninsured mortgages and HELOCs combined)",quarterly
+SLOS_NML_LEND,Non-mortgage lending conditions,Non-mortgage lending: overall lending conditions (average of price and non-price lending conditions for auto lending and all other consumer lending combined),quarterly
+SLOS_ML_LEND_NP,Mortgage non-price lending conditions,"Non-price lending conditions for mortgage related lending (average of non-price lending conditions for insured mortgages, uninsured mortgages and HELOCs)",quarterly
+SLOS_ML_LEND_PC,Mortgage price lending conditions,"Price lending conditions for mortgage related lending (average of price lending conditions for insured mortgages, uninsured mortgages and HELOCs)",quarterly
+SLOS_NML_LEND_NP,Non-mortgage non-price lending conditions,Non-price lending conditions for non-mortgage related lending (average of non-price lending conditions for auto lending and all other consumer lending),quarterly
+SLOS_NML_LEND_PC,Non-mortgage price lending conditions,Price lending conditions for non-mortgage related lending (average of price lending conditions for auto lending and all other consumer lending),quarterly

@@ -1,0 +1,20 @@
+column,file,type,description
+date,slos_long.csv,datetime,"Observation date as published by the Bank of Canada, YYYY-MM-DD."
+series_id,slos_long.csv,string,Bank of Canada Valet series identifier.
+series_label,slos_long.csv,string,Short official label for the series.
+series_description,slos_long.csv,string,Official Valet description of the series.
+value,slos_long.csv,numeric,Observation value. Empty when the Bank did not publish a figure for that date.
+date,slos_wide.csv,datetime,"Observation date as published by the Bank of Canada, YYYY-MM-DD."
+SLOS_BUS_LEND,slos_wide.csv,numeric,"Overall business lending conditions. Business lending: overall lending conditions (average of price and non-price lending conditions for small business, commercial and corporate combined)"
+SLOS_BUS_LEND_PC,slos_wide.csv,numeric,"Business price lending conditions. Price lending conditions for business lending (average of price lending conditions for small business, commercial and corporate)"
+SLOS_BUS_LEND_NP,slos_wide.csv,numeric,"Business non-price lending conditions. Non-price lending conditions for business lending (average of non-price lending conditions for small business, commercial and corporate)"
+SLOS_ML_LEND,slos_wide.csv,numeric,"Mortgage lending conditions. Mortgage lending: overall lending conditions (average of price and non-price lending conditions for insured mortgages, uninsured mortgages and HELOCs combined)"
+SLOS_NML_LEND,slos_wide.csv,numeric,Non-mortgage lending conditions. Non-mortgage lending: overall lending conditions (average of price and non-price lending conditions for auto lending and all other consumer lending combined)
+SLOS_ML_LEND_NP,slos_wide.csv,numeric,"Mortgage non-price lending conditions. Non-price lending conditions for mortgage related lending (average of non-price lending conditions for insured mortgages, uninsured mortgages and HELOCs)"
+SLOS_ML_LEND_PC,slos_wide.csv,numeric,"Mortgage price lending conditions. Price lending conditions for mortgage related lending (average of price lending conditions for insured mortgages, uninsured mortgages and HELOCs)"
+SLOS_NML_LEND_NP,slos_wide.csv,numeric,Non-mortgage non-price lending conditions. Non-price lending conditions for non-mortgage related lending (average of non-price lending conditions for auto lending and all other consumer lending)
+SLOS_NML_LEND_PC,slos_wide.csv,numeric,Non-mortgage price lending conditions. Price lending conditions for non-mortgage related lending (average of price lending conditions for auto lending and all other consumer lending)
+id,series_catalog.csv,string,Official Valet series metadata field (id).
+label,series_catalog.csv,string,Official Valet series metadata field (label).
+description,series_catalog.csv,string,Official Valet series metadata field (description).
+date_format,series_catalog.csv,string,Official Valet series metadata field (date_format).
