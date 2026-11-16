@@ -282,6 +282,17 @@ Cite the individual dataset using the BibTeX block in its folder README. To cite
 }
 ```
 
+## Project structure
+
+```text
+canadian-open-datasets/
+├── assets/       # Banner and images (13 files)
+├── datasets/     # One folder per dataset, 103 in total (823 files)
+├── CITATION.cff  # Citation metadata
+├── LICENSE       # Licence
+└── README.md     # This file
+```
+
 ## Disclaimer
 
 These are adaptations of official open data. They are not official products of, and are not endorsed by, Statistics Canada, the Bank of Canada, the Government of Canada, the City of Toronto, the City of Calgary, the City of Montréal or any other source agency. Values were not changed except where a dataset README says how. Always check the source before making a decision that matters.
